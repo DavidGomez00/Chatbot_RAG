@@ -1,6 +1,5 @@
 # ChatBotRAG
 
-
 ## Data
 
 [UPM DRIVE](https://drive.upm.es/s/OnAXLBbk8mQdvwR)
