@@ -1,6 +1,8 @@
 import json
 import os
 import time
+import logging
+import argparse
 
 from dotenv import load_dotenv
 from langchain_ollama import OllamaLLM
@@ -9,90 +11,117 @@ from setup import setup
 
 load_dotenv()
 
+def load_enviroment():
+    # [ Read environment variables ]
+    try:
+        CHUNK_MAX_SIZE = int(os.getenv("CHUNK_MAX_SIZE"))
+        N_RESULTS = int(os.getenv("N_RESULTS"))
+        SEMANTIC_MODEL = os.getenv("SEMANTIC_MODEL")
+        DATA_PATH = os.getenv("DATA_PATH")
+        OLLAMA_SERVER_IP = os.getenv("OLLAMA_SERVER_IP")
+        if not all([CHUNK_MAX_SIZE, N_RESULTS, SEMANTIC_MODEL, DATA_PATH, OLLAMA_SERVER_IP]):
+            raise ValueError("Missing or invalid environment variables.")
+    except Exception as e:
+        print(f"Error with environment variables: {e}")
+        exit(1)
+    return CHUNK_MAX_SIZE, N_RESULTS, SEMANTIC_MODEL, DATA_PATH, OLLAMA_SERVER_IP
+    
 
-# Global Variables
-CHUNK_MAX_SIZE = int(os.getenv("CHUNK_MAX_SIZE"))
-N_RESULTS = int(os.getenv("N_RESULTS"))
-SEMANTIC_MODEL = os.getenv("SEMANTIC_MODEL")
-DATA_PATH = os.getenv("DATA_PATH")
+def create_directories(DATA_PATH, llm, model, chunk_str):
+    # [ Create directories ]
+    os.makedirs(os.path.join(DATA_PATH, "DocsVIH"), exist_ok=True)
+    result_path = os.path.join(DATA_PATH, "results", llm, model, chunk_str)
+    os.makedirs(result_path, exist_ok=True)
+    return result_path
 
-# Check if the data path exists
-if not os.path.exists(DATA_PATH):
-    os.makedirs(DATA_PATH)
-if not os.path.exists(os.path.join(DATA_PATH, "DocsVIH")):
-    os.makedirs(os.path.join(DATA_PATH, "DocsVIH"))
-PDF_PATH = os.path.join(DATA_PATH, "DocsVIH")
+
+def initialize_collection(chunk_str, CHUNK_MAX_SIZE, SEMANTIC_MODEL):
+    # [ Initialize collection ]
+    setup(strategy=chunk_str,
+          chunk_size=CHUNK_MAX_SIZE,
+          semantic_model=SEMANTIC_MODEL)
+    return create_collection(model=model, strategy=chunk_str)
+
+
+def read_file(file, split_lines=False):
+    # [ Read file from DATA_PATH ]
+    file_path = os.path.join(DATA_PATH, file)
+    if not os.path.isfile(file_path):
+        logger.error(f"Missing {file} in {DATA_PATH}.")
+        exit(1)
+    with open(file_path, "r") as f:
+        return f.readlines() if split_lines else f.read()
+
+
+def parse_arguments():
+    # [ Parse arguments ]
+    parser = argparse.ArgumentParser(description="Process semantic queries.")
+    parser.add_argument("--chunk_str", required=True, help="Chunking strategy (e.g., 'nat' or 'nat_sem').")
+    parser.add_argument("--model", required=True, help="Semantic model to use (e.g., 'BGE-M3').")
+    parser.add_argument("--llm", required=True, help="Language model to use (e.g., 'nemotron').")
+    return parser.parse_args()
 
 
 if __name__ == "__main__":
 
-    # Select parameters
-    #chunk_str = "nat_sem"
-    chunk_str = "nat"
+    # [ Set up logging ]
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    logger = logging.getLogger()
 
-    #model = 'multilinguale5'
-    model = "BGE-M3"
+    # [ Parse arguments ]
+    args = parse_arguments()
+    chunk_str = args.chunk_str
+    model = args.model
+    llm = args.llm
 
-    #llm = "meta-llama/Meta-Llama-3.1-8B-Instruct"
-    #llm = "mistralai/Mistral-7B-Instruct-v0.1"
-    #llm = "BioMistral/BioMistral-7B-DARE"
-    llm = "nemotron"
+    CHUNK_MAX_SIZE, N_RESULTS, SEMANTIC_MODEL, DATA_PATH, OLLAMA_SERVER_IP = load_enviroment()
 
     # Crear directorio para guardar resultados
-    RESULT_PATH = os.path.join(DATA_PATH, "results", llm, model, chunk_str)
-    os.makedirs(RESULT_PATH, exist_ok=True)
-    
-    # Generar los chunks
-    print("Setting up...")
-    setup(strategy=chunk_str,
-          chunk_size=CHUNK_MAX_SIZE,
-          semantic_model=SEMANTIC_MODEL
-          )
-    print("Done")
-    print("Initializing vector database...")
-    # Obtener la base de datos vectorial
-    collection = create_collection(model=model,
-                                   strategy=chunk_str
-                                   )
-    print("Done")
+    RESULT_PATH = create_directories(DATA_PATH, llm, model, chunk_str)
 
-    # Read the system prompt
-    with open(os.path.join(DATA_PATH, "system_prompt.txt"), "r") as f:
-            base_prompt = f.read()
-    
-    # Read all queries from the queries.txt file
-    with open(os.path.join(DATA_PATH, "queries.txt"), 'r') as f:
-        queries = f.readlines()
+    # [ Generate chunks and create collection ]
+    logger.info("Starting setup...")
+    collection = initialize_collection(chunk_str, CHUNK_MAX_SIZE, SEMANTIC_MODEL)
+    logger.info("Done")
 
+    # [ Process queries ]
     start_time = time.time()
+    logger.info("Processing queries...")
 
-    # Inicializar el modelo
-    ollama = OllamaLLM(model=llm, base_url='176.98.223.168')
+    base_prompt = read_file("system_prompt.txt")
+    queries = read_file("queries.txt", split_lines=True)
 
-    # Procesar las consultas
+    ollama = OllamaLLM(model=llm, base_url=OLLAMA_SERVER_IP)
+
     for query_id, query in enumerate(queries):
-        # Búsqueda semántica de documentos relevantes
-        results = collection.query(query_texts=[query], n_results=N_RESULTS)
-        data = {
-            'Document ID': [results['metadatas'][0][i]['document_id'] for i in range(N_RESULTS)],
-            'Section ID': [results['metadatas'][0][i]['section_id'] for i in range(N_RESULTS)],
-            'Text': [results['documents'][0][i] for i in range(N_RESULTS)]
-        }
-        context = "\n".join(data['Text'])
-        messages = [
-            {"role": "system", "content": base_prompt + "\n{"+context+"}"},
-            {"role": "user", "content": query}
+        try: 
+            # Get context and answer
+            results = collection.query(query_texts=[query], n_results=N_RESULTS)
+            documents = results['documents'][0][:N_RESULTS]
+            metadatas = results['metadatas'][0][:N_RESULTS]
+            context = "\n".join(documents)
+            context_list = [{"document_id": meta["document_id"], "section_id": meta["section_id"]} for meta in metadatas]
+            messages = [
+                {"role": "system", "content": f"{base_prompt}\n{{ {context} }}"},
+                {"role": "user", "content": query.strip()}
             ]
-        
-        # Generar respuesta
-        answer = ollama.invoke(messages)
-        
-        # Guardar resultados
-        with open(os.path.join(RESULT_PATH, f"query_{query_id}.json"), 'w') as f:
-            f.write(json.dumps(answer, indent=4))
-        
-        print(f"Query {query_id} done")
+            answer = ollama.invoke(messages)
+            
+            # Save query infos
+            query_info = {
+                "query": query,
+                "context": context_list,
+                "context_len": len(context),
+                "answer": answer
+            }
+            output_file = os.path.join(RESULT_PATH, f"query_{query_id}.json")
+            with open(output_file, 'w') as f:
+                json.dump(query_info, f, indent=4)
 
+            logger.info(f"Query {query_id} processed successfully.")
 
-    print("Done")
-    print(f"--- La ejecución ha tardado {(time.time() - start_time):.2f} segundos ---")
+        except Exception as e:
+            logger.error(f"Error processing query {query_id}: {e}")
+            continue
+
+    logger.info(f"--- Execution finished in {(time.time() - start_time):.2f} seconds ---")

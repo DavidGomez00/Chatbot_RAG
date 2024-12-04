@@ -4,6 +4,9 @@
 # Data files
 .data/
 
+# Private data
+.google_auth/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
