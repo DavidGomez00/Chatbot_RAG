@@ -3,44 +3,35 @@ import os
 import time
 import logging
 import argparse
+import lancedb
 
 from dotenv import load_dotenv
 from langchain_ollama import OllamaLLM
-from semantic_db import create_collection
-from setup import setup
 
 load_dotenv()
 
 def load_enviroment():
     # [ Read environment variables ]
     try:
-        CHUNK_MAX_SIZE = int(os.getenv("CHUNK_MAX_SIZE"))
         N_RESULTS = int(os.getenv("N_RESULTS"))
-        SEMANTIC_MODEL = os.getenv("SEMANTIC_MODEL")
         DATA_PATH = os.getenv("DATA_PATH")
+        RESULT_PATH = os.getenv("RESULT_PATH")
+        LANCE_DB_PATH = os.getenv("LANCE_DB_PATH")
+        SEMANTIC_MODEL = os.getenv("SEMANTIC_MODEL")
         OLLAMA_SERVER_IP = os.getenv("OLLAMA_SERVER_IP")
-        if not all([CHUNK_MAX_SIZE, N_RESULTS, SEMANTIC_MODEL, DATA_PATH, OLLAMA_SERVER_IP]):
+        if not all([LANCE_DB_PATH, N_RESULTS, SEMANTIC_MODEL, DATA_PATH, OLLAMA_SERVER_IP]):
             raise ValueError("Missing or invalid environment variables.")
+        
     except Exception as e:
-        print(f"Error with environment variables: {e}")
-        exit(1)
-    return CHUNK_MAX_SIZE, N_RESULTS, SEMANTIC_MODEL, DATA_PATH, OLLAMA_SERVER_IP
+        raise ValueError(f"Error reading environment variables: {e}")
     
-
-def create_directories(DATA_PATH, llm, model, chunk_str):
-    # [ Create directories ]
-    os.makedirs(os.path.join(DATA_PATH, "DocsVIH"), exist_ok=True)
-    result_path = os.path.join(DATA_PATH, "results", llm, model, chunk_str)
-    os.makedirs(result_path, exist_ok=True)
-    return result_path
+    return LANCE_DB_PATH, N_RESULTS, SEMANTIC_MODEL, DATA_PATH, OLLAMA_SERVER_IP, RESULT_PATH
 
 
-def initialize_collection(chunk_str, CHUNK_MAX_SIZE, SEMANTIC_MODEL):
+def initialize_collection(database_path:str, strategy:str, embedding_model:str):
     # [ Initialize collection ]
-    setup(strategy=chunk_str,
-          chunk_size=CHUNK_MAX_SIZE,
-          semantic_model=SEMANTIC_MODEL)
-    return create_collection(model=model, strategy=chunk_str)
+    db_path = os.path.join(os.path.join(database_path, embedding_model), strategy)
+    return lancedb.connect(db_path)
 
 
 def read_file(file, split_lines=False):
@@ -71,18 +62,20 @@ if __name__ == "__main__":
     # [ Parse arguments ]
     args = parse_arguments()
     chunk_str = args.chunk_str
-    model = args.model
+    embedding_model = args.model
     llm = args.llm
 
-    CHUNK_MAX_SIZE, N_RESULTS, SEMANTIC_MODEL, DATA_PATH, OLLAMA_SERVER_IP = load_enviroment()
+    LANCE_DB_PATH, N_RESULTS, SEMANTIC_MODEL, DATA_PATH, OLLAMA_SERVER_IP, RESULT_PATH = load_enviroment()
 
     # Crear directorio para guardar resultados
-    RESULT_PATH = create_directories(DATA_PATH, llm, model, chunk_str)
+    os.makedirs(os.path.join(RESULT_PATH, llm, embedding_model, chunk_str), exist_ok=True)
 
-    # [ Generate chunks and create collection ]
-    logger.info("Starting setup...")
-    collection = initialize_collection(chunk_str, CHUNK_MAX_SIZE, SEMANTIC_MODEL)
-    logger.info("Done")
+    # [ Initialize collection ]
+    collection = initialize_collection(
+        database_path=LANCE_DB_PATH,
+        strategy=chunk_str,
+        embedding_model=embedding_model
+    )
 
     # [ Process queries ]
     start_time = time.time()
@@ -96,7 +89,13 @@ if __name__ == "__main__":
     for query_id, query in enumerate(queries):
         try: 
             # Get context and answer
-            results = collection.query(query_texts=[query], n_results=N_RESULTS)
+            tbl = collection.open_table("chunks")
+            # Get list of 3 most relevant in table
+            results = tbl.search(query).limit(N_RESULTS).to_list()
+
+            print(results[0]) 
+            break
+
             documents = results['documents'][0][:N_RESULTS]
             metadatas = results['metadatas'][0][:N_RESULTS]
             context = "\n".join(documents)
