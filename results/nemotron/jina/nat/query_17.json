@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1nto tiempo tiene que tomar una persona con VIH su tratamiento antirretroviral?\n",
+    "context_info": [
+        {
+            "text": "La respuesta mejora con cifras altas de linfocitos CD4+ y carga viral de VIH indetectable, aunque no es recomendable demorar la vacunaci\u00f3n en personas con alto riesgo de infecci\u00f3n. Se recomiendan dos dosis con un intervalo de 6-18 meses y medir los t\u00edtulos de anticuerpos al mes de la \u00faltima dosis. La eficacia de la vacuna puede aumentarse administrando una tercera dosis. ",
+            "source": "ManualClinico, section 27.4.1.",
+            "_distance": 0.6481882333755493
+        },
+        {
+            "text": "Igualmente, aquellas personas que hayan sido diagnosticadas recientemente y acaben de comenzar el tratamiento antirretroviral, deber\u00edan retrasar entre 3-6 meses el viaje, con el objetivo de comprobar la tolerancia y respuesta al tratamiento, afianzar la adherencia al mismo, minimizar el riesgo de presentaci\u00f3n de un s\u00edndrome de reconstituci\u00f3n inmune durante el viaje, y mejorar y estabilizar la situaci\u00f3n inmunol\u00f3gica lo m\u00e1ximo posible previo a la partida. ",
+            "source": "ManualClinico, section 29.2.1.",
+            "_distance": 0.6800289154052734
+        },
+        {
+            "text": "Generalmente, suele estar entre 50.000 y 100.000 copias/mL cuando se inicia el tratamiento antirretroviral.  4. El tratamiento deber\u00eda reducir la carga viral a menos de 50 copias/mL en un plazo de unos 3 meses. Esto tambi\u00e9n reduce la capacidad de infecci\u00f3n de todos los fluidos corporales.  Figura 5: LA RELACI\u00d3N ENTRE CARGA VIRAL Y TRANSMISI\u00d3N DEL VIH EN EL ESTUDIO DE RAKAI La carga viral del VIH est\u00e1 relacionada de forma directa con el riesgo de transmisi\u00f3n del virus. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.680806040763855
+        },
+        {
+            "text": "Pautas de profilaxis antirretroviral: En los casos de bajo riesgo de infecci\u00f3n, la profilaxis debe hacerse con monoterapia empleando zidovudina (AZT), y manteni\u00e9ndose \u00e9sta durante 4 semanas. . ",
+            "source": "ManualClinico, section 31.2.1.",
+            "_distance": 0.69536292552948
+        },
+        {
+            "text": "Documento De Consenso de GeSIDA sobre el control y monitorizaci\u00f3n de la infecci\u00f3n por VIH En pacientes inmunodeprimidos, incluidos los pacientes VIH+ se recomienda la monitorizaci\u00f3n de la respuesta serol\u00f3gica 1-2 meses despu\u00e9s de completar la vacunaci\u00f3n y de forma anual, con administraci\u00f3n de una dosis de recuerdo si los niveles de antiHBs son inferiores a 10 mUI/mL. ",
+            "source": "ManualClinico, section 27.3.6.",
+            "_distance": 0.7031756043434143
+        }
+    ],
+    "answer": "Respuesta basada en el conocimiento proporcionado (que, aunque espec\u00edfico, no aborda directamente la duraci\u00f3n del tratamiento):\n\nPara m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\n\nRazonamiento:\nEl conocimiento proporcionado cubre aspectos espec\u00edficos como:\n\n La respuesta a la vacunaci\u00f3n en funci\u00f3n de los niveles de linfocitos CD4+ y carga viral.\n El retraso recomendado para el viaje despu\u00e9s del diagn\u00f3stico y comienzo del tratamiento antirretroviral.\n La relaci\u00f3n entre carga viral y transmisi\u00f3n del VIH.\n Pautas de profilaxis antirretroviral en casos de bajo riesgo de infecci\u00f3n.\n Monitorizaci\u00f3n de la respuesta serol\u00f3gica en pacientes inmunodeprimidos, incluidos aquellos con VIH+.\n\nSin embargo, no se menciona expl\u00edcitamente la duraci\u00f3n del tratamiento antirretroviral. El tratamiento antirretroviral para el VIH suele ser de por vida, ajust\u00e1ndose seg\u00fan la evoluci\u00f3n del paciente, pero este detalle no est\u00e1 incluido en el conocimiento proporcionado.\n\nPor lo tanto, para obtener una respuesta precisa y personalizada a esta pregunta, es recomendable consultar a un m\u00e9dico especialista en el tratamiento del VIH."
+}

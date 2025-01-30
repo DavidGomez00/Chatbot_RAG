@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl VIH puede transmitirse durante el embarazo, el parto o la lactancia? \u00bfC\u00f3mo se puede prevenir en estos casos?\n",
+    "context_info": [
+        {
+            "text": "La infecci\u00f3n por VIH se transmite por v\u00eda sangu\u00ednea (transfusiones, tratamiento con derivados hem\u00e1ticos, accidentes sanitarios y uso de drogas por v\u00eda intravenosa compartiendo material, por v\u00eda sexual (relaciones homo o heterosexuales sin preservativo o de forma vertical (de madre seropositiva no controlada a su descendencia, durante el embarazo, el parto o la lactancia ). Se ha estimado el riesgo potencial diferencial de las distintas v\u00edas de transmisi\u00f3n. ",
+            "source": "ManualClinico, section 11.1.",
+            "_distance": 0.5784490704536438
+        },
+        {
+            "text": "31.1.3 TAR en el parto El periodo de mayor riesgo de transmisi\u00f3n vertical del VIH es el momento del parto, siendo los factores de riesgo m\u00e1s importantes la carga viral plasm\u00e1tica (CVP) y en las secreciones c\u00e9rvico- vaginales, el estadio de la enfermedad, la duraci\u00f3n de la rotura de membranas y del trabajo de parto, el TAR recibido y la v\u00eda del parto. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.6066709756851196
+        },
+        {
+            "text": " Otros factores de riesgo, como la carga viral, el tipo de pr\u00e1ctica sexual, la gen\u00e9tica, etc.  Solo determinados fluidos corporales pueden transmitir la infecci\u00f3n: Los fluidos sexuales (semen y flujo vaginal).  El moco de la vagina y el ano.  La sangre.  La leche materna puede transmitir el VIH a un bebe, pero es poco probable que lo haga a un adulto.  La saliva, los esputos, la orina y las heces NO tienen capacidad de transmitir el VIH.  \u00bfCU\u00c1LES SON LAS V\u00cdAS DE TRANSMISI\u00d3N? ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.6193597912788391
+        },
+        {
+            "text": " Alimentaci\u00f3n del reci\u00e9n nacido. Lactancia La lactancia materna es una v\u00eda de transmisi\u00f3n del VIH por lo que las recomendaciones en gu\u00edas nacionales es que no est\u00e1 justificada la lactancia materna. El uso de TAR en la madre o el mantenimiento de profilaxis con TAR en el lactante en distintas pautas ser\u00edan factores protectores para la transmisi\u00f3n del VIH por esta v\u00eda. ",
+            "source": "ManualClinico, section 31.3.",
+            "_distance": 0.6326003670692444
+        },
+        {
+            "text": "La mujer embarazada portadora del VIH debe ser tratada con TAR espec\u00edfico para prevenir la transmisi\u00f3n vertical, programar ces\u00e1rea, tratar al reci\u00e9n nacido con AZT y evitar la lactancia materna. ",
+            "source": "manejo_paciente_vih_en_ap, section 20.0.",
+            "_distance": 0.6337023973464966
+        }
+    ],
+    "answer": "Transmisi\u00f3n del VIH durante el embarazo, parto o lactancia:\n\n S\u00ed, el VIH puede transmitirse de madre a hijo:\n\t+ Durante el embarazo: Aunque es menos com\u00fan, la transmisi\u00f3n puede ocurrir.\n\t+ Durante el parto: Este es el per\u00edodo de mayor riesgo de transmisi\u00f3n vertical del VIH, especialmente si hay factores como alta carga viral plasm\u00e1tica, rotura prolongada de membranas y trabajo de parto prolongado.\n\t+ Durante la lactancia: La leche materna puede transmitir el VIH al beb\u00e9, aunque es poco probable que lo haga a un adulto.\n\nPrevenci\u00f3n en estos casos:\n\n1. Tratamiento Antirretroviral (TAR) para la madre:\n\t Se recomienda tratamiento con TAR espec\u00edfico durante el embarazo para reducir la carga viral y prevenir la transmisi\u00f3n.\n2. Programaci\u00f3n de ces\u00e1rea:\n\t Si la carga viral es alta, se puede programar una ces\u00e1rea para disminuir el riesgo de transmisi\u00f3n durante el parto.\n3. Tratamiento del reci\u00e9n nacido con AZT (Zidovudina):\n\t Se administra AZT al beb\u00e9 despu\u00e9s del nacimiento como profilaxis para prevenir la infecci\u00f3n.\n4. Evitar la lactancia materna:\n\t Dado que la leche materna puede transmitir el VIH, se recomienda evitar la lactancia en madres seropositivas, a menos que est\u00e9n bajo tratamiento efectivo y con carga viral indetectable, y siempre siguiendo las recomendaciones de gu\u00edas nacionales espec\u00edficas. En algunos casos, el uso de TAR en la madre o profilaxis en el lactante puede ser considerado para reducir el riesgo.\n\nImportante: La mujer embarazada portadora del VIH debe seguir las indicaciones de su m\u00e9dico y equipo de salud para garantizar la mejor prevenci\u00f3n posible de la transmisi\u00f3n vertical."
+}

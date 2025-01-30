@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl VIH puede transmitirse durante el embarazo, el parto o la lactancia? \u00bfC\u00f3mo se puede prevenir en estos casos?\n",
+    "context_info": [
+        {
+            "text": "La mujer embarazada portadora del VIH debe ser tratada con TAR espec\u00edfico para prevenir la transmisi\u00f3n vertical, programar ces\u00e1rea, tratar al reci\u00e9n nacido con AZT y evitar la lactancia materna. ",
+            "source": "manejo_paciente_vih_en_ap, section 20.0.",
+            "_distance": 0.4739527404308319
+        },
+        {
+            "text": " Alimentaci\u00f3n del reci\u00e9n nacido. Lactancia La lactancia materna es una v\u00eda de transmisi\u00f3n del VIH por lo que las recomendaciones en gu\u00edas nacionales es que no est\u00e1 justificada la lactancia materna. El uso de TAR en la madre o el mantenimiento de profilaxis con TAR en el lactante en distintas pautas ser\u00edan factores protectores para la transmisi\u00f3n del VIH por esta v\u00eda. ",
+            "source": "ManualClinico, section 31.3.",
+            "_distance": 0.5423343181610107
+        },
+        {
+            "text": "La infecci\u00f3n por VIH se transmite por v\u00eda sangu\u00ednea (transfusiones, tratamiento con derivados hem\u00e1ticos, accidentes sanitarios y uso de drogas por v\u00eda intravenosa compartiendo material, por v\u00eda sexual (relaciones homo o heterosexuales sin preservativo o de forma vertical (de madre seropositiva no controlada a su descendencia, durante el embarazo, el parto o la lactancia ). Se ha estimado el riesgo potencial diferencial de las distintas v\u00edas de transmisi\u00f3n. ",
+            "source": "ManualClinico, section 11.1.",
+            "_distance": 0.565092921257019
+        },
+        {
+            "text": " Otros factores de riesgo, como la carga viral, el tipo de pr\u00e1ctica sexual, la gen\u00e9tica, etc.  Solo determinados fluidos corporales pueden transmitir la infecci\u00f3n: Los fluidos sexuales (semen y flujo vaginal).  El moco de la vagina y el ano.  La sangre.  La leche materna puede transmitir el VIH a un bebe, pero es poco probable que lo haga a un adulto.  La saliva, los esputos, la orina y las heces NO tienen capacidad de transmitir el VIH.  \u00bfCU\u00c1LES SON LAS V\u00cdAS DE TRANSMISI\u00d3N? ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.6102781295776367
+        },
+        {
+            "text": " En todos los escenarios se dar\u00e1 prioridad a favorecer el seguimiento y la adherencia de la mujer, intentando eliminar todas las barreras y asegurar que la mujer embarazada mantenga o alcance cu\u00e1nto antes una CVP indetectable.  5. Manejo del parto en mujeres infectadas por el VIH.  En mujeres con CVP menor de 50 cp/ml en la semana 36 de gestaci\u00f3n, el riesgo de transmisi\u00f3n maternofetal es muy bajo independientemente de si se realiza ces\u00e1rea o no. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6261340379714966
+        }
+    ],
+    "answer": "Transmisi\u00f3n del VIH durante el embarazo, parto o lactancia:\n\nS\u00ed, el VIH puede transmitirse de una madre seropositiva a su descendencia en tres momentos clave:\n\n1. Durante el embarazo: Transmisi\u00f3n vertical (de madre a hijo) mientras el beb\u00e9 est\u00e1 en el \u00fatero.\n2. Durante el parto: El riesgo de transmisi\u00f3n aumenta durante el proceso de nacimiento, especialmente si no se toman medidas preventivas.\n3. Durante la lactancia: La leche materna puede transmitir el VIH al beb\u00e9.\n\nPrevenci\u00f3n en estos casos:\n\nPara minimizar el riesgo de transmisi\u00f3n:\n\n Tratamiento Antirretroviral (TAR) espec\u00edfico para la madre:\n\t+ Iniciar o mantener un r\u00e9gimen de TAR efectivo durante todo el embarazo, parto y postparto.\n\t+ El objetivo es lograr una Carga Viral Plasma (CVP) indetectable, especialmente antes de la semana 36 de gestaci\u00f3n.\n Manejo del parto:\n\t+ Si la CVP es < 50 cp/ml en la semana 36, el riesgo de transmisi\u00f3n es bajo, y no necesariamente se requiere ces\u00e1rea. Sin embargo, si la CVP es alta o desconocida, se puede programar una ces\u00e1rea para reducir el riesgo.\n Tratamiento del reci\u00e9n nacido:\n\t+ Administrar Profilaxis con AZT (Zidovudina) al reci\u00e9n nacido para prevenir la infecci\u00f3n.\n Alimentaci\u00f3n del reci\u00e9n nacido:\n\t+ Evitar la lactancia materna en ausencia de TAR efectivo en la madre o profilaxis adecuada en el lactante, ya que la leche materna puede transmitir el VIH al beb\u00e9."
+}

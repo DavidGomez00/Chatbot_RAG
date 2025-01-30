@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl VIH es lo mismo que otras enfermedades de transmisi\u00f3n sexual como el herpes o la s\u00edfilis?\n",
+    "context_info": [
+        {
+            "text": "Se diferencian de las Enfermedades de Transmisi\u00f3n Sexual por el hecho de la ITS implica la presencia de un pat\u00f3geno de transmisi\u00f3n sexual, y se empieza a hablar de ETS cuando el pat\u00f3geno desencadena una enfermedad. As\u00ed, por ejemplo, el VIH es una ITS, pero puede desencadenar el desarrollo del s\u00edndrome de la inmunodeficiencia adquirida, m\u00e1s conocido como SIDA, una de las ETS m\u00e1s conocidas, si el paciente no accede a la medicaci\u00f3n antirretroviral. ",
+            "source": "Documento-de-recomendaciones-FEXIT, section 1.0.",
+            "_distance": 0.7020973563194275
+        },
+        {
+            "text": " Infecciones de transmisi\u00f3n sexual (ITS) Las ITS son, en ocasiones, asintom\u00e1ticas y pueden pasar desapercibidas. Hay que buscarlas activamente, sobre todo en pacientes con mayor actividad sexual. La infecci\u00f3n por el VIH y las ITS est\u00e1n interrelacionadas (comparten riesgos, incidencia y mecanismos de transmisi\u00f3n) por lo que, ante cualquiera de las ITS que mencionamos se deber\u00eda realizar un despistaje no solo del VIH sino del resto de ITS.  S\u00edfilis ( Treponema pallidum ). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7625554203987122
+        },
+        {
+            "text": " B\u00e1sicos del VIH El VIH no es un virus que se adquiera con facilidad por v\u00eda sexual. En comparaci\u00f3n con la cantidad de personas que practican sexo cada a\u00f1o, apenas un escaso porcentaje de las mismas contrae esta infecci\u00f3n.  Tras una exposici\u00f3n sexual al VIH, la probabilidad de no adquirir el virus es siempre mucho mayor que la de infectarse (por supuesto, el riesgo solo existe si la pareja sexual tiene el VIH y su carga viral es detectable). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.7669002413749695
+        },
+        {
+            "text": "La coinfecci\u00f3n por VIH-1 y VIH-2 es cl\u00ednicamente m\u00e1s parecida a la infecci\u00f3n por el VIH-1 aislado que a la monoinfecci\u00f3n por el VIH-2, con tasas de mortalidad similares a las del VIH-1 y notablemente mayores que las del VIH-2. ",
+            "source": "ManualClinico, section 5.4.",
+            "_distance": 0.8109495639801025
+        },
+        {
+            "text": "Entre las ITS se incluyen: clamidia, gonorrea, herpes genital, linfogranuloma ven\u00e9reo (LGV), s\u00edfilis, tricomoniasis y verrugas genitales (provocadas por el virus del papiloma humano [VPH]).  Cualquier ITS que provoque \u00falceras o llagas facilita la entrada del VIH en el organismo.  La presencia de ITS puede reducir la protecci\u00f3n inmunitaria frente a otras infecciones. Por este motivo, el VIH tiene m\u00e1s posibilidades de infectar a las c\u00e9lulas inmunitarias (v\u00e9ase figura 2 c en la secci\u00f3n 5 de esta gu\u00eda). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8444758653640747
+        }
+    ],
+    "answer": "No, el VIH no es lo mismo que otras enfermedades de transmisi\u00f3n sexual (ETS) como el herpes o la s\u00edfilis. Aunque todas se transmiten mediante contacto sexual y se clasifican como Infecciones de Transmisi\u00f3n Sexual (ITS), cada una tiene su propia causa subyacente y caracter\u00edsticas distintivas.\n\nDiferencias clave:\n\n1. Causa:\n\t VIH (Virus de la Inmunodeficiencia Humana): Causado por un retrovirus que ataca al sistema inmunitario.\n\t Herpes Genital: Causado por el Virus Herpes Simplex (tipos 1 y 2).\n\t S\u00edfilis: Causada por la bacteria Treponema pallidum.\n\n2. Efecto en el cuerpo:\n\t VIH: Debilita el sistema inmunitario, lo que puede llevar al SIDA (S\u00edndrome de Inmunodeficiencia Adquirida) si no se trata.\n\t Herpes Genital: Provoca llagas o \u00falceras genitales recurrentes.\n\t S\u00edfilis: Puede causar una variedad de s\u00edntomas en diferentes etapas, incluyendo \u00falceras genitales, rash cut\u00e1neo, y problemas de salud a largo plazo si no se trata.\n\n3. Tratamiento:\n\t VIH: Tratado con medicaci\u00f3n antirretroviral (ART) para controlar el virus, pero no hay cura.\n\t Herpes Genital: Tratado con medicamentos antivirales para manejar los brotes y reducir la transmisi\u00f3n.\n\t S\u00edfilis: Tratada con antibi\u00f3ticos, y es curable si se detecta y trata temprano.\n\nConexi\u00f3n entre el VIH y otras ITS:\nAunque son distintas, hay una conexi\u00f3n importante: tener cualquier ITS, incluido el herpes o la s\u00edfilis, puede facilitar la transmisi\u00f3n del VIH. Las \u00falceras o llagas genitales que causan algunas ITS pueden servir como un punto de entrada para el virus del VIH en el cuerpo. Adem\u00e1s, las personas con ITS pueden tener un mayor riesgo de contraer el VIH y viceversa, debido a los comportamientos de riesgo compartidos y la presencia de lesiones que facilitan la transmisi\u00f3n.\n\nRecomendaci\u00f3n:\nSi tienes o sospechas que tienes cualquier ITS, incluido el VIH, es crucial buscar atenci\u00f3n m\u00e9dica para un diagn\u00f3stico y tratamiento adecuados. Adem\u00e1s, realizar pruebas de detecci\u00f3n para otras ITS, incluido el VIH, puede ser una medida preventiva importante, especialmente si has tenido exposiciones de alto riesgo."
+}

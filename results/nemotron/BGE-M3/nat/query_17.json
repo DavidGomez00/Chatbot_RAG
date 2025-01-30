@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1nto tiempo tiene que tomar una persona con VIH su tratamiento antirretroviral?\n",
+    "context_info": [
+        {
+            "text": "Generalmente, suele estar entre 50.000 y 100.000 copias/mL cuando se inicia el tratamiento antirretroviral.  4. El tratamiento deber\u00eda reducir la carga viral a menos de 50 copias/mL en un plazo de unos 3 meses. Esto tambi\u00e9n reduce la capacidad de infecci\u00f3n de todos los fluidos corporales.  Figura 5: LA RELACI\u00d3N ENTRE CARGA VIRAL Y TRANSMISI\u00d3N DEL VIH EN EL ESTUDIO DE RAKAI La carga viral del VIH est\u00e1 relacionada de forma directa con el riesgo de transmisi\u00f3n del virus. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.5162291526794434
+        },
+        {
+            "text": "El tratamiento consiste en aciclovir intravenoso durante 10-14 d\u00edas y luego valaciclovir oral hasta cumplir 16 semanas de tratamiento; otra opci\u00f3n que podr\u00eda ser igual de eficaz ser\u00eda el valaciclovir oral junto con foscarnet intrav\u00edtreo; el papel de la vitrectom\u00eda precoz como profilaxis del desprendimiento de retina no est\u00e1 claro. c.Toxoplasmosis ocular En pacientes con infecci\u00f3n por VIH la toxoplasmosis ocular se asocia a toxoplasmosis cerebral. ",
+            "source": "ManualClinico, section 18.4.1.",
+            "_distance": 0.6160019636154175
+        },
+        {
+            "text": "En los menores de 3 a\u00f1os, adolescentes sexualmente activos y ni\u00f1os con manifestaciones cl\u00ednicas asociadas al VIH y/o bajo recuento de linfocitos CD4+ para la edad, debe ser iniciado sin demora. Antes de iniciar el tratamiento es necesario valorar las caracter\u00edsticas de cada paciente, su potencial adherencia, la capacidad para tomar comprimidos, otras coinfecciones. Deber\u00e1n disponerse de un estudio de resistencias (resistencias transmitidas o producidas tras la exposici\u00f3n a antirretrovirales). ",
+            "source": "ManualClinico, section 33.3.",
+            "_distance": 0.6383271217346191
+        },
+        {
+            "text": "Las personas con VIH con niveles de CD4+ entre 350 y 550/\u00b5L, se aleatorizaron a recibir tratamiento antirretrov\u00edrico o bien de forma inmediata (tratamiento temprano), o bien tras el descenso de CD4+ por debajo de 350/\u00b5L o el desarrollo de s\u00edntomas asociados a la infecci\u00f3n por VIH (tratamiento retardado). ",
+            "source": "ManualClinico, section 11.2.",
+            "_distance": 0.6406031847000122
+        },
+        {
+            "text": " Tratamiento antirretroviral A d\u00eda de hoy, la infecci\u00f3n por VIH no se puede erradicar, pero el tratamiento antirretroviral de gran actividad (TAR o TARGA) aumenta la supervivencia, retrasa la progresi\u00f3n cl\u00ednica y favorece la restauraci\u00f3n inmunol\u00f3gica. Consiste en la administraci\u00f3n, de forma combinada, de al menos tres f\u00e1rmacos y su objetivo es impedir la replicaci\u00f3n viral y mantener la carga viral plasm\u00e1tica (CVP) indetectable (\udbc0\udc01 50 copias/ml) el mayor tiempo posible. ",
+            "source": "manejo_paciente_vih_en_ap, section 13.0.",
+            "_distance": 0.6482903361320496
+        }
+    ],
+    "answer": "Duraci\u00f3n del Tratamiento Antirretroviral para el VIH\n\nEl tratamiento antirretroviral (TAR) para el Virus de Inmunodeficiencia Humana (VIH) es, en la actualidad, de por vida. Esto se debe a que, aunque el tratamiento no cura la infecci\u00f3n por VIH, es sumamente efectivo para:\n\n1. Reducir la carga viral: Mantener la cantidad de virus en sangre (carga viral) en niveles indetectables (menos de 50 copias/mL), lo cual reduce significativamente el riesgo de transmisi\u00f3n del virus a otras personas.\n2. Restaurar y mantener la funci\u00f3n inmunol\u00f3gica: Aumentar y preservar el recuento de linfocitos CD4+, que son esenciales para la respuesta inmune del cuerpo.\n3. Prevenir el progreso hacia el SIDA: Evitar que la infecci\u00f3n por VIH avance hacia el S\u00edndrome de Inmunodeficiencia Adquirida (SIDA), fase m\u00e1s avanzada y grave de la enfermedad.\n\nImportante:\n\n- La adherencia al tratamiento es crucial. Dejar de tomar los medicamentos seg\u00fan lo prescrito puede llevar a un aumento en la carga viral, disminuci\u00f3n del recuento de CD4+, y potencialmente, al desarrollo de resistencia a los f\u00e1rmacos antirretrovirales.\n- El tratamiento debe ser personalizado y ajustado seg\u00fan la respuesta individual, la aparici\u00f3n de efectos secundarios, o el desarrollo de resistencias virales.\n\nRecomendaci\u00f3n:\nPara m\u00e1s detalles espec\u00edficos sobre tu tratamiento, incluyendo cualquier ajuste o consideraci\u00f3n especial, consulta a tu m\u00e9dico, quien podr\u00e1 ofrecerte orientaci\u00f3n personalizada basada en tu condici\u00f3n y evoluci\u00f3n."
+}

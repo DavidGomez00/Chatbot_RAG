@@ -1,0 +1,31 @@
+{
+    "query": "Si una persona tiene VIH, \u00bfpuede vivir una vida normal o siempre estar\u00e1 enferma?\n",
+    "context_info": [
+        {
+            "text": " Introducci\u00f3n Las personas que viven con el VIH (PVV) tienen mayor riesgo de desarrollar enfermedad renal cr\u00f3nica (ERC) y fracaso renal agudo (FRA) que los no infectados. Pueden presentar diversas nefropat\u00edas glomerulares, t\u00fabulo-intersticiales y obstructivas, relacionadas en algunos casos con el propio virus y/o la respuesta inmunol\u00f3gica a la infecci\u00f3n, con las comorbilidades y las coinfecciones asociadas o con los f\u00e1rmacos administrados. ",
+            "source": "ManualClinico, section 22.1.",
+            "_distance": 0.7343838810920715
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7471097707748413
+        },
+        {
+            "text": "Ya sea por este motivo o por otros, se estima que la mitad de las personas seropositivas van a presentar alg\u00fan tipo de trastorno psicopatol\u00f3gico a lo largo de su vida. El diagn\u00f3stico de los trastornos neurocognitivos asociados al VIH es por su complejidad un reto en el manejo del paciente infectado por VIH. ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.7675521969795227
+        },
+        {
+            "text": " Introducci\u00f3n La historia del VIH se puede dividir en dos etapas marcadas por la aparici\u00f3n de f\u00e1rmacos eficaces: una inicial en la que se comport\u00f3 como una enfermedad epid\u00e9mica con elevada mortalidad y una segunda desde el a\u00f1o 1996 hasta hoy en la que se consigue un control m\u00e9dico y se puede considerar como una enfermedad cr\u00f3nica. En cada una de ellas se plantean problemas \u00e9ticos y legales distintos. ",
+            "source": "ManualClinico, section 34.1.",
+            "_distance": 0.7704501152038574
+        },
+        {
+            "text": " B\u00e1sicos del VIH El VIH no es un virus que se adquiera con facilidad por v\u00eda sexual. En comparaci\u00f3n con la cantidad de personas que practican sexo cada a\u00f1o, apenas un escaso porcentaje de las mismas contrae esta infecci\u00f3n.  Tras una exposici\u00f3n sexual al VIH, la probabilidad de no adquirir el virus es siempre mucho mayor que la de infectarse (por supuesto, el riesgo solo existe si la pareja sexual tiene el VIH y su carga viral es detectable). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.772614598274231
+        }
+    ],
+    "answer": "Una pregunta excelente sobre el VIH.\n\nLa respuesta es: S\u00ed, con tratamiento adecuado, una persona con VIH puede vivir una vida pr\u00e1cticamente normal.\n\nAqu\u00ed te explico por qu\u00e9:\n\n1. Tratamiento Antirretroviral (TAR): Desde 1996, con la llegada de f\u00e1rmacos eficaces, el VIH se considera una enfermedad cr\u00f3nica controlable. El TAR reduce la carga viral a niveles indetectables, permitiendo que el sistema inmunol\u00f3gico se recupere y funcione adecuadamente.\n2. Control de la enfermedad: Con un tratamiento efectivo y adherencia al mismo, las personas con VIH pueden mantener su salud general en \u00f3ptimas condiciones, evitando el avance a SIDA (S\u00edndrome de Inmunodeficiencia Adquirida) y reduciendo significativamente el riesgo de transmitir el virus a otros.\n3. Expectativa de vida: Gracias al tratamiento antirretroviral, la expectativa de vida de una persona con VIH es similar a la de alguien sin la infecci\u00f3n, siempre y cuando se mantenga un tratamiento efectivo y no se presenten comorbilidades graves.\n4. Calidad de vida: La mayor\u00eda de las personas con VIH pueden llevar una vida activa, trabajar, estudiar, tener relaciones saludables y disfrutar de sus actividades cotidianas sin restricciones significativas relacionadas con el VIH.\n\nImportante recordar:\n\n Un seguimiento m\u00e9dico regular es crucial para ajustar el tratamiento seg\u00fan sea necesario y monitorear la salud general.\n La adherencia al tratamiento antirretroviral es fundamental para mantener la carga viral indetectable y preservar la salud.\n Aunque la calidad de vida puede ser similar a la de alguien sin VIH, es importante abordar cualquier trastorno psicopatol\u00f3gico que pueda surgir, como se menciona en mi conocimiento base.\n\nEn resumen, con un tratamiento adecuado y cuidados m\u00e9dicos regulares, una persona con VIH puede vivir una vida larga, saludable y plena, similar a la de alguien sin la infecci\u00f3n."
+}

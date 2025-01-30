@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl uso de condones es 100% efectivo para evitar el VIH?\n",
+    "context_info": [
+        {
+            "text": " Por lo general, el sexo oral entra\u00f1a un riesgo de transmisi\u00f3n m\u00e1s bajo o nulo, mientras que la penetraci\u00f3n (por v\u00eda anal o vaginal) sin preservativo habitualmente comporta un riesgo m\u00e1s elevado. La probabilidad de adquirir el VIH en el sexo anal y vaginal es mayor para la persona que es penetrada que para la persona que penetra.  Cuando se usan de forma correcta, los preservativos ofrecen una protecci\u00f3n del 100% frente a la transmisi\u00f3n del VIH y algunas otras ITS. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7183874845504761
+        },
+        {
+            "text": "Se comprob\u00f3 que, cuando se utilizaron los preservativos en todas las ocasiones (en m\u00e1s de 15.000 actos sexuales), no se registraron transmisiones del virus.  Sin embargo, 121 parejas no emplearon los preservativos en todas las ocasiones y la mitad de ellas no los usaron nunca. La tasa de infecciones en este grupo fue de un 5% por a\u00f1o. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7678914070129395
+        },
+        {
+            "text": "El empleo correcto supone tambi\u00e9n utilizar un lubricante adecuado, en caso necesario, para evitar desgarros y comprobar que el cond\u00f3n est\u00e1 bien colocado (v\u00e9anse las figuras 6 y 7).  Cuando los expertos afirman que los preservativos solo tienen una eficacia del 85 al 95%, se debe a que las personas que emplean condones no lo hacen en todas las ocasiones o no los usan de forma adecuada. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7832704186439514
+        },
+        {
+            "text": " Existe evidencia de que en las PVIH pueden ser empleados la mayor\u00eda de los m\u00e9todos anticonceptivos entre los que se encuentran 1: M\u00e9todos barrera: - Preservativo masculino: eficacia demostrada, cuando se utiliza correctamente y de forma consistente, frente al embarazo y otras ITS.- Preservativo femenino: m\u00e9todo igual de seguro que el anterior, pero suuso no es tan generalizado.- Diafragma: no recomendado por ser menos eficaz y no proteger frente alas ITS incluido el VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7919541001319885
+        },
+        {
+            "text": "Esta herramienta preventiva consiste en tomar medicaci\u00f3n antirretroviral antes y despu\u00e9s del sexo para que las personas sin el VIH puedan prevenir la infecci\u00f3n. Si se usa de forma correcta, es decir, tal como ha sido pautada por el m\u00e9dico, puede reducir el riesgo de infecci\u00f3n hasta en m\u00e1s de un 99%.  Adem\u00e1s, los preservativos, empleados de forma correcta, son una opci\u00f3n preventiva muy efectiva frente al VIH. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7970729470252991
+        }
+    ],
+    "answer": "S\u00ed, seg\u00fan mi conocimiento especializado en VIH, el uso correcto de preservativos ofrece una protecci\u00f3n del 100% frente a la transmisi\u00f3n del VIH, siempre y cuando se utilicen de forma adecuada y consistente en todas las ocasiones.\n\nPara asegurar esta efectividad del 100%, es crucial:\n\n1. Uso correcto: Colocar el cond\u00f3n correctamente antes de cualquier contacto sexual.\n2. Uso consistente: Emplear preservativos en todas las ocasiones de actividad sexual.\n3. Selecci\u00f3n adecuada de lubricante: Utilizar un lubricante compatible con el tipo de cond\u00f3n (evitar lubricantes a base de aceite con condones de l\u00e1tex) para prevenir desgarros.\n4. Verificaci\u00f3n del cond\u00f3n: Asegurarse de que el cond\u00f3n est\u00e9 bien colocado antes y durante la actividad sexual.\n\nEs importante destacar que las estad\u00edsticas que mencionan una eficacia del 85% al 95% se deben a un uso inconsistente o incorrecto de los preservativos, no a una fallo inherente del m\u00e9todo en s\u00ed. Cuando se utilizan como se debe, los condones son una barrera efectiva contra el VIH y otras infecciones de transmisi\u00f3n sexual (ITS)."
+}

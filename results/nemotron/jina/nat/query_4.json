@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl VIH tiene cura o las personas con VIH pueden curarse con tratamiento?\n",
+    "context_info": [
+        {
+            "text": "En ausencia de curaci\u00f3n definitiva o erradicaci\u00f3n, puede conseguirse una cura funcional o remisi\u00f3n biol\u00f3gica si se consigue controlar la viremia plasm\u00e1tica en ausencia de TAR, a pesar de que no se haya conseguido erradicar por completo el VIH en c\u00e9lulas latentes, donde se puede mantener integrado. ",
+            "source": "ManualClinico, section 9.8.3.",
+            "_distance": 0.6417102813720703
+        },
+        {
+            "text": " Tratamiento El manejo del paciente infectado por VIH-2 no est\u00e1 tan claro como en el caso del paciente infectado por VIH-1. El hecho de que sea un virus minoritario en pa\u00edses del primer mundo hace que tengamos mucha menos evidencia tanto sobre el momento de empezar tratamiento como sobre con qu\u00e9 f\u00e1rmacos tratar. ",
+            "source": "ManualClinico, section 5.6.",
+            "_distance": 0.7101424932479858
+        },
+        {
+            "text": "Aunque hay pruebas de concepto que han conseguido la curaci\u00f3n definitiva de la infecci\u00f3n por VIH (trasplante heter\u00f3logo de m\u00e9dula \u00f3sea con delecci\u00f3n de CCR5 con quimerismo completo, asociado a quimio y/o radioterapia) su mortalidad es elevada y no est\u00e1n indicadas ni son escalables a la poblaci\u00f3n que recibe TAR y se mantiene asintom\u00e1tica. ",
+            "source": "ManualClinico, section 9.8.3.",
+            "_distance": 0.7276071906089783
+        },
+        {
+            "text": "El tratamiento precoz no s\u00f3lo proporciona beneficio en la salud individual de la persona que lo recibe, sino que beneficia a la sociedad ya que las personas con supresi\u00f3n viral prolongada del VIH no pueden transmitir la infecci\u00f3n a otras personas, incluso en el contexto de pr\u00e1cticas sexuales o de inyecci\u00f3n de riesgo, o en el caso de la transmisi\u00f3n vertical. ",
+            "source": "ManualClinico, section 11.2.",
+            "_distance": 0.7327225804328918
+        },
+        {
+            "text": " Tratamiento como prevenci\u00f3n Sin duda, el diagn\u00f3stico de las personas infectadas por VIH y su tratamiento lo m\u00e1s precoz posible es la estrategia en la que m\u00e1s merece la pena invertir esfuerzos y recursos, si se pretende controlar realmente la epidemia. ",
+            "source": "ManualClinico, section 11.2.",
+            "_distance": 0.7369884252548218
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, actualmente no existe una cura definitiva para el Virus de Inmunodeficiencia Humana (VIH). Sin embargo, es posible alcanzar lo que se denomina \"cura funcional\" o \"remisi\u00f3n biol\u00f3gica\".\n\n Esto significa que, aunque el virus no se erradica por completo del cuerpo (persistiendo en c\u00e9lulas latentes), es posible controlar la viremia plasm\u00e1tica (la cantidad de virus en sangre) mediante tratamiento antirretroviral (TAR). Este control permite a las personas con VIH vivir sin progresi\u00f3n de la enfermedad y sin desarrollar SIDA, manteni\u00e9ndose asintom\u00e1ticas.\n\nEs importante destacar que:\n\n   No se ha erradicado el virus: Aunque no haya s\u00edntomas, el virus permanece en c\u00e9lulas latentes.\n   Tratamiento continuo es necesario: Para mantener la remisi\u00f3n biol\u00f3gica, es crucial seguir el tratamiento antirretroviral de por vida.\n\nEn resumen, aunque no hay una \"cura\" en el sentido tradicional, el tratamiento adecuado puede llevar a una \"cura funcional\", permitiendo a las personas con VIH vivir vidas largas y saludables sin transmitir el virus a otros, siempre y cuando mantengan la supresi\u00f3n viral prolongada."
+}

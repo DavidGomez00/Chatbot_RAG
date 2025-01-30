@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfDe qu\u00e9 se mueren las personas con VIH?",
+    "context_info": [
+        {
+            "text": " Infecciones oportunistas : Han sido la principal causa de morbilidad y mortalidad de los pacientes VIH desde el inicio de la epidemia. Corresponden a la categor\u00eda C de la clasificaci\u00f3n de la infecci\u00f3n por el VIH de los CDC.  Infecciones por par\u00e1sitos: Destacar la infecci\u00f3n por Toxoplasma gondii que en los pacientes VIH puede producir coriorretinitis y lesi\u00f3n ocupante de espacio (LOE) en el SNC. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8467166423797607
+        },
+        {
+            "text": "Como consecuencia de esta inmunosupresi\u00f3n mantenida se produce, a partir de un nivel de deterioro (<200 CD4/\u00b5L), la aparici\u00f3n de infecciones oportunistas y tumores que definen el SIDA y causan la muerte del paciente infectado. ",
+            "source": "ManualClinico, section 3.2.3.",
+            "_distance": 0.8925870060920715
+        },
+        {
+            "text": " Con el herpes, por ejemplo, las c\u00e9lulas diana del VIH mantienen unos niveles mucho m\u00e1s elevados incluso semanas despu\u00e9s de que se haya curado una \u00falcera. Por esta raz\u00f3n, las personas con herpes podr\u00edan tener un mayor riesgo de VIH, si se exponen, aunque en ese momento no presenten \u00falceras.  ALCOHOL Y OTRAS DROGAS Riesgo cero: Sin consumo de alcohol y/o drogas.  Entre estos extremos, el riesgo var\u00eda dependiendo del nivel de consumo de alcohol y/u otras drogas. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8986109495162964
+        },
+        {
+            "text": "Aunque hay pruebas de concepto que han conseguido la curaci\u00f3n definitiva de la infecci\u00f3n por VIH (trasplante heter\u00f3logo de m\u00e9dula \u00f3sea con delecci\u00f3n de CCR5 con quimerismo completo, asociado a quimio y/o radioterapia) su mortalidad es elevada y no est\u00e1n indicadas ni son escalables a la poblaci\u00f3n que recibe TAR y se mantiene asintom\u00e1tica. ",
+            "source": "ManualClinico, section 9.8.3.",
+            "_distance": 0.8989037871360779
+        },
+        {
+            "text": "El n\u00famero de nuevos casos de VIH y la mortalidad est\u00e1n disminuyendo a nivel mundial. En 2018 hubo 1,7 millones de nuevas infecciones (incluidos 160.000 menores de 15 a\u00f1os) de las que un tercio ocurrieron en j\u00f3venes de 15 a 24 a\u00f1os (descenso estimado del 16% respecto a 2010). No obstante, esta tendencia no es igual en todo el mundo. ",
+            "source": "ManualClinico, section 1.1.",
+            "_distance": 0.906413733959198
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, las personas con VIH suelen fallecer principalmente debido a:\n\n1. Infecciones oportunistas: Estas infecciones aprovechan el sistema inmunol\u00f3gico debilitado que ocurre cuando el recuento de CD4 cae por debajo de 200 c\u00e9lulas/\u00b5L. Ejemplos incluyen:\n\t Infecci\u00f3n por Toxoplasma gondii, que puede causar coriorretinitis y lesiones ocupantes de espacio (LOE) en el Sistema Nervioso Central (SNC).\n\t Otras infecciones oportunistas clasificadas como Categor\u00eda C seg\u00fan la clasificaci\u00f3n de los CDC.\n2. Tumores: El deterioro del sistema inmunol\u00f3gico tambi\u00e9n aumenta el riesgo de desarrollar ciertos tipos de c\u00e1ncer, que pueden ser mortales.\n\nEs importante destacar que estas complicaciones suelen ocurrir en etapas avanzadas de la infecci\u00f3n por VIH, cuando el virus no ha sido diagnosticado o no se ha tratado adecuadamente. El tratamiento antirretroviral (TAR) efectivo puede controlar la progresi\u00f3n del VIH, prevenir la aparici\u00f3n de infecciones oportunistas y tumores, y mejorar significativamente la calidad de vida y la expectativa de vida de las personas con VIH."
+}

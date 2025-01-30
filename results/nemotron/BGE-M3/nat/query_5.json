@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1nto tiempo tarda en aparecer el SIDA despu\u00e9s de contraer el VIH?\n",
+    "context_info": [
+        {
+            "text": "Tras 2-6 semanas de la inoculaci\u00f3n la mayor\u00eda de los pacientes alcanzan una carga viral muy elevada en plasma. Se puede detectar el ant\u00edgeno p24 del VIH y virones circulantes mediante la cuantificaci\u00f3n de copias de RNA-VIH-1 (carga viral). Aunque suele pasar desapercibido, en m\u00e1s de la mitad de los pacientes aparece un s\u00edndrome retroviral agudo similar al s\u00edndrome mononucle\u00f3sido y de duraci\u00f3n inferior a 2-3 semanas. La intensidad de este se ha relacionado con un mayor riesgo de progresi\u00f3n a SIDA. ",
+            "source": "ManualClinico, section 1.4.",
+            "_distance": 0.610000729560852
+        },
+        {
+            "text": "\n Validez diagn\u00f3stica de los signos y s\u00edntomas de la infecci\u00f3n aguda por VIH Los s\u00edntomas de primoinfecci\u00f3n o seroconversi\u00f3n ocurren en un porcentaje variable de individuos entre dos y cuatro semanas despu\u00e9s de la infecci\u00f3n, no obstante estos s\u00edntomas son inespec\u00edficos, y aunque el paciente acuda al sistema sanitario no se considera la sospecha de infecci\u00f3n por VIH, dado que se resuelven espont\u00e1neamente en 2 \u00f3 3 semanas. ",
+            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_Anexo1, section 1.0.",
+            "_distance": 0.6250275373458862
+        },
+        {
+            "text": " MARCADORES VIROL\u00d3GICOS E INMUNOL\u00d3GICOS DURANTE LA INFECCI\u00d3N En el curso de la infecci\u00f3n, se pueden utilizar varios marcadores virol\u00f3gicos que permiten identificar la presencia del VIH. El momento de aparici\u00f3n de cada uno de ellos es distinto.  El primer marcador que aparece tras la infecci\u00f3n es el ARN del VIH, que se puede detectar aproximadamente a las dos semanas de la infecci\u00f3n, por lo general a los 1012 d\u00edas. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 12.0.",
+            "_distance": 0.6468732953071594
+        },
+        {
+            "text": "Pr\u00e1cticamente al mismo tiempo que aparece el ARN del VIH, se puede detectar el ADN del VIH integrado en el genoma celular (llamado \u2018ADN proviral\u2019).  La primera prote\u00edna del VIH que aparece en sangre a los 1113 d\u00edas es el ant\u00edgeno p24 y se puede detectar, aproximadamente, durante un mes y medio.  Los anticuerpos se detectan en sangre a las 3 o 4 semanas de la infecci\u00f3n, con una media de 22 d\u00edas, y alcanzan su concentraci\u00f3n m\u00e1xima a las 1012 semanas. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 12.0.",
+            "_distance": 0.652790904045105
+        },
+        {
+            "text": "Con frecuencia se asocia con signos y s\u00edntomas que se asemejan a un s\u00edndrome de mononucleosis infecciosa. La infecci\u00f3n aguda por el VIH no debe confundirse con la infecci\u00f3n reciente por el VIH, que hace referencia a pacientes diagnosticados en los primeros seis meses (180 d\u00edas) de la infecci\u00f3n. A partir de esa fecha la infecci\u00f3n por el VIH es cr\u00f3nica. ",
+            "source": "ManualClinico, section 4.1.",
+            "_distance": 0.6549882292747498
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, no puedo proporcionar un per\u00edodo de tiempo espec\u00edfico para la aparici\u00f3n del SIDA (S\u00edndrome de Inmunodeficiencia Adquirida) despu\u00e9s de contraer el VIH, ya que este per\u00edodo puede variar ampliamente de persona a persona.\n\nSin embargo, puedo ofrecerte algunos puntos clave relacionados con la progresi\u00f3n del VIH al SIDA:\n\n   Infecci\u00f3n Aguda: Despu\u00e9s de la infecci\u00f3n por VIH, se experimenta un per\u00edodo de infecci\u00f3n aguda que puede durar varias semanas. Durante este tiempo, es com\u00fan experimentar s\u00edntomas similares a los de una gripe o mononucleosis.\n   Per\u00edodo Asintom\u00e1tico: Tras la infecci\u00f3n aguda, el virus entra en un estado latente, y la mayor\u00eda de las personas pueden permanecer asintom\u00e1ticas durante varios a\u00f1os. Este per\u00edodo puede durar desde unos pocos a\u00f1os hasta m\u00e1s de una d\u00e9cada sin tratamiento.\n   Progresi\u00f3n al SIDA: Si no se trata, el VIH eventualmente debilita el sistema inmunol\u00f3gico, llevando a la aparici\u00f3n del SIDA. La progresi\u00f3n del VIH al SIDA puede ocurrir en un plazo que var\u00eda desde unos pocos a\u00f1os hasta m\u00e1s de 10-15 a\u00f1os despu\u00e9s de la infecci\u00f3n inicial, dependiendo de factores como la carga viral, la respuesta inmunol\u00f3gica individual y la presencia de coinfecciones.\n\nEs crucial entender que, con el tratamiento antirretroviral de alta eficacia (TARAA o ART), es posible controlar la replicaci\u00f3n del virus, prevenir la progresi\u00f3n al SIDA y mantener una vida pr\u00e1cticamente normal. Por lo tanto, si se sospecha o confirma una infecci\u00f3n por VIH, es fundamental buscar atenci\u00f3n m\u00e9dica especializada para recibir el tratamiento adecuado.\n\nPara obtener m\u00e1s informaci\u00f3n espec\u00edfica sobre tu situaci\u00f3n o para entender mejor c\u00f3mo el VIH puede afectarte, te recomiendo consultar a un m\u00e9dico especializado en enfermedades infecciosas o a un profesional de la salud con experiencia en el manejo del VIH."
+}

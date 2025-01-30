@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl uso de medicamentos como la profilaxis preexposici\u00f3n (PrEP) reduce el riesgo de transmisi\u00f3n del VIH?\n",
+    "context_info": [
+        {
+            "text": "Profilaxis pre-exposici\u00f3n (PrEP o PPrE al VIH: La PrEP es una herramienta preventiva consistente en administrar dos FAR a d eterminadas personas seronegativas para el VIH con pr\u00e1cticas de riesgo considerables ( Tabla 2), antes de su posible exposici\u00f3n al virus, con el objetivo de reducir la probabilidad de contraer dicha infecci\u00f3n. No debe iniciarse hasta haber descartado la infecci\u00f3n. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 0.2851419150829315
+        },
+        {
+            "text": " Profilaxis Pre-Exposici\u00f3n (PrEP) La PrEP consiste en la utilizaci\u00f3n de f\u00e1rmacos antirretrovirales antes de un contacto de riesgo para prevenir la infecci\u00f3n por el VIH. ",
+            "source": "ManualClinico, section 11.3.",
+            "_distance": 0.29440492391586304
+        },
+        {
+            "text": " PROFILAXIS PREEXPOSICI\u00d3N AL VIH (PrEP) La PrEP es una intervenci\u00f3n biom\u00e9dica en la que personas sin el VIH toman medicaci\u00f3n antirretroviral para prevenir la infecci\u00f3n en las relaciones sexuales.  La pauta est\u00e1 formada por dos f\u00e1rmacos antirretrovirales que se combinan en un \u00fanico comprimido.  La PrEP es una herramienta muy efectiva si el nivel de adherencia es alto. La adherencia se refiere a tomar la medicaci\u00f3n tal como ha sido prescrita, respetando los horarios y no salt\u00e1ndose las tomas. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 8.0.",
+            "_distance": 0.3990727663040161
+        },
+        {
+            "text": "Los factores que pueden disminuir el riesgo incluyen el uso de preservativo, la circuncisi\u00f3n masculina, la profilaxis preexposici\u00f3n (PrEP) y postexposici\u00f3n (PPE) y que las personas infectadas por el VIH se encuentren diagnosticadas, tratadas y con la carga viral indetectable. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 0.41566553711891174
+        },
+        {
+            "text": " Se aconseja a cualquier pareja \u2013sea o no mon\u00f3gama\u2013 que quiera prescindir de forma consensuada del uso del preservativo en sus relaciones sexuales, que, antes de dar el paso, ambos miembros conozcan su estado serol\u00f3gico al VIH y los riesgos a los que hayan podido exponerse con posterioridad a la prueba.  Algunas personas podr\u00edan plantearse la posibilidad de utilizar la profilaxis preexposici\u00f3n (PrEP) para protegerse del VIH a s\u00ed mismas y a sus parejas estables u ocasionales. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.42440497875213623
+        }
+    ],
+    "answer": "S\u00ed, el uso de la profilaxis preexposici\u00f3n (PrEP) es una herramienta muy efectiva para reducir significativamente el riesgo de transmisi\u00f3n del VIH, siempre y cuando se cumpla con una alta adherencia al tratamiento. Esto significa tomar los medicamentos tal como han sido prescritos, respetando los horarios establecidos y sin saltarse dosis.\n\nLa PrEP consiste en la administraci\u00f3n de dos f\u00e1rmacos antirretrovirales combinados en un solo comprimido, espec\u00edficamente dise\u00f1ado para personas seronegativas que tienen pr\u00e1cticas de riesgo considerables de exposici\u00f3n al VIH. Su objetivo principal es prevenir la infecci\u00f3n por el virus antes de un posible contacto de riesgo.\n\nPara maximizar su eficacia, es crucial:\n\n1. Iniciar la PrEP solo despu\u00e9s de descartar la infecci\u00f3n por el VIH a trav\u00e9s de una prueba diagn\u00f3stica.\n2. Mantener una alta adherencia al r\u00e9gimen de tratamiento prescrito.\n3. Combinarla con otras pr\u00e1cticas de reducci\u00f3n del riesgo, como el uso de preservativos, la circuncisi\u00f3n masculina (si aplicable), y asegurarse de que las parejas infectadas est\u00e9n diagnosticadas, tratadas y tengan una carga viral indetectable.\n\nLa PrEP es especialmente recomendada para individuos con un alto riesgo de exposici\u00f3n al VIH, como algunas personas en relaciones sexuales no mon\u00f3gamas o aquellos cuyas parejas viven con el VIH. Sin embargo, antes de iniciar cualquier tratamiento, es indispensable consultar a un profesional m\u00e9dico para evaluar la idoneidad de la PrEP seg\u00fan las circunstancias individuales."
+}

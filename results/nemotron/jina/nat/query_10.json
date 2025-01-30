@@ -1,0 +1,31 @@
+{
+    "query": "Si una persona tiene VIH, \u00bfpuede vivir una vida normal o siempre estar\u00e1 enferma?\n",
+    "context_info": [
+        {
+            "text": "Te realizar\u00e1n pruebas para comprobar la fortaleza de tu sistema inmunitario y de tu estado de salud, en general. Es probable que necesites alg\u00fan tiempo para asumir esta novedad en tu vida.  Si dispones de apoyo e informaci\u00f3n, ser\u00e1 m\u00e1s sencillo. El hecho de tener informaci\u00f3n fiable te ayudar\u00e1 a tomar decisiones informadas sobre tu salud. Descubrir que tienes el VIH nunca es agradable, pero actualmente el VIH es una infecci\u00f3n tratable y manejable. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.7474867105484009
+        },
+        {
+            "text": "El tratamiento frente al VIH te permitir\u00e1 tener una esperanza de vida similar a la de una persona sin el VIH, con una buena calidad de vida. Es muy probable que no tengas que renunciar a nada de lo que hac\u00edas como consecuencia de tu nueva situaci\u00f3n.  Como parte de la atenci\u00f3n prenatal, de forma rutinaria se incluye la realizaci\u00f3n de la prueba del VIH a todas las mujeres (durante el primer y tercer trimestre de embarazo). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.8398625254631042
+        },
+        {
+            "text": " Introducci\u00f3n Los trastornos mentales en las personas que viven con el VIH son altamente frecuentes. Estos implican una amplia variedad de trastornos y s\u00edntomas, los cuales adem\u00e1s suelen tener un impacto importante tanto en el funcionamiento diario como en la calidad de vida. Es por estos motivos ( frecuencia, espectro, impacto ) que este tipo de complicaciones merecen una atenci\u00f3n especial en el cuidado cl\u00ednico de las personas con VIH. ",
+            "source": "ManualClinico, section 25.1.",
+            "_distance": 0.8425058126449585
+        },
+        {
+            "text": " Introducci\u00f3n El control actual de la infecci\u00f3n por VIH hace que la mayor\u00eda de los pacientes hagan una vida similar al resto de la poblaci\u00f3n. Este aspecto tambi\u00e9n ata\u00f1e a la movilizaci\u00f3n de las personas en esta \u00e9poca de globalizaci\u00f3n. Actualmente vivimos en un mundo donde cualquier persona puede estar en el extremo opuesto del planeta en escasas 24-36 horas, gracias a la rapidez y fluidez de los medios de transporte. ",
+            "source": "ManualClinico, section 29.1.",
+            "_distance": 0.8700966835021973
+        },
+        {
+            "text": " VIH, SEXO Y RIESGO Aunque en general puede resultar sencillo determinar cu\u00e1ndo un riesgo es alto o bajo, puede ser m\u00e1s complicado calcular las probabilidades de los casos intermedios entre ambos extremos.  Si una persona practica sexo sin preservativo es poco probable que adquiera el VIH. Pero si 10.000 personas mantienen relaciones sexuales sin preservativo, es probable que alguna contraiga el virus, a pesar de que todas ellas tengan te\u00f3ricamente el mismo riesgo sexual. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.8846692442893982
+        }
+    ],
+    "answer": "Excelente pregunta. Con el tratamiento actual y la atenci\u00f3n m\u00e9dica adecuada, una persona con VIH puede llevar una vida pr\u00e1cticamente normal. El Virus de Inmunodeficiencia Humana (VIH) es una infecci\u00f3n tratable y manejable en la actualidad.\n\nAqu\u00ed hay algunos puntos clave que respaldan esta afirmaci\u00f3n:\n\n1. Esperanza de vida similar: Con tratamiento antirretroviral efectivo, las personas con VIH pueden tener una esperanza de vida similar a la de aquellos sin el virus.\n2. Buena calidad de vida: El tratamiento actual permite a las personas con VIH mantener una buena calidad de vida, sin necesidad de renunciar a actividades habituales.\n3. Gesti\u00f3n de la infecci\u00f3n: Los tratamientos actuales son capaces de reducir la carga viral a niveles indetectables, lo que no solo mejora la salud del portador sino que tambi\u00e9n reduce significativamente el riesgo de transmisi\u00f3n a otros.\n4. Vida diaria sin restricciones mayores: En general, no es necesario que las personas con VIH hagan cambios dr\u00e1sticos en su vida diaria debido al virus, siempre y cuando sigan el tratamiento prescrito y mantengan un seguimiento m\u00e9dico regular.\n\nEs fundamental destacar:\n\n La adherencia al tratamiento antirretroviral es clave para mantener el virus bajo control.\n El seguimiento m\u00e9dico regular es esencial para monitorizar la salud y ajustar el tratamiento si fuera necesario.\n Mantener una buena salud general, mediante una dieta equilibrada, ejercicio regular y evitando h\u00e1bitos da\u00f1inos, tambi\u00e9n juega un papel importante.\n\nEn resumen, con el tratamiento adecuado y cuidados m\u00e9dicos, una persona con VIH puede llevar una vida normal y activa, sin que la infecci\u00f3n defina su calidad de vida."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi una persona con VIH se siente sana, a\u00fan puede transmitir el virus? \n",
+    "context_info": [
+        {
+            "text": "Tambi\u00e9n dej\u00f3 patente que el virus no se transmite con facilidad, incluso manteniendo pr\u00e1cticas sexuales sin preservativo con una persona con el VIH que no toma tratamiento antirretroviral.  CUANDO LOS DOS MIEMBROS DE LA PAREJA TIENEN EL VIH: \u00bfSE PUEDE PRODUCIR UNA REINFECCI\u00d3N?  Muchas personas con el VIH tienen parejas sexuales que tambi\u00e9n son seropositivas. En estos casos, suele desaparecer la ansiedad o preocupaci\u00f3n por la transmisi\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6186389923095703
+        },
+        {
+            "text": " R: Es bastante habitual que un miembro d\u00e9 positivo y el otro negativo, aunque hayan practicado sexo sin preservativo. En gran parte, esto se explica por la suerte y el papel que desempe\u00f1an otros factores de riesgo. Sin embargo, con el tiempo, la mayor parte de las personas podr\u00edan infectarse por el VIH si siguen exponi\u00e9ndose al virus. Aunque hayas corrido alg\u00fan riesgo y no hayas adquirido el VIH, sigue existiendo la posibilidad de que puedas infectarte en el futuro. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 0.6805606484413147
+        },
+        {
+            "text": " B\u00e1sicos del VIH El VIH no es un virus que se adquiera con facilidad por v\u00eda sexual. En comparaci\u00f3n con la cantidad de personas que practican sexo cada a\u00f1o, apenas un escaso porcentaje de las mismas contrae esta infecci\u00f3n.  Tras una exposici\u00f3n sexual al VIH, la probabilidad de no adquirir el virus es siempre mucho mayor que la de infectarse (por supuesto, el riesgo solo existe si la pareja sexual tiene el VIH y su carga viral es detectable). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.6949478387832642
+        },
+        {
+            "text": "Para empezar, no todas las personas que se infectan por el VIH presentan s\u00edntomas. En segundo lugar, ninguno de estos s\u00edntomas supone, por s\u00ed mismo, un indicativo de que tengas el VIH. Con todo, si sufres varios de estos s\u00edntomas al mismo tiempo y recientemente has corrido alg\u00fan riesgo de exposici\u00f3n al VIH, entonces ES POSIBLE que est\u00e9 relacionado con el virus.  No obstante, el \u00fanico modo de estar seguro es realiz\u00e1ndote una prueba. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 0.712072491645813
+        },
+        {
+            "text": " De todos modos, tambi\u00e9n puedes mantenerte protegido y evitar las infecciones usando preservativos y lubricantes. P: \u00bfHay personas que est\u00e9n protegidas frente a la infecci\u00f3n de forma natural?  R: Algunas personas se ven expuestas al VIH en numerosas ocasiones (por relaciones con una o varias personas) y, a pesar de ello, no adquieren el virus. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 0.7160218954086304
+        }
+    ],
+    "answer": "S\u00ed, incluso si una persona con VIH se siente sana y no presenta s\u00edntomas, sigue siendo capaz de transmitir el virus. La ausencia de s\u00edntomas no indica que el virus no sea activo o que no pueda ser transmitido.\n\nHay varios factores que influyen en la probabilidad de transmisi\u00f3n, incluyendo:\n\n1. Carga viral: Si la persona con VIH tiene una carga viral elevada (es decir, hay una gran cantidad del virus en su sangre), el riesgo de transmisi\u00f3n es mayor. Por otro lado, si la carga viral es baja o indetectable (gracias al tratamiento antirretroviral efectivo), el riesgo de transmisi\u00f3n disminuye significativamente.\n2. Presencia de lesiones o infecciones: En caso de que la persona con VIH tenga lesiones genitales, infecciones de transmisi\u00f3n sexual (ITS) u otras afecciones que comprometan la barrera mucosa, el riesgo de transmisi\u00f3n aumenta.\n3. Pr\u00e1cticas sexuales: El tipo de pr\u00e1ctica sexual tambi\u00e9n juega un papel importante en el riesgo de transmisi\u00f3n. Por ejemplo, las relaciones sexuales receptivas (ser penetrado) conllevan un mayor riesgo que las relaciones sexuales insertivas (penetrar).\n\nPara minimizar el riesgo de transmisi\u00f3n, es fundamental:\n\n   Mantener un tratamiento antirretroviral efectivo para reducir la carga viral a niveles indetectables.\n   Usar preservativos y lubricantes adecuadamente durante las relaciones sexuales.\n   Evitar lesiones genitales y tratar cualquier infecci\u00f3n de transmisi\u00f3n sexual (ITS) de manera oportuna.\n\nRecuerda, la mejor forma de garantizar tu salud y seguridad es mediante una consulta personalizada con un profesional m\u00e9dico. Si tienes m\u00e1s preguntas o inquietudes, no dudes en consultar a tu m\u00e9dico."
+}

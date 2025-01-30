@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1les son los tratamientos disponibles actualmente para el VIH y c\u00f3mo funcionan?\n",
+    "context_info": [
+        {
+            "text": " Prevenci\u00f3n biom\u00e9dica basada en el tratamiento: El tratamiento antirretroviral \u2013tanto cuando se usa para tratar la infecci\u00f3n como cuando se emplea para prevenir la transmisi\u00f3n (profilaxis preexposici\u00f3n o postexposici\u00f3n)\u2013 es una de las herramientas m\u00e1s efectivas en la prevenci\u00f3n de la transmisi\u00f3n del VIH en la actualidad, incluso cuando no se utilizan preservativos. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
+            "_distance": 0.59639972448349
+        },
+        {
+            "text": " Tratamiento El tratamiento del CP, al igual que en la poblaci\u00f3n general, debe ser dirigido por un equipo multidisciplinar, que realizar\u00e1 la estadificaci\u00f3n y decidir\u00e1 el esquema terap\u00e9utico m\u00e1s adecuado para cada caso. Si el paciente tiene la infecci\u00f3n por VIH controlada deben utilizarse todas las estrategias disponibles, incluida la inmunoterapia con f\u00e1rmacos anti-PD1 como el pembrolizumab y el nivolumab con los que se han obtenido resultados prometedores en peque\u00f1as series de casos. ",
+            "source": "ManualClinico, section 15.2.5.",
+            "_distance": 0.6922373175621033
+        },
+        {
+            "text": " Tratamiento El tratamiento del LH en pacientes con VIH no difiere del indicado para la poblaci\u00f3n general. La pauta de elecci\u00f3n es ABVD (adriamicina, bleomicina, vincristina y dacarbazina). El PET es una excelente herramienta para guiar el tratamiento. En los casos de buena evoluci\u00f3n, se puede limitar el uso de bleomicina a los tres primeros ciclos completando el tratamiento sin este f\u00e1rmaco 33. ",
+            "source": "ManualClinico, section 14.5.2.",
+            "_distance": 0.698502779006958
+        },
+        {
+            "text": " Por otra parte, el curso de la infecci\u00f3n por el VIH/Sida ha sufrido un claro cambio desde que se dispone de un tratamiento antirretroviral (TAR) eficaz y hemos asistido a una importante reducci\u00f3n de la morbimortalidad y de la transmisi\u00f3n de la infecci\u00f3n por el VIH. Es te TAR ha evolucionado hasta unos niveles alt\u00edsimos de eficacia, tolerancia y sencillez en el 80% de las personas que viven con el VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 1.1.",
+            "_distance": 0.7220537662506104
+        },
+        {
+            "text": " Tratamiento antirretroviral A d\u00eda de hoy, la infecci\u00f3n por VIH no se puede erradicar, pero el tratamiento antirretroviral de gran actividad (TAR o TARGA) aumenta la supervivencia, retrasa la progresi\u00f3n cl\u00ednica y favorece la restauraci\u00f3n inmunol\u00f3gica. Consiste en la administraci\u00f3n, de forma combinada, de al menos tres f\u00e1rmacos y su objetivo es impedir la replicaci\u00f3n viral y mantener la carga viral plasm\u00e1tica (CVP) indetectable (\udbc0\udc01 50 copias/ml) el mayor tiempo posible. ",
+            "source": "manejo_paciente_vih_en_ap, section 13.0.",
+            "_distance": 0.7427724599838257
+        }
+    ],
+    "answer": "Excelente pregunta! A continuaci\u00f3n, te presento la informaci\u00f3n sobre los tratamientos disponibles actualmente para el VIH, basada en mi conocimiento especializado:\n\nTratamiento Antirretroviral (TAR) o Tratamiento Antirretroviral de Gran Actividad (TARGA)\n\n Objetivo: Impedir la replicaci\u00f3n viral y mantener la carga viral plasm\u00e1tica (CVP) indetectable (< 50 copias/ml) el mayor tiempo posible.\n Funcionamiento:\n\t1. Administraci\u00f3n combinada: Se prescribe una combinaci\u00f3n de al menos tres f\u00e1rmacos para atacar el virus desde diferentes \u00e1ngulos.\n\t2. Mecanismo de acci\u00f3n: Los f\u00e1rmacos antirretrovirales inhiben las enzimas esenciales para la replicaci\u00f3n del VIH, como la transcriptasa inversa, la proteasa, la integrasa, etc.\n\t3. Efectos:\n\t\t+ Aumento de la supervivencia\n\t\t+ Retraso en la progresi\u00f3n cl\u00ednica de la enfermedad\n\t\t+ Restauraci\u00f3n inmunol\u00f3gica (recuperaci\u00f3n del recuento de CD4)\n\nPrevenci\u00f3n Biom\u00e9dica basada en el Tratamiento\n\n Profilaxis Preexposici\u00f3n (PrEP): Tratamiento antirretroviral para personas sanas que est\u00e1n en alto riesgo de contraer el VIH, para prevenir la infecci\u00f3n.\n Profilaxis Postexposici\u00f3n (PEP): Tratamiento antirretroviral administrado despu\u00e9s de una posible exposici\u00f3n al VIH, para evitar la infecci\u00f3n.\n\nImportante: Aunque estos tratamientos son altamente efectivos, no curan el VIH, pero permiten controlar la enfermedad y reducir significativamente el riesgo de transmisi\u00f3n.\n\nRecuerda que es fundamental consultar a un m\u00e9dico especializado para obtener asesoramiento personalizado y ajustado a tus necesidades espec\u00edficas."
+}

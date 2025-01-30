@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfLas transfusiones de sangre todav\u00eda representan un riesgo de transmisi\u00f3n del VIH?\n",
+    "context_info": [
+        {
+            "text": "La recepci\u00f3n de transfusiones de sangre o hemoderivados procedentes de personas infectadas constituye una importante forma de transmisi\u00f3n en los pa\u00edses sin control sanitario de estos productos. En Espa\u00f1a, se realiza un control de todas las donaciones de sangre desde el a\u00f1o 1986. El uso compartido de material para la inyecci\u00f3n de drogas supone un riesgo elevado de infecci\u00f3n. Esta v\u00eda de transmisi\u00f3n actualmente predomina en los pa\u00edses B\u00e1lticos, Europa del Este y Asia Central. ",
+            "source": "ManualClinico, section 1.3.",
+            "_distance": 0.6960264444351196
+        },
+        {
+            "text": "El compartir agujas y material de inyecci\u00f3n comporta uno de los mayores riesgos de transmisi\u00f3n del VIH. Esto se debe a que es una v\u00eda directa entre la sangre de dos personas.  En el cap\u00edtulo 5 de esta gu\u00eda se muestran los distintos tipos de estructuras celulares de la piel y las membranas mucosas y c\u00f3mo se transmite el VIH a trav\u00e9s de ellas. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.7039317488670349
+        },
+        {
+            "text": "Las medidas preventivas generales est\u00e1n relacionadas con las v\u00edas de transmisi\u00f3n del VIH: \u2022 La transmisi\u00f3n por v\u00eda sangu\u00ednea se puede prevenir con el cribaje de las transfusiones y de los derivados hem\u00e1ticos, obligatorio en Espa\u00f1a desde 1986, con las medidas de precauci\u00f3n universales en la atenci\u00f3n sanitaria, y con los programas de reducci\u00f3n de da\u00f1os de las personas que se inyectan drogas. ",
+            "source": "ManualClinico, section 11.1.",
+            "_distance": 0.7078144550323486
+        },
+        {
+            "text": " Otros factores de riesgo, como la carga viral, el tipo de pr\u00e1ctica sexual, la gen\u00e9tica, etc.  Solo determinados fluidos corporales pueden transmitir la infecci\u00f3n: Los fluidos sexuales (semen y flujo vaginal).  El moco de la vagina y el ano.  La sangre.  La leche materna puede transmitir el VIH a un bebe, pero es poco probable que lo haga a un adulto.  La saliva, los esputos, la orina y las heces NO tienen capacidad de transmitir el VIH.  \u00bfCU\u00c1LES SON LAS V\u00cdAS DE TRANSMISI\u00d3N? ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.7082326412200928
+        },
+        {
+            "text": "La infecci\u00f3n por VIH se transmite por v\u00eda sangu\u00ednea (transfusiones, tratamiento con derivados hem\u00e1ticos, accidentes sanitarios y uso de drogas por v\u00eda intravenosa compartiendo material, por v\u00eda sexual (relaciones homo o heterosexuales sin preservativo o de forma vertical (de madre seropositiva no controlada a su descendencia, durante el embarazo, el parto o la lactancia ). Se ha estimado el riesgo potencial diferencial de las distintas v\u00edas de transmisi\u00f3n. ",
+            "source": "ManualClinico, section 11.1.",
+            "_distance": 0.715144157409668
+        }
+    ],
+    "answer": "En Espa\u00f1a: No\n\nSeg\u00fan mi conocimiento, en Espa\u00f1a se realiza un control sanitario exhaustivo de todas las donaciones de sangre desde 1986. Esto significa que el riesgo de transmisi\u00f3n del VIH a trav\u00e9s de transfusiones de sangre o hemoderivados en Espa\u00f1a es extremadamente bajo, pr\u00e1cticamente nulo, debido al estricto cribaje y control de las donaciones.\n\nEn otros pa\u00edses: Depende\n\nSin embargo, en pa\u00edses sin un control sanitario adecuado de los productos sangu\u00edneos, la recepci\u00f3n de transfusiones de sangre o hemoderivados procedentes de personas infectadas con VIH puede constituir una importante forma de transmisi\u00f3n del virus. La seguridad depende directamente de las medidas de cribaje y control implementadas en cada pa\u00eds."
+}

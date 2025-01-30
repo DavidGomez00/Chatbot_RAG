@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl estar indetectable equivale a ser intransmisible?\n",
+    "context_info": [
+        {
+            "text": "Es un mensaje clave: \u201cIndetectable es igual a intransmisible\u201d, que cuenta con el respaldo de todas las agencias involucradas en la atenci\u00f3n a personas con VIH, y tambi\u00e9n los beneficios que se asocian al diagn\u00f3stico y tratamientos tempranos. ",
+            "source": "ManualClinico, section 11.2.",
+            "_distance": 0.7229979038238525
+        },
+        {
+            "text": " TRATAMIENTO COMO PREVENCI\u00d3N (I=I) Las siglas I=I significan \u2018indetectable (carga viral) es igual a intransmisible (VIH)\u2019 y hacen referencia al efecto preventivo del tratamiento antirretroviral. As\u00ed, las personas con el VIH que toman tratamiento antirretroviral y tienen la carga viral indetectable no transmiten el virus en sus relaciones sexuales, incluso en el caso de no utilizar preservativos. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 10.0.",
+            "_distance": 0.7324079871177673
+        },
+        {
+            "text": "En ese grupo de \u2018terceras personas\u2019 se incluye a las f\u00edsicas y a las jur\u00eddicas (compa\u00f1\u00edas de seguros o la empresa en la que se trabaja) y a los distintos organismos que componen la Administraci\u00f3n p\u00fablica. Esta respuesta se apoya adem\u00e1s en un contexto m\u00e9dico y cient\u00edfico en el que las v\u00edas de transmisi\u00f3n ya han sido identificadas, se conocen las medidas generales de prevenci\u00f3n y se ha confirmado que indetectable=no transmisible. ",
+            "source": "ManualClinico, section 34.2.",
+            "_distance": 0.848207414150238
+        },
+        {
+            "text": " En cambio, una persona que reciba tratamiento ver\u00e1 c\u00f3mo su carga viral se reduce hasta alcanzar la \u201cindetectabilidad\u201d, es decir, por debajo del nivel de detecci\u00f3n en las pruebas de laboratorio \u2013por lo general, 50 copias/mL, pero incluso por debajo de las 20 copias/mL dependiendo del tipo de tecnolog\u00eda utilizada\u2013 (v\u00e9anse las Figuras 4 y 5). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8617878556251526
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.884197473526001
+        }
+    ],
+    "answer": "S\u00ed, seg\u00fan el conocimiento cient\u00edfico y m\u00e9dico actual, \"Indetectable es igual a Intransmisible\" (I=I). Esto significa que una persona con VIH que:\n\n1. Est\u00e1 tomando tratamiento antirretroviral, y\n2. Tiene una carga viral indetectable (por debajo del nivel de detecci\u00f3n en pruebas de laboratorio, generalmente <50 copias/mL o incluso <20 copias/mL dependiendo de la tecnolog\u00eda utilizada),\n\nNo transmite el VIH en sus relaciones sexuales, incluso si no se utilizan preservativos. Este efecto preventivo es una parte fundamental del concepto \"Tratamiento como Prevenci\u00f3n\" (TasP). Sin embargo, es importante recordar que esto se aplica espec\u00edficamente a la transmisi\u00f3n del VIH y no ofrece protecci\u00f3n contra otras infecciones de transmisi\u00f3n sexual (ITS)."
+}

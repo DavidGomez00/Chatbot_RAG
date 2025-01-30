@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEs posible contraer VIH si ambas personas en una relaci\u00f3n sexual est\u00e1n en tratamiento?\n",
+    "context_info": [
+        {
+            "text": "Tambi\u00e9n dej\u00f3 patente que el virus no se transmite con facilidad, incluso manteniendo pr\u00e1cticas sexuales sin preservativo con una persona con el VIH que no toma tratamiento antirretroviral.  CUANDO LOS DOS MIEMBROS DE LA PAREJA TIENEN EL VIH: \u00bfSE PUEDE PRODUCIR UNA REINFECCI\u00d3N?  Muchas personas con el VIH tienen parejas sexuales que tambi\u00e9n son seropositivas. En estos casos, suele desaparecer la ansiedad o preocupaci\u00f3n por la transmisi\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.50660240650177
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.5221892595291138
+        },
+        {
+            "text": "Hay muchas parejas cuyo estado serol\u00f3gico al VIH es diferente (es decir, en un miembro es positivo y en el otro, negativo) que disfrutan de una vida sexual plena y activa sin riesgo de infecci\u00f3n.  El riesgo de transmisi\u00f3n del VIH cuando no se toma tratamiento antirretroviral.  Un estudio realizado en 1994 examin\u00f3 las tasas de transmisi\u00f3n del virus en m\u00e1s de 250 parejas heterosexuales mon\u00f3gamas, donde un miembro ten\u00eda el VIH y el otro no. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.5983158349990845
+        },
+        {
+            "text": "Una persona puede infectarse despu\u00e9s de una \u00fanica exposici\u00f3n al virus, mientras que otra puede tener numerosas exposiciones a lo largo de los a\u00f1os y aun as\u00ed no adquirir el VIH. En muchas circunstancias, no es f\u00e1cil explicar por qu\u00e9 sucede.  Incluso en los casos de parejas en las que un miembro tiene el VIH con carga viral detectable y el otro es seronegativo, el riesgo de transmisi\u00f3n por no usar un cond\u00f3n una sola vez, puede ser solo del 0,2% (o de 1 entre 500). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6539756059646606
+        },
+        {
+            "text": "Esto significa que si una persona con VIH revelase a otra su estado de salud, y ambas aceptasen mantener relaciones sexuales sin adoptar las medidas de prevenci\u00f3n de la transmisi\u00f3n, el eventual resultado de infecci\u00f3n de VIH se considerar\u00eda impune (Auto del Tribunal Supremo, Sala Segunda, 15 de septiembre de 2005). ",
+            "source": "ManualClinico, section 34.3.",
+            "_distance": 0.6575993895530701
+        }
+    ],
+    "answer": "S\u00ed, es posible, aunque extremadamente improbable, contraer VIH de nuevo (reinfecci\u00f3n) incluso si ambas personas en una relaci\u00f3n sexual tienen el VIH y est\u00e1n en tratamiento antirretroviral. Sin embargo, hay un importante matiz:\n\n   Carga viral indetectable: Si ambos miembros de la pareja tienen su carga viral bajo control (indetectable) gracias al tratamiento antirretroviral, el riesgo de transmitirse el VIH entre s\u00ed es pr\u00e1cticamente nulo.\n   Reinfecci\u00f3n: Aun as\u00ed, existe una peque\u00f1a posibilidad de reinfecci\u00f3n, es decir, adquirir una nueva cepa del virus. Esto puede ocurrir si, por ejemplo, uno de los miembros de la pareja tiene una carga viral detectable durante un per\u00edodo (debido a problemas con el tratamiento) y mantiene relaciones sexuales sin protecci\u00f3n.\n\nPara minimizar al m\u00e1ximo el riesgo de transmisi\u00f3n o reinfecci\u00f3n, es crucial:\n\n1.  Cumplir estrictamente con el tratamiento antirretroviral para mantener la carga viral indetectable.\n2.  Realizar pruebas de VIH regulares para detectar cualquier posible cambio en el estado serol\u00f3gico.\n3.  Mantener una comunicaci\u00f3n abierta y honesta dentro de la pareja sobre el estado de salud y cualquier inquietud relacionada con el VIH.\n\nRecuerda que, aunque el riesgo es extremadamente bajo si se sigue el tratamiento correctamente, no es cero. La mejor estrategia para protegerse a s\u00ed mismo y a los dem\u00e1s es seguir las recomendaciones m\u00e9dicas al pie de la letra."
+}

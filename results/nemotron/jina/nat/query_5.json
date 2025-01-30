@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1nto tiempo tarda en aparecer el SIDA despu\u00e9s de contraer el VIH?\n",
+    "context_info": [
+        {
+            "text": "Tras 2-6 semanas de la inoculaci\u00f3n la mayor\u00eda de los pacientes alcanzan una carga viral muy elevada en plasma. Se puede detectar el ant\u00edgeno p24 del VIH y virones circulantes mediante la cuantificaci\u00f3n de copias de RNA-VIH-1 (carga viral). Aunque suele pasar desapercibido, en m\u00e1s de la mitad de los pacientes aparece un s\u00edndrome retroviral agudo similar al s\u00edndrome mononucle\u00f3sido y de duraci\u00f3n inferior a 2-3 semanas. La intensidad de este se ha relacionado con un mayor riesgo de progresi\u00f3n a SIDA. ",
+            "source": "ManualClinico, section 1.4.",
+            "_distance": 0.74298095703125
+        },
+        {
+            "text": "Pr\u00e1cticamente al mismo tiempo que aparece el ARN del VIH, se puede detectar el ADN del VIH integrado en el genoma celular (llamado \u2018ADN proviral\u2019).  La primera prote\u00edna del VIH que aparece en sangre a los 1113 d\u00edas es el ant\u00edgeno p24 y se puede detectar, aproximadamente, durante un mes y medio.  Los anticuerpos se detectan en sangre a las 3 o 4 semanas de la infecci\u00f3n, con una media de 22 d\u00edas, y alcanzan su concentraci\u00f3n m\u00e1xima a las 1012 semanas. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 12.0.",
+            "_distance": 0.7609723210334778
+        },
+        {
+            "text": "\n Validez diagn\u00f3stica de los signos y s\u00edntomas de la infecci\u00f3n aguda por VIH Los s\u00edntomas de primoinfecci\u00f3n o seroconversi\u00f3n ocurren en un porcentaje variable de individuos entre dos y cuatro semanas despu\u00e9s de la infecci\u00f3n, no obstante estos s\u00edntomas son inespec\u00edficos, y aunque el paciente acuda al sistema sanitario no se considera la sospecha de infecci\u00f3n por VIH, dado que se resuelven espont\u00e1neamente en 2 \u00f3 3 semanas. ",
+            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_Anexo1, section 1.0.",
+            "_distance": 0.779197096824646
+        },
+        {
+            "text": "Desde el punto de vista biol\u00f3gico, en la mayor\u00eda de los individuos persiste la replicaci\u00f3n viral a velocidad variable y una disminuci\u00f3n progresiva de los linfocitos CD4.  Sin TAR, el 80% de los pacientes desarrollan sida entre 3 y 10 a\u00f1os, siendo la mediana de 10 a\u00f1os. La velocidad de progresi\u00f3n es variable, de forma que un 20% progresan a sida en menos de 5 a\u00f1os (progresores r\u00e1pidos) y hasta casi el 20% se mantienen asintom\u00e1ticos y con recuento de linfocitos CD4 mayor de 500 c/ml despu\u00e9s de los 10 a\u00f1os. ",
+            "source": "manejo_paciente_vih_en_ap, section 6.2.",
+            "_distance": 0.794011116027832
+        },
+        {
+            "text": " D\u00cdA 22: Anticuerpos. Se detectan a las 34 semanas (promedio de 22 d\u00edas); en el 95% de las personas se detectan a las 4 semanas y en el 99,7%, a las 12 semanas.  Los resultados de las pruebas de anticuerpos del VIH no se ven afectadas por otras circunstancias. Esto incluye infecciones, medicaciones, vacunaciones, aumento de peso, comer o beber antes de la prueba, consumir alcohol o drogas recreativas, usar colutorio bucal o el momento del d\u00eda. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 13.0.",
+            "_distance": 0.80281662940979
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, sin tratamiento antirretroviral (TAR), el tiempo que transcurre desde la infecci\u00f3n por VIH hasta el desarrollo del S\u00edndrome de Inmunodeficiencia Adquirida (SIDA) es variable. Sin embargo, puedo proporcionarte los siguientes datos estad\u00edsticos:\n\n En aproximadamente un 80% de los pacientes sin tratamiento, se desarrolla SIDA entre 3 y 10 a\u00f1os despu\u00e9s de la infecci\u00f3n por VIH.\n La mediana de tiempo hasta el desarrollo del SIDA es de 10 a\u00f1os.\n Existen variaciones significativas en la velocidad de progresi\u00f3n:\n\t+ Un 20% de los pacientes progresan r\u00e1pidamente al SIDA en menos de 5 a\u00f1os (progresores r\u00e1pidos).\n\t+ Hasta un 20% de los pacientes pueden mantenerse asintom\u00e1ticos y con un recuento de linfocitos CD4 mayor de 500 c/ml despu\u00e9s de m\u00e1s de 10 a\u00f1os."
+}

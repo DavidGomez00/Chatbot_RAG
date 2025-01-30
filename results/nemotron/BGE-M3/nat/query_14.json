@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi una persona con VIH se siente sana, a\u00fan puede transmitir el virus? \n",
+    "context_info": [
+        {
+            "text": "Tambi\u00e9n dej\u00f3 patente que el virus no se transmite con facilidad, incluso manteniendo pr\u00e1cticas sexuales sin preservativo con una persona con el VIH que no toma tratamiento antirretroviral.  CUANDO LOS DOS MIEMBROS DE LA PAREJA TIENEN EL VIH: \u00bfSE PUEDE PRODUCIR UNA REINFECCI\u00d3N?  Muchas personas con el VIH tienen parejas sexuales que tambi\u00e9n son seropositivas. En estos casos, suele desaparecer la ansiedad o preocupaci\u00f3n por la transmisi\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.5504341125488281
+        },
+        {
+            "text": "Una persona puede infectarse despu\u00e9s de una \u00fanica exposici\u00f3n al virus, mientras que otra puede tener numerosas exposiciones a lo largo de los a\u00f1os y aun as\u00ed no adquirir el VIH. En muchas circunstancias, no es f\u00e1cil explicar por qu\u00e9 sucede.  Incluso en los casos de parejas en las que un miembro tiene el VIH con carga viral detectable y el otro es seronegativo, el riesgo de transmisi\u00f3n por no usar un cond\u00f3n una sola vez, puede ser solo del 0,2% (o de 1 entre 500). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6050181984901428
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6125931143760681
+        },
+        {
+            "text": " La carga viral est\u00e1 muy elevada durante el periodo de seroconversi\u00f3n (los primeros meses tras la infecci\u00f3n).  CUANDO LOS DOS MIEMBROS DE LA PAREJA NO TIENEN EL VIH Para que exista un riesgo de transmisi\u00f3n debe estar presente el VIH. Si las dos personas no tienen el virus, la transmisi\u00f3n no puede producirse.  Algunas parejas mon\u00f3gamas que son negativas al VIH pueden decidir no utilizar el preservativo y mantener relaciones sexuales solo entre ellos. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6203934550285339
+        },
+        {
+            "text": "Aunque el VIH se puede detectar en este l\u00edquido, es poco probable que haya una cantidad suficiente como para provocar la infecci\u00f3n.  El VIH no se transmite por los besos, ni siquiera por los besos profundos. El virus tampoco se transmite por escupir.  Aire: El VIH no se transmite a trav\u00e9s del aire.  Por otro lado, conviene recordar que muchas pr\u00e1cticas sexuales no suponen un riesgo de transmisi\u00f3n del VIH. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
+            "_distance": 0.6221181154251099
+        }
+    ],
+    "answer": "S\u00ed, incluso si una persona con VIH se siente sana y no presenta s\u00edntomas, puede seguir transmitiendo el virus. La presencia de s\u00edntomas no es un indicador confiable de la capacidad de transmisi\u00f3n del VIH.\n\nLo que realmente importa para determinar el riesgo de transmisi\u00f3n es:\n\n1. Carga viral: Si la persona con VIH tiene una carga viral detectable, existe un riesgo de transmisi\u00f3n, especialmente si no se utilizan medidas de protecci\u00f3n como condones.\n2. Tratamiento antirretroviral (TAR): Si la persona con VIH est\u00e1 tomando tratamiento antirretroviral y tiene una carga viral indetectable, el riesgo de transmisi\u00f3n es muy bajo, casi nulo.\n\nEs crucial recordar que:\n\n La ausencia de s\u00edntomas no significa que el virus no sea transmisible.\n El uso de condones y otras pr\u00e1cticas sexuales seguras sigue siendo recomendado para prevenir la transmisi\u00f3n del VIH, especialmente si la carga viral es detectable o desconocida.\n El tratamiento antirretroviral no solo beneficia a la persona con VIH, sino que tambi\u00e9n juega un papel crucial en la prevenci\u00f3n de la transmisi\u00f3n del virus."
+}

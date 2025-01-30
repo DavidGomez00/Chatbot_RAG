@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl VIH solo afecta a ciertos grupos de personas, como los que consumen drogas o las personas homosexuales?\n",
+    "context_info": [
+        {
+            "text": " Las gu\u00edas de cribado actuales identifican como personas expuestas a un mayor riesgo de adquirir la infecci\u00f3n por el VIH a los hombres gays, bisexuales y hombres que tienen sexo con otros hombres (GBHSH), a las personas con m\u00faltiples parejas, a los migrantes originarios de pa\u00edses con elevada prevalencia de infecci\u00f3n por el VIH, a las personas que se inyectan drogas, a las personas trabajadoras del sexo y a las personas transg\u00e9nero. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 0.6903191208839417
+        },
+        {
+            "text": "Esta desafortunada situaci\u00f3n puede implicar consecuencias negativas para el estado psicol\u00f3gico y emocional de las personas con VIH11. Ideas asociadas al estigma por VIH se han relacionado t\u00edpicamente a la forma de infectarse, principalmente por el hecho ser usuario de drogas por v\u00eda parenteral, o relacionadas con creencias sobre las conductas sexuales. ",
+            "source": "ManualClinico, section 25.4.",
+            "_distance": 0.7122741341590881
+        },
+        {
+            "text": " Estigma y soledad asociados al VIH La infecci\u00f3n por VIH se ha caracterizado hist\u00f3ricamente por una fuerte connotaci\u00f3n social y gran impacto estigmatizante por parte de la sociedad. Afortunadamente, esta realidad ha ido cambiando a lo largo de los a\u00f1os, gracias principalmente a los avances logrados en la morbi/ mortalidad de la enfermedad. No obstante, a\u00fan hoy en d\u00eda existen creencias err\u00f3neas sobre la infecci\u00f3n y, desgraciadamente, actos discriminatorios a m\u00faltiples niveles. ",
+            "source": "ManualClinico, section 25.4.",
+            "_distance": 0.7321019172668457
+        },
+        {
+            "text": " Otros grupos vulnerables que se ven afectados por condicionantes sociales son la comunidad LGTBI+, que precisan medidas como la promoci\u00f3n del diagn\u00f3stico precoz, desde centros comunitarios dirigidos a HGBHSH y mujeres trans; las personas que se inyectan drogas y/o con consumo problem\u00e1tico, cargan con el doble estigma relacionado con el VIH y el consumo de drogas; la poblaci\u00f3n migrante, racializada y/o en situaci\u00f3n administrativa irregular, en muchas ocasiones suman el verse afectadas por el racismo, la xenofobia, y la inequidad territorial en la atenci\u00f3n que reciben. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7333695888519287
+        },
+        {
+            "text": "Si, por el contrario, no ha conseguido una recuperaci\u00f3n inmunol\u00f3gica (CD4 <200/\u00b5L) existe riesgo, por lo que debemos asegurarnos de que est\u00e1 recibiendo la profilaxis adecuada o prescribirla.  No podemos explicar de forma exhaustiva todas las enfermedades infecciosas que pueden afectar a un paciente VIH por limitaci\u00f3n de espacio. Se pueden consultar gu\u00edas m\u00e1s completas (ver bibliograf\u00eda).  Vamos a comentar someramente 3 grupos de enfermedades infecciosas. Al final se incluye una tabla resumen. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7380659580230713
+        }
+    ],
+    "answer": "No, el VIH no afecta exclusivamente a ciertos grupos de personas. Aunque es cierto que algunas poblaciones pueden tener un mayor riesgo de exposici\u00f3n al virus debido a sus comportamientos, pr\u00e1cticas o condiciones sociales, cualquier persona puede contraer el VIH si se expone al virus de manera efectiva.\n\nLos grupos mencionados en las gu\u00edas de cribado como aquellos con un \"mayor riesgo\" de adquirir la infecci\u00f3n por el VIH, como:\n\n- Hombres gays, bisexuales y hombres que tienen sexo con otros hombres (GBHSH)\n- Personas con m\u00faltiples parejas\n- Migrantes originarios de pa\u00edses con elevada prevalencia de infecci\u00f3n por el VIH\n- Personas que se inyectan drogas\n- Personas trabajadoras del sexo\n- Personas transg\u00e9nero\n\ntienen un mayor riesgo debido a factores como:\n\n Comportamientos sexuales sin protecci\u00f3n (por ejemplo, relaciones sexuales sin cond\u00f3n)\n Uso compartido de equipo para inyecci\u00f3n de drogas\n Mayor n\u00famero de parejas sexuales\n Contextos sociales que pueden limitar el acceso a informaci\u00f3n, recursos y servicios de salud\n\nSin embargo, cualquier persona que:\n\n- Tenga relaciones sexuales desprotegidas (sin cond\u00f3n) con una persona infectada con VIH\n- Comparta agujas o equipo para inyectar drogas con alguien que tiene VIH\n- Reciba una transfusi\u00f3n de sangre contaminada (aunque esto es extremadamente raro en la mayor\u00eda de los pa\u00edses debido a rigurosos controles de seguridad)\n- Sea hija/o de una madre con VIH y no reciba profilaxis adecuada durante el embarazo, parto o lactancia\n\ntambi\u00e9n puede contraer el VIH.\n\nEs fundamental entender que el riesgo se asocia m\u00e1s a los comportamientos y exposiciones espec\u00edficas que a la pertenencia a un grupo en particular. La prevenci\u00f3n, el diagn\u00f3stico precoz y el tratamiento son clave para controlar la infecci\u00f3n por VIH, independientemente del grupo al que se pertenezca. \n\nPara cualquier inquietud sobre su situaci\u00f3n personal o para m\u00e1s detalles espec\u00edficos, le recomiendo consultar a un m\u00e9dico o profesional de la salud."
+}

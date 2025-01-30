@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi alguien con VIH sigue el tratamiento adecuadamente, puede llegar a no transmitir el virus a otras personas?\n",
+    "context_info": [
+        {
+            "text": "El tratamiento precoz no s\u00f3lo proporciona beneficio en la salud individual de la persona que lo recibe, sino que beneficia a la sociedad ya que las personas con supresi\u00f3n viral prolongada del VIH no pueden transmitir la infecci\u00f3n a otras personas, incluso en el contexto de pr\u00e1cticas sexuales o de inyecci\u00f3n de riesgo, o en el caso de la transmisi\u00f3n vertical. ",
+            "source": "ManualClinico, section 11.2.",
+            "_distance": 0.5681217908859253
+        },
+        {
+            "text": " Si la persona con el VIH tiene la carga viral indetectable gracias al tratamiento antirretroviral, el riesgo de transmisi\u00f3n es cero, incluso si no se emplean preservativos.  Si la persona sin el VIH toma la PrEP frente al virus de forma apropiada, entonces el riesgo de transmisi\u00f3n se reduce de forma espectacular, incluso cuando no se utilizan preservativos. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.5694480538368225
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.5755037069320679
+        },
+        {
+            "text": "De ah\u00ed que sea necesario abordar ambas cuestiones desde el enfoque que proporciona la respuesta al VIH basada en los derechos partiendo de la evidencia cient\u00edfica de distintos estudios como los Partner, en los que se pone de manifiesto que una persona con VIH que toma correctamente el tratamiento antirretroviral y presenta carga viral indetectable de forma continuada no transmite el virus aunque mantenga relaciones sexuales sin preservativo. ",
+            "source": "ManualClinico, section 34.1.",
+            "_distance": 0.590981662273407
+        },
+        {
+            "text": "Hay muchas parejas cuyo estado serol\u00f3gico al VIH es diferente (es decir, en un miembro es positivo y en el otro, negativo) que disfrutan de una vida sexual plena y activa sin riesgo de infecci\u00f3n.  El riesgo de transmisi\u00f3n del VIH cuando no se toma tratamiento antirretroviral.  Un estudio realizado en 1994 examin\u00f3 las tasas de transmisi\u00f3n del virus en m\u00e1s de 250 parejas heterosexuales mon\u00f3gamas, donde un miembro ten\u00eda el VIH y el otro no. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6251558661460876
+        }
+    ],
+    "answer": "S\u00ed, es absolutamente posible. De hecho, est\u00e1 cient\u00edficamente comprobado que si una persona con VIH sigue el tratamiento antirretroviral de forma correcta y logra suprimir su carga viral hasta niveles indetectables, el riesgo de transmitir el virus a otras personas es cero, incluso en situaciones de pr\u00e1cticas sexuales o de inyecci\u00f3n de riesgo, o en el caso de transmisi\u00f3n vertical (de madre a hijo durante el embarazo, parto o lactancia).\n\nEsto ha sido ampliamente demostrado por estudios como el estudio Partner, entre otros, que han puesto de manifiesto la efectividad del tratamiento antirretroviral no solo para mejorar la salud individual de la persona con VIH, sino tambi\u00e9n para prevenir la transmisi\u00f3n del virus a otras personas.\n\nPor lo tanto, si alguien con VIH:\n\n1. Sigue el tratamiento antirretroviral adecuadamente.\n2. Logra una carga viral indetectable de forma continuada.\n\nEntonces, no puede transmitir el VIH, incluso sin el uso de preservativos, en el contexto de relaciones sexuales o en otras situaciones de riesgo. Sin embargo, es importante recordar que este escenario solo se aplica a la transmisi\u00f3n del VIH y no protege contra otras infecciones de transmisi\u00f3n sexual (ITS)."
+}

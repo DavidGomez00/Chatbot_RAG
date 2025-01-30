@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento antirretroviral (ARV) puede eliminar por completo el VIH del cuerpo?\n",
+    "context_info": [
+        {
+            "text": " Tratamiento antirretroviral A d\u00eda de hoy, la infecci\u00f3n por VIH no se puede erradicar, pero el tratamiento antirretroviral de gran actividad (TAR o TARGA) aumenta la supervivencia, retrasa la progresi\u00f3n cl\u00ednica y favorece la restauraci\u00f3n inmunol\u00f3gica. Consiste en la administraci\u00f3n, de forma combinada, de al menos tres f\u00e1rmacos y su objetivo es impedir la replicaci\u00f3n viral y mantener la carga viral plasm\u00e1tica (CVP) indetectable (\udbc0\udc01 50 copias/ml) el mayor tiempo posible. ",
+            "source": "manejo_paciente_vih_en_ap, section 13.0.",
+            "_distance": 0.6221296191215515
+        },
+        {
+            "text": " Esta constataci\u00f3n, que ha sido confirmada por la ciencia, ha servido como est\u00edmulo para que muchas personas con el VIH puedan mejorar la imagen que tienen de s\u00ed mismas y reducir la ansiedad a la hora de mantener relaciones sexuales.  Varios son los estudios y ensayos que han permitido demostrar este hallazgo. Por un lado, en 2011, el estudio HPTN052 realizado en parejas heterosexuales serodiscordantes hall\u00f3 que el tratamiento antirretroviral reduc\u00eda el riesgo de transmisi\u00f3n del VIH en un 93%. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 10.0.",
+            "_distance": 0.7180192470550537
+        },
+        {
+            "text": " Por otra parte, el curso de la infecci\u00f3n por el VIH/Sida ha sufrido un claro cambio desde que se dispone de un tratamiento antirretroviral (TAR) eficaz y hemos asistido a una importante reducci\u00f3n de la morbimortalidad y de la transmisi\u00f3n de la infecci\u00f3n por el VIH. Es te TAR ha evolucionado hasta unos niveles alt\u00edsimos de eficacia, tolerancia y sencillez en el 80% de las personas que viven con el VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 1.1.",
+            "_distance": 0.7264414429664612
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7307518720626831
+        },
+        {
+            "text": " El reservorio celular del VIH La erradicaci\u00f3n del VIH no es posible con los tratamientos actuales debido a los mecanismos de persistencia viral en sus c\u00e9lulas diana. La prueba m\u00e1s concluyente de esta afirmaci\u00f3n se observa al interrumpir el TAR en un paciente con viremia controlada durante a\u00f1os, en los que se produce en pocos d\u00edas un repunte de la carga viral a niveles similares a los previos al iniciar el TAR. ",
+            "source": "ManualClinico, section 3.5.",
+            "_distance": 0.7341172695159912
+        }
+    ],
+    "answer": "No, seg\u00fan mi conocimiento actualizado, el tratamiento antirretroviral de gran actividad (TAR o TARGA) no puede erradicar completamente el VIH del cuerpo. Aunque aumenta la supervivencia, retrasa la progresi\u00f3n cl\u00ednica y favorece la restauraci\u00f3n inmunol\u00f3gica, su objetivo principal es impedir la replicaci\u00f3n viral y mantener la carga viral plasm\u00e1tica (CVP) indetectable (< 50 copias/ml) el mayor tiempo posible.\n\nLa raz\u00f3n por la que no se puede erradicar el VIH con los tratamientos actuales se debe a los mecanismos de persistencia viral en las c\u00e9lulas diana, conocido como el \"reservorio celular del VIH\". Esto queda demostrado cuando, al interrumpir el TAR en un paciente con viremia controlada durante a\u00f1os, se produce un r\u00e1pido repunte de la carga viral a niveles similares a los previos al iniciar el tratamiento."
+}

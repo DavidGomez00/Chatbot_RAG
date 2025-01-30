@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 es exactamente el VIH y en qu\u00e9 se diferencia del SIDA?\n",
+    "context_info": [
+        {
+            "text": "Como se ha podido comprobar en distintos estudios, el VIH es un virus que tiene capacidad de penetrar en el interior del sistema nervioso central (SNC) y una vez all\u00ed de infectar c\u00e9lulas que expresen receptores CCR5 en su superficie. Ya durante la primo infecci\u00f3n, el VIH penetra a trav\u00e9s de la barrera hematoencef\u00e1lica y puede ser detectado a nivel del l\u00edquido cefalorraqu\u00eddeo (LCR). ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.654498279094696
+        },
+        {
+            "text": " VIH-2: 9 grupos y 2 recombinantes Aunque el VIH-2 tambi\u00e9n es capaz de causar SIDA, presenta importantes diferencias con el VIH-1: es menos patog\u00e9nico, presenta per\u00edodos de latencia cl\u00ednica m\u00e1s largos, progresi\u00f3n m\u00e1s lenta y menores tasas de transmisi\u00f3n horizontal y vertical. El VIH-2 se clasifica en 9 grupos (A- I), representando cada grupo un \u00fanico evento de transmisi\u00f3n del virus entre especies, y 2 formas recombinantes. Los grupos A y B son los m\u00e1s prevalentes. ",
+            "source": "ManualClinico, section 2.3.2.",
+            "_distance": 0.6644178628921509
+        },
+        {
+            "text": " Introducci\u00f3n El virus de la inmunodeficiencia humana tipo 2 (VIH-2) es un retrovirus gen\u00e9ticamente cercano al VIH-1, el agente etiol\u00f3gico m\u00e1s conocido del s\u00edndrome de inmunodeficiencia adquirida (SIDA). Est\u00e1 formado por al menos 9 grupos diferentes (a, b, c, d, e, f, g, h, i) siendo los grupos a y b los m\u00e1s prevalentes. Al comparar el VIH-1 y VIH-2 existen importantes diferencias estructurales que influyen en la patogenicidad, historia natural y tratamiento de los mismos. ",
+            "source": "ManualClinico, section 5.1.",
+            "_distance": 0.674217700958252
+        },
+        {
+            "text": " Origen del Virus de la Inmunodeficiencia Humana (VIH) El VIH pertenece al g\u00e9nero Lentivirus dentro de la familia Retroviridae . Se clasifica en dos tipos: VIH-1 y VIH-2, con un 40-50% de homolog\u00eda y una organizaci\u00f3n gen\u00f3mica similar. Ambos grupos provienen de diferentes saltos inter-especie de virus que infectan en la naturaleza a poblaciones de simios en \u00c1frica. ",
+            "source": "ManualClinico, section 2.1.1.",
+            "_distance": 0.6947276592254639
+        },
+        {
+            "text": "As\u00ed, mientras que el VIH-1 ha producido una epidemia a escala mundial, el VIH-2, menos patog\u00e9nico y transmisible, se encuentra aun pr\u00e1cticamente confinado en la regi\u00f3n occidental de \u00c1frica. El VIH-2 tambi\u00e9n puede ocasionar el SIDA, pero de forma m\u00e1s lenta, generalmente tras m\u00e1s de 20 a\u00f1os de infecci\u00f3n. Algunos de los antirretrovirales utilizados para tratar el VIH-1 no son activos frente al VIH-2. ",
+            "source": "ManualClinico, section 5.1.",
+            "_distance": 0.702379584312439
+        }
+    ],
+    "answer": "VIH (Virus de la Inmunodeficiencia Humana):\n\nEl VIH es un retrovirus que pertenece al g\u00e9nero Lentivirus dentro de la familia Retroviridae. Su principal caracter\u00edstica es su capacidad para penetrar y infectar c\u00e9lulas del sistema inmunitario, espec\u00edficamente aquellas con receptores CCR5 en su superficie, como algunas c\u00e9lulas del sistema nervioso central. El VIH se transmite de persona a persona a trav\u00e9s de fluidos corporales (sangre, semen, l\u00edquido vaginal, leche materna) y puede ser detectado en el l\u00edquido cefalorraqu\u00eddeo (LCR) desde la etapa inicial de la infecci\u00f3n.\n\nSIDA (S\u00edndrome de Inmunodeficiencia Adquirida):\n\nEl SIDA es la fase m\u00e1s avanzada de la infecci\u00f3n por VIH, caracterizada por un colapso severo del sistema inmunitario. En este estadio, el cuerpo ya no puede defenderse contra infecciones oportunistas y ciertos tipos de c\u00e1ncer. El SIDA se desarrolla cuando el VIH ha debilitado significativamente el sistema inmunitario, espec\u00edficamente reduciendo dr\u00e1sticamente la cuenta de linfocitos CD4+, lo que permite el surgimiento de enfermedades asociadas al SIDA.\n\nDiferencias clave entre VIH y SIDA:\n\n1. Causa vs. Efecto: El VIH es el virus que causa la infecci\u00f3n, mientras que el SIDA es el s\u00edndrome que resulta de la progresi\u00f3n de dicha infecci\u00f3n.\n2. Estado del Sistema Inmunitario: En la infecci\u00f3n por VIH, el sistema inmunitario puede estar a\u00fan relativamente intacto, especialmente en las etapas iniciales o con tratamiento antirretroviral efectivo. En el SIDA, el sistema inmunitario est\u00e1 severamente da\u00f1ado.\n3. Presencia de Enfermedades Oportunistas: El SIDA se caracteriza por la presencia de infecciones oportunistas y ciertos c\u00e1nceres que el cuerpo no puede combatir debido a su debilitado sistema inmunitario. En las etapas tempranas de la infecci\u00f3n por VIH, estas enfermedades pueden no estar presentes.\n4. Tratamiento y Pron\u00f3stico: Con tratamiento antirretroviral eficaz, es posible controlar el VIH y prevenir su progresi\u00f3n a SIDA. Una vez desarrollado el SIDA, el enfoque del tratamiento se centra en manejar las enfermedades oportunistas y mejorar la calidad de vida, aunque el pron\u00f3stico generalmente es m\u00e1s reservedo que para aquellos con infecci\u00f3n por VIH controlada."
+}

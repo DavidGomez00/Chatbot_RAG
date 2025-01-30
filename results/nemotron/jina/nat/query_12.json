@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfExisten vacunas para prevenir el VIH como las hay para otras enfermedades?\n",
+    "context_info": [
+        {
+            "text": " Vacunas preventivas frente al VIH Todas las medidas comentadas en este cap\u00edtulo para prevenir la infecci\u00f3n por VIH son m\u00e1s eficaces si se utilizan de forma complementaria. Existen datos de modelos matem\u00e1ticos que sugieren que la existencia de una vacuna preventiva eficaz, junto a las medidas ya existentes, puede acelerar el objetivo final de controlar la epidemia de VIH en el mundo. Desde el inicio de la epidemia se han realizado 4 ensayos cl\u00ednicos fases IIb/III. ",
+            "source": "ManualClinico, section 11.5.",
+            "_distance": 0.5947242975234985
+        },
+        {
+            "text": " Vacunaci\u00f3n En el cuidado de los pacientes con el VIH se debe incluir un calendario vacunal; se tendr\u00e1 en cuenta el efecto del VIH sobre la inmunogenicidad de las vacunas y su seguridad en la inmunodepresi\u00f3n, por lo tanto, se debe valorar siempre riesgo/beneficio. En la Tabla 3 se resumen las recomendaciones nacionales e internacionales. Cabe destacar el uso de la vacuna contra el SARS-CoV2 en pacientes con VIH. ",
+            "source": "ManualClinico, section 7.6.",
+            "_distance": 0.648341953754425
+        },
+        {
+            "text": "El problema no radica tanto en la vacunaci\u00f3n, aunque en m\u00e1s ocasiones de las deseables los pacientes no son vacunados ni en AH ni en AP, sino en obtener certeza de protecci\u00f3n tras la vacuna, pues la respuesta inmune a \u00e9sta puede ser significativamente menor en la poblaci\u00f3n VIH no tratada o, en particular, en aquellos con mayor inmunodepresi\u00f3n. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6943814754486084
+        },
+        {
+            "text": "Bien es cierto que no es posible hacer serolog\u00edas o monitorizar todas las vacunas indicadas en el calendario vacunal habitual. A continuaci\u00f3n, se describen las pautas recomendadas para monitorizar el estadovacunal de alguna de ellas en pacientes VIH.  Difteria Mismas recomendaciones que en poblaci\u00f3n general. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7030240893363953
+        },
+        {
+            "text": " Vacunaci\u00f3n El viajero con infecci\u00f3n por VIH debe recibir, por lo general, las mismas recomendaciones de vacunaci\u00f3n cuando viaja que las personas no-VIH, aunque cabe destacar que tiene mayor riesgo de presentar complicaciones graves de muchas de las enfermedades prevenibles con determinadas vacunas o profilaxis, por lo que la necesidad de una adecuada cobertura vacunal es mayor a la poblaci\u00f3n general. ",
+            "source": "ManualClinico, section 29.3.",
+            "_distance": 0.7207610011100769
+        }
+    ],
+    "answer": "Existen intentos de desarrollo, pero no existe a\u00fan una vacuna preventiva eficaz y aprobada ampliamente contra el VIH. Desde el inicio de la epidemia, se han llevado a cabo 4 ensayos cl\u00ednicos en fases IIb/III, buscando encontrar una vacuna efectiva. Sin embargo, hasta la fecha de mi \u00faltima actualizaci\u00f3n, no hay una vacuna disponible para prevenir la infecci\u00f3n por VIH como existen para otras enfermedades.\n\nLo que s\u00ed existe es un \u00e9nfasis en la utilizaci\u00f3n de medidas preventivas complementarias, las cuales son m\u00e1s eficaces cuando se usan conjuntamente. Modelos matem\u00e1ticos sugieren que, si se desarrollara una vacuna preventiva eficaz, esto podr\u00eda acelerar significativamente el control de la epidemia de VIH a nivel mundial.\n\nRecomendaci\u00f3n: Mientras tanto, es crucial seguir las pr\u00e1cticas preventivas establecidas (como el uso de preservativos, terapia antirretroviral de profilaxis preexposici\u00f3n o postexposici\u00f3n, entre otras) y mantenerse informado sobre cualquier avance en la investigaci\u00f3n de vacunas contra el VIH. Para m\u00e1s detalles sobre las medidas preventivas actuales o cualquier otro aspecto relacionado con el VIH, te recomendar\u00eda consultar a un profesional de la salud especializado."
+}

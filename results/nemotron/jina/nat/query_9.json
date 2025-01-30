@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl estar indetectable equivale a ser intransmisible?\n",
+    "context_info": [
+        {
+            "text": "Es un mensaje clave: \u201cIndetectable es igual a intransmisible\u201d, que cuenta con el respaldo de todas las agencias involucradas en la atenci\u00f3n a personas con VIH, y tambi\u00e9n los beneficios que se asocian al diagn\u00f3stico y tratamientos tempranos. ",
+            "source": "ManualClinico, section 11.2.",
+            "_distance": 0.6972656846046448
+        },
+        {
+            "text": " TRATAMIENTO COMO PREVENCI\u00d3N (I=I) Las siglas I=I significan \u2018indetectable (carga viral) es igual a intransmisible (VIH)\u2019 y hacen referencia al efecto preventivo del tratamiento antirretroviral. As\u00ed, las personas con el VIH que toman tratamiento antirretroviral y tienen la carga viral indetectable no transmiten el virus en sus relaciones sexuales, incluso en el caso de no utilizar preservativos. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 10.0.",
+            "_distance": 0.9809916019439697
+        },
+        {
+            "text": "Esto significa que si una persona con VIH revelase a otra su estado de salud, y ambas aceptasen mantener relaciones sexuales sin adoptar las medidas de prevenci\u00f3n de la transmisi\u00f3n, el eventual resultado de infecci\u00f3n de VIH se considerar\u00eda impune (Auto del Tribunal Supremo, Sala Segunda, 15 de septiembre de 2005). ",
+            "source": "ManualClinico, section 34.3.",
+            "_distance": 1.1646748781204224
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 1.1795217990875244
+        },
+        {
+            "text": "Si se hiciera, esto es, si en ese caso se revelase la condici\u00f3n serol\u00f3gica, se estar\u00eda ocasionando un da\u00f1o normativo a la personas con VIH pues se estar\u00eda vulnerando su derecho a la intimidad y a la confidencialidad de sus datos personales. Las personas que lo hicieran, no estar\u00edan cubiertas por la eximente del estado de necesidad, antes se\u00f1alada, y estar\u00edan cometiendo alguno de los tipos penales incluidos en el Cap\u00edtulo I del T\u00edtulo X del C\u00f3digo Penal que se refieren a los delitos contra la intimidad. ",
+            "source": "ManualClinico, section 34.3.",
+            "_distance": 1.2842206954956055
+        }
+    ],
+    "answer": "S\u00ed, seg\u00fan el mensaje clave respaldado por todas las agencias involucradas en la atenci\u00f3n a personas con VIH, \"Indetectable es igual a Intransmisible\" (I=I).\n\nEsto significa que si una persona con VIH:\n\n1. Toma tratamiento antirretroviral de manera regular y adecuada.\n2. Tiene una carga viral indetectable, \n\nNo transmitir\u00e1 el virus del VIH en sus relaciones sexuales, incluso si no se utilizan preservativos.\n\nEs importante destacar que esta afirmaci\u00f3n se refiere espec\u00edficamente a la transmisi\u00f3n del VIH a trav\u00e9s de relaciones sexuales y siempre que se cumplan las condiciones mencionadas (tratamiento antirretroviral y carga viral indetectable)."
+}

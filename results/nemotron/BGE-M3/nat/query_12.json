@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfExisten vacunas para prevenir el VIH como las hay para otras enfermedades?\n",
+    "context_info": [
+        {
+            "text": " Vacunas preventivas frente al VIH Todas las medidas comentadas en este cap\u00edtulo para prevenir la infecci\u00f3n por VIH son m\u00e1s eficaces si se utilizan de forma complementaria. Existen datos de modelos matem\u00e1ticos que sugieren que la existencia de una vacuna preventiva eficaz, junto a las medidas ya existentes, puede acelerar el objetivo final de controlar la epidemia de VIH en el mundo. Desde el inicio de la epidemia se han realizado 4 ensayos cl\u00ednicos fases IIb/III. ",
+            "source": "ManualClinico, section 11.5.",
+            "_distance": 0.631822943687439
+        },
+        {
+            "text": "Esta herramienta preventiva consiste en tomar medicaci\u00f3n antirretroviral antes y despu\u00e9s del sexo para que las personas sin el VIH puedan prevenir la infecci\u00f3n. Si se usa de forma correcta, es decir, tal como ha sido pautada por el m\u00e9dico, puede reducir el riesgo de infecci\u00f3n hasta en m\u00e1s de un 99%.  Adem\u00e1s, los preservativos, empleados de forma correcta, son una opci\u00f3n preventiva muy efectiva frente al VIH. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6716762781143188
+        },
+        {
+            "text": " PREVENCI\u00d3N SEXUAL COMBINADA DEL VIH Las medidas preventivas puestas en marcha durante d\u00e9cadas no han tenido el efecto esperado en el control de la infecci\u00f3n por el VIH a escala mundial. Por este motivo, los expertos consideran que se necesitan nuevas herramientas para prevenir la transmisi\u00f3n del VIH, especialmente, dirigidas a los grupos de poblaci\u00f3n que registran una mayor incidencia.  En la actualidad, no existe ninguna estrategia preventiva que tenga la capacidad por s\u00ed sola de poner fin a la epidemia. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 7.0.",
+            "_distance": 0.681251585483551
+        },
+        {
+            "text": "Actualmente disponemos de dosis limitadas de una vacuna recombinante con glicoproteina E del VVZ como componente antig\u00e9nico con adjuvante AS01B (HZ/su) para la prevenci\u00f3n del HZ y de la neuralgia post herp\u00e9tica, destinadas a administrarse a pacientes con algunas enfermedades o tratamientos inmunodepresores y entre ellas a pacientes mayores de 18 a\u00f1os con infecci\u00f3n por VIH independientemente del recuento de CD4+. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6969416737556458
+        },
+        {
+            "text": "Hay comercializadas 3 vacunas (con 2, 4 y 9 genotipos), y la 9-valente est\u00e1 financiada, en varones y mujeres con VIH hasta los 26 a\u00f1os. La inmunogenicidad de la vacuna en pacientes con infecci\u00f3n VIH, que reciben TAR, es comparable a la obtenida en la poblaci\u00f3n seronegativa, y est\u00e1 condicionada a la recuperaci\u00f3n del recuento de CD4 y a mantener la viremia del VIH indetectable. Herpes Z\u00f3ster (HZ): la reactivaci\u00f3n de virus Varicela- Z\u00f3ster (VVZ) es 15 veces mayor en pacientes VIH+. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7091796398162842
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, actualmente no existen vacunas preventivas aprobadas y disponibles para el p\u00fablico en general espec\u00edficamente dise\u00f1adas para prevenir la infecci\u00f3n por VIH.\n\nSin embargo, es importante destacar algunos puntos relacionados con este tema:\n\n1. Investigaci\u00f3n y ensayos cl\u00ednicos: Desde el inicio de la epidemia, se han llevado a cabo 4 ensayos cl\u00ednicos de fases IIb/III en busca de una vacuna eficaz contra el VIH. Esto indica que la comunidad cient\u00edfica ha estado trabajando activamente en el desarrollo de una vacuna preventiva.\n2. Modelos matem\u00e1ticos y control de la epidemia: Los datos de modelos matem\u00e1ticos sugieren que tener una vacuna preventiva eficaz, combinada con las medidas preventivas ya existentes, podr\u00eda acelerar el control de la epidemia de VIH a nivel mundial.\n3. Vacunas para otras condiciones en personas con VIH: Existen vacunas disponibles y recomendadas para personas con VIH para prevenir otras enfermedades, como:\n   - Herpes Z\u00f3ster (HZ): Vacuna recombinante con glicoprote\u00edna E del VVZ, espec\u00edficamente para pacientes con infecci\u00f3n por VIH (mayores de 18 a\u00f1os, independientemente del recuento de CD4+).\n   - Virus del Papiloma Humano (VPH): Se comercializan varias vacunas (de 2, 4 y 9 genotipos), incluida la 9-valente financiada para varones y mujeres con VIH hasta los 26 a\u00f1os.\n\nPara cualquier consulta sobre la prevenci\u00f3n del VIH o el tratamiento de infecciones relacionadas, te recomiendo consultar a un m\u00e9dico especialista para obtener asesoramiento personalizado y actualizado."
+}

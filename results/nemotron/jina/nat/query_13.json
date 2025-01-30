@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl VIH solo afecta a ciertos grupos de personas, como los que consumen drogas o las personas homosexuales?\n",
+    "context_info": [
+        {
+            "text": " No se trata \u00fanicamente del estado serol\u00f3gico al VIH que tengas t\u00fa o tu pareja, o parejas sexuales, ni de que teng\u00e1is relaciones con o sin cond\u00f3n, sino que la transmisi\u00f3n tambi\u00e9n se ve afectada por toda una serie de factores como la carga viral, el tipo de pr\u00e1cticas sexuales, la duraci\u00f3n de la pr\u00e1ctica, la presencia de ITS, etc. Cada uno de estos factores tambi\u00e9n influye sobre el resto.  Muy pocas actividades implican un 100% de riesgo o resultan seguras al cien por cien. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7398633360862732
+        },
+        {
+            "text": " Los trastornos por consumo de sustancias tambi\u00e9n son frecuentes y se han asociado a un peor control de la infecci\u00f3n con m\u00e1s conductas de riesgo para la transmisi\u00f3n del VIH. AI igual que en la poblaci\u00f3n general, el abordaje de los problemas de salud mental de las personas con infecci\u00f3n por el VIH puede realizarse desde A P, o desde las propias unidades de VIH, donde para que la atenci\u00f3n sanitaria sea \u00f3ptima, ha de ser acogedora y libre de estigma. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7704490423202515
+        },
+        {
+            "text": "Este impacto no se produce s\u00f3lo a nivel psicol\u00f3gico, sino tambi\u00e9n a nivel f\u00edsico y social. Al impacto de la cronicidad se suma la soledad como una nueva realidad emergente. \u00c9sta ya era referida por gran parte de la poblaci\u00f3n con VIH, pero progresivamente el envejecimiento es un factor que no est\u00e1 ayudando a su mejor\u00eda. En estudios en personas mayores con VIH se han llegado a detectar hasta dos tercios de participantes que declaraban sentir soledad en sus vidas. ",
+            "source": "ManualClinico, section 25.4.",
+            "_distance": 0.7802756428718567
+        },
+        {
+            "text": " B\u00e1sicos del VIH El VIH no es un virus que se adquiera con facilidad por v\u00eda sexual. En comparaci\u00f3n con la cantidad de personas que practican sexo cada a\u00f1o, apenas un escaso porcentaje de las mismas contrae esta infecci\u00f3n.  Tras una exposici\u00f3n sexual al VIH, la probabilidad de no adquirir el virus es siempre mucho mayor que la de infectarse (por supuesto, el riesgo solo existe si la pareja sexual tiene el VIH y su carga viral es detectable). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.8031140565872192
+        },
+        {
+            "text": "Hay muchas parejas cuyo estado serol\u00f3gico al VIH es diferente (es decir, en un miembro es positivo y en el otro, negativo) que disfrutan de una vida sexual plena y activa sin riesgo de infecci\u00f3n.  El riesgo de transmisi\u00f3n del VIH cuando no se toma tratamiento antirretroviral.  Un estudio realizado en 1994 examin\u00f3 las tasas de transmisi\u00f3n del virus en m\u00e1s de 250 parejas heterosexuales mon\u00f3gamas, donde un miembro ten\u00eda el VIH y el otro no. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8124505281448364
+        }
+    ],
+    "answer": "No, el VIH no discrimina ni afecta exclusivamente a ciertos grupos de personas. Puede infectar a cualquiera que tenga una exposici\u00f3n al virus, independientemente de su:\n\n Orientaci\u00f3n sexual (heterosexual, homosexual, bisexual, etc.)\n G\u00e9nero\n Edad\n Ocupaci\u00f3n\n Estilo de vida\n Consumo o no de sustancias\n\nEl VIH se transmite principalmente a trav\u00e9s de:\n\n1. Relaciones sexuales sin protecci\u00f3n con una persona infectada (vaginal, anal o oral).\n2. Uso compartido de jeringas y agujas contaminadas para inyectar drogas.\n3. De madre a hijo durante el embarazo, parto o lactancia, si la madre no recibe tratamiento antirretroviral adecuado.\n4. Transfusi\u00f3n de sangre o trasplante de \u00f3rganos infectados (esto es extremadamente raro en la actualidad debido a rigurosas pruebas de detecci\u00f3n).\n\nEs importante destacar que las personas de todos los \u00e1mbitos pueden contraer el VIH si se exponen al virus. Sin embargo, algunos grupos pueden tener un riesgo aumentado de exposici\u00f3n debido a factores como:\n\n Conductas sexuales de alto riesgo (sin protecci\u00f3n, con m\u00faltiples parejas, etc.)\n Uso de drogas inyectadas sin medidas de reducci\u00f3n de da\u00f1os\n Acceso limitado a educaci\u00f3n sobre el VIH, pruebas y tratamiento\n\nLa prevenci\u00f3n es clave para todos: independientemente del grupo al que pertenezcas, mantener pr\u00e1cticas sexuales seguras (usar condones, por ejemplo), no compartir jeringas o agujas, y realizar pruebas de detecci\u00f3n del VIH regularmente si est\u00e1s en un grupo de mayor riesgo o has tenido una exposici\u00f3n potencial, son medidas universales para reducir el riesgo de transmisi\u00f3n."
+}

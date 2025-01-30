@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfLas transfusiones de sangre todav\u00eda representan un riesgo de transmisi\u00f3n del VIH?\n",
+    "context_info": [
+        {
+            "text": "La infecci\u00f3n por VIH se transmite por v\u00eda sangu\u00ednea (transfusiones, tratamiento con derivados hem\u00e1ticos, accidentes sanitarios y uso de drogas por v\u00eda intravenosa compartiendo material, por v\u00eda sexual (relaciones homo o heterosexuales sin preservativo o de forma vertical (de madre seropositiva no controlada a su descendencia, durante el embarazo, el parto o la lactancia ). Se ha estimado el riesgo potencial diferencial de las distintas v\u00edas de transmisi\u00f3n. ",
+            "source": "ManualClinico, section 11.1.",
+            "_distance": 0.66452956199646
+        },
+        {
+            "text": "Las medidas preventivas generales est\u00e1n relacionadas con las v\u00edas de transmisi\u00f3n del VIH: \u2022 La transmisi\u00f3n por v\u00eda sangu\u00ednea se puede prevenir con el cribaje de las transfusiones y de los derivados hem\u00e1ticos, obligatorio en Espa\u00f1a desde 1986, con las medidas de precauci\u00f3n universales en la atenci\u00f3n sanitaria, y con los programas de reducci\u00f3n de da\u00f1os de las personas que se inyectan drogas. ",
+            "source": "ManualClinico, section 11.1.",
+            "_distance": 0.7507848739624023
+        },
+        {
+            "text": "La recepci\u00f3n de transfusiones de sangre o hemoderivados procedentes de personas infectadas constituye una importante forma de transmisi\u00f3n en los pa\u00edses sin control sanitario de estos productos. En Espa\u00f1a, se realiza un control de todas las donaciones de sangre desde el a\u00f1o 1986. El uso compartido de material para la inyecci\u00f3n de drogas supone un riesgo elevado de infecci\u00f3n. Esta v\u00eda de transmisi\u00f3n actualmente predomina en los pa\u00edses B\u00e1lticos, Europa del Este y Asia Central. ",
+            "source": "ManualClinico, section 1.3.",
+            "_distance": 0.7662711143493652
+        },
+        {
+            "text": "Aunque hay pruebas de concepto que han conseguido la curaci\u00f3n definitiva de la infecci\u00f3n por VIH (trasplante heter\u00f3logo de m\u00e9dula \u00f3sea con delecci\u00f3n de CCR5 con quimerismo completo, asociado a quimio y/o radioterapia) su mortalidad es elevada y no est\u00e1n indicadas ni son escalables a la poblaci\u00f3n que recibe TAR y se mantiene asintom\u00e1tica. ",
+            "source": "ManualClinico, section 9.8.3.",
+            "_distance": 0.8025285601615906
+        },
+        {
+            "text": "Algunas exposiciones al VIH conllevan un riesgo de transmisi\u00f3n mucho mayor que otras. En la figura 1 se muestra el riesgo en funci\u00f3n del tipo de pr\u00e1ctica sexual. FIGURA 1: Riesgo de contraer el VIH en funci\u00f3n del tipo de pr\u00e1ctica sexual, de nulo (en rosa en la parte superior de la tabla) a m\u00e1ximo (en morado intenso en la parte inferior) . Junta de Extremadura 2018 Extremadura Salud: V\u00edas de Transmisi\u00f3n. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 0.810806393623352
+        }
+    ],
+    "answer": "No, en Espa\u00f1a, las transfusiones de sangre o hemoderivados no representan un riesgo significativo de transmisi\u00f3n del VIH. \n\nDesde 1986, se realiza un estricto control y cribaje de todas las donaciones de sangre, lo que minimiza la posibilidad de transmisi\u00f3n del virus a trav\u00e9s de esta v\u00eda.\n\nSin embargo, es importante destacar que este control riguroso puede no ser equivalente en todos los pa\u00edses. Por lo tanto, si te encuentras en un pa\u00eds con controles sanitarios diferentes, el riesgo podr\u00eda variar.\n\nEn resumen, dentro del contexto espa\u00f1ol, las transfusiones de sangre o hemoderivados son seguras en cuanto a la transmisi\u00f3n del VIH."
+}

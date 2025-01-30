@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 pasa si una persona con VIH deja de tomar su tratamiento? \u00bfEl virus se vuelve m\u00e1s fuerte?\n",
+    "context_info": [
+        {
+            "text": "En cambio, la carga viral del VIH es un predictor muy \u00fatil del curso de la enfermedad durante un periodo m\u00e1s prolongado y est\u00e1 fuertemente asociada con la tasa de disminuci\u00f3n posterior del recuento de linfocitos T CD4+. Finalmente, si no administra tratamiento, se alcanza la fase final o de crisis en la que se produce un incremento de la actividad replicativa del virus y una deplecci\u00f3n m\u00e1s intensa de los linfocitos T CD4+. ",
+            "source": "ManualClinico, section 1.4.",
+            "_distance": 0.6902235150337219
+        },
+        {
+            "text": " Las implicaciones para la salud, en caso de que se produzca la reinfecci\u00f3n, depender\u00e1n de la gravedad de la resistencia adquirida y de su manejo farmacol\u00f3gico. En cualquier caso, los f\u00e1rmacos antirretrovirales de \u00faltima generaci\u00f3n tienen una buena capacidad para mantener bajo control incluso virus que presentan mutaciones de resistencia.  CARGA VIRAL Riesgo cero: El VIH no est\u00e1 presente (por ejemplo, en personas seronegativas). La carga viral est\u00e1 indetectable. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7758259773254395
+        },
+        {
+            "text": "Pocas semanas despu\u00e9s de producirse la infecci\u00f3n, la carga viral del VIH alcanza unos niveles muy elevados, pudiendo llegar a varios millones de copias/mL. Esto hace que la posibilidad de transmisi\u00f3n sea muy alta.  2. A medida que el sistema inmunitario combate el VIH, por lo general la viremia desciende a niveles m\u00e1s reducidos.  3. En un periodo que oscila entre los 2 y los 10 a\u00f1os, la carga viral vuelve a aumentar. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8182072043418884
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.819093644618988
+        },
+        {
+            "text": "Para que esto pueda producirse, la nueva infecci\u00f3n debe proceder de una persona con una carga viral elevada y con un virus mutado que no ha podido ser frenado por la medicaci\u00f3n antirretroviral de la persona reinfectada.  Se desconoce la frecuencia con que se producen las reinfecciones. Probablemente, el riesgo es tan bajo como el de adquirir el VIH por primera vez. Ser\u00e1 mayor si la carga viral de la persona que reinfecta es detectable y su virus contiene mutaciones de resistencia. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8219289183616638
+        }
+    ],
+    "answer": "Excelente pregunta sobre el manejo del VIH.\n\nSi una persona con VIH deja de tomar su tratamiento antirretroviral, several cosas pueden ocurrir:\n\n1. Aumento de la carga viral: Sin el tratamiento, el virus del VIH puede empezar a replicarse m\u00e1s r\u00e1pidamente, lo que lleva a un aumento significativo en la cantidad de virus en sangre (carga viral). Esto puede suceder en cuesti\u00f3n de semanas o meses despu\u00e9s de interrumpir el tratamiento.\n2. Depleci\u00f3n de linfocitos T CD4+: A medida que el virus se replica m\u00e1s libremente, el sistema inmunitario puede comenzar a debilitarse nuevamente. Los linfocitos T CD4+, cruciales para la respuesta inmune, pueden disminuir en n\u00famero, lo que aumenta el riesgo de infecciones oportunistas y complicaciones relacionadas con el VIH.\n3. Desarrollo de resistencia a los medicamentos: Si la persona hab\u00eda estado tomando tratamiento anteriormente, el virus puede haber desarrollado resistencia a uno o m\u00e1s de los f\u00e1rmacos utilizados. Al dejar de tomar el tratamiento, el virus resistente puede seguir replic\u00e1ndose, lo que complica futuros tratamientos.\n4. No necesariamente \"m\u00e1s fuerte\" pero s\u00ed m\u00e1s replicativo: El virus en s\u00ed no se vuelve \"m\u00e1s fuerte\" en el sentido de ser m\u00e1s pat\u00f3geno o letal. Sin embargo, su capacidad para replicarse y causar da\u00f1o al sistema inmunitario aumenta significativamente sin la presi\u00f3n selectiva del tratamiento antirretroviral.\n\nImportante: Si una persona con VIH considera cambiar o interrumpir su tratamiento, es crucial que lo haga bajo la supervisi\u00f3n de un profesional de la salud. Los m\u00e9dicos pueden ofrecer orientaci\u00f3n personalizada, ajustar el r\u00e9gimen de tratamiento si es necesario y minimizar los riesgos asociados con la modificaci\u00f3n del tratamiento.\n\nPara m\u00e1s detalles espec\u00edficos sobre tu situaci\u00f3n o para entender mejor las opciones de tratamiento, consulta a tu m\u00e9dico."
+}
