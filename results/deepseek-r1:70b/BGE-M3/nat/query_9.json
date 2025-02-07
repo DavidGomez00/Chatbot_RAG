@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl estar indetectable equivale a ser intransmisible?\n",
+    "context_info": [
+        {
+            "text": "Es un mensaje clave: \u201cIndetectable es igual a intransmisible\u201d, que cuenta con el respaldo de todas las agencias involucradas en la atenci\u00f3n a personas con VIH, y tambi\u00e9n los beneficios que se asocian al diagn\u00f3stico y tratamientos tempranos. ",
+            "source": "ManualClinico, section 11.2.",
+            "_distance": 0.7229979038238525
+        },
+        {
+            "text": " TRATAMIENTO COMO PREVENCI\u00d3N (I=I) Las siglas I=I significan \u2018indetectable (carga viral) es igual a intransmisible (VIH)\u2019 y hacen referencia al efecto preventivo del tratamiento antirretroviral. As\u00ed, las personas con el VIH que toman tratamiento antirretroviral y tienen la carga viral indetectable no transmiten el virus en sus relaciones sexuales, incluso en el caso de no utilizar preservativos. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 10.0.",
+            "_distance": 0.7324079871177673
+        },
+        {
+            "text": "En ese grupo de \u2018terceras personas\u2019 se incluye a las f\u00edsicas y a las jur\u00eddicas (compa\u00f1\u00edas de seguros o la empresa en la que se trabaja) y a los distintos organismos que componen la Administraci\u00f3n p\u00fablica. Esta respuesta se apoya adem\u00e1s en un contexto m\u00e9dico y cient\u00edfico en el que las v\u00edas de transmisi\u00f3n ya han sido identificadas, se conocen las medidas generales de prevenci\u00f3n y se ha confirmado que indetectable=no transmisible. ",
+            "source": "ManualClinico, section 34.2.",
+            "_distance": 0.848207414150238
+        },
+        {
+            "text": " En cambio, una persona que reciba tratamiento ver\u00e1 c\u00f3mo su carga viral se reduce hasta alcanzar la \u201cindetectabilidad\u201d, es decir, por debajo del nivel de detecci\u00f3n en las pruebas de laboratorio \u2013por lo general, 50 copias/mL, pero incluso por debajo de las 20 copias/mL dependiendo del tipo de tecnolog\u00eda utilizada\u2013 (v\u00e9anse las Figuras 4 y 5). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8617878556251526
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.884197473526001
+        }
+    ],
+    "answer": "<think>\nOkay, so I need to answer the question: \"Does being undetectable mean you can't transmit HIV?\" I'm supposed to respond based on the provided information. Let me read through that info again to make sure I get it right.\n\nThe key message is \"Indetectable equals Untransmittable,\" which is backed by all agencies involved in HIV care. This means that people with HIV who are on antiretroviral therapy (ART) and have an undetectable viral load don't transmit the virus, even without condoms. The treatment acts as prevention.\n\nI should explain what I=I stands for: \"Indetectable = Intransmissible.\" It refers to the preventive effect of ART. When someone's viral load is undetectable, they can't pass on HIV through sex, even without using protection. \n\nIt's important to mention that this is supported by medical and scientific consensus because the transmission routes are well understood, and prevention measures are known. Also, when both partners in a couple are on ART with undetectable viral loads, the risk of transmitting HIV is zero.\n\nHowever, I should also note that reinfection is possible if someone with an undetectable load is exposed to another strain of HIV, though this isn't about transmission to others but rather getting reinfected themselves.\n\nI need to keep the answer clear and precise, using Spanish. If any part of the question goes beyond my knowledge or the provided info, I should suggest consulting a doctor, but in this case, it's all covered.\n\nSo putting it together: Start with a clear yes, explain what undetectable means (viral load below detection levels), mention ART and prevention, cite the consensus, talk about couples where both are undetectable, and add the part about reinfection. Keep it natural and conversational.\n</think>\n\nS\u00ed, el estar indetectable equivale a ser intransmisible. Cuando una persona con VIH tiene una carga viral indetectable gracias al tratamiento antirretroviral (ART), no puede transmitir el virus durante las relaciones sexuales, incluso sin usar condones. Esto se debe a que la carga viral est\u00e1 por debajo del nivel detectable en las pruebas de laboratorio, generalmente menos de 50 copias/mL o incluso menos dependiendo de la tecnolog\u00eda utilizada.\n\nEste concepto es respaldado por el consenso m\u00e9dico y cient\u00edfico, conocido como \"Indetectable = Intransmisible\" (I=I). Adem\u00e1s, si ambos miembros de una pareja est\u00e1n en tratamiento con cargas virales indetectables, el riesgo de transmisi\u00f3n entre ellos es nulo.\n\nEs importante mencionar que aunque no se puede transmitir el VIH, existe la posibilidad de reinfecci\u00f3n si una persona expuesta a otra cepa del virus. Sin embargo, esto no afecta la capacidad de transmitir el virus a otros.\n\nSi tienes m\u00e1s preguntas o necesitas m\u00e1s informaci\u00f3n, te recomiendo consultar con un profesional m\u00e9dico."
+}

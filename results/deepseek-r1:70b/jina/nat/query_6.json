@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCual es el pron\u00f3stico de vida de una persona con VIH?\n",
+    "context_info": [
+        {
+            "text": "As\u00ed, la esperanza de vida a los 20 a\u00f1os en los pacientes con infecci\u00f3n por VIH y alto nivel educativo es de m\u00e1s de 60 a\u00f1os cifra que se acerca a las estimaciones realizadas en la poblaci\u00f3n general del mismo nivel educativo que son de m\u00e1s de 65,5 a\u00f1os. Como consecuencia del aumento de la esperanza de vida, se est\u00e1 produciendo un envejecimiento de la poblaci\u00f3n con el consiguiente aumento en la prevalencia de comorbilidades. ",
+            "source": "ManualClinico, section 35.2.1.",
+            "_distance": 0.6414103507995605
+        },
+        {
+            "text": "El pron\u00f3stico, si el VIH est\u00e1 controlado, viene determinado por factores relacionados con la propia neoplasia. a.Carcinoma de mama Al contrario de lo que sucede con otros TNDS, la mayor supervivencia de las mujeres VIH+, no conduce a un aumento en los casos diagnosticados de esta neoplasia. Sin embargo, el comportamiento del tumor en ocasiones es m\u00e1s agresivo y con una supervivencia menor a la observada en las mujeres VIH negativas para el mismo grupo de edad. ",
+            "source": "ManualClinico, section 15.4.2.",
+            "_distance": 0.7158953547477722
+        },
+        {
+            "text": "El tratamiento frente al VIH te permitir\u00e1 tener una esperanza de vida similar a la de una persona sin el VIH, con una buena calidad de vida. Es muy probable que no tengas que renunciar a nada de lo que hac\u00edas como consecuencia de tu nueva situaci\u00f3n.  Como parte de la atenci\u00f3n prenatal, de forma rutinaria se incluye la realizaci\u00f3n de la prueba del VIH a todas las mujeres (durante el primer y tercer trimestre de embarazo). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.7438302636146545
+        },
+        {
+            "text": "\u2022 Situaci\u00f3n social y econ\u00f3mica. Para la poblaci\u00f3n del paciente con infecci\u00f3n por el VIH existe un \u00edndice pron\u00f3stico de mortalidad, \u00edndice de VACS ( Veterans Aging Cohort Study , MD+CALC aunque no incorpora datos sobre la funci\u00f3n, cognici\u00f3n o multimorbilidad. ",
+            "source": "ManualClinico, section 26.2.2.",
+            "_distance": 0.7469902038574219
+        },
+        {
+            "text": "En esta etapa, los pacientes suelen presentar un importante deterioro del estado general y comienzan a aparecer las enfermedades oportunistas. Es en ese momento cuando el individuo infectado es considerado como enfermo de SIDA. Tras alcanzar esta etapa, el tiempo medio de supervivencia despu\u00e9s de un recuento de CD4+ de 200 cels/mL es de 38 a 40 meses y de tan solo 12-18 meses si presenta una enfermedad oportunista . ",
+            "source": "ManualClinico, section 1.4.",
+            "_distance": 0.7532718777656555
+        }
+    ],
+    "answer": "<think>\nOkay, I need to answer the question about the life prognosis for someone with HIV based on the provided information.\n\nFirst, I'll check what's given. It says that with high educational level, people with HIV can live over 60 years, close to the general population's 65.5 years. So, the prognosis is good if managed well.\n\nNext, controlling HIV leads to a prognosis determined by other health issues they might have, like cancers or comorbidities. It mentions that as people live longer, they develop more age-related illnesses, which can affect their life expectancy.\n\nThe treatment part says that antiretroviral therapy allows similar life expectancy and quality of life as those without HIV. So, treatment is key here.\n\nThere's also a note about routine HIV testing during pregnancy, but I don't think that's directly relevant to the prognosis question.\n\nAdditionally, it talks about the VACS index affecting mortality rates based on social and economic factors. That's another point to include because it shows that lifestyle and socioeconomic status can influence outcomes.\n\nIn the later stages, if someone progresses to AIDS with a CD4 count below 200, their survival time without treatment is about 38-40 months, or less if opportunistic infections are present. This highlights the importance of early diagnosis and treatment.\n\nPutting this all together, I'll structure the answer to cover life expectancy with proper treatment, factors influencing prognosis like comorbidities and social situation, and the impact of late-stage disease on survival.\n</think>\n\nEl pron\u00f3stico de vida para una persona con VIH ha mejorado significativamente gracias a los avances en el tratamiento antirretroviral. Si se mantiene controlada la infecci\u00f3n, una persona con VIH puede tener una esperanza de vida similar a la de alguien sin la infecci\u00f3n, disfrutando de una buena calidad de vida.\n\nFactores clave que influyen en este pron\u00f3stico incluyen:\n\n1. Control del VIH: El tratamiento antirretroviral es crucial para controlar el virus y prevenir progresi\u00f3n a SIDA.\n2. Comorbilidades: A medida que las personas con VIH viven m\u00e1s, pueden desarrollar enfermedades relacionadas con el envejecimiento, lo cual afecta su pron\u00f3stico.\n3. Situaci\u00f3n social y econ\u00f3mica: El \u00edndice VACS sugiere que factores socioecon\u00f3micos influyen en la mortalidad.\n4. Etapa de diagn\u00f3stico: Si se diagnostica en etapas avanzadas (SIDA), especialmente con infecciones oportunistas, la supervivencia promedio es significativamente menor.\n\nEn resumen, el pron\u00f3stico para alguien con VIH es altamente favorable si se inicia tratamiento temprano y se mantiene adherido. Esto permite una vida larga y saludable."
+}

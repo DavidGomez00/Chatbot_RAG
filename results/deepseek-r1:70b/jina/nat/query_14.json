@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi una persona con VIH se siente sana, a\u00fan puede transmitir el virus? \n",
+    "context_info": [
+        {
+            "text": "Tambi\u00e9n dej\u00f3 patente que el virus no se transmite con facilidad, incluso manteniendo pr\u00e1cticas sexuales sin preservativo con una persona con el VIH que no toma tratamiento antirretroviral.  CUANDO LOS DOS MIEMBROS DE LA PAREJA TIENEN EL VIH: \u00bfSE PUEDE PRODUCIR UNA REINFECCI\u00d3N?  Muchas personas con el VIH tienen parejas sexuales que tambi\u00e9n son seropositivas. En estos casos, suele desaparecer la ansiedad o preocupaci\u00f3n por la transmisi\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6186389923095703
+        },
+        {
+            "text": " R: Es bastante habitual que un miembro d\u00e9 positivo y el otro negativo, aunque hayan practicado sexo sin preservativo. En gran parte, esto se explica por la suerte y el papel que desempe\u00f1an otros factores de riesgo. Sin embargo, con el tiempo, la mayor parte de las personas podr\u00edan infectarse por el VIH si siguen exponi\u00e9ndose al virus. Aunque hayas corrido alg\u00fan riesgo y no hayas adquirido el VIH, sigue existiendo la posibilidad de que puedas infectarte en el futuro. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 0.6805606484413147
+        },
+        {
+            "text": " B\u00e1sicos del VIH El VIH no es un virus que se adquiera con facilidad por v\u00eda sexual. En comparaci\u00f3n con la cantidad de personas que practican sexo cada a\u00f1o, apenas un escaso porcentaje de las mismas contrae esta infecci\u00f3n.  Tras una exposici\u00f3n sexual al VIH, la probabilidad de no adquirir el virus es siempre mucho mayor que la de infectarse (por supuesto, el riesgo solo existe si la pareja sexual tiene el VIH y su carga viral es detectable). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.6949478387832642
+        },
+        {
+            "text": "Para empezar, no todas las personas que se infectan por el VIH presentan s\u00edntomas. En segundo lugar, ninguno de estos s\u00edntomas supone, por s\u00ed mismo, un indicativo de que tengas el VIH. Con todo, si sufres varios de estos s\u00edntomas al mismo tiempo y recientemente has corrido alg\u00fan riesgo de exposici\u00f3n al VIH, entonces ES POSIBLE que est\u00e9 relacionado con el virus.  No obstante, el \u00fanico modo de estar seguro es realiz\u00e1ndote una prueba. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 0.712072491645813
+        },
+        {
+            "text": " De todos modos, tambi\u00e9n puedes mantenerte protegido y evitar las infecciones usando preservativos y lubricantes. P: \u00bfHay personas que est\u00e9n protegidas frente a la infecci\u00f3n de forma natural?  R: Algunas personas se ven expuestas al VIH en numerosas ocasiones (por relaciones con una o varias personas) y, a pesar de ello, no adquieren el virus. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 0.7160218954086304
+        }
+    ],
+    "answer": "<think>\nOkay, so I need to answer the question: If someone with HIV feels healthy, can they still transmit the virus? \n\nFirst, from the knowledge provided, it's clear that the transmission isn't easy. Even without treatment, if two people have HIV and have unprotected sex, reinfection is a thing but not guaranteed because each strain might be different.\n\nI remember reading that when both partners are positive, there's less anxiety about transmission, but the assistant said that even so, over time, most could get infected if they keep exposing themselves. But wait, if someone feels healthy and has HIV, can they still pass it on?\n\nOh right, in the basics section, it says that not everyone who is exposed gets HIV. The chances are low, but if a person with HIV doesn't have an undetectable viral load, especially if they're not on treatment, they can transmit it. Using condoms helps reduce the risk.\n\nSo putting this together: Even if someone feels fine, they can still transmit HIV if their viral load is detectable. Treatment can lower the viral load to undetectable levels, making transmission unlikely. So the answer should mention that feeling healthy doesn't mean they can't transmit and emphasize the importance of treatment and using protection.\n</think>\n\nS\u00ed, una persona con VIH que se sienta sana a\u00fan puede transmitir el virus. La transmisi\u00f3n depende de factores como la carga viral y si est\u00e1 en tratamiento. Si la carga viral es detectable, especialmente sin tratamiento, existe riesgo de transmisi\u00f3n. Usar preservativos reduce este riesgo. El tratamiento antirretroviral puede reducir la carga viral a niveles indetectables, haciendo muy poco probable la transmisi\u00f3n."
+}

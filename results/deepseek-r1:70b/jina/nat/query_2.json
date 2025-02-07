@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl VIH se transmite por besos o compartir alimentos con alguien infectado?\n",
+    "context_info": [
+        {
+            "text": "Aunque el VIH se puede detectar en este l\u00edquido, es poco probable que haya una cantidad suficiente como para provocar la infecci\u00f3n.  El VIH no se transmite por los besos, ni siquiera por los besos profundos. El virus tampoco se transmite por escupir.  Aire: El VIH no se transmite a trav\u00e9s del aire.  Por otro lado, conviene recordar que muchas pr\u00e1cticas sexuales no suponen un riesgo de transmisi\u00f3n del VIH. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
+            "_distance": 0.6190371513366699
+        },
+        {
+            "text": " Otros factores de riesgo, como la carga viral, el tipo de pr\u00e1ctica sexual, la gen\u00e9tica, etc.  Solo determinados fluidos corporales pueden transmitir la infecci\u00f3n: Los fluidos sexuales (semen y flujo vaginal).  El moco de la vagina y el ano.  La sangre.  La leche materna puede transmitir el VIH a un bebe, pero es poco probable que lo haga a un adulto.  La saliva, los esputos, la orina y las heces NO tienen capacidad de transmitir el VIH.  \u00bfCU\u00c1LES SON LAS V\u00cdAS DE TRANSMISI\u00d3N? ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.8082820177078247
+        },
+        {
+            "text": "La infecci\u00f3n por VIH se transmite por v\u00eda sangu\u00ednea (transfusiones, tratamiento con derivados hem\u00e1ticos, accidentes sanitarios y uso de drogas por v\u00eda intravenosa compartiendo material, por v\u00eda sexual (relaciones homo o heterosexuales sin preservativo o de forma vertical (de madre seropositiva no controlada a su descendencia, durante el embarazo, el parto o la lactancia ). Se ha estimado el riesgo potencial diferencial de las distintas v\u00edas de transmisi\u00f3n. ",
+            "source": "ManualClinico, section 11.1.",
+            "_distance": 0.8603587746620178
+        },
+        {
+            "text": " Por lo general, el sexo oral es una actividad de bajo riesgo. Es posible que en la mayor\u00eda de las circunstancias la posibilidad de transmisi\u00f3n del VIH sea nula. El riesgo podr\u00eda verse incrementado en funci\u00f3n de: Si recibes o das sexo oral: Recibir sexo oral (es decir, que alguien te practique una felaci\u00f3n o un cunnilingus) tiene un riesgo cero, ya que la saliva no est\u00e1 asociada a la transmisi\u00f3n del VIH. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8652805685997009
+        },
+        {
+            "text": " Por usar un cuchillo, tenedor, cuchara, taza, plato o cualquier cubierto que haya podido utilizar antes una persona con el VIH.  Por fluidos sexuales que puedan entrar en contacto con la piel.  Por fluidos sexuales que puedan entrar en contacto con una herida cicatrizada. Para que exista riesgo de transmisi\u00f3n, la herida tiene que estar abierta.  BARRERAS EFICACES FRENTE AL VIH Existen muchas barreras eficaces que, en condiciones normales, impiden que el VIH entre en el organismo. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
+            "_distance": 0.8664829730987549
+        }
+    ],
+    "answer": "<think>\nOkay, I need to answer whether HIV is transmitted through kissing or sharing food with an infected person. From the knowledge provided, I know that HIV isn't spread by saliva, so kissing shouldn't be a risk. Also, sharing utensils or food doesn't transmit it because the virus can't survive outside the body long.\n\nI should explain clearly, mentioning that saliva and sharing food are safe. Maybe also note other transmission methods briefly to give a complete picture without going off topic.\n</think>\n\nEl VIH no se transmite a trav\u00e9s de besos o al compartir alimentos con una persona infectada. El virus no puede transmitirse mediante la saliva ni sobrevivir fuera del cuerpo humano, lo que hace seguro compartir utensilios o comida.\n\nPara m\u00e1s informaci\u00f3n sobre otras formas de transmisi\u00f3n o medidas preventivas, consulta a tu m\u00e9dico."
+}

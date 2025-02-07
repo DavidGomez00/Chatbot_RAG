@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl VIH tiene cura o las personas con VIH pueden curarse con tratamiento?\n",
+    "context_info": [
+        {
+            "text": "Aunque hay pruebas de concepto que han conseguido la curaci\u00f3n definitiva de la infecci\u00f3n por VIH (trasplante heter\u00f3logo de m\u00e9dula \u00f3sea con delecci\u00f3n de CCR5 con quimerismo completo, asociado a quimio y/o radioterapia) su mortalidad es elevada y no est\u00e1n indicadas ni son escalables a la poblaci\u00f3n que recibe TAR y se mantiene asintom\u00e1tica. ",
+            "source": "ManualClinico, section 9.8.3.",
+            "_distance": 0.6163374781608582
+        },
+        {
+            "text": " El reservorio celular del VIH La erradicaci\u00f3n del VIH no es posible con los tratamientos actuales debido a los mecanismos de persistencia viral en sus c\u00e9lulas diana. La prueba m\u00e1s concluyente de esta afirmaci\u00f3n se observa al interrumpir el TAR en un paciente con viremia controlada durante a\u00f1os, en los que se produce en pocos d\u00edas un repunte de la carga viral a niveles similares a los previos al iniciar el TAR. ",
+            "source": "ManualClinico, section 3.5.",
+            "_distance": 0.6165624856948853
+        },
+        {
+            "text": " Por otra parte, el curso de la infecci\u00f3n por el VIH/Sida ha sufrido un claro cambio desde que se dispone de un tratamiento antirretroviral (TAR) eficaz y hemos asistido a una importante reducci\u00f3n de la morbimortalidad y de la transmisi\u00f3n de la infecci\u00f3n por el VIH. Es te TAR ha evolucionado hasta unos niveles alt\u00edsimos de eficacia, tolerancia y sencillez en el 80% de las personas que viven con el VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 1.1.",
+            "_distance": 0.6233522295951843
+        },
+        {
+            "text": "De entre todas ellas ocho tienen una elevada incidencia: cuatro son curables en la mayor\u00eda de los casos (s\u00edfilis, gonorrea, clamidiasis y tricomoniasis); tres son controlables con tratamiento (herpes, VIH y VPH); y la \u00faltima, producida por el VHB, \u00fanicamente se cura en la actualidad en el 20% de los casos. ",
+            "source": "ManualClinico, section 28.1.",
+            "_distance": 0.6304953694343567
+        },
+        {
+            "text": "En ausencia de curaci\u00f3n definitiva o erradicaci\u00f3n, puede conseguirse una cura funcional o remisi\u00f3n biol\u00f3gica si se consigue controlar la viremia plasm\u00e1tica en ausencia de TAR, a pesar de que no se haya conseguido erradicar por completo el VIH en c\u00e9lulas latentes, donde se puede mantener integrado. ",
+            "source": "ManualClinico, section 9.8.3.",
+            "_distance": 0.6339439153671265
+        }
+    ],
+    "answer": "<think>\nOkay, so I need to answer whether HIV can be cured or if people with HIV can be cured through treatment. Let me start by recalling what I know about HIV and its treatments.\n\nFrom the information provided earlier, there have been some experimental cures, like bone marrow transplants that delete the CCR5 gene. But these are highly risky and not scalable for most people on antiretroviral therapy (ART). So while they show it's possible in very specific cases, they're not a viable option for the general population.\n\nThen there's the issue of viral reservoirs. HIV hides in latent cells, so even with effective ART that suppresses the virus, it's never fully eradicated. If someone stops treatment, the virus comes back quickly. That means current treatments can't cure HIV, but they can control it effectively.\n\nI also remember reading about the concept of a \"functional cure\" or \"biological remission.\" This is when the virus is kept under control without medication, but again, this isn't the same as being cured because the virus is still present in latent cells.\n\nSo putting it all together: There's no cure for HIV that applies to everyone. The current treatments are very effective at managing the virus and preventing transmission, but they don't eliminate it from the body. Experimental methods have shown potential but aren't practical or safe for widespread use yet.\n</think>\n\nEl VIH actualmente no tiene una cura definitiva disponible para todos. Los tratamientos actuales, como la terapia antirretroviral (ART), son altamente efectivos para controlar el virus, prevenir su transmisi\u00f3n y gestionar los s\u00edntomas, pero no erradican completamente el VIH del cuerpo. Este permanece en reservorios celulares latentes.\n\nAunque existen casos experimentales, como trasplantes de m\u00e9dula \u00f3sea modificada, estos son raros y de alto riesgo, por lo que no son una opci\u00f3n viable para la mayor\u00eda. Por tanto, mientras el tratamiento permite una \"cura funcional\" al controlar el virus, t\u00e9cnicamente no se considera curado. Siempre es recomendable consultar a un profesional de salud para obtener asesoramiento personalizado y actualizado."
+}

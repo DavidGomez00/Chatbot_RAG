@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo se contrae el VIH? \u00bfEs posible contagiarse por tocar a alguien?\n",
+    "context_info": [
+        {
+            "text": " B\u00e1sicos del VIH El VIH no es un virus que se adquiera con facilidad por v\u00eda sexual. En comparaci\u00f3n con la cantidad de personas que practican sexo cada a\u00f1o, apenas un escaso porcentaje de las mismas contrae esta infecci\u00f3n.  Tras una exposici\u00f3n sexual al VIH, la probabilidad de no adquirir el virus es siempre mucho mayor que la de infectarse (por supuesto, el riesgo solo existe si la pareja sexual tiene el VIH y su carga viral es detectable). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.5523593425750732
+        },
+        {
+            "text": " V\u00edas de transmisi\u00f3n El VIH no sobrevive f\u00e1cilmente en el medio ambiente, por lo que para que se transmita la infecci\u00f3n es necesario que el virus penetre en el organismo a trav\u00e9s de la sangre o mucosas. La transmisi\u00f3n del VIH se produce de persona a persona por distintas v\u00edas, que implican el contacto con sangre o fluidos. A nivel mundial la mayor parte de las infecciones se producen al mantener relaciones sexuales con penetraci\u00f3n sin protecci\u00f3n con una pareja infectada. ",
+            "source": "ManualClinico, section 1.3.",
+            "_distance": 0.5560527443885803
+        },
+        {
+            "text": "Aunque el VIH se puede detectar en este l\u00edquido, es poco probable que haya una cantidad suficiente como para provocar la infecci\u00f3n.  El VIH no se transmite por los besos, ni siquiera por los besos profundos. El virus tampoco se transmite por escupir.  Aire: El VIH no se transmite a trav\u00e9s del aire.  Por otro lado, conviene recordar que muchas pr\u00e1cticas sexuales no suponen un riesgo de transmisi\u00f3n del VIH. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
+            "_distance": 0.5632794499397278
+        },
+        {
+            "text": "Una persona puede infectarse despu\u00e9s de una \u00fanica exposici\u00f3n al virus, mientras que otra puede tener numerosas exposiciones a lo largo de los a\u00f1os y aun as\u00ed no adquirir el VIH. En muchas circunstancias, no es f\u00e1cil explicar por qu\u00e9 sucede.  Incluso en los casos de parejas en las que un miembro tiene el VIH con carga viral detectable y el otro es seronegativo, el riesgo de transmisi\u00f3n por no usar un cond\u00f3n una sola vez, puede ser solo del 0,2% (o de 1 entre 500). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.5905929207801819
+        },
+        {
+            "text": "La infecci\u00f3n por VIH se transmite por v\u00eda sangu\u00ednea (transfusiones, tratamiento con derivados hem\u00e1ticos, accidentes sanitarios y uso de drogas por v\u00eda intravenosa compartiendo material, por v\u00eda sexual (relaciones homo o heterosexuales sin preservativo o de forma vertical (de madre seropositiva no controlada a su descendencia, durante el embarazo, el parto o la lactancia ). Se ha estimado el riesgo potencial diferencial de las distintas v\u00edas de transmisi\u00f3n. ",
+            "source": "ManualClinico, section 11.1.",
+            "_distance": 0.5975450277328491
+        }
+    ],
+    "answer": "<think>\nOkay, I need to answer the user's question about how HIV is contracted and whether it's possible to get infected by touching someone. Let me start by recalling the information provided.\n\nFirst, the user wants a clear and precise response in Spanish, so I should make sure my answer is structured well and uses the correct terminology without being too technical.\n\nFrom the knowledge given, HIV isn't easily transmitted through casual contact like touching. It requires specific conditions where the virus enters the bloodstream or mucous membranes. So, touching someone, even if they have HIV, doesn't transmit the virus because the skin acts as a barrier.\n\nI should mention the main transmission routes: unprotected sex with an infected person, sharing needles, unscreened blood transfusions, and mother-to-child during pregnancy, childbirth, or breastfeeding. It's important to highlight that activities like kissing, hugging, or sharing utensils don't spread HIV.\n\nAlso, I remember reading that the risk of infection is lower than people might think, especially if the infected person has an undetectable viral load. So, I should include that context to reassure the user.\n\nI need to avoid any markdown and keep it conversational but informative. Maybe start with a clear \"No\" to touching transmitting HIV, then explain why, followed by the main transmission methods. Conclude with a summary to reinforce the key points.\n\nLet me structure this: \n\n1. Direct answer about touching not causing infection.\n2. Explanation of why that's the case (skin/mucous barriers).\n3. List the actual transmission routes briefly.\n4. Mention low risk and factors reducing it.\n5. Final reassurance that casual contact is safe.\n\nI should keep each section concise to ensure clarity. Also, since the user might be concerned about casual contact, emphasizing safety in those areas would be helpful.\n\nAlright, putting it all together now in clear Spanish without any jargon, making sure each point flows naturally into the next.\n</think>\n\nEl VIH no se transmite por el simple hecho de tocar a alguien. El virus solo puede entrar en el organismo si hay contacto con sangre o fluidos corporales infectados a trav\u00e9s de una v\u00eda que permita su entrada, como relaciones sexuales sin protecci\u00f3n, compartir jeringuillas para inyectar drogas, transfusiones de sangre contaminada o durante el embarazo, parto o lactancia materna.\n\nPara que se produzca la infecci\u00f3n, es necesario que el virus entre en contacto con la sangre o las mucosas del cuerpo. El mero tacto, como estrechar manos, abrazar o tocar a alguien, no permite que el VIH pase de una persona a otra, ya que la piel act\u00faa como una barrera protectora.\n\nSi tienes m\u00e1s preguntas sobre el VIH o necesitas orientaci\u00f3n adicional, te recomiendo consultar con un profesional de salud."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1nto tiempo tiene que tomar una persona con VIH su tratamiento antirretroviral?\n",
+    "context_info": [
+        {
+            "text": "Generalmente, suele estar entre 50.000 y 100.000 copias/mL cuando se inicia el tratamiento antirretroviral.  4. El tratamiento deber\u00eda reducir la carga viral a menos de 50 copias/mL en un plazo de unos 3 meses. Esto tambi\u00e9n reduce la capacidad de infecci\u00f3n de todos los fluidos corporales.  Figura 5: LA RELACI\u00d3N ENTRE CARGA VIRAL Y TRANSMISI\u00d3N DEL VIH EN EL ESTUDIO DE RAKAI La carga viral del VIH est\u00e1 relacionada de forma directa con el riesgo de transmisi\u00f3n del virus. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.5162291526794434
+        },
+        {
+            "text": "El tratamiento consiste en aciclovir intravenoso durante 10-14 d\u00edas y luego valaciclovir oral hasta cumplir 16 semanas de tratamiento; otra opci\u00f3n que podr\u00eda ser igual de eficaz ser\u00eda el valaciclovir oral junto con foscarnet intrav\u00edtreo; el papel de la vitrectom\u00eda precoz como profilaxis del desprendimiento de retina no est\u00e1 claro. c.Toxoplasmosis ocular En pacientes con infecci\u00f3n por VIH la toxoplasmosis ocular se asocia a toxoplasmosis cerebral. ",
+            "source": "ManualClinico, section 18.4.1.",
+            "_distance": 0.6160019636154175
+        },
+        {
+            "text": "En los menores de 3 a\u00f1os, adolescentes sexualmente activos y ni\u00f1os con manifestaciones cl\u00ednicas asociadas al VIH y/o bajo recuento de linfocitos CD4+ para la edad, debe ser iniciado sin demora. Antes de iniciar el tratamiento es necesario valorar las caracter\u00edsticas de cada paciente, su potencial adherencia, la capacidad para tomar comprimidos, otras coinfecciones. Deber\u00e1n disponerse de un estudio de resistencias (resistencias transmitidas o producidas tras la exposici\u00f3n a antirretrovirales). ",
+            "source": "ManualClinico, section 33.3.",
+            "_distance": 0.6383271217346191
+        },
+        {
+            "text": "Las personas con VIH con niveles de CD4+ entre 350 y 550/\u00b5L, se aleatorizaron a recibir tratamiento antirretrov\u00edrico o bien de forma inmediata (tratamiento temprano), o bien tras el descenso de CD4+ por debajo de 350/\u00b5L o el desarrollo de s\u00edntomas asociados a la infecci\u00f3n por VIH (tratamiento retardado). ",
+            "source": "ManualClinico, section 11.2.",
+            "_distance": 0.6406031847000122
+        },
+        {
+            "text": " Tratamiento antirretroviral A d\u00eda de hoy, la infecci\u00f3n por VIH no se puede erradicar, pero el tratamiento antirretroviral de gran actividad (TAR o TARGA) aumenta la supervivencia, retrasa la progresi\u00f3n cl\u00ednica y favorece la restauraci\u00f3n inmunol\u00f3gica. Consiste en la administraci\u00f3n, de forma combinada, de al menos tres f\u00e1rmacos y su objetivo es impedir la replicaci\u00f3n viral y mantener la carga viral plasm\u00e1tica (CVP) indetectable (\udbc0\udc01 50 copias/ml) el mayor tiempo posible. ",
+            "source": "manejo_paciente_vih_en_ap, section 13.0.",
+            "_distance": 0.6482903361320496
+        }
+    ],
+    "answer": "<think>\nOkay, so I need to figure out how long someone with HIV should take their antiretroviral treatment. From the knowledge provided, it says that HIV can't be cured, but ART (antiretroviral therapy) helps increase survival, delays progression, and restores immune function. It also mentions that the goal is to keep viral load undetectable for as long as possible.\n\nI remember reading that once you start ART, you have to stay on it for life because HIV isn't curable with current treatments. The medications suppress the virus but don't eliminate it completely. If someone stops taking their meds, the virus can come back, leading to symptoms and potential transmission.\n\nLooking at the information given, there's nothing suggesting a specific endpoint or cure, so the treatment is lifelong. It also talks about reducing viral load to below 50 copies/mL within three months and maintaining that. This implies continuous treatment since stopping would likely cause the viral load to increase again.\n\nI don't see any exceptions mentioned where treatment can be stopped after a certain period, except maybe in specific cases like clinical trials or new therapies, but those aren't covered here. So, based on this, the answer should be that treatment is for life.\n</think>\n\nUna persona con VIH debe tomar el tratamiento antirretroviral de por vida. El TARV (tratamiento antirretroviral de gran actividad) no cura el VIH pero suprime el virus, impide su progresi\u00f3n y restaura la funci\u00f3n inmunol\u00f3gica. Se recomienda mantener la terapia indefinidamente para mantener la carga viral indetectable y prevenir la reactivaci\u00f3n del virus. Si se interrumpe el tratamiento, el virus puede recurrir, lo que podr\u00eda llevar a s\u00edntomas y mayor transmisibilidad."
+}

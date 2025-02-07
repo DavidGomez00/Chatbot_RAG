@@ -31,13 +31,12 @@ def create_form(form_service, form_number, model, embedding, chunk_str):
     ### Form creation ###
     form = {
         "info": {
-            "documentTitle": f"Evaluación de resultados Chatbot VIHv2 - {form_number}.",
+            "documentTitle": f"Evaluación de resultados Chatbot VIHv3 - {form_number}.",
             "title": "Evaluación de resultados Chatbot VIH",
         }
     }
     create_result = form_service.forms().create(body=form).execute()
     formId = create_result["formId"]
-    #print(f"Form created with ID: {formId}")
 
     ### Form update ###
     requests = []
@@ -95,7 +94,7 @@ def _create_item(query_path, placeholder=False):
         title = "Title placeholder"
         description = "Description placeholder"
     else:
-        index = int(query_path.split("_")[-1][:2]) 
+        index = int(query_path.split("_")[1].split(".")[0]) 
         query = json.load(open(query_path, "r"))
         title = query["query"][:-1] # Remove the last character "\n"
         description = query["answer"]
@@ -124,7 +123,9 @@ def create_queries_update(queries_path):
     requests = []
     
     for query in os.listdir(queries_path):
+        print(os.path.join(model, embedding, chunk_str, query))
         item, index = _create_item(query_path=os.path.join(model, embedding, chunk_str, query))
+        
         updateItem = {
             "updateItem": {
                 "item": item,
@@ -146,7 +147,7 @@ def create_queries_update(queries_path):
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     form_service = authenticate()
-    models = [".data/results/nemotron/", ".data/results/llama3.1:70b-instruct-fp16"]
+    models = ["results/nemotron/"]
     form_number = 1
     for model in models:
         for embedding in os.listdir(model):

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 pasa si una persona con VIH deja de tomar su tratamiento? \u00bfEl virus se vuelve m\u00e1s fuerte?\n",
+    "context_info": [
+        {
+            "text": "En cambio, la carga viral del VIH es un predictor muy \u00fatil del curso de la enfermedad durante un periodo m\u00e1s prolongado y est\u00e1 fuertemente asociada con la tasa de disminuci\u00f3n posterior del recuento de linfocitos T CD4+. Finalmente, si no administra tratamiento, se alcanza la fase final o de crisis en la que se produce un incremento de la actividad replicativa del virus y una deplecci\u00f3n m\u00e1s intensa de los linfocitos T CD4+. ",
+            "source": "ManualClinico, section 1.4.",
+            "_distance": 0.6396881341934204
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6661950349807739
+        },
+        {
+            "text": "Pocas semanas despu\u00e9s de producirse la infecci\u00f3n, la carga viral del VIH alcanza unos niveles muy elevados, pudiendo llegar a varios millones de copias/mL. Esto hace que la posibilidad de transmisi\u00f3n sea muy alta.  2. A medida que el sistema inmunitario combate el VIH, por lo general la viremia desciende a niveles m\u00e1s reducidos.  3. En un periodo que oscila entre los 2 y los 10 a\u00f1os, la carga viral vuelve a aumentar. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6729575991630554
+        },
+        {
+            "text": "Las personas con infecci\u00f3n por VIH que desconocen su situaci\u00f3n no pueden beneficiarse del tratamiento antirretroviral (TAR), por ello tienen mayor riesgo de desarrollar sida y su mortalidad se ve aumentada de forma muy importante respecto a las personas que acceden al diagn\u00f3stico y al tratamiento eficaz temprano. Adem\u00e1s, el coste del tratamiento y cuidado de los enfermos con diagn\u00f3stico tard\u00edo es superior a los que se diagnostican precozmente. ",
+            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_info, section 1.0.",
+            "_distance": 0.6866899728775024
+        },
+        {
+            "text": "De ah\u00ed que cuando el VIH infecta un astrocito, en vez de destruirse, este se mantiene cr\u00f3nicamente infectado y liberando prote\u00ednas virales y citoquinas neurot\u00f3xicas al medio de forma cr\u00f3nica, lo que perdura incluso tras el inicio del TAR. Adem\u00e1s del propio VIH, las personas infectadas presentan otras comorbilidades neurocognitivas que tambi\u00e9n favorecen el desarrollo de deterioro de la funci\u00f3n neurocognitiva. ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.6882693767547607
+        }
+    ],
+    "answer": "<think>\nBueno, el usuario pregunta qu\u00e9 pasa si alguien con VIH deja de tomar su tratamiento y si el virus se vuelve m\u00e1s fuerte. Primero, recuerdo que el tratamiento antirretroviral (TAR) es clave para controlar el VIH. Si una persona deja de tomarlo, la carga viral puede aumentar porque el virus no est\u00e1 siendo suprimido. Eso significa que el sistema inmunitario se debilita, especialmente los linfocitos T CD4+, lo cual puede llevar a m\u00e1s infecciones o al SIDA.\n\nTambi\u00e9n pienso en la resistencia a los medicamentos. Si el tratamiento se interrumpe, el virus puede mutar y volverse resistente a los f\u00e1rmacos, lo que complica futuros tratamientos. Adem\u00e1s, una carga viral elevada aumenta el riesgo de transmitir el virus a otros.\n\nEl usuario tambi\u00e9n menciona si el virus se vuelve m\u00e1s fuerte. En cierto sentido, s\u00ed, porque sin tratamiento, el VIH puede replicarse m\u00e1s agresivamente y causar m\u00e1s da\u00f1o al sistema inmunitario. Adem\u00e1s, la persona podr\u00eda desarrollar m\u00e1s comorbilidades, como problemas neurocognitivos, ya que el virus persiste en c\u00e9lulas como los astrocitos.\n\nEs importante destacar que sin tratamiento, el pron\u00f3stico empeora y aumenta la mortalidad. Por eso, es crucial seguir el TAR correctamente para mantener la carga viral indetectable y prevenir complicaciones.\n</think>\n\nSi una persona con VIH deja de tomar su tratamiento antirretroviral (TAR), el virus puede volver a replicarse activamente en su cuerpo. Esto lleva a un aumento en la carga viral, lo que debilita a\u00fan m\u00e1s el sistema inmunitario, especialmente reduciendo el recuento de linfocitos T CD4+. \n\nAdem\u00e1s, sin tratamiento, se incrementa el riesgo de desarrollar infecciones oportunistas y otras complicaciones relacionadas con el SIDA. Tambi\u00e9n existe la posibilidad de que el virus desarrolle resistencia a los medicamentos, lo que podr\u00eda complicar futuros tratamientos.\n\nEs importante destacar que, aunque el virus puede volverse m\u00e1s activo y da\u00f1ino, no se vuelve \"m\u00e1s fuerte\" en t\u00e9rminos de su capacidad de transmisi\u00f3n o virulencia inherente. Sin embargo, una carga viral elevada s\u00ed aumenta el riesgo de transmitir el VIH a otras personas.\n\nSi tienes m\u00e1s preguntas o necesitas orientaci\u00f3n m\u00e9dica personalizada, te recomendo consultar con un profesional de salud especializado en VIH."
+}

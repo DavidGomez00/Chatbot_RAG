@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi alguien con VIH sigue el tratamiento adecuadamente, puede llegar a no transmitir el virus a otras personas?\n",
+    "context_info": [
+        {
+            "text": "El tratamiento precoz no s\u00f3lo proporciona beneficio en la salud individual de la persona que lo recibe, sino que beneficia a la sociedad ya que las personas con supresi\u00f3n viral prolongada del VIH no pueden transmitir la infecci\u00f3n a otras personas, incluso en el contexto de pr\u00e1cticas sexuales o de inyecci\u00f3n de riesgo, o en el caso de la transmisi\u00f3n vertical. ",
+            "source": "ManualClinico, section 11.2.",
+            "_distance": 0.5681217908859253
+        },
+        {
+            "text": " Si la persona con el VIH tiene la carga viral indetectable gracias al tratamiento antirretroviral, el riesgo de transmisi\u00f3n es cero, incluso si no se emplean preservativos.  Si la persona sin el VIH toma la PrEP frente al virus de forma apropiada, entonces el riesgo de transmisi\u00f3n se reduce de forma espectacular, incluso cuando no se utilizan preservativos. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.5694480538368225
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.5755037069320679
+        },
+        {
+            "text": "De ah\u00ed que sea necesario abordar ambas cuestiones desde el enfoque que proporciona la respuesta al VIH basada en los derechos partiendo de la evidencia cient\u00edfica de distintos estudios como los Partner, en los que se pone de manifiesto que una persona con VIH que toma correctamente el tratamiento antirretroviral y presenta carga viral indetectable de forma continuada no transmite el virus aunque mantenga relaciones sexuales sin preservativo. ",
+            "source": "ManualClinico, section 34.1.",
+            "_distance": 0.590981662273407
+        },
+        {
+            "text": "Hay muchas parejas cuyo estado serol\u00f3gico al VIH es diferente (es decir, en un miembro es positivo y en el otro, negativo) que disfrutan de una vida sexual plena y activa sin riesgo de infecci\u00f3n.  El riesgo de transmisi\u00f3n del VIH cuando no se toma tratamiento antirretroviral.  Un estudio realizado en 1994 examin\u00f3 las tasas de transmisi\u00f3n del virus en m\u00e1s de 250 parejas heterosexuales mon\u00f3gamas, donde un miembro ten\u00eda el VIH y el otro no. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6251558661460876
+        }
+    ],
+    "answer": "<think>\nBueno, tengo una pregunta sobre el VIH y su transmisi\u00f3n cuando alguien sigue un tratamiento adecuado. Primero, debo recordar la informaci\u00f3n proporcionada. Se menciona que si una persona con VIH tiene la carga viral indetectable gracias al tratamiento antirretroviral, el riesgo de transmisi\u00f3n es cero, incluso sin usar preservativos.\n\nTambi\u00e9n hay un estudio llamado Partner que respalda esto, mostrando que no hay transmisi\u00f3n del virus cuando la carga viral est\u00e1 controlada. Adem\u00e1s, se habla de parejas serodiscordantes que pueden tener una vida sexual activa sin riesgo si el tratamiento es correcto.\n\nEntonces, la respuesta deber\u00eda confirmar que s\u00ed, siguiendo el tratamiento adecuadamente, no se transmite el virus. Debo asegurarme de mencionar la carga viral indetectable y citar el estudio Partner para dar m\u00e1s credibilidad.\n\nAdem\u00e1s, aunque el riesgo de reinfecci\u00f3n existe si se adquiere de nuevo, eso no afecta la capacidad de transmitir a otros, as\u00ed que no es relevante para esta pregunta espec\u00edfica. Por lo tanto, me centrar\u00e9 en la transmisi\u00f3n y no en la reinfecci\u00f3n.\n\nFinalmente, debo asegurarme de que la respuesta sea clara y precisa, usando espa\u00f1ol correcto y siguiendo las instrucciones dadas.\n</think>\n\nS\u00ed, si alguien con VIH sigue el tratamiento antirretroviral adecuadamente y mantiene una carga viral indetectable de forma continuada, no puede transmitir el virus a otras personas. Esto se apoya en estudios como el Partner, que demuestran que la transmisi\u00f3n es nula incluso sin el uso de preservativos."
+}

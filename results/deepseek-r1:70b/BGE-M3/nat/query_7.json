@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 es diagn\u00f3stico tard\u00edo?\n",
+    "context_info": [
+        {
+            "text": "Se define el diagn\u00f3stico tard\u00edo como aquel caso que se diagn\u00f3stica con menos de 350 linfocitos CD4+ c\u00e9lulas/mm3 y la enfermedad avanzada cuando el nivel de CD4+ tuvieron es inferior un diagn\u00f3stico a 200 tard\u00edo, c\u00e9lulas/mm3siendo. Casi este la mitad porcentaje de los superior nuevos conforme diagn\u00f3sticos de aumentaba 2017 la edad al diagn\u00f3stico, en heterosexuales y UDI, y en casos procedentes de \u00c1frica Subsahariana y Latinoam\u00e9rica. ",
+            "source": "ManualClinico, section 1.2.",
+            "_distance": 0.519835889339447
+        },
+        {
+            "text": " Introducci\u00f3n Disminuir el diagn\u00f3stico tard\u00edo (DT) de la infecci\u00f3n por VIH es uno de los principales retos de la respuesta a la epidemia del VIH. La definici\u00f3n establecida de retraso diagn\u00f3stico se refiere a personas que presentan un recuento de CD4 inferior a 350 c\u00e9lulas/\u00b5l, o que presentan un evento definitorio de sida, sin importar el recuento de c\u00e9lulas CD4. ",
+            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_info, section 1.0.",
+            "_distance": 0.7223446369171143
+        },
+        {
+            "text": " El diagn\u00f3stico tard\u00edo en personas con enfermedad avanzada fue de un 25,1%.  El diagn\u00f3stico tard\u00edo es la causa de muchas de las muertes asociadas al VIH. Estas podr\u00edan evitarse promoviendo el diagn\u00f3stico precoz de la infecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 2.0.",
+            "_distance": 0.7385929822921753
+        },
+        {
+            "text": "Las personas con infecci\u00f3n por VIH que desconocen su situaci\u00f3n no pueden beneficiarse del tratamiento antirretroviral (TAR), por ello tienen mayor riesgo de desarrollar sida y su mortalidad se ve aumentada de forma muy importante respecto a las personas que acceden al diagn\u00f3stico y al tratamiento eficaz temprano. Adem\u00e1s, el coste del tratamiento y cuidado de los enfermos con diagn\u00f3stico tard\u00edo es superior a los que se diagnostican precozmente. ",
+            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_info, section 1.0.",
+            "_distance": 0.8650605082511902
+        },
+        {
+            "text": "En Espa\u00f1a se estima que entre el 25 y el 30% de las personas seropositivas desconocen ser portadoras del virus, porcentaje similar al del resto de Europa, y los diagn\u00f3sticos nuevos presentan una elevada proporci\u00f3n de diagn\u00f3stico tard\u00edo (DT) (definido como un recuento de linfocitos CD4 en el momento del diagn\u00f3stico menor de 350 c./ml) en el 45% de los casos y con menos de 200 CD4/ml en el 28% de los casos. ",
+            "source": "manejo_paciente_vih_en_ap, section 2.0.",
+            "_distance": 0.8727577924728394
+        }
+    ],
+    "answer": "<think>\nBueno, el usuario pregunta qu\u00e9 es un diagn\u00f3stico tard\u00edo del VIH. Primero, debo recordar la definici\u00f3n proporcionada en el conocimiento. S\u00e9 que el diagn\u00f3stico tard\u00edo se define como aquel caso donde el recuento de CD4+ est\u00e1 por debajo de 350 c\u00e9lulas/mm\u00b3 o cuando hay un evento definitorio de sida, independientemente del nivel de CD4+. \n\nTambi\u00e9n menciona que la enfermedad avanzada es cuando el CD4+ es inferior a 200. Entonces, en la respuesta, debo incluir ambas situaciones: el recuento bajo y la presencia de s\u00edntomas de sida.\n\nAdem\u00e1s, seg\u00fan las estad\u00edsticas dadas, el 45% de los nuevos diagn\u00f3sticos en Espa\u00f1a son tard\u00edos, y el 28% tienen menos de 200 CD4+. Esto podr\u00eda ayudar a contextualizar la importancia del diagn\u00f3stico temprano.\n\nTambi\u00e9n es relevante mencionar por qu\u00e9 es importante evitar el diagn\u00f3stico tard\u00edo. Sabemos que retrasar el diagn\u00f3stico aumenta el riesgo de progresi\u00f3n a sida, mayores costes m\u00e9dicos y una peor calidad de vida para los pacientes. As\u00ed que en la respuesta, deber\u00eda resaltar estos puntos.\n\nFinalmente, debo asegurarme de que la informaci\u00f3n sea clara y precisa, utilizando espa\u00f1ol correcto y evitando jerga t\u00e9cnica excesiva para que sea accesible.\n</think>\n\nEl diagn\u00f3stico tard\u00edo (DT) del VIH se define como aquel caso en el que una persona recibe su diagn\u00f3stico con un recuento de linfocitos CD4+ inferior a 350 c\u00e9lulas/mm\u00b3 o cuando presenta un evento definitorio de sida, independientemente del nivel de CD4+. \n\nEste tipo de diagn\u00f3stico es preocupante porque puede llevar a un empeoramiento en la salud de la persona afectada, aumentando el riesgo de desarrollar enfermedades graves asociadas al sida. Adem\u00e1s, el diagn\u00f3stico tard\u00edo se asocia con mayores costes sanitarios y una peor calidad de vida para los pacientes.\n\nEs importante destacar que, seg\u00fan datos recientes, en Espa\u00f1a alrededor del 45% de los nuevos diagn\u00f3sticos de VIH son considerados tard\u00edos, y un 28% de estos casos presentan un recuento de CD4+ inferior a 200 c\u00e9lulas/mm\u00b3, lo que indica enfermedad avanzada. \n\nEl diagn\u00f3stico oportuno es clave para garantizar el acceso temprano al tratamiento antirretroviral (TAR) y mejorar los resultados en salud."
+}

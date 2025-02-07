@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 es exactamente el VIH y en qu\u00e9 se diferencia del SIDA?\n",
+    "context_info": [
+        {
+            "text": "Como se ha podido comprobar en distintos estudios, el VIH es un virus que tiene capacidad de penetrar en el interior del sistema nervioso central (SNC) y una vez all\u00ed de infectar c\u00e9lulas que expresen receptores CCR5 en su superficie. Ya durante la primo infecci\u00f3n, el VIH penetra a trav\u00e9s de la barrera hematoencef\u00e1lica y puede ser detectado a nivel del l\u00edquido cefalorraqu\u00eddeo (LCR). ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.654498279094696
+        },
+        {
+            "text": " VIH-2: 9 grupos y 2 recombinantes Aunque el VIH-2 tambi\u00e9n es capaz de causar SIDA, presenta importantes diferencias con el VIH-1: es menos patog\u00e9nico, presenta per\u00edodos de latencia cl\u00ednica m\u00e1s largos, progresi\u00f3n m\u00e1s lenta y menores tasas de transmisi\u00f3n horizontal y vertical. El VIH-2 se clasifica en 9 grupos (A- I), representando cada grupo un \u00fanico evento de transmisi\u00f3n del virus entre especies, y 2 formas recombinantes. Los grupos A y B son los m\u00e1s prevalentes. ",
+            "source": "ManualClinico, section 2.3.2.",
+            "_distance": 0.6644178628921509
+        },
+        {
+            "text": " Introducci\u00f3n El virus de la inmunodeficiencia humana tipo 2 (VIH-2) es un retrovirus gen\u00e9ticamente cercano al VIH-1, el agente etiol\u00f3gico m\u00e1s conocido del s\u00edndrome de inmunodeficiencia adquirida (SIDA). Est\u00e1 formado por al menos 9 grupos diferentes (a, b, c, d, e, f, g, h, i) siendo los grupos a y b los m\u00e1s prevalentes. Al comparar el VIH-1 y VIH-2 existen importantes diferencias estructurales que influyen en la patogenicidad, historia natural y tratamiento de los mismos. ",
+            "source": "ManualClinico, section 5.1.",
+            "_distance": 0.674217700958252
+        },
+        {
+            "text": " Origen del Virus de la Inmunodeficiencia Humana (VIH) El VIH pertenece al g\u00e9nero Lentivirus dentro de la familia Retroviridae . Se clasifica en dos tipos: VIH-1 y VIH-2, con un 40-50% de homolog\u00eda y una organizaci\u00f3n gen\u00f3mica similar. Ambos grupos provienen de diferentes saltos inter-especie de virus que infectan en la naturaleza a poblaciones de simios en \u00c1frica. ",
+            "source": "ManualClinico, section 2.1.1.",
+            "_distance": 0.6947276592254639
+        },
+        {
+            "text": "As\u00ed, mientras que el VIH-1 ha producido una epidemia a escala mundial, el VIH-2, menos patog\u00e9nico y transmisible, se encuentra aun pr\u00e1cticamente confinado en la regi\u00f3n occidental de \u00c1frica. El VIH-2 tambi\u00e9n puede ocasionar el SIDA, pero de forma m\u00e1s lenta, generalmente tras m\u00e1s de 20 a\u00f1os de infecci\u00f3n. Algunos de los antirretrovirales utilizados para tratar el VIH-1 no son activos frente al VIH-2. ",
+            "source": "ManualClinico, section 5.1.",
+            "_distance": 0.702379584312439
+        }
+    ],
+    "answer": "<think>\nOkay, I need to answer the question about what exactly HIV is and how it differs from AIDS. Let me start by recalling the information provided.\n\nFirst, HIV stands for Human Immunodeficiency Virus. It's a type of retrovirus that attacks the immune system. Specifically, it targets CD4 cells, which are crucial for the immune response. If not treated, HIV can lead to AIDS.\n\nNow, what is AIDS? From the knowledge given, AIDS is the final stage of HIV infection. It occurs when the body's immune system is severely damaged, making it vulnerable to opportunistic infections and cancers that a healthy immune system would typically handle.\n\nI should explain the progression from HIV to AIDS. HIV weakens the immune system over time by destroying CD4 cells. Without treatment, this can progress to AIDS, usually after many years. At this point, the immune system is so compromised that it can't fight off serious diseases.\n\nIt's important to note that not everyone with HIV has AIDS. Antiretroviral therapy (ART) can manage HIV and prevent progression to AIDS. This treatment keeps the virus at very low levels, allowing the immune system to function better.\n\nI should also mention the differences clearly: HIV is the virus itself, while AIDS is the condition resulting from advanced HIV infection. So, HIV causes AIDS but they are not the same thing.\n\nLet me structure this information in a clear and concise manner without using any markdown or complex formatting.\n</think>\n\nEl VIH (Virus de la Inmunodeficiencia Humana) es un retrovirus que ataca el sistema inmunitario, espec\u00edficamente las c\u00e9lulas CD4, esenciales para la respuesta inmune. Si no se trata, puede progresar al SIDA.\n\nSIDA (S\u00edndrome de Inmunodeficiencia Adquirida) es la etapa final de la infecci\u00f3n por VIH, donde el sistema inmunitario est\u00e1 gravemente da\u00f1ado, tornando al cuerpo susceptible a infecciones oportunistas y c\u00e1nceres que un sistema inmune sano podr\u00eda manejar.\n\nLa progresi\u00f3n de VIH a SIDA puede tardar a\u00f1os. Sin tratamiento, el VIH destruye las c\u00e9lulas CD4, debilitando el sistema inmunitario hasta llegar al diagn\u00f3stico de SIDA.\n\nEs importante destacar que tener VIH no significa autom\u00e1ticamente tener SIDA. Con terapias antirretrovirales (ART), el VIH se puede controlar, evitando la progresi\u00f3n a SIDA y manteniendo el sistema inmunitario funcional.\n\nEn resumen: VIH es el virus, mientras que SIDA es la condici\u00f3n resultante de una infecci\u00f3n avanzada."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento antirretroviral (ARV) puede eliminar por completo el VIH del cuerpo?\n",
+    "context_info": [
+        {
+            "text": " Tratamiento antirretroviral A d\u00eda de hoy, la infecci\u00f3n por VIH no se puede erradicar, pero el tratamiento antirretroviral de gran actividad (TAR o TARGA) aumenta la supervivencia, retrasa la progresi\u00f3n cl\u00ednica y favorece la restauraci\u00f3n inmunol\u00f3gica. Consiste en la administraci\u00f3n, de forma combinada, de al menos tres f\u00e1rmacos y su objetivo es impedir la replicaci\u00f3n viral y mantener la carga viral plasm\u00e1tica (CVP) indetectable (\udbc0\udc01 50 copias/ml) el mayor tiempo posible. ",
+            "source": "manejo_paciente_vih_en_ap, section 13.0.",
+            "_distance": 0.6221296191215515
+        },
+        {
+            "text": " Esta constataci\u00f3n, que ha sido confirmada por la ciencia, ha servido como est\u00edmulo para que muchas personas con el VIH puedan mejorar la imagen que tienen de s\u00ed mismas y reducir la ansiedad a la hora de mantener relaciones sexuales.  Varios son los estudios y ensayos que han permitido demostrar este hallazgo. Por un lado, en 2011, el estudio HPTN052 realizado en parejas heterosexuales serodiscordantes hall\u00f3 que el tratamiento antirretroviral reduc\u00eda el riesgo de transmisi\u00f3n del VIH en un 93%. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 10.0.",
+            "_distance": 0.7180192470550537
+        },
+        {
+            "text": " Por otra parte, el curso de la infecci\u00f3n por el VIH/Sida ha sufrido un claro cambio desde que se dispone de un tratamiento antirretroviral (TAR) eficaz y hemos asistido a una importante reducci\u00f3n de la morbimortalidad y de la transmisi\u00f3n de la infecci\u00f3n por el VIH. Es te TAR ha evolucionado hasta unos niveles alt\u00edsimos de eficacia, tolerancia y sencillez en el 80% de las personas que viven con el VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 1.1.",
+            "_distance": 0.7264414429664612
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7307518720626831
+        },
+        {
+            "text": " El reservorio celular del VIH La erradicaci\u00f3n del VIH no es posible con los tratamientos actuales debido a los mecanismos de persistencia viral en sus c\u00e9lulas diana. La prueba m\u00e1s concluyente de esta afirmaci\u00f3n se observa al interrumpir el TAR en un paciente con viremia controlada durante a\u00f1os, en los que se produce en pocos d\u00edas un repunte de la carga viral a niveles similares a los previos al iniciar el TAR. ",
+            "source": "ManualClinico, section 3.5.",
+            "_distance": 0.7341172695159912
+        }
+    ],
+    "answer": "<think>\nBueno, tengo una pregunta sobre si el tratamiento antirretroviral (ARV) puede eliminar completamente el VIH del cuerpo. Primero, recuerdo que el ARV se usa para tratar el VIH, pero no estoy seguro de si cura la infecci\u00f3n. Seg\u00fan lo que he le\u00eddo antes, el VIH es un virus que ataca al sistema inmunol\u00f3gico y, aunque el tratamiento ha mejorado mucho, todav\u00eda no hay una cura definitiva.\n\nEl usuario menciona que el ARV impide la replicaci\u00f3n del virus y mantiene la carga viral indetectable. Eso significa que el virus est\u00e1 controlado, pero \u00bfse elimina por completo? Creo que no, porque he o\u00eddo hablar de los \"reservorios\" del VIH, donde el virus permanece latente en algunas c\u00e9lulas. Incluso si se suspende el tratamiento, el virus puede volver a aparecer.\n\nAdem\u00e1s, el estudio HPTN052 mostr\u00f3 una reducci\u00f3n significativa en la transmisi\u00f3n cuando el ARV se administra, pero no hablaba sobre la eliminaci\u00f3n total del virus. Por lo tanto, entiendo que aunque el ARV es muy efectivo para controlar el VIH y prevenir su transmisi\u00f3n, no erradica el virus por completo del cuerpo.\n\nTambi\u00e9n hay que considerar la reinfecci\u00f3n. Aunque es rara, si una persona con VIH en tratamiento se expone al virus de nuevo, podr\u00eda infectarse otra vez. Esto sugiere que el sistema inmunol\u00f3gico, aunque fortalecido, no est\u00e1 completamente libre del virus.\n\nEn resumen, bas\u00e1ndome en la informaci\u00f3n proporcionada, el ARV controla el virus, pero no lo elimina por completo debido a los reservorios celulares y la posible reactivaci\u00f3n si se interrumpe el tratamiento.\n</think>\n\nEl tratamiento antirretroviral (ARV) es altamente efectivo para controlar el VIH, impidiendo su replicaci\u00f3n y manteniendo la carga viral indetectable. Sin embargo, no elimina completamente el virus del cuerpo debido a la existencia de reservorios celulares donde el VIH permanece latente. Si se suspende el tratamiento, el virus puede reactivarse. Por lo tanto, el ARV controla y\u7ba1\u7406a la infecci\u00f3n, pero no ofrece una cura definitiva."
+}

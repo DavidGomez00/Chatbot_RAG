@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl uso de medicamentos como la profilaxis preexposici\u00f3n (PrEP) reduce el riesgo de transmisi\u00f3n del VIH?\n",
+    "context_info": [
+        {
+            "text": " INTRODUCCI\u00d3N Por primera vez en quince a\u00f1os, las tasas de nuevos diagn\u00f3sticos del VIH han comenzado a disminuir en muchos pa\u00edses. Esta reducci\u00f3n se debe, en parte, a que las personas se realizan las pruebas con m\u00e1s frecuencia y reciben el diagn\u00f3stico e inician el tratamiento m\u00e1s pronto. Otro factor que influye es el uso m\u00e1s generalizado de la profilaxis preexposici\u00f3n frente al VIH (PrEP) por parte de las poblaciones m\u00e1s vulnerables a esta infecci\u00f3n. Sin embargo, sigue siendo de gran importancia saber c\u00f3mo cuidar tu salud sexual, tanto si tienes el VIH como si no. Esta gu\u00eda se centra en la transmisi\u00f3n sexual del VIH y las pruebas diagn\u00f3sticas, e incluye informaci\u00f3n sobre: C\u00f3mo el riesgo de infecci\u00f3n va m\u00e1s all\u00e1 del hecho simplemente de usar o no preservativos. C\u00f3mo y cu\u00e1ndo pueden emplearse las distintas pruebas.",
+            "source": "GTT_guia_transmision_2020_W_info, section 1.0.",
+            "_distance": 0.47780942916870117
+        },
+        {
+            "text": " Profilaxis Pre-Exposici\u00f3n (PrEP) La PrEP consiste en la utilizaci\u00f3n de f\u00e1rmacos antirretrovirales antes de un contacto de riesgo para prevenir la infecci\u00f3n por el VIH. ",
+            "source": "ManualClinico, section 11.3.",
+            "_distance": 0.5407361388206482
+        },
+        {
+            "text": " PROFILAXIS PREEXPOSICI\u00d3N AL VIH (PrEP) La PrEP es una intervenci\u00f3n biom\u00e9dica en la que personas sin el VIH toman medicaci\u00f3n antirretroviral para prevenir la infecci\u00f3n en las relaciones sexuales. La pauta est\u00e1 formada por dos f\u00e1rmacos antirretrovirales que se combinan en un \u00fanico comprimido.",
+            "source": "GTT_guia_transmision_2020_W_info, section 8.0.",
+            "_distance": 0.5518225431442261
+        },
+        {
+            "text": " Profilaxis post-exposici\u00f3n (PEP) La profilaxis post-exposici\u00f3n (PEP) es un r\u00e9gimen de tratamiento antirretroviral recomendado durante 28 d\u00edas tras una exposici\u00f3n sexual o parenteral a VIH y debe ser comenzado lo antes posible despu\u00e9s de la exposici\u00f3n, y no se debe prescribir cuando hayan pasado m\u00e1s de 72 horas desde la exposici\u00f3n. Aunque no hay ensayos cl\u00ednicos aleatorizados que demuestren la eficacia de la PEP, existen evidencias en estudios retrospectivos, modelos animales, estudios observacionales y transmisi\u00f3n vertical.",
+            "source": "ManualClinico, section 11.4.",
+            "_distance": 0.5916884541511536
+        },
+        {
+            "text": "El diagn\u00f3stico de infecci\u00f3n aguda fue mucho m\u00e1s frecuente en hombres que tienen sexo con hombres que en la poblaci\u00f3n heterosexual o en los usuarios de drogas por v\u00eda intravenosa. Es probable que en el futuro en nuestro medio se diagnostiquen menos casos de infecciones aguas por el VIH por el tratamiento antirretroviral universal y la implementaci\u00f3n de la profilaxis preexposici\u00f3n (PrEP). ",
+            "source": "ManualClinico, section 4.1.",
+            "_distance": 0.6439709067344666
+        }
+    ],
+    "answer": "<think>\nBueno, la pregunta es sobre si el uso de PrEP reduce el riesgo de transmisi\u00f3n del VIH. Primero, recuerdo que PrEP son medicamentos antirretrovirales tomados antes del contacto de riesgo.\n\nEn el texto proporcionado, se menciona que PrEP ha contribuido a reducir las tasas de nuevos diagn\u00f3sticos, lo cual implica que es efectivo. Adem\u00e1s, se explica que PrEP consiste en dos f\u00e1rmacos combinados en un solo comprimido para prevenir la infecci\u00f3n.\n\nTambi\u00e9n hay informaci\u00f3n sobre su uso m\u00e1s generalizado entre poblaciones vulnerables, y se destaca su eficacia si se toma correctamente. Por lo tanto, parece claro que el uso adecuado de PrEP reduce significativamente el riesgo de contraer VIH.\n</think>\n\nS\u00ed, el uso de medicamentos como la profilaxis preexposici\u00f3n (PrEP) reduce significativamente el riesgo de transmisi\u00f3n del VIH. Seg\u00fan la informaci\u00f3n proporcionada, PrEP consiste en la utilizaci\u00f3n de f\u00e1rmacos antirretrovirales antes de un contacto de riesgo para prevenir la infecci\u00f3n por el VIH. La pauta est\u00e1 formada por dos f\u00e1rmacos antirretrovirales que se combinan en un \u00fanico comprimido. Este m\u00e9todo ha demostrado ser eficaz para reducir las tasas de nuevos diagn\u00f3sticos, especialmente entre las poblaciones m\u00e1s vulnerables a la infecci\u00f3n.\n\nEs importante destacar que la eficacia de PrEP depende de su uso correcto y consistente. Adem\u00e1s, se menciona que la implementaci\u00f3n de PrEP ha contribuido a disminuir el n\u00famero de casos de infecciones agudas por VIH en ciertos grupos poblacionales."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "Si una persona tiene VIH, \u00bfpuede vivir una vida normal o siempre estar\u00e1 enferma?\n",
+    "context_info": [
+        {
+            "text": "Te realizar\u00e1n pruebas para comprobar la fortaleza de tu sistema inmunitario y de tu estado de salud, en general. Es probable que necesites alg\u00fan tiempo para asumir esta novedad en tu vida.  Si dispones de apoyo e informaci\u00f3n, ser\u00e1 m\u00e1s sencillo. El hecho de tener informaci\u00f3n fiable te ayudar\u00e1 a tomar decisiones informadas sobre tu salud. Descubrir que tienes el VIH nunca es agradable, pero actualmente el VIH es una infecci\u00f3n tratable y manejable. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.7474867105484009
+        },
+        {
+            "text": "El tratamiento frente al VIH te permitir\u00e1 tener una esperanza de vida similar a la de una persona sin el VIH, con una buena calidad de vida. Es muy probable que no tengas que renunciar a nada de lo que hac\u00edas como consecuencia de tu nueva situaci\u00f3n.  Como parte de la atenci\u00f3n prenatal, de forma rutinaria se incluye la realizaci\u00f3n de la prueba del VIH a todas las mujeres (durante el primer y tercer trimestre de embarazo). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.8398625254631042
+        },
+        {
+            "text": " Introducci\u00f3n Los trastornos mentales en las personas que viven con el VIH son altamente frecuentes. Estos implican una amplia variedad de trastornos y s\u00edntomas, los cuales adem\u00e1s suelen tener un impacto importante tanto en el funcionamiento diario como en la calidad de vida. Es por estos motivos ( frecuencia, espectro, impacto ) que este tipo de complicaciones merecen una atenci\u00f3n especial en el cuidado cl\u00ednico de las personas con VIH. ",
+            "source": "ManualClinico, section 25.1.",
+            "_distance": 0.8425058126449585
+        },
+        {
+            "text": " Introducci\u00f3n El control actual de la infecci\u00f3n por VIH hace que la mayor\u00eda de los pacientes hagan una vida similar al resto de la poblaci\u00f3n. Este aspecto tambi\u00e9n ata\u00f1e a la movilizaci\u00f3n de las personas en esta \u00e9poca de globalizaci\u00f3n. Actualmente vivimos en un mundo donde cualquier persona puede estar en el extremo opuesto del planeta en escasas 24-36 horas, gracias a la rapidez y fluidez de los medios de transporte. ",
+            "source": "ManualClinico, section 29.1.",
+            "_distance": 0.8700966835021973
+        },
+        {
+            "text": " VIH, SEXO Y RIESGO Aunque en general puede resultar sencillo determinar cu\u00e1ndo un riesgo es alto o bajo, puede ser m\u00e1s complicado calcular las probabilidades de los casos intermedios entre ambos extremos.  Si una persona practica sexo sin preservativo es poco probable que adquiera el VIH. Pero si 10.000 personas mantienen relaciones sexuales sin preservativo, es probable que alguna contraiga el virus, a pesar de que todas ellas tengan te\u00f3ricamente el mismo riesgo sexual. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
+            "_distance": 0.8846692442893982
+        }
+    ],
+    "answer": "<think>\nAlright, I need to answer the question: \"If someone has HIV, can they live a normal life or will they always be sick?\" \n\nFirst, from the provided knowledge, I know that with proper treatment, people with HIV can lead normal lives. The key points are that HIV is manageable and treatable, allowing for a similar quality of life as those without it.\n\nI should mention antiretroviral therapy (ART) because it's crucial in controlling the virus and preventing complications. It's important to note that while they might not always be sick, regular medical care is necessary.\n\nAlso, I should highlight that advancements in treatment have made a big difference, so living a normal life is possible with adherence to medication and healthy habits.\n\nI need to keep it clear and concise, avoiding any markdown or complicated structures. The response should be reassuring but also realistic about the need for ongoing management.\n</think>\n\nS\u00ed, una persona con VIH puede vivir una vida normal y tener una buena calidad de vida si sigue el tratamiento indicado. Actualmente, el VIH es una infecci\u00f3n tratable y manejable gracias a los avances m\u00e9dicos, especialmente con la terapia antirretroviral (ART). Este tratamiento permite controlar el virus, prevenir complicaciones y mantener un sistema inmunitario fuerte.\n\nAunque es importante seguir las recomendaciones m\u00e9dicas y cuidados necesarios, la mayor\u00eda de las personas con VIH pueden realizar sus actividades diarias sin problemas. No significa que siempre est\u00e9n enfermas, sino que requieren atenci\u00f3n regular para gestionar su salud de manera efectiva."
+}

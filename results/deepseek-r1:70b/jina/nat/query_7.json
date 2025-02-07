@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 es diagn\u00f3stico tard\u00edo?\n",
+    "context_info": [
+        {
+            "text": "Se define el diagn\u00f3stico tard\u00edo como aquel caso que se diagn\u00f3stica con menos de 350 linfocitos CD4+ c\u00e9lulas/mm3 y la enfermedad avanzada cuando el nivel de CD4+ tuvieron es inferior un diagn\u00f3stico a 200 tard\u00edo, c\u00e9lulas/mm3siendo. Casi este la mitad porcentaje de los superior nuevos conforme diagn\u00f3sticos de aumentaba 2017 la edad al diagn\u00f3stico, en heterosexuales y UDI, y en casos procedentes de \u00c1frica Subsahariana y Latinoam\u00e9rica. ",
+            "source": "ManualClinico, section 1.2.",
+            "_distance": 0.5099048018455505
+        },
+        {
+            "text": " Introducci\u00f3n Disminuir el diagn\u00f3stico tard\u00edo (DT) de la infecci\u00f3n por VIH es uno de los principales retos de la respuesta a la epidemia del VIH. La definici\u00f3n establecida de retraso diagn\u00f3stico se refiere a personas que presentan un recuento de CD4 inferior a 350 c\u00e9lulas/\u00b5l, o que presentan un evento definitorio de sida, sin importar el recuento de c\u00e9lulas CD4. ",
+            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_info, section 1.0.",
+            "_distance": 0.5583012700080872
+        },
+        {
+            "text": " El diagn\u00f3stico tard\u00edo en personas con enfermedad avanzada fue de un 25,1%.  El diagn\u00f3stico tard\u00edo es la causa de muchas de las muertes asociadas al VIH. Estas podr\u00edan evitarse promoviendo el diagn\u00f3stico precoz de la infecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 2.0.",
+            "_distance": 0.7522299885749817
+        },
+        {
+            "text": "En Espa\u00f1a se estima que entre el 25 y el 30% de las personas seropositivas desconocen ser portadoras del virus, porcentaje similar al del resto de Europa, y los diagn\u00f3sticos nuevos presentan una elevada proporci\u00f3n de diagn\u00f3stico tard\u00edo (DT) (definido como un recuento de linfocitos CD4 en el momento del diagn\u00f3stico menor de 350 c./ml) en el 45% de los casos y con menos de 200 CD4/ml en el 28% de los casos. ",
+            "source": "manejo_paciente_vih_en_ap, section 2.0.",
+            "_distance": 0.9230369329452515
+        },
+        {
+            "text": "Aunque es raro, el reconocimiento de este s\u00edndrome es importante para que el d4T pueda retirarse y se inicien las medidas de apoyo en este trastorno potencialmente mortal. ",
+            "source": "ManualClinico, section 23.3.2.",
+            "_distance": 0.9242584705352783
+        }
+    ],
+    "answer": "<think>\nOkay, so I need to figure out what a late diagnosis of HIV is based on the provided information. Let me go through the details step by step.\n\nFirst, the user has given a specific definition: \"Se define el diagn\u00f3stico tard\u00edo como aquel caso que se diagnostica con menos de 350 linfocitos CD4+ c\u00e9lulas/mm\u00b3 y la enfermedad avanzada cuando el nivel de CD4+ es inferior a 200 c\u00e9lulas/mm\u00b3.\" So, that's the starting point.\n\nI also see that in the introduction, it mentions that late diagnosis refers to people with a CD4 count below 350 cells/\u00b5l or those who have an AIDS-defining event, regardless of their CD4 count. That seems consistent but adds another criterion about AIDS events.\n\nLooking further, there's a mention that in Spain, about 25-30% of HIV-positive individuals are unaware they're infected, and among new diagnoses, 45% are late (under 350) and 28% are advanced (under 200). This gives context on the prevalence but isn't necessary for defining late diagnosis.\n\nThe user's instructions specify that I should respond clearly in Spanish, using only the provided information. Also, if a question is outside my knowledge, I should refer them to a doctor.\n\nSo, putting it together, the response needs to include two main points: the CD4 count below 350 and the presence of an AIDS-defining illness, regardless of CD4 count. Additionally, when the CD4 count is below 200, it's considered advanced disease, which falls under late diagnosis as well.\n\nI should structure this in a clear, concise manner without adding extra information beyond what's provided. I'll make sure to mention both criteria for late diagnosis and note that advanced disease is when CD4 is below 200.\n</think>\n\nEl diagn\u00f3stico tard\u00edo del VIH se define como aquel en el que una persona recibe su diagn\u00f3stico con un recuento de linfocitos CD4+ inferior a 350 c\u00e9lulas/mm\u00b3. Adem\u00e1s, tambi\u00e9n se considera diagn\u00f3stico tard\u00edo si la persona presenta un evento definitorio de SIDA, independientemente del nivel de CD4+. Por otro lado, cuando el recuento de CD4+ es inferior a 200 c\u00e9lulas/mm\u00b3, se clasifica como enfermedad avanzada, lo cual tambi\u00e9n forma parte del diagn\u00f3stico tard\u00edo."
+}
