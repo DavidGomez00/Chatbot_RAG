@@ -99,6 +99,7 @@ def _create_item(query_path, placeholder=False):
         title = query["query"][:-1] # Remove the last character "\n"
         description = query["answer"]
         # Remove all * from the answer
+        # description = description.split("</think>")[1] # Deepseek specific
         description = description.replace("*", "")
 
     item = {
@@ -153,11 +154,9 @@ if __name__ == "__main__":
         for embedding in os.listdir(model):
             for chunk_str in os.listdir(os.path.join(model, embedding)):      
                 logging.info(f"Creating form for {model.split('/')[-2]}, {embedding}, {chunk_str}...")
-                #print(f"Creating form for {model.split('/')[-2]}, {embedding}, {chunk_str}") 
                 formId = create_form(form_service, form_number, model, embedding, chunk_str)
                 form_number += 1
                 queries_path = os.path.join(model, embedding, chunk_str)
-                #print("Form created, starting to update items.")
                 update = create_queries_update(queries_path)
                 update_form(update, form_service, formId=formId)
 
