@@ -1,0 +1,157 @@
+User,Query,Truthfulness Rating,Completeness Rating,Comments
+0,1,4.0,5.0,
+0,2,5.0,3.0,Demasiado largo
+0,3,2.0,3.0,Error de concepto Elvitegravi siempre va on cobicistat
+0,4,4.0,4.0,mejor poner casi ninguno
+0,5,5.0,5.0,
+0,6,5.0,3.0,Demasiado largo. Respustas más cortas
+0,7,5.0,5.0,muy largo
+0,8,5.0,5.0,
+0,9,5.0,4.0,muy largo
+0,10,5.0,5.0,
+0,11,5.0,5.0,Respuesta más corto
+0,12,5.0,5.0,
+0,13,2.0,2.0,fostemsavir si es un fármaco antorretroviral
+0,14,5.0,5.0,Demasiado largo
+0,15,5.0,5.0,Eliminar toda la explicación
+0,16,3.0,2.0,
+0,17,5.0,5.0,
+0,18,1.0,1.0,hay tratamiento inyectado
+0,19,5.0,5.0,
+0,20,4.0,4.0,
+0,21,5.0,5.0,Reducir respuesta
+0,22,1.0,1.0,mezcla VIh con Vih-2. Si hay inyectable
+0,23,5.0,5.0,
+0,24,4.0,4.0,acortar
+0,25,5.0,5.0,
+0,26,5.0,5.0,
+0,27,4.0,4.0,
+0,28,2.0,3.0,error carga viral mayor de 200
+0,29,4.0,4.0,muy larga
+0,30,4.0,3.0,demasiado largo
+0,31,5.0,5.0,
+0,32,4.0,5.0,
+0,33,3.0,4.0,muy larga
+0,34,2.0,2.0,error de concepto uso compasivo
+0,35,4.0,3.0,
+0,36,5.0,5.0,
+0,37,4.0,4.0,quitar explicación
+0,38,5.0,4.0,
+0,39,4.0,4.0,demasiado largo
+0,40,4.0,4.0,
+0,41,3.0,4.0,error con carga viral >200. Es mayor de 1000
+0,42,5.0,5.0,
+0,43,4.0,5.0,Reducir texto
+0,44,4.0,3.0,Muy extenso
+0,45,5.0,5.0,Redcuir texto
+0,46,4.0,4.0,
+0,47,5.0,5.0,
+0,48,4.0,3.0,Poco concreto y muy extenso
+0,49,3.0,3.0,
+0,50,3.0,3.0,demasiado inespecífico
+0,51,3.0,3.0,basado n pautas antiguas
+0,52,4.0,4.0,quitar explicación
+0,53,3.0,3.0,Usa escalas no utilizadas en VIH
+0,54,5.0,4.0,
+0,55,3.0,3.0,mUyfarragosoa y no da respuesta a el fracoaso por familia de fármacos
+0,56,4.0,4.0,
+0,57,4.0,4.0,
+0,58,5.0,4.0,
+0,59,5.0,4.0,
+0,60,5.0,4.0,Demasiado extensa
+0,61,4.0,3.0,
+0,62,3.0,3.0,cv mayor de 1000 copias para estudio de resistencias
+0,63,4.0,3.0,
+0,64,5.0,4.0,Mas corta
+0,65,3.0,3.0,Información no actualizada. Retirada alerta de Dolutegravir
+0,66,3.0,3.0,obsoleto
+0,67,3.0,3.0,Muy difusa sin decir nada claro
+0,68,2.0,3.0,
+0,69,4.0,4.0,reducir 
+0,70,5.0,3.0,Demasiado Complicado para el paciente
+0,71,3.0,3.0,Mucha dispersión
+0,72,4.0,4.0,
+0,73,5.0,3.0,sólo primer párrafo
+0,74,5.0,4.0,reducir texto
+0,75,5.0,4.0,muy larga
+0,76,5.0,4.0,No ajustado a pautas más modernas. Debería especifcar que son con pautas más antiguas
+0,77,3.0,3.0,
+0,78,5.0,4.0,Quitar la explicación. Dejar el primer párrafo
+1,1,4.0,4.0,
+1,2,4.0,3.0,Texto demasiado extenso. 
+1,3,2.0,3.0,Elv. Siempre con cobi
+1,4,3.0,4.0,
+1,5,5.0,5.0,
+1,6,5.0,4.0,Muy extenso
+1,7,5.0,4.0,
+1,8,5.0,5.0,
+1,9,4.0,4.0,Muy extenso
+1,10,5.0,5.0,
+1,11,5.0,5.0,
+1,12,5.0,5.0,
+1,13,2.0,2.0,
+1,14,5.0,5.0,Muy extenso
+1,15,5.0,4.0,
+1,16,2.0,2.0,
+1,17,4.0,5.0,
+1,18,2.0,2.0,Hay tratamientos inyectables 
+1,19,5.0,5.0,
+1,20,4.0,4.0,
+1,21,5.0,5.0,
+1,22,1.0,1.0,
+1,23,5.0,5.0,
+1,24,5.0,4.0,Muy extenso 
+1,25,5.0,5.0,
+1,26,5.0,5.0,
+1,27,4.0,4.0,
+1,28,2.0,3.0,Test de resistencia requiere CV >1000
+1,29,4.0,4.0,Muy extenso
+1,30,4.0,4.0,Muy extenso
+1,31,5.0,5.0,
+1,32,4.0,4.0,Muy extenso
+1,33,3.0,4.0,
+1,34,2.0,2.0,
+1,35,4.0,4.0,
+1,36,5.0,5.0,
+1,37,4.0,4.0,
+1,38,5.0,4.0,
+1,39,,,
+1,40,4.0,4.0,
+1,41,3.0,4.0,
+1,42,5.0,5.0,
+1,43,4.0,5.0,
+1,44,4.0,3.0,Muy extenso
+1,45,5.0,5.0,
+1,46,4.0,4.0,
+1,47,5.0,5.0,
+1,48,4.0,3.0,
+1,49,2.0,2.0,Poco concreto
+1,50,3.0,3.0,
+1,51,2.0,2.0,Comenta pautas no vigentes 
+1,52,4.0,4.0,
+1,53,3.0,3.0,
+1,54,5.0,4.0,
+1,55,3.0,3.0,
+1,56,4.0,4.0,Muy extenso 
+1,57,4.0,4.0,
+1,58,5.0,4.0,
+1,59,5.0,4.0,Muy extenso 
+1,60,5.0,4.0,
+1,61,4.0,3.0,
+1,62,3.0,3.0,
+1,63,4.0,3.0,Redacción confusa
+1,64,4.0,4.0,
+1,65,3.0,3.0,
+1,66,3.0,3.0,Obsoleto
+1,67,3.0,3.0,
+1,68,3.0,2.0,
+1,69,,,
+1,70,5.0,4.0,Demasiada información. 
+1,71,3.0,3.0,Poco concreto
+1,72,4.0,4.0,
+1,73,5.0,3.0,Dejar solo el primer párrafo 
+1,74,5.0,4.0,
+1,75,5.0,4.0,
+1,76,5.0,4.0,Actualizar pautas
+1,77,4.0,3.0,
+1,78,5.0,4.0,

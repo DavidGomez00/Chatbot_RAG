@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfHay alg\u00fan medicamento antirretroviral que sea m\u00e1s seguro para mi h\u00edgado si ya tengo problemas hep\u00e1ticos o factores de riesgo?\n",
+    "context_info": [
+        {
+            "text": "En la elecci\u00f3n de los antirretrovirales en un paciente coinfectado por VIH/VHC se tendr\u00e1 en cuenta su potencial hepatotoxicidad, la existencia de cirrosis hep\u00e1tica y la indicaci\u00f3n de tratamiento frente al VHC. Los TAR de uso preferente actuales tienen muy escasa hepatoxicidad y, salvo en pacientes con cirrosis descompensada, pueden utilizarse sin restricciones. ",
+            "source": "ManualClinico, section 27.2.4.",
+            "_distance": 0.7298749089241028
+        },
+        {
+            "text": "Si se decide usar los anticonceptivos hormonales se deben tener en cuenta las interacciones con el tratamiento antirretroviral, para asegurar la seguridad y eficacia. Las integrasas no potenciadas como el Raltegravir, Dolutegravir o Bictegravir, o, entre los An\u00e1logos no nucleosidos inhibidores de la transcriptasa Inversa, aquellos que no modifican al CYP3A4 (rilpivirina, doravirina), son los m\u00e1s seguros. Para m\u00e1s detalles consultar las paginas espec\u00edficas de interacciones. ",
+            "source": "ManualClinico, section 30.2.3.",
+            "_distance": 0.7828169465065002
+        },
+        {
+            "text": "Una vez resuelto el cuadro, puede reintroducirse una nueva combinaci\u00f3n de ARV, evitando los que sean sospechosos de haberlo ocasionado y los que tengan un peor perfil de hepatotoxicidad y siempre habiendo eliminado otros potenciales agentes hepatot\u00f3xicos, como alcohol y otros f\u00e1rmacos. ",
+            "source": "ManualClinico, section 10.5.",
+            "_distance": 0.7916562557220459
+        },
+        {
+            "text": " Tratamiento de VHB El tratamiento antirretroviral, que incluye f\u00e1rmacos activos frente a la infecci\u00f3n por VHB, se asocia con menor evoluci\u00f3n a cirrosis, descompensaci\u00f3n o desarrollo de hepatocarcinoma. Incluso en pacientes con cirrosis descompensada se asocia con mejor\u00eda en supervivencia, reversi\u00f3n de la descompensaci\u00f3n y salida de la lista de espera de trasplante. ",
+            "source": "ManualClinico, section 27.3.4.",
+            "_distance": 0.8046098351478577
+        },
+        {
+            "text": " Esta constataci\u00f3n, que ha sido confirmada por la ciencia, ha servido como est\u00edmulo para que muchas personas con el VIH puedan mejorar la imagen que tienen de s\u00ed mismas y reducir la ansiedad a la hora de mantener relaciones sexuales.  Varios son los estudios y ensayos que han permitido demostrar este hallazgo. Por un lado, en 2011, el estudio HPTN052 realizado en parejas heterosexuales serodiscordantes hall\u00f3 que el tratamiento antirretroviral reduc\u00eda el riesgo de transmisi\u00f3n del VIH en un 93%. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 10.0.",
+            "_distance": 0.8149728775024414
+        }
+    ],
+    "answer": "No response content"
+}

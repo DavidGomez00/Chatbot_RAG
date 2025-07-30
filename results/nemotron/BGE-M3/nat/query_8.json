@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfQu\u00e9 riesgos tiene ser diagnosticado con CD4 muy bajos?\n",
+    "query": "\u00bfCu\u00e1les son los factores de riesgo que pueden aumentar la probabilidad de desarrollar esteatosis hep\u00e1tica mientras estoy en tratamiento para el VIH?\n",
     "context_info": [
         {
-            "text": " Esta circunstancia es importante ya que hay que recordar que aquellos pacientes que en el momento del diagn\u00f3stico tienen los CD4 por debajo de 350 c\u00e9l/\u00b5L, tienen diez veces m\u00e1s riesgo de fallecer en el primer a\u00f1o tras su diagn\u00f3stico, que aquellos que tienen m\u00e1s de 350 c\u00e9l/\u00b5L. Y por otra parte, que estos pacientes, sin diagnosticar y por tanto sin tratar, son el origen de la mayor\u00eda de las nuevas infecciones. ",
-            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.3.",
-            "_distance": 0.6499711275100708
-        },
-        {
-            "text": "Estas recomendaciones tienen especial relevancia para aquellas personas cuyo recuento de CD4 al diagn\u00f3stico sea < 200 cel/\u03bcL. Esta condici\u00f3n tambi\u00e9n cobrar\u00eda especial relevancia de cara a las posibles vacunaciones recomendadas como abordaremos m\u00e1s adelante. ",
-            "source": "ManualClinico, section 29.2.1.",
-            "_distance": 0.692104160785675
-        },
-        {
-            "text": " En la Cohorte de la Red de Investigaci\u00f3n en SIDA (CoRIS) los pacientes con CD4 inferiores a 200 c\u00e9lulas/\u00b5l o una enfermedad definitoria de sida en el momento del diagn\u00f3stico presentaban un riesgo de muerte 5,22 veces superior al de los que no se presentaban con retraso, sin que se encontraran diferencias en las respuestas inmunol\u00f3gicas y virol\u00f3gicas al TAR. ",
-            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_info, section 1.0.",
-            "_distance": 0.7087422609329224
-        },
-        {
-            "text": "En pacientes con un recuento de linfocitos CD4+ <100 cels/mm3, estas infecciones pueden asociarse a bacteriemia, infecci\u00f3n diseminada y mortalidad hasta en un 33% en estos pacientes. ",
-            "source": "ManualClinico, section 19.3.3.",
-            "_distance": 0.7850580215454102
-        },
-        {
-            "text": "De igual modo, en pacientes VIH con recuento de CD4 \u2264 200 cel/\u03bcl, el control debe ser m\u00e1s estricto, por existir una estrecha relaci\u00f3n entre el recuento bajo de CD4 y el riesgo de infecci\u00f3n por VPH de alto riesgo oncog\u00e9nico.  b)C\u00e1ncer anal El riesgo de padecer c\u00e1ncer de epitelio anal es aproximadamente 30 veces mayor en personas infectadas por el VIH respecto a la poblaci\u00f3n general, llegando a incrementarse hasta 80 veces en hombres que practican sexo con hombres. ",
+            "text": " 5.Pacientes con VIH y cirrosis hep\u00e1tica (de cualquier etiolog\u00eda) y aquellos con infecci\u00f3n por el VHB y un riesgo estimado de CHC mayor del 0,2% anual, deben ser examinadosmediante una ecograf\u00eda hep\u00e1tica semestral ( I-A). 3.4.5 Alteraciones neuropsiqui\u00e1tricas en la infecci\u00f3n VIH La infecci\u00f3n por el VIH puede incrementar el riesgo de enfermedad psiqui\u00e1trica y a su vez la enfermedad psiqui\u00e1trica es un factor de riesgo para la adquisici\u00f3n de la infecci\u00f3n por el VIH. ",
             "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
-            "_distance": 0.7958799600601196
+            "_distance": 0.6028813123703003
+        },
+        {
+            "text": " TAR en pacientes con hepatopat\u00eda Las principales causas de da\u00f1os hep\u00e1tico en los pacientes con infecci\u00f3n por VIH son las coinfecciones por VHC y por VHB. Con la menor prevalencia de hepatitis v\u00edricas, la esteatosis/ esteatohepatitis no alcoh\u00f3lica est\u00e1 cobrando cada vez mayor relevancia. ",
+            "source": "ManualClinico, section 9.6.3.",
+            "_distance": 0.62310791015625
+        },
+        {
+            "text": "Factores como mayor edad, sexo masculino, mayor \u00edndice de masa corporal (IMC), diabetes, antecedentes familiares o enfermedad renal se asocian a una mayor incidencia de HTA en PVVIH igual que en poblaci\u00f3n general. Adem\u00e1s determinados factores relacionados con el VIH como un mayor grado de inmunosupresi\u00f3n, la inflamaci\u00f3n cr\u00f3nica, la reconstituci\u00f3n inmune, la translocaci\u00f3n bacteriana o la lipodistrofia se han asociado con un mayor riesgo de HTA. ",
+            "source": "ManualClinico, section 20.2.3.",
+            "_distance": 0.6599823832511902
+        },
+        {
+            "text": "Cuando la infecci\u00f3n por VIH se asocia a otros factores de riesgo (edad mayor de 50 a\u00f1os, mujer posmenop\u00e1usica, bajo peso, consumo de tabaco, alcohol y opi\u00e1ceos, administraci\u00f3n de corticoides, diabetes, hipertrigliceridemia, insuficiencia renal e infecci\u00f3n cr\u00f3nica por VHC y recuento de CD4 \udbc0\udc01 250 c/ml), se recomienda realizar un estudio metab\u00f3lico del calcio y niveles de vitamina D y analizar la densidad mineral \u00f3sea con una densitometr\u00eda \u00f3sea (B-III). ",
+            "source": "manejo_paciente_vih_en_ap, section 19.0.",
+            "_distance": 0.6755672693252563
+        },
+        {
+            "text": "Tambi\u00e9n se han informado de elevaciones de CK, rabdomi\u00f3lisis y miopat\u00eda/miositis en pacientes que toman dolutegravir y raltegravir. Puede presentar una etiolog\u00eda multifactorial hasta en un 33% de los casos. La CVP alta del VIH es un factor de riesgo de lesi\u00f3n renal aguda en la rabdomi\u00f3lisis asociada al VIH. b. ",
+            "source": "ManualClinico, section 23.3.2.",
+            "_distance": 0.6846805214881897
         }
     ],
-    "answer": "Ser diagnosticado con un recuento de linfocitos CD4 muy bajos (espec\u00edficamente, por debajo de 350 c\u00e9lulas/\u00b5L, y especialmente bajo 200 c\u00e9lulas/\u00b5L) en el momento del diagn\u00f3stico de VIH conlleva varios riesgos significativos:\n\n1. Riesgo de muerte aumentado: Pacientes con CD4 < 350 c\u00e9lulas/\u00b5L tienen diez veces m\u00e1s riesgo de fallecer en el primer a\u00f1o tras su diagn\u00f3stico comparados con aquellos que tienen un recuento de CD4 por encima de 350 c\u00e9lulas/\u00b5L.\n\n2. Riesgo de muerte extremadamente alto con CD4 < 200 c\u00e9lulas/\u00b5L: En la Cohorte de la Red de Investigaci\u00f3n en SIDA (CoRIS), se encontr\u00f3 que los pacientes con CD4 inferiores a 200 c\u00e9lulas/\u00b5L o una enfermedad definitoria de sida en el momento del diagn\u00f3stico presentaban un riesgo de muerte 5,22 veces superior al de aquellos sin retraso en el diagn\u00f3stico.\n\n3. Infecciones graves y mortalidad: En pacientes con CD4 < 100 c\u00e9lulas/mm\u00b3, las infecciones pueden asociarse con:\n   - Bacteriemia (presencia de bacterias en la sangre)\n   - Infecci\u00f3n diseminada\n   - Mortalidad hasta en un 33%\n\n4. Riesgo aumentado de infecciones por VPH de alto riesgo oncog\u00e9nico: En pacientes VIH con CD4 \u2264 200 c\u00e9lulas/\u00b5L, existe una relaci\u00f3n estrecha entre el bajo recuento de CD4 y el riesgo incrementado de infecci\u00f3n por Virus del Papiloma Humano (VPH) de alto riesgo oncog\u00e9nico, lo que implica un mayor control para prevenir estas infecciones.\n\n5. Incremento del riesgo de c\u00e1ncer anal: Aunque no est\u00e1 directamente relacionado con el recuento de CD4, es importante mencionar que las personas infectadas por el VIH tienen un riesgo aproximadamente 30 veces mayor de padecer c\u00e1ncer de epitelio anal en comparaci\u00f3n con la poblaci\u00f3n general, llegando a 80 veces m\u00e1s en hombres que practican sexo con hombres.\n\nEs crucial buscar atenci\u00f3n m\u00e9dica inmediata si se sospecha una infecci\u00f3n por VIH y seguir las recomendaciones del equipo de salud para manejar el tratamiento y prevenir complicaciones."
+    "answer": "Excelente pregunta! Seg\u00fan mi conocimiento especializado en VIH, te puedo informar que, aunque no se menciona expl\u00edcitamente \"esteatosis hep\u00e1tica\" en el texto proporcionado, s\u00ed se habla de \"esteatosis/esteatohepatitis no alcoh\u00f3lica\" como una causa relevante de da\u00f1o hep\u00e1tico en pacientes con infecci\u00f3n por VIH, especialmente en contextos con menor prevalencia de hepatitis v\u00edricas.\n\nAunque no est\u00e1n detallados espec\u00edficamente para la esteatosis hep\u00e1tica, se pueden inferir algunos factores de riesgo relacionados con el paciente y su condici\u00f3n de VIH que podr\u00edan aumentar la probabilidad de desarrollar esteatosis/esteatohepatitis no alcoh\u00f3lica (y posiblemente esteatosis hep\u00e1tica), bas\u00e1ndonos en la informaci\u00f3n proporcionada sobre otros temas relacionados:\n\nFactores de riesgo inferidos:\n\n1. Mayor \u00cdndice de Masa Corporal (IMC): Similar a como se asocia con una mayor incidencia de Hipertensi\u00f3n Arterial (HTA) en pacientes con VIH, un IMC m\u00e1s alto podr\u00eda potencialmente aumentar el riesgo de esteatosis hep\u00e1tica.\n2. Diabetes: Dado que la diabetes es un factor de riesgo para HTA en pacientes con VIH, tambi\u00e9n podr\u00eda influir en el desarrollo de condiciones hep\u00e1ticas relacionadas con la metabolismo, como la esteatosis.\n3. Enfermedad renal: Aunque mencionada en el contexto de estudio metab\u00f3lico del calcio y vitamina D, la insuficiencia renal cr\u00f3nica podr\u00eda potencialmente afectar la funci\u00f3n hep\u00e1tica y aumentar el riesgo de condiciones como la esteatosis.\n\nImportante:\n- No se han establecido expl\u00edcitamente estos factores en el texto proporcionado para la esteatosis hep\u00e1tica.\n- Otros factores generales no mencionados aqu\u00ed, pero com\u00fanmente asociados con la esteatosis hep\u00e1tica en la poblaci\u00f3n general (como antecedentes familiares de enfermedad hep\u00e1tica, consumo excesivo de alcohol, ciertos medicamentos, etc.), tambi\u00e9n podr\u00edan ser relevantes para pacientes con VIH.\n\nRecomendaci\u00f3n:\nPara una evaluaci\u00f3n y asesoramiento personalizados sobre tus factores de riesgo espec\u00edficos para desarrollar esteatosis hep\u00e1tica mientras est\u00e1s en tratamiento para el VIH, te recomiendo consultar a tu m\u00e9dico. Ellos pueden ofrecerte orientaci\u00f3n basada en tu historial cl\u00ednico completo y las \u00faltimas gu\u00edas de pr\u00e1ctica cl\u00ednica."
 }

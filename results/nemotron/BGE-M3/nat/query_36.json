@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1l es el Tratamiento que tengo que tomar?\n",
+    "context_info": [
+        {
+            "text": "Hay diferentes propuestas de tratamiento, siendo las tres m\u00e1s aceptadas con Azitromicina 500mg (primer dia) + 250mg/d\u00eda (2\u00ba-5\u00bad\u00edas), o si el paciente ha hecho 7 d\u00edas de tratamiento emp\u00edrico con doxiciclina 100 mg/12h, a\u00f1adir 1 gr de azitromicina seguido de 2 d\u00edas m\u00e1s de 500 mg. En caso de fracaso terap\u00e9utico, se puede pautar moxifloxacino 400mg/d\u00eda durante 7-10d\u00edas. ",
+            "source": "ManualClinico, section 28.4.2.",
+            "_distance": 0.7388941645622253
+        },
+        {
+            "text": " Relacionados con el tratamiento antirretroviral Es recomendable llevar el tratamiento (en su envase original) en el equipaje de mano, para evitar p\u00e9rdidas, as\u00ed como un documento identificativo o certificado de la necesidad de tomar tratamiento. Se recomienda hacer especial hincapi\u00e9 en mantener una buena adherencia al mismo, a pesar de los posibles cambios horarios en viajes de larga duraci\u00f3n; m\u00e1s si cabe en tratamientos cuyo r\u00e9gimen es de dos veces al d\u00eda. ",
+            "source": "ManualClinico, section 29.2.2.",
+            "_distance": 0.770554780960083
+        },
+        {
+            "text": " Pirimetamina 75 mg/d\u00eda + Sulfadiazina 1500 mg/6 horas (Si pesa \u226560 Kg).A\u00f1adir 15 mg/d\u00eda de \u00e1cido Fol\u00ednico.  Precisa profilaxis secundaria al acabar el tratamiento.Si IgG + y CD4 <100/\u00b5L Cotrimoxazol 160/800 mg 1 comprimido al d\u00eda (o 1 c los L-X-V).  Leishmania spp. (Leishmaniasis visceral)Estudio de m\u00e9dula \u00f3sea (tinci\u00f3n de Giemsa).  PCR.Serolog\u00eda.Anfotericina B liposomal 2-4 mg/Kg/d\u00eda iv diario o 4 mg/Kg/d\u00eda los d\u00edas 1-5, 10, 17, 24, 31 y 38 (hasta completar 60-80 mg/Kg). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7877092361450195
+        },
+        {
+            "text": " Tratamiento Disponemos de varias opciones para el tratamiento del SK, pero existen datos suficientes para recomendar que debe ser individualizado en funci\u00f3n de la extensi\u00f3n y localizaci\u00f3n de las lesiones, los s\u00edntomas asociados y la inmunodepresi\u00f3n responsable . El peso principal del tratamiento recae en mejorar la inmunodepresi\u00f3n, que en el caso de los pacientes con infecci\u00f3n por VIH es el inicio o ajuste del TAR. ",
+            "source": "ManualClinico, section 13.5.",
+            "_distance": 0.7884033918380737
+        },
+        {
+            "text": "En el caso de tratamiento antidepresivo, la primera recomendaci\u00f3n ser\u00eda inhibidores selectivos de la recaptaci\u00f3n de serotonina (ISRS), principalmente fluoxetina, sertralina, paroxetina, citalopram o escitalopram. En cualquiera de los casos, es importante controlar siempre la posible presencia de interacciones con el tratamiento antirretroviral ( consultar Apartado b del Cap\u00edtulo 8 de este mismo documento). ",
+            "source": "ManualClinico, section 25.2.1.",
+            "_distance": 0.7894871830940247
+        }
+    ],
+    "answer": "No puedo proporcionar un tratamiento espec\u00edfico sin conocer los detalles de tu condici\u00f3n m\u00e9dica.\n\nPara ofrecerte una respuesta precisa, necesitar\u00eda saber m\u00e1s sobre tu situaci\u00f3n, como:\n\n1. Tu diagn\u00f3stico: \u00bfEst\u00e1s tratando el VIH, o es otra condici\u00f3n relacionada (como Leishmaniasis visceral, infecciones oposportunistas, etc.)?\n2. Estado de salud actual: \u00bfCu\u00e1l es tu nivel de CD4? \u00bfTienes alguna inmunodepresi\u00f3n?\n3. Tratamientos previos: \u00bfHas intentado alg\u00fan tratamiento antes? (Por ejemplo, Azitromicina, Doxiciclina, Moxifloxacino, etc.)\n4. Objetivo del tratamiento: \u00bfEs para profilaxis primaria, secundaria, o terap\u00e9utico?\n\nBas\u00e1ndome en el conocimiento proporcionado, te ofrezco algunas opciones generales:\n\n Si est\u00e1s buscando un tratamiento para una infecci\u00f3n relacionada con VIH (sin especificar):\n\t+ Azitromicina 500mg (d\u00eda 1) + 250mg/d\u00eda (d\u00edas 2-5)\n\t+ O, si has hecho 7 d\u00edas de Doxiciclina 100 mg/12h, a\u00f1adir 1 gr de Azitromicina seguido de 2 d\u00edas m\u00e1s de 500 mg\n\t+ En caso de fracaso, Moxifloxacino 400mg/d\u00eda durante 7-10 d\u00edas\n Si buscas tratamiento para Leishmaniasis visceral:\n\t+ Anfotericina B liposomal (dosificaci\u00f3n dependiente del peso y d\u00edas espec\u00edficos)\n Para profilaxis de infecciones oportunistas (si CD4 <100/\u00b5L y IgG+):\n\t+ Cotrimoxazol 160/800 mg 1 comprimido al d\u00eda\n\nRecuerda, estas son opciones generales. Para un tratamiento adecuado a tu situaci\u00f3n espec\u00edfica:\n\nPara m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi me quedo embarazada podr\u00e9 seguir mi tratamiento habitual?\n",
+    "context_info": [
+        {
+            "text": "Una vez demostrada la continuaci\u00f3n de la supresi\u00f3n virol\u00f3gica el paciente puede volver a la rutina de visitas habituales.  Situaciones especiales.  Embarazo. Ver cap\u00edtulo correspondiente de este documento. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7045689821243286
+        },
+        {
+            "text": " Tratamiento antirretroviral (TAR) durante el embarazo Los criterios para el uso de TAR en la mujer embarazada difieren respecto a las recomendaciones generales para el adulto, en el sentido de que debe considerarse la seguridad para la madre y el ni\u00f1o. Se deben considerar m\u00faltiples factores al elegir TAR para una mujer embarazada. La elecci\u00f3n del TAR se basar\u00e1 en el estudio de resistencias, las interacciones, la experiencia con el uso de estos medicamentos en el embarazo y en la seguridad de estos. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.7603636384010315
+        },
+        {
+            "text": "Mujer VIH+ con deseo/posibilidad de embarazoMujer VIH+ en tratamiento con embarazo recienteMujer embarazada reci\u00e9n diagnosticada de infecci\u00f3n por VIH MEDIDAS GENERALESRevaluar el TAR.Evitar f\u00e1rmacos contraindicados/con pocos datos en embarazo.Hablar con la paciente de sus deseos de embarazo.Remitir de forma r\u00e1pida a su especialista en VIH.Ajustar TAR a pautas de elecci\u00f3n en embarazo.Remitir de forma urgente a unidad VIH.Inicio de TAR cuanto antes con pautas de elecci\u00f3n durante el embarazo. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7722368240356445
+        },
+        {
+            "text": " Prevenci\u00f3n de la transmisi\u00f3n vertical B\u00e1sicamente descansa en una adecuada gesti\u00f3n del tratamiento antirretroviral: la elecci\u00f3n de un TAR adecuado para una paciente no previamente tratada que quiere quedarse embarazada o que ya lo est\u00e1, y las recomendaciones para optimizar y adaptar el TAR al per\u00edodo gestacional en las pacientes que ya lo est\u00e1n tomando, es un asunto importante y complejo, que requiere conocimientos espec\u00edficos. ",
+            "source": "ManualClinico, section 32.2.2.",
+            "_distance": 0.8095948696136475
+        },
+        {
+            "text": "Desde una perspectiva general, hay que considerar aqu\u00ed: La anticoncepci\u00f3n si estas condiciones no est\u00e1n presentes y mientras se consiguen.La prevenci\u00f3n de infecciones, incluyendo una actualizaci\u00f3n del calendario vacunal adaptado a los pacientes VIH y una atenci\u00f3n especial a las infecciones que pueden afectar posteriormente al feto (Rubeola, Toxoplasma, CMV y las que se transmiten tambi\u00e9n por v\u00eda sexual, como L\u00faes, VHB y VHC).La promoci\u00f3n de h\u00e1bitos saludables, como la abstenci\u00f3n del tabaco, alcohol y otras drogas, la dieta \u2018prudente\u2019 (sin excesos de grasas saturadas, calor\u00edas o az\u00facares y rica en vitaminas y oligoelementos), etc.Los suplementos de folatos. ",
+            "source": "ManualClinico, section 32.2.1.",
+            "_distance": 0.8204211592674255
+        }
+    ],
+    "answer": "No response content"
+}

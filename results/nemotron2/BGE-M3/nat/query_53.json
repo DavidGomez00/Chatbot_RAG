@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 pasos debo seguir despu\u00e9s de identificar un fracaso virol\u00f3gico en un paciente?\n",
+    "context_info": [
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.6259393692016602
+        },
+        {
+            "text": "El fracaso se categoriza en: \u2022Fracaso virol\u00f3gico , est\u00e1 definido en pacientes en TAR, por la ausencia de supresi\u00f3n viral completa (CV por debajo del l\u00edmite de detectabilidad de la t\u00e9cnica utilizada, generalmente <20 \u00f3 75 copias /mL), o detecci\u00f3n de viremia tras control de la misma. En adultos se considera fracaso si la CV tras 6 meses de TAR es \u2265 200 copias/mL. Los ni\u00f1os con CV muy elevadas al inicio del TAR, puede tardar m\u00e1s de 6 meses en alcanzar la indetectabilidad. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.6667819619178772
+        },
+        {
+            "text": "Si la CV sigue descendiendo progresivamente puede ser apropiado esperar unas semanas m\u00e1s. En la actualidad las pautas iniciales de TAR recomendadas como preferentes tienen un muy bajo riesgo de fracaso virol\u00f3gico con desarrollo de resistencias. En general el nivel de CV que establecemos para definir fracaso virol\u00f3gico son 200 copias/mL. Umbrales inferiores condicionar\u00edan cambios de TAR innecesarios. El fracaso virol\u00f3gico debe confirmarse siempre con una segunda determinaci\u00f3n de CV. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.6959487199783325
+        },
+        {
+            "text": "El cl\u00ednico debe evaluar los condicionantes del fracaso identificando causas de mala adherencia, buscar posibles errores de dosificaci\u00f3n o interacciones significativas. Hay que intentar pautar un TAR c\u00f3modo, bien tolerado, de escasa toxicidad teniendo en cuenta las comorbilidades del paciente. Es preciso tambi\u00e9n hacer una historia detallada de todos los reg\u00edmenes TAR previos determinando si ha habido cambios por fracasos virol\u00f3gicos o por toxicidad/tolerabilidad. ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 0.7411582469940186
+        },
+        {
+            "text": "El objetivo del TAR tras fracaso es mantener el control de la replicaci\u00f3n viral por debajo del l\u00edmite de detecci\u00f3n de la t\u00e9cnica utilizada para su valoraci\u00f3n . El cambio del TAR tras fracaso debe tener en cuenta la historia de f\u00e1rmacos antirretrovirales a los que ha estado expuesto el paciente, los resultados de los estudios de resistencias actuales y los previos, las caracter\u00edsticas del paciente y su capacidad para mantener la adherencia. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7627630233764648
+        }
+    ],
+    "answer": "No response content"
+}

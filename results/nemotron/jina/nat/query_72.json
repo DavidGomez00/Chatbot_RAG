@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo nazca mi hijo es recomendable que le d\u00e9 el pecho estando con tratamiento antirretroviral y carga viral indetectable?\n",
+    "context_info": [
+        {
+            "text": "No obstante, en el momento actual, incluso aunque la madre est\u00e9 bien controlada y con carga viral de VIH indetectable (<50 copias/mL), no existe la suficiente evidencia en cuanto a que el riesgo de la transmisi\u00f3n del VIH de la madre al reci\u00e9n nacido en esta situaci\u00f3n sea cero, por lo que en nuestro medio la recomendaci\u00f3n es sustituir la lactancia materna por f\u00f3rmula adaptada. ",
+            "source": "ManualClinico, section 31.3.",
+            "_distance": 0.7760364413261414
+        },
+        {
+            "text": " 4.Durante el parto (aparte de las indicaciones obst\u00e9tricas) est\u00e1 indicada la ces\u00e1rea en mujeres con carga viral confirmada o sospechosa de m\u00e1s de 1000 copias/ml (A-II). Enmujeres con CVP entre 50-1000 es recomendable, aunque se individualizar\u00e1 cada caso(B-III).  5.En nuestro medio se desaconseja la lactancia materna para evitar al m\u00e1ximo el riesgo de transmisi\u00f3n ( A-II). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8534039258956909
+        },
+        {
+            "text": "Si bien es algo que debe a\u00fan evaluarse en cohortes amplias de seguimiento, dada la trascendencia que la recomendaci\u00f3n puede suponer, actualmente en las guias de algunos pa\u00edses europeos, la profilaxis posexposici\u00f3n neonatal ya no se recomienda en reci\u00e9n nacidos expuestos al VIH si la carga viral plasm\u00e1tica del VIH materna se suprime por completo en el \u00faltimo trimestre. En las situaciones de alto riesgo, la profilaxis se har\u00e1 con triple terapia zidovudina (AZT) m\u00e1s lamivudina (3TC) m\u00e1s nevirapina (NVP). ",
+            "source": "ManualClinico, section 31.2.1.",
+            "_distance": 0.8546032905578613
+        },
+        {
+            "text": "La historia natural de la infecci\u00f3n en este grupo de edad, requiere que se inicie precozmente el tratamiento antirretroviral (TAR), con el inconveniente de que la disponibilidad de f\u00e1rmacos en lactantes es limitada. Una vez iniciado el TAR es preciso un seguimiento exhaustivo de los pacientes, que debe incluir tanto el control de la respuesta al TAR y sus potenciales efectos secundarios, como la monitorizaci\u00f3n de su crecimiento y su desarrollo neurol\u00f3gico. ",
+            "source": "ManualClinico, section 33.1.",
+            "_distance": 0.8558751940727234
+        },
+        {
+            "text": "En el caso que para construir un nuevo r\u00e9gimen, se requiera de un antirretroviral que no tenga indicaci\u00f3n pedi\u00e1trica, se valorara su administraci\u00f3n bajo uso compasivo. En pacientes con m\u00faltiples fracasos y con un patr\u00f3n de resistencias que determine ausencia de una combinaci\u00f3n de antirretrovirales que garantice el control de la replicaci\u00f3n viral, mantendremos la pauta menos t\u00f3xica a la espera de nuevas opciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8699920773506165
+        }
+    ],
+    "answer": "Seg\u00fan las directrices que tengo a disposici\u00f3n, no se recomienda la lactancia materna, incluso si est\u00e1s recibiendo tratamiento antirretroviral y tienes una carga viral indetectable (<50 copias/mL). \n\nLa raz\u00f3n es que, aunque el riesgo de transmisi\u00f3n del VIH al reci\u00e9n nacido se reduce significativamente con un tratamiento efectivo, no existe evidencia suficiente para asegurar que este riesgo sea cero en el contexto de la lactancia materna.\n\nPor lo tanto, en nuestro medio se desaconseja la lactancia materna para minimizar al m\u00e1ximo el riesgo de transmisi\u00f3n del VIH. En su lugar, se recomienda la f\u00f3rmula adaptada como alternativa segura para la alimentaci\u00f3n del beb\u00e9. \n\nEs importante seguir las recomendaciones espec\u00edficas de tu m\u00e9dico o equipo de atenci\u00f3n sanitaria, ya que ellos conocen tus circunstancias particulares y pueden ofrecerte orientaci\u00f3n personalizada."
+}

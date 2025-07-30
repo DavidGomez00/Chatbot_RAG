@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfExisten vacunas para prevenir el VIH como las hay para otras enfermedades?\n",
+    "query": "\u00bfEl medicamento antirretroviral que tomo, como abacavir o lopinavir/ritonavir, darunavir/rito o cob puede aumentar mi riesgo de enfermedad cardiovascular?\n",
     "context_info": [
         {
-            "text": " Vacunas preventivas frente al VIH Todas las medidas comentadas en este cap\u00edtulo para prevenir la infecci\u00f3n por VIH son m\u00e1s eficaces si se utilizan de forma complementaria. Existen datos de modelos matem\u00e1ticos que sugieren que la existencia de una vacuna preventiva eficaz, junto a las medidas ya existentes, puede acelerar el objetivo final de controlar la epidemia de VIH en el mundo. Desde el inicio de la epidemia se han realizado 4 ensayos cl\u00ednicos fases IIb/III. ",
-            "source": "ManualClinico, section 11.5.",
-            "_distance": 0.5947242975234985
+            "text": "Algunos estudios de cohortes retrospectivos han asociado el uso de abacavir o algunos IPs (LPV/r o DRV/r) a un aumento de eventos cardiovasculares, por lo que es recomendable utilizarlos con precauci\u00f3n en pacientes con alto riesgo cardiovascular (RCV). ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.48785600066185
         },
         {
-            "text": " Vacunaci\u00f3n En el cuidado de los pacientes con el VIH se debe incluir un calendario vacunal; se tendr\u00e1 en cuenta el efecto del VIH sobre la inmunogenicidad de las vacunas y su seguridad en la inmunodepresi\u00f3n, por lo tanto, se debe valorar siempre riesgo/beneficio. En la Tabla 3 se resumen las recomendaciones nacionales e internacionales. Cabe destacar el uso de la vacuna contra el SARS-CoV2 en pacientes con VIH. ",
-            "source": "ManualClinico, section 7.6.",
-            "_distance": 0.648341953754425
+            "text": "Los f\u00e1rmacos antiretrovirales que pueden causar elevaciones en los l\u00edpidos son los inhibidores de la proteasa, en especial si el potenciador utilizado es ritonavir, y el uso de efavirenz. El uso de tenofovir disoproxil fumarato tiene un efecto reductor sobre los niveles de colesterol total que se pierde cuando se usa la nueva formulaci\u00f3n de tenofovir alafenamida. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.8001936078071594
         },
         {
-            "text": "El problema no radica tanto en la vacunaci\u00f3n, aunque en m\u00e1s ocasiones de las deseables los pacientes no son vacunados ni en AH ni en AP, sino en obtener certeza de protecci\u00f3n tras la vacuna, pues la respuesta inmune a \u00e9sta puede ser significativamente menor en la poblaci\u00f3n VIH no tratada o, en particular, en aquellos con mayor inmunodepresi\u00f3n. ",
-            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
-            "_distance": 0.6943814754486084
+            "text": "Algunos IP (atazanavir [ATV] y lopinavir[LPV]) se han asociado a un mayor riesgo de disminuci\u00f3n del FGe, aunque este efecto cl\u00ednico es controvertido y podr\u00eda deberse a la interacci\u00f3n de ritonavir (RTV) con TDF, dado que RTV inhibe la prote\u00edna MRP4 encargada de la extrusi\u00f3n de TDF desde el interior de la c\u00e9lula tubular renal permitiendo as\u00ed su ac\u00famulo en la misma. ",
+            "source": "ManualClinico, section 22.4.",
+            "_distance": 0.8208439350128174
         },
         {
-            "text": "Bien es cierto que no es posible hacer serolog\u00edas o monitorizar todas las vacunas indicadas en el calendario vacunal habitual. A continuaci\u00f3n, se describen las pautas recomendadas para monitorizar el estadovacunal de alguna de ellas en pacientes VIH.  Difteria Mismas recomendaciones que en poblaci\u00f3n general. ",
-            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
-            "_distance": 0.7030240893363953
+            "text": "A pesar del posible impacto en la ECV de algunos f\u00e1rmacos antirretrovirales, dentro de los diferentes factores de riesgo, los asociados al tratamiento antirretroviral (TAR) parecen tener un impacto mucho menor que los debidos a la infecci\u00f3n por VIH no controlada o a los factores de riesgo cardiovascular cl\u00e1sicos. ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.8274252414703369
         },
         {
-            "text": " Vacunaci\u00f3n El viajero con infecci\u00f3n por VIH debe recibir, por lo general, las mismas recomendaciones de vacunaci\u00f3n cuando viaja que las personas no-VIH, aunque cabe destacar que tiene mayor riesgo de presentar complicaciones graves de muchas de las enfermedades prevenibles con determinadas vacunas o profilaxis, por lo que la necesidad de una adecuada cobertura vacunal es mayor a la poblaci\u00f3n general. ",
-            "source": "ManualClinico, section 29.3.",
-            "_distance": 0.7207610011100769
+            "text": "Sin embargo, los f\u00e1rmacos antirretrovirales m\u00e1s modernos, a pesar de tener perfiles metab\u00f3licos mucho mejores, no est\u00e1n totalmente exentos de potenciales efectos a nivel metab\u00f3lico. Los IP utilizados en la actualidad, darunavir y atazanavir, tambi\u00e9n se han asociado a resistencia a la insulina , as\u00ed como los II , que tambi\u00e9n se han asociado a alteraciones del metabolismo hidrocarbonado en algunos estudios. ",
+            "source": "ManualClinico, section 20.2.4.",
+            "_distance": 0.8354722857475281
         }
     ],
-    "answer": "Existen intentos de desarrollo, pero no existe a\u00fan una vacuna preventiva eficaz y aprobada ampliamente contra el VIH. Desde el inicio de la epidemia, se han llevado a cabo 4 ensayos cl\u00ednicos en fases IIb/III, buscando encontrar una vacuna efectiva. Sin embargo, hasta la fecha de mi \u00faltima actualizaci\u00f3n, no hay una vacuna disponible para prevenir la infecci\u00f3n por VIH como existen para otras enfermedades.\n\nLo que s\u00ed existe es un \u00e9nfasis en la utilizaci\u00f3n de medidas preventivas complementarias, las cuales son m\u00e1s eficaces cuando se usan conjuntamente. Modelos matem\u00e1ticos sugieren que, si se desarrollara una vacuna preventiva eficaz, esto podr\u00eda acelerar significativamente el control de la epidemia de VIH a nivel mundial.\n\nRecomendaci\u00f3n: Mientras tanto, es crucial seguir las pr\u00e1cticas preventivas establecidas (como el uso de preservativos, terapia antirretroviral de profilaxis preexposici\u00f3n o postexposici\u00f3n, entre otras) y mantenerse informado sobre cualquier avance en la investigaci\u00f3n de vacunas contra el VIH. Para m\u00e1s detalles sobre las medidas preventivas actuales o cualquier otro aspecto relacionado con el VIH, te recomendar\u00eda consultar a un profesional de la salud especializado."
+    "answer": "Respuesta clara y precisa\n\nS\u00ed, seg\u00fan algunos estudios de cohortes retrospectivos, ciertos medicamentos antirretrovirales que mencionas podr\u00edan estar asociados con un aumento del riesgo de eventos cardiovasculares. Aqu\u00ed te proporciono detalles espec\u00edficos sobre los medicamentos que mencionas:\n\n1. Abacavir: S\u00ed, se ha asociado con un mayor riesgo de eventos cardiovasculares en algunos estudios.\n2. Lopinavir/Ritonavir (LPV/r): Tambi\u00e9n se ha vinculado a un aumento del riesgo cardiovascular, aunque es importante destacar que el efecto puede ser atribuido en parte a la presencia de Ritonavir (RTV) como potenciador.\n3. Darunavir/Ritonavir (DRV/r): Aunque no lo mencionas expl\u00edcitamente como \"cob\" (posiblemente un error tipogr\u00e1fico), asumo que te refieres a esta combinaci\u00f3n. S\u00ed, el Darunavir, especialmente cuando se utiliza con Ritonavir, puede tener efectos metab\u00f3licos, incluyendo resistencia a la insulina, lo que podr\u00eda indirectamente influir en el riesgo cardiovascular.\n\nImportante recordar:\n\n- El impacto de estos f\u00e1rmacos en el riesgo cardiovascular es menor comparado con los factores de riesgo cl\u00e1sicos (como hipertensi\u00f3n, diabetes, tabaquismo, etc.) y la infecci\u00f3n por VIH no controlada.\n- Es crucial mantener un seguimiento regular con tu m\u00e9dico para evaluar y gestionar cualquier riesgo cardiovascular asociado con tu tratamiento antirretroviral.\n\nRecomendaci\u00f3n:\nPara una evaluaci\u00f3n personalizada de tu riesgo cardiovascular y discutir las opciones de tratamiento m\u00e1s adecuadas para ti, consulta a tu m\u00e9dico. Ellos podr\u00e1n ofrecerte orientaci\u00f3n espec\u00edfica basada en tu historial cl\u00ednico completo."
 }

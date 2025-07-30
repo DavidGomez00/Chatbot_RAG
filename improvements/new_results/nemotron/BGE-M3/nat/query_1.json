@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfExisten opciones de tratamiento para el VIH que sean m\u00e1s seguras para el coraz\u00f3n si ya tengo colesterol alto o hipertensi\u00f3n?",
+    "context_info": [
+        {
+            "text": "Diversos estudios han comparado la disminuci\u00f3n del riesgo cardiovascular asociada a diferentes intervenciones en pacientes con infecci\u00f3n por VIH. El abandono del tabaquismo o controlar adecuadamente las cifras de tensi\u00f3n arterial o colesterol tendr\u00edan el mayor impacto, muy por delante de otras intervenciones como el diagn\u00f3stico y tratamiento precoz de la infecci\u00f3n por VIH o evitar TAR relacionados con un aumento del RCV. ",
+            "source": "ManualClinico, section 20.2.7.",
+            "_distance": 0.5611810684204102
+        },
+        {
+            "text": "Se deben tener las mismas consideraciones en el diagn\u00f3stico y manejo de las dislipemias en pacientes infectados por VIH que en la poblaci\u00f3n general. En la \u00faltima actualizaci\u00f3n de las gu\u00edas de la Sociedad Europea de Cardiolog\u00eda se recomienda el tratamiento con estatinas a todos los pacientes con infecci\u00f3n por VIH y con dislipemia con el objetivo de colesterol LDL para los pacientes de alto riesgo, esto es <70 mg/dL en prevenci\u00f3n primaria y < 55 mg/dL en prevenci\u00f3n secundaria. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.577314555644989
+        },
+        {
+            "text": "Por otra parte, las PVVIH hipertensas tienen adem\u00e1s un mayor riesgo de sufrir eventos cardiovasculares que la poblaci\u00f3n general. Un estudio prospectivo que incluy\u00f3 m\u00e1s de 8000 pacientes VIH positivos y controles negativos de la cohorte de veteranos norteamericana encontr\u00f3 un riesgo de infarto agudo de miocardio (IAM) dos veces superior en los sujetos VIH positivos hipertensos que en los VIH negativos con HTA. ",
+            "source": "ManualClinico, section 20.2.3.",
+            "_distance": 0.6192094683647156
+        },
+        {
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.6636186242103577
+        },
+        {
+            "text": " Hipertensi\u00f3n arterial No est\u00e1 claro si la infecci\u00f3n por VIH se asocia a un mayor riesgo de hipertensi\u00f3n arterial (H TA). La prevalencia de HTA en PVVIH se estima que oscila entre un 4,7% a un 54,4% en pa\u00edses de alta renta y entre un 8,7% un 45,9% en pa\u00edses de renta media o baja. Aunque algunos estudios han encontrado mayor porcentaje de hipertensos en poblaci\u00f3n VIH comparado con poblaci\u00f3n general, otros no encuentran diferencias significativas. ",
+            "source": "ManualClinico, section 20.2.3.",
+            "_distance": 0.6819261908531189
+        }
+    ],
+    "answer": "Excelente consulta! Al abordar el tratamiento del VIH en pacientes con antecedentes de colesterol alto (dislipemia) o hipertensi\u00f3n, es crucial considerar la cardiotoxicidad potencial de algunos medicamentos antirretrovirales (TAR). Aunque no hay tratamientos completely \"exentos\" de riesgos, existen opciones que pueden ser m\u00e1s seguras para el coraz\u00f3n. Aqu\u00ed te presento algunas consideraciones y alternativas:\n\nDislipemia (Colesterol Alto):\n\n1. Evitar o usar con precauci\u00f3n:\n\t Ritonavir (Norvir) en dosis altas: Puede aumentar significativamente los niveles de colesterol y triglic\u00e9ridos.\n\t Lopinavir/Ritonavir (Kaletra): Tambi\u00e9n puede elevar los l\u00edpidos, aunque menos que el Ritonavir solo.\n\t Atazanavir (Reyataz) con Ritonavir: Puede aumentar el colesterol y triglic\u00e9ridos, pero menos que otros inhibidores de proteasa.\n2. Opciones m\u00e1s cardiosaludables:\n\t Inhibidores de integrasa: Como Dolutegravir (Tivicay), Elvitegravir (Vitekta), y Raltegravir (Isentress), que tienen un perfil lipidico m\u00e1s neutral.\n\t Inhibidores no nucleos\u00eddicos de la transcriptasa reversa (INNTI): Como Efavirenz (Sustiva), Nevirapina (Viramune), y Doravirine (Pifeltro), que suelen tener menos impacto en los l\u00edpidos.\n\nHipertensi\u00f3n:\n\n1. Medicamentos con precauci\u00f3n:\n\t Ritonavir (Norvir): Puede aumentar la presi\u00f3n arterial debido a sus efectos sobre el sistema renina-angiotensina.\n2. Opciones m\u00e1s adecuadas para la hipertensi\u00f3n:\n\t Inhibidores de proteasa con un perfil m\u00e1s neutral: Como Darunavir (Prezista), especialmente cuando se combina con Cobicistat (Tybost) en lugar de Ritonavir.\n\t Los mismos inhibidores de integrasa e INNTI mencionados anteriormente suelen ser seguros para la presi\u00f3n arterial.\n\nRecomendaciones Generales:\n\n- Monitoreo regular: Aseg\u00farate de que tu equipo m\u00e9dico monitoree tus niveles de colesterol y presi\u00f3n arterial con regularidad.\n- Terapia adyuvante: Si es necesario, se pueden agregar tratamientos para controlar el colesterol alto o la hipertensi\u00f3n, como estatinas o antihipertensivos, bajo la supervisi\u00f3n de tu m\u00e9dico.\n- Evaluaci\u00f3n individualizada: La elecci\u00f3n del tratamiento debe basarse en tu perfil de salud espec\u00edfico, incluyendo otros medicamentos que est\u00e9s tomando y condiciones de salud adicionales.\n\nLo m\u00e1s importante: No te sientas obligado a tomar decisiones por tu cuenta. Discute abiertamente tus inquietudes con tu m\u00e9dico o especialista en VIH. Juntos, pueden determinar la mejor estrategia terap\u00e9utica para controlar el VIH mientras minimizan los riesgos para tu coraz\u00f3n."
+}

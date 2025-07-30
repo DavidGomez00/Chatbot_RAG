@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi quiero tener hijos, es necesario planear el embarazo con mis especialistas de VIH?\n",
+    "context_info": [
+        {
+            "text": " Toda persona infectada por el VIH en edad f\u00e9rtil debe recibir consejo preconcepcional dirigido a informar sobre la posibilidad de tener hijos sanos y la conveniencia de planificar el embarazo para minimizar los riesgos en la madre y en el hijo . Las PVIH muchas veces desconocen el riesgo casi nulo de la transmisi\u00f3n de su enfermedad al feto en condiciones adecuadas. - Lo ideal es planifi car el embarazo con tiempo, de ah\u00ed la importancia de la consulta preconcepcional, realizada en las consultas de A P. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6010875701904297
+        },
+        {
+            "text": "3.5.2 Concepci\u00f3n, anticoncepci\u00f3n y menopausia Los aspectos que se tratan en este cap\u00edtulo son de gran importancia para las mujeres que viven con el VIH (MVIH) y por ello deben abordarse tanto en AP como en AH coordin\u00e1ndose y complement\u00e1ndose en el abordaje de cada uno de ellos.  Concepci\u00f3n.  Como se comenta en el cap\u00edtulo anterior en una pareja en la que uno o los dos miembros est\u00e1n infectados por el VIH o tienen un patr\u00f3n virol\u00f3gico diferente, es muy importante planear la gestaci\u00f3n. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6587016582489014
+        },
+        {
+            "text": " Las recomendaciones de TAR son las mismas que para la poblaci\u00f3n adulta. RECOMENDACIONES 1.En las PVIH es necesario planificar la gestaci\u00f3n en la mejor situaci\u00f3n cl\u00ednica posible, minimizando los riesgos para la mujer, la pareja y el feto, exponiendo las distintas opciones reproductivas, en funci\u00f3n de si la persona con infecci\u00f3n por el VIH es el hombre, la mujer o ambos (II-A). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6734694242477417
+        },
+        {
+            "text": "Para conseguirlo, debemos lograr el diagn\u00f3stico y la supresi\u00f3n virol\u00f3gica del 100% de las mujeres embarazadas VIH+, especialmente durante el tercer trimestre y en el momento del parto.  1. Cribado del VIH durante el embarazo.  En toda mujer embarazada se debe descartar la infecci\u00f3n por el VIH. Lo ideal ser\u00eda que todas las mujeres con deseo de concebir, as\u00ed como sus parejas, se sometiesen a una prueba diagn\u00f3stica del VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6918602585792542
+        },
+        {
+            "text": "La mujer embarazada portadora del VIH debe ser tratada con TAR espec\u00edfico para prevenir la transmisi\u00f3n vertical, programar ces\u00e1rea, tratar al reci\u00e9n nacido con AZT y evitar la lactancia materna. ",
+            "source": "manejo_paciente_vih_en_ap, section 20.0.",
+            "_distance": 0.7028235793113708
+        }
+    ],
+    "answer": "S\u00ed, es altamente recomendable planificar el embarazo con tus especialistas de VIH. Esto se debe a varias razones importantes:\n\n1. Minimizar riesgos para la madre: Planificar el embarazo permite asegurarse de que tu salud est\u00e9 en \u00f3ptimas condiciones, reduciendo los riesgos asociados con el embarazo y el VIH.\n2. Minimizar riesgos para el hijo: La planificaci\u00f3n preconcepcional ayuda a garantizar la supresi\u00f3n virol\u00f3gica (control del virus) durante el embarazo, lo que pr\u00e1cticamente elimina el riesgo de transmisi\u00f3n del VIH al beb\u00e9.\n3. Optimizar el tratamiento antirretroviral (TAR): Tus especialistas pueden ajustar tu tratamiento para asegurarse de que est\u00e1s recibiendo la terapia m\u00e1s adecuada para ti durante el embarazo, lo cual es crucial para tu salud y la del beb\u00e9.\n4. Discutir opciones reproductivas: Dependiendo de si t\u00fa, tu pareja, o ambos est\u00e1n infectados con VIH, tus especialistas pueden ofrecerte orientaci\u00f3n sobre las mejores opciones para concebir de manera segura.\n\nLo ideal es realizar una consulta preconcepcional en la cl\u00ednica de Atenci\u00f3n Primaria (AP) o en la consulta de Atenci\u00f3n Hospitalaria (AH), donde podr\u00e1n evaluarte y ofrecerte el asesoramiento personalizado necesario para un embarazo saludable."
+}

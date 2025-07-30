@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 debo hacer si mi tratamiento ha fracasado?\n",
+    "context_info": [
+        {
+            "text": "El cl\u00ednico debe evaluar los condicionantes del fracaso identificando causas de mala adherencia, buscar posibles errores de dosificaci\u00f3n o interacciones significativas. Hay que intentar pautar un TAR c\u00f3modo, bien tolerado, de escasa toxicidad teniendo en cuenta las comorbilidades del paciente. Es preciso tambi\u00e9n hacer una historia detallada de todos los reg\u00edmenes TAR previos determinando si ha habido cambios por fracasos virol\u00f3gicos o por toxicidad/tolerabilidad. ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 0.7218587398529053
+        },
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.728101909160614
+        },
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7289144396781921
+        },
+        {
+            "text": "\u2022Fracaso cl\u00ednico, progresi\u00f3n de la enfermedad, debe excluirse de \u00e9ste supuesto: los cuadros de reconstituci\u00f3n inmunol\u00f3gica tras iniciar el TAR, procesos secundarios al da\u00f1o sobre \u00f3rganos que condicion\u00f3 previamente el VIH. As\u00ed mismo antes de confirmar que estamos ante un fracaso cl\u00ednico del TAR, deben descartarse otras causas concomitantes tales como infecciones (tuberculosis), neoplasias o la malnutrici\u00f3n. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7816064357757568
+        },
+        {
+            "text": "El objetivo del TAR tras fracaso es mantener el control de la replicaci\u00f3n viral por debajo del l\u00edmite de detecci\u00f3n de la t\u00e9cnica utilizada para su valoraci\u00f3n . El cambio del TAR tras fracaso debe tener en cuenta la historia de f\u00e1rmacos antirretrovirales a los que ha estado expuesto el paciente, los resultados de los estudios de resistencias actuales y los previos, las caracter\u00edsticas del paciente y su capacidad para mantener la adherencia. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7846795320510864
+        }
+    ],
+    "answer": "Si tu tratamiento antirretroviral (TAR) ha fracasado, sigue estos pasos:\n\n1. Consulta con tu m\u00e9dico: Es fundamental discutir el fracaso del tratamiento con tu cl\u00ednico para evaluar la situaci\u00f3n y determinar las causas subyacentes.\n   \n2. Eval\u00faa las causas del fracaso:\n   - Mala adherencia: Revisa si hubo dificultades para seguir el r\u00e9gimen de medicaci\u00f3n tal como se prescribi\u00f3.\n   - Dosis insuficientes: Verifica si las dosis de los antirretrovirales eran adecuadas para tu peso o necesidades espec\u00edficas.\n   - Malabsorci\u00f3n: Considera si hubo problemas con la absorci\u00f3n de los medicamentos.\n   - Interacciones con otras medicaciones: Eval\u00faa si otros medicamentos que est\u00e1s tomando podr\u00edan estar interfiriendo con el TAR.\n\n3. Descarta otros motivos de deterioro cl\u00ednico:\n   - Procesos de reconstituci\u00f3n inmunol\u00f3gica despu\u00e9s de iniciar el TAR.\n   - Da\u00f1o previo en \u00f3rganos debido al VIH.\n   - Infecciones concomitantes (como tuberculosis).\n   - Neoplasias.\n   - Malnutrici\u00f3n.\n\n4. Reeval\u00faa tu historia de tratamiento:\n   - Reg\u00edmenes TAR previos: Analiza todos los tratamientos antirretrovirales que has recibido anteriormente, incluyendo cambios por fracasos virol\u00f3gicos o problemas de toxicidad/tolerabilidad.\n   \n5. Estudios de resistencia:\n   - Solicita a tu m\u00e9dico que realice estudios de resistencia viral para identificar qu\u00e9 medicamentos pueden ser menos efectivos debido a mutaciones del virus.\n\n6. Cambio de tratamiento:\n   - Bas\u00e1ndose en la evaluaci\u00f3n, el historial de tratamientos y los resultados de resistencia, trabaja con tu m\u00e9dico para dise\u00f1ar un nuevo r\u00e9gimen TAR que sea:\n     - C\u00f3modo y bien tolerado.\n     - De escasa toxicidad, considerando tus comorbilidades (otras condiciones de salud que puedas tener).\n     - Efectivo seg\u00fan los estudios de resistencia y tu historial de tratamiento.\n\n7. Aumenta la adherencia:\n   - Establece recordatorios para tomar tus medicamentos.\n   - Simplifica tu r\u00e9gimen si es posible (menos dosis al d\u00eda, por ejemplo).\n   - Habla con amigos, familia o un consejero sobre los desaf\u00edos que enfrentas para aumentar el apoyo.\n\nRecuerda, cada persona es \u00fanica, y lo que funciona para uno puede no funcionar para otro. La colaboraci\u00f3n estrecha con tu equipo de salud es clave para encontrar el mejor enfoque despu\u00e9s de un fracaso del tratamiento."
+}

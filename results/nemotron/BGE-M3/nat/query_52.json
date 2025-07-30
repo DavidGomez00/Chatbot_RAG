@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1les son las causas m\u00e1s comunes de fracaso virol\u00f3gico en pacientes tratados?\n",
+    "context_info": [
+        {
+            "text": "El fracaso se categoriza en: \u2022Fracaso virol\u00f3gico , est\u00e1 definido en pacientes en TAR, por la ausencia de supresi\u00f3n viral completa (CV por debajo del l\u00edmite de detectabilidad de la t\u00e9cnica utilizada, generalmente <20 \u00f3 75 copias /mL), o detecci\u00f3n de viremia tras control de la misma. En adultos se considera fracaso si la CV tras 6 meses de TAR es \u2265 200 copias/mL. Los ni\u00f1os con CV muy elevadas al inicio del TAR, puede tardar m\u00e1s de 6 meses en alcanzar la indetectabilidad. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7043507099151611
+        },
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7158711552619934
+        },
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7296350598335266
+        },
+        {
+            "text": " Fracaso del TAR El fracaso del TAR se refiere tanto a no alcanzar la supresi\u00f3n virol\u00f3gica (CV <50 copias/mL), despu\u00e9s de seis meses de iniciado un TAR en un paciente na\u00efve como al rebote virol\u00f3gico que ocurre en un paciente que ya hab\u00eda alcanzado la supresi\u00f3n virol\u00f3gica. En pacientes na\u00efve con CV muy alta (>1.000.000 copias/mL) es posible que, aunque el TAR est\u00e9 siendo eficaz, no se alcance la indetectabilidad en los primeros seis meses, especialmente si el TAR est\u00e1 basado en IP/p. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.8057450652122498
+        },
+        {
+            "text": "\u2022Fracaso cl\u00ednico, progresi\u00f3n de la enfermedad, debe excluirse de \u00e9ste supuesto: los cuadros de reconstituci\u00f3n inmunol\u00f3gica tras iniciar el TAR, procesos secundarios al da\u00f1o sobre \u00f3rganos que condicion\u00f3 previamente el VIH. As\u00ed mismo antes de confirmar que estamos ante un fracaso cl\u00ednico del TAR, deben descartarse otras causas concomitantes tales como infecciones (tuberculosis), neoplasias o la malnutrici\u00f3n. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8070842027664185
+        }
+    ],
+    "answer": "Excelente pregunta! Seg\u00fan mi conocimiento especializado en VIH, las causas m\u00e1s comunes de fracaso virol\u00f3gico en pacientes tratados con Terapia Antirretroviral (TAR) son:\n\n1. Incompleta o mala adherencia: No cumplir con el r\u00e9gimen de tratamiento prescrito, lo que impide que el medicamento alcance niveles efectivos en el cuerpo.\n2. Dosis insuficientes de antirretrovirales: La dosificaci\u00f3n no se ajusta adecuadamente al peso o necesidades del paciente, lo que reduce la eficacia del tratamiento.\n3. Malabsorci\u00f3n: Problemas en la absorci\u00f3n de los medicamentos en el sistema digestivo, lo que impide que lleguen a la circulaci\u00f3n sangu\u00ednea en cantidades suficientes.\n4. Interacciones con otras medicaciones: Uso simult\u00e1neo de otros medicamentos que interact\u00faan negativamente con los antirretrovirales, reduciendo su eficacia o aumentando el riesgo de efectos secundarios.\n\nEs importante destacar que, una vez identificado un fracaso virol\u00f3gico, es crucial analizar y abordar estas causas subyacentes para ajustar el tratamiento de manera efectiva."
+}

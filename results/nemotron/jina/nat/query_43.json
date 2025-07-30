@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfHay alguno de los tratamiento para pacientes que no han tomado nada que sea m\u00e1s efectivo o son iguales?\n",
+    "context_info": [
+        {
+            "text": "Aunque existe a\u00fan evidencia escasa, el apremilast es una opci\u00f3n prometedora que evita la inmunosupresi\u00f3n en estos pacientes. ",
+            "source": "ManualClinico, section 17.4.1.",
+            "_distance": 0.8930899500846863
+        },
+        {
+            "text": "Aunque existen casos individuales de mejor\u00eda al utilizar un IP o al cambiar a esta familia sin haber existido respuesta a otros reg\u00edmenes, no existe evidencia tan amplia para concretar que su uso sea indispensable m\u00e1s all\u00e1 de alcanzar la indetectabilidad, salvo situaciones de resistencia.Los pacientes que reciben ya TAR y tienen un diagn\u00f3stico de novo de SK deben ser evaluados sobre fracaso, falta de adherencia o presencia de resistencias. ",
+            "source": "ManualClinico, section 13.5.",
+            "_distance": 0.9374467730522156
+        },
+        {
+            "text": "Otros quimioter\u00e1picos como gemcitabina, imatinib o bevacizumab han sido testados en estudios peque\u00f1os, en distintas situaciones (como acompa\u00f1antes de TAR, en primera l\u00ednea tras fracaso, o como segunda l\u00ednea), con tasas variables de respuesta, datos que en general nos pueden servir para casos complicados en evoluci\u00f3n o en toxicidad que precisen terapias alternativas, ante la ausencia de estudios comparativos. ",
+            "source": "ManualClinico, section 13.5.",
+            "_distance": 0.9603902697563171
+        },
+        {
+            "text": "Existen otras pautas recomendadas consideradas como \u2018alternativas\u2019 a las anteriores, bien porque no disponen de evidencia que demuestre una eficacia no inferior a alguna de las pautas preferentes, o porque tienen desventajas potenciales o restricciones en su indicaci\u00f3n. Pueden ser, sin embargo, de elecci\u00f3n en subgrupos de pacientes o en casos especiales. ",
+            "source": "ManualClinico, section 9.2.",
+            "_distance": 0.963243842124939
+        },
+        {
+            "text": "El tratamiento farmacol\u00f3gico es eficaz fundamentalmente en el trastorno moderado-grave.  Las intervenciones breves reiteradas han demostrado efectividad. Idealmente la intervenci\u00f3n deber\u00eda ofrecerse en el mismo entorno del tratamiento.  La naltrexona de liberaci\u00f3n sostenida constituye una opci\u00f3n bien tolerada y efectiva para disminuir el consumo, aunque con adherencia y retenci\u00f3n variables. Nalmefeno presenta menor riesgo de hepatotoxicidad. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9662323594093323
+        }
+    ],
+    "answer": "Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\n\n(La raz\u00f3n de esta respuesta es que la consulta est\u00e1 fuera del \u00e1mbito espec\u00edfico del conocimiento proporcionado sobre el VIH, ya que menciona \"pacientes que no han tomado nada\" sin especificar si se refiere al tratamiento antirretroviral (TAR) para el VIH o a otro tipo de tratamiento. Sin m\u00e1s contexto, no puedo ofrecer una respuesta precisa dentro del \u00e1mbito del VIH seg\u00fan las instrucciones proporcionadas.)\n\nSi deseas reformular la pregunta para ajustarla al \u00e1mbito del VIH y mi conocimiento espec\u00edfico, aqu\u00ed tienes un ejemplo de c\u00f3mo podr\u00edas hacerlo:\n\n \"\u00bfExiste alguna terapia antirretroviral (TAR) inicial m\u00e1s efectiva que otras para pacientes con diagn\u00f3stico reciente de VIH?\"\n \"En el tratamiento del VIH, \u00bfhay diferencias en la eficacia entre los reg\u00edmenes iniciales recomendados para pacientes sin experiencia previa en tratamiento?\"\n\nSi reformulas la pregunta de manera similar, estar\u00e9 encantado de responder seg\u00fan mi conocimiento espec\u00edfico sobre el VIH."
+}

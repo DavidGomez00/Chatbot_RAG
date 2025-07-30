@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi estoy con el tratamiento inyectable o con la pastilla \u00fanica que tiene dos componentes, puedo seguir o debo cambiar?\n",
+    "context_info": [
+        {
+            "text": "Los motivos para considerar el cambio de un tratamiento eficaz son m\u00faltiples: intolerabilidad/ toxicidad, ya sea presente (cambio reactivo) o para prevenirlas (cambio proactivo), simplificaci\u00f3n propiamente dicha (disminuci\u00f3n del n\u00famero de comprimidos, de dosis diarias o del n\u00famero de medicamentos), requerimientos diet\u00e9ticos, interacciones farmacol\u00f3gicas, comorbilidades, embarazo o deseo de embarazo y tambi\u00e9n es importante la sostenibilidad del tratamiento. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 0.7532591223716736
+        },
+        {
+            "text": "103 Determinantes relacionados con el TAR: La dificultad para la correcta toma del tratamiento en pautas con un n\u00famero elevado de tomas o de comprimidos se asocia tambi\u00e9n a peor adherencia, resultando por ello \u00f3ptimos los tratamientos en r\u00e9gimen de pastilla \u00fanica, cuando sean posibles. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7662829160690308
+        },
+        {
+            "text": "En el momento actual, se consideran preferentes las pautas triples basadas en un INI: DTG, BIC o RAL, junto con una pareja de ITIAN coformulados: TAF/FTC, TDF/FTC o ABC/3TC, y la pauta doble consistente en DTG/3TC. Todas estas pautas han demostrado la m\u00e1xima eficacia (alrededor del 90% al a\u00f1o de tratamiento 48 en an\u00e1lisis), buena tolerancia y pueden administrase una vez al d\u00eda. Las combinaciones de DTG/ABC/3TC, BIC/TAF/FTC y DTG/3TC est\u00e1n comercializadas como reg\u00edmenes en una \u00fanica pastilla. ",
+            "source": "ManualClinico, section 9.2.",
+            "_distance": 0.7718724012374878
+        },
+        {
+            "text": "Deber\u00e1 escogerse la pauta con potencial mayor actividad, que pueda ser asumida por el paciente y que respete al m\u00e1ximo futuras opciones de tratamiento. A la hora de decidir cu\u00e1l es la mejor opci\u00f3n, es aconsejable contar con el soporte de un pediatra experto en infecci\u00f3n VIH. Para efectuar el cambi\u00f3 debemos disponer de 2 e idealmente m\u00e1s f\u00e1rmacos completamente activos. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.799693763256073
+        },
+        {
+            "text": "El cambio a dolutegravir + darunavir potenciado puede ser una opci\u00f3n en determinados pacientes que quieran simplificar su pauta actual o evitar toxicidades .  No se debe cambiar triple terapia ni terapia dual a monoterapia con IPp ni con dolutegravir.  Tras el cambio de un TAR es recomendable evaluar en un plazo de 3-6 semanas el mantenimiento de la supresi\u00f3n virol\u00f3gica y las determinaciones de laboratorio pertinentes, que depender\u00e1n del motivo del cambio (p.e lipidograma, o funci\u00f3n renal). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8076293468475342
+        }
+    ],
+    "answer": "No response content"
+}

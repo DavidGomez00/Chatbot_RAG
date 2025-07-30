@@ -1,31 +1,31 @@
 {
-    "query": "Si una persona tiene VIH, \u00bfpuede vivir una vida normal o siempre estar\u00e1 enferma?\n",
+    "query": "\u00bfC\u00f3mo puedo monitorizar la salud de mi h\u00edgado mientras sigo mi tratamiento para el VIH?\n",
     "context_info": [
+        {
+            "text": "Seguimiento tanto los pacientes en tratamiento como aquellos que no lo han iniciado requieren de un adecuado seguimiento, con el fin de identificar los problemas m\u00e9dicos que presenten (tolerancia, adherencia, toxicidad) y evitar la progresi\u00f3n de la enfermedad (control CD4 y CV). Los pacientes ser\u00e1n inmunizados, siguiendo las recomendaciones establecidas para pacientes pedi\u00e1tricos con infecci\u00f3n VIH. ",
+            "source": "ManualClinico, section 33.2.2.",
+            "_distance": 0.8072428703308105
+        },
+        {
+            "text": " C\u00f3mo monitorizar el tratamiento La medici\u00f3n de la CVP del VIH-2 es menos exacta y no es asequible para todos los centros. En los centros donde se realiza se hacen t\u00e9cnicas caseras. Adem\u00e1s, los niveles de CVP del VIH-2 tienden a ser mucho m\u00e1s bajos que en los pacientes infectados por VIH-1, incluso pueden ser indetectables a pesar de estarse produciendo una inmunodepresi\u00f3n severa y progresiva. ",
+            "source": "ManualClinico, section 5.6.4.",
+            "_distance": 0.8116623163223267
+        },
+        {
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.8123666644096375
+        },
+        {
+            "text": "Posteriormente, en pacientes diab\u00e9ticos la HbA1c debe monitorizarse cada 6 meses con el objetivo de mantener unnivel < 7% (I-A). 3.4.2 Comorbilidades hep\u00e1ticas, respiratorias, renales, \u00f3seas y del SNC Comorbilidades hep\u00e1ticas La micro eliminaci\u00f3n del VHC se ha conseguido en la mayor\u00eda de los centros que atienden personas que viven con el VIH (PVIH). Como consecuencia, la morbilidad y mortalidad asociadas a la coinfecci\u00f3n por VHC han disminuido dr\u00e1sticamente. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8345257043838501
+        },
         {
             "text": "Te realizar\u00e1n pruebas para comprobar la fortaleza de tu sistema inmunitario y de tu estado de salud, en general. Es probable que necesites alg\u00fan tiempo para asumir esta novedad en tu vida.  Si dispones de apoyo e informaci\u00f3n, ser\u00e1 m\u00e1s sencillo. El hecho de tener informaci\u00f3n fiable te ayudar\u00e1 a tomar decisiones informadas sobre tu salud. Descubrir que tienes el VIH nunca es agradable, pero actualmente el VIH es una infecci\u00f3n tratable y manejable. ",
             "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
-            "_distance": 0.7474867105484009
-        },
-        {
-            "text": "El tratamiento frente al VIH te permitir\u00e1 tener una esperanza de vida similar a la de una persona sin el VIH, con una buena calidad de vida. Es muy probable que no tengas que renunciar a nada de lo que hac\u00edas como consecuencia de tu nueva situaci\u00f3n.  Como parte de la atenci\u00f3n prenatal, de forma rutinaria se incluye la realizaci\u00f3n de la prueba del VIH a todas las mujeres (durante el primer y tercer trimestre de embarazo). ",
-            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
-            "_distance": 0.8398625254631042
-        },
-        {
-            "text": " Introducci\u00f3n Los trastornos mentales en las personas que viven con el VIH son altamente frecuentes. Estos implican una amplia variedad de trastornos y s\u00edntomas, los cuales adem\u00e1s suelen tener un impacto importante tanto en el funcionamiento diario como en la calidad de vida. Es por estos motivos ( frecuencia, espectro, impacto ) que este tipo de complicaciones merecen una atenci\u00f3n especial en el cuidado cl\u00ednico de las personas con VIH. ",
-            "source": "ManualClinico, section 25.1.",
-            "_distance": 0.8425058126449585
-        },
-        {
-            "text": " Introducci\u00f3n El control actual de la infecci\u00f3n por VIH hace que la mayor\u00eda de los pacientes hagan una vida similar al resto de la poblaci\u00f3n. Este aspecto tambi\u00e9n ata\u00f1e a la movilizaci\u00f3n de las personas en esta \u00e9poca de globalizaci\u00f3n. Actualmente vivimos en un mundo donde cualquier persona puede estar en el extremo opuesto del planeta en escasas 24-36 horas, gracias a la rapidez y fluidez de los medios de transporte. ",
-            "source": "ManualClinico, section 29.1.",
-            "_distance": 0.8700966835021973
-        },
-        {
-            "text": " VIH, SEXO Y RIESGO Aunque en general puede resultar sencillo determinar cu\u00e1ndo un riesgo es alto o bajo, puede ser m\u00e1s complicado calcular las probabilidades de los casos intermedios entre ambos extremos.  Si una persona practica sexo sin preservativo es poco probable que adquiera el VIH. Pero si 10.000 personas mantienen relaciones sexuales sin preservativo, es probable que alguna contraiga el virus, a pesar de que todas ellas tengan te\u00f3ricamente el mismo riesgo sexual. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
-            "_distance": 0.8846692442893982
+            "_distance": 0.8545179963111877
         }
     ],
-    "answer": "Excelente pregunta. Con el tratamiento actual y la atenci\u00f3n m\u00e9dica adecuada, una persona con VIH puede llevar una vida pr\u00e1cticamente normal. El Virus de Inmunodeficiencia Humana (VIH) es una infecci\u00f3n tratable y manejable en la actualidad.\n\nAqu\u00ed hay algunos puntos clave que respaldan esta afirmaci\u00f3n:\n\n1. Esperanza de vida similar: Con tratamiento antirretroviral efectivo, las personas con VIH pueden tener una esperanza de vida similar a la de aquellos sin el virus.\n2. Buena calidad de vida: El tratamiento actual permite a las personas con VIH mantener una buena calidad de vida, sin necesidad de renunciar a actividades habituales.\n3. Gesti\u00f3n de la infecci\u00f3n: Los tratamientos actuales son capaces de reducir la carga viral a niveles indetectables, lo que no solo mejora la salud del portador sino que tambi\u00e9n reduce significativamente el riesgo de transmisi\u00f3n a otros.\n4. Vida diaria sin restricciones mayores: En general, no es necesario que las personas con VIH hagan cambios dr\u00e1sticos en su vida diaria debido al virus, siempre y cuando sigan el tratamiento prescrito y mantengan un seguimiento m\u00e9dico regular.\n\nEs fundamental destacar:\n\n La adherencia al tratamiento antirretroviral es clave para mantener el virus bajo control.\n El seguimiento m\u00e9dico regular es esencial para monitorizar la salud y ajustar el tratamiento si fuera necesario.\n Mantener una buena salud general, mediante una dieta equilibrada, ejercicio regular y evitando h\u00e1bitos da\u00f1inos, tambi\u00e9n juega un papel importante.\n\nEn resumen, con el tratamiento adecuado y cuidados m\u00e9dicos, una persona con VIH puede llevar una vida normal y activa, sin que la infecci\u00f3n defina su calidad de vida."
+    "answer": "Excelente pregunta! Dado que tienes VIH, es fundamental monitorear tu salud hep\u00e1tica con regularidad, especialmente si tienes coinfecci\u00f3n por VHC (Virus de Hepatitis C) o est\u00e1s tomando medicamentos antirretrovirales que puedan afectar el h\u00edgado. Aqu\u00ed te presento los pasos para monitorizar la salud de tu h\u00edgado mientras sigues tu tratamiento para el VIH:\n\n1. Pruebas de funci\u00f3n hep\u00e1tica (PFH): Pide a tu m\u00e9dico que te realice pruebas de funci\u00f3n hep\u00e1tica peri\u00f3dicas, idealmente cada 3-6 meses. Estas pruebas incluyen:\n\t Alanina aminotransferasa (ALT)\n\t Aspartato aminotransferasa (AST)\n\t Fosfatasa alcalina (FA)\n\t Bilirrubina total y directa\n2. Determinaci\u00f3n de la carga viral del VHC (si aplica): Si tienes coinfecci\u00f3n por VHC, es importante monitorear la carga viral del VHC para evaluar la efectividad del tratamiento antiviral.\n3. Ecograf\u00eda hep\u00e1tica: Se recomienda una ecograf\u00eda hep\u00e1tica anual para detectar cualquier cambio en la estructura del h\u00edgado, como fibrosis o cirrosis.\n4. Prueba de fibrosis hep\u00e1tica no invasiva (si necesario): Tu m\u00e9dico puede recetarte pruebas como el \u00edndice de fibrosis hep\u00e1tica (FIB-4) o la elastograf\u00eda por resonancia magn\u00e9tica (MR Elastography) para evaluar el grado de fibrosis hep\u00e1tica.\n5. Revisi\u00f3n de medicamentos: Aseg\u00farate de informar a tu m\u00e9dico sobre todos los medicamentos que est\u00e1s tomando, incluidos suplementos y herbales, ya que algunos pueden afectar la funci\u00f3n hep\u00e1tica.\n6. Estilo de vida saludable:\n\t Evita el alcohol: El consumo excesivo de alcohol puede da\u00f1ar el h\u00edgado, especialmente si tienes VIH o coinfecci\u00f3n por VHC.\n\t Mant\u00e9n un peso saludable: La obesidad puede aumentar el riesgo de enfermedad hep\u00e1tica no alcoh\u00f3lica (EHNA).\n\t Come una dieta equilibrada: Enf\u00f3cate en alimentos ricos en frutas, verduras, granos integrales y prote\u00ednas magras.\n\nRecuerda que la frecuencia de estas pruebas puede variar dependiendo de tus condiciones individuales. Consulta con tu m\u00e9dico para determinar el plan de monitoreo m\u00e1s adecuado para ti.\n\n(Para m\u00e1s informaci\u00f3n espec\u00edfica sobre tu caso, consulta a tu m\u00e9dico.)"
 }

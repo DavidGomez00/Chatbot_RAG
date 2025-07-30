@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi tomo anticonceptivos para evitar un embarazo, le puede pasar algo al tratamiento antirretroviral?\n",
+    "context_info": [
+        {
+            "text": "Aquellos que se realizaron antes de la disponibilidad del tratamiento antirretroviral mostraron una disminuci\u00f3n en la tasa de fertilidad de la mujer VIH positiva respecto a la VIH negativa, en cambio, los realizados posteriormente al acceso universal del tratamiento mostraron una tasa de embarazos similar en mujeres VIH positivas respecto a las negativas. ",
+            "source": "ManualClinico, section 32.3.",
+            "_distance": 0.678699254989624
+        },
+        {
+            "text": "Si se decide usar los anticonceptivos hormonales se deben tener en cuenta las interacciones con el tratamiento antirretroviral, para asegurar la seguridad y eficacia. Las integrasas no potenciadas como el Raltegravir, Dolutegravir o Bictegravir, o, entre los An\u00e1logos no nucleosidos inhibidores de la transcriptasa Inversa, aquellos que no modifican al CYP3A4 (rilpivirina, doravirina), son los m\u00e1s seguros. Para m\u00e1s detalles consultar las paginas espec\u00edficas de interacciones. ",
+            "source": "ManualClinico, section 30.2.3.",
+            "_distance": 0.6881474852561951
+        },
+        {
+            "text": " Prevenci\u00f3n de la transmisi\u00f3n vertical B\u00e1sicamente descansa en una adecuada gesti\u00f3n del tratamiento antirretroviral: la elecci\u00f3n de un TAR adecuado para una paciente no previamente tratada que quiere quedarse embarazada o que ya lo est\u00e1, y las recomendaciones para optimizar y adaptar el TAR al per\u00edodo gestacional en las pacientes que ya lo est\u00e1n tomando, es un asunto importante y complejo, que requiere conocimientos espec\u00edficos. ",
+            "source": "ManualClinico, section 32.2.2.",
+            "_distance": 0.6886345148086548
+        },
+        {
+            "text": " Tratamiento de VHB El tratamiento antirretroviral, que incluye f\u00e1rmacos activos frente a la infecci\u00f3n por VHB, se asocia con menor evoluci\u00f3n a cirrosis, descompensaci\u00f3n o desarrollo de hepatocarcinoma. Incluso en pacientes con cirrosis descompensada se asocia con mejor\u00eda en supervivencia, reversi\u00f3n de la descompensaci\u00f3n y salida de la lista de espera de trasplante. ",
+            "source": "ManualClinico, section 27.3.4.",
+            "_distance": 0.6992233991622925
+        },
+        {
+            "text": "El principal h\u00e1ndicap del tratamiento antirretroviral son sus posibles interacciones, ya sea con f\u00e1rmacos concomitantes que se usen durante el viaje, como con la quimioprofilaxis de algunas enfermedades como el paludismo. Conviene tambi\u00e9n tener en cuenta el creciente uso y las posibles interacciones derivadas de la medicina alternativa, las plantas medicinales y los complementos alimentarios HIV Drug Interactions . ",
+            "source": "ManualClinico, section 29.2.2.",
+            "_distance": 0.7187280654907227
+        }
+    ],
+    "answer": "S\u00ed, es importante tener en cuenta que los anticonceptivos hormonales pueden interactuar con el tratamiento antirretroviral (TAR). Estas interacciones pueden afectar la seguridad y eficacia de ambos tratamientos.\n\nQu\u00e9 debes saber:\n\n Interacciones posibles: Los anticonceptivos hormonales pueden interactuar con ciertos f\u00e1rmacos del TAR, lo que podr\u00eda:\n\t+ Reducir la eficacia del anticonceptivo, aumentando el riesgo de embarazo no deseado.\n\t+ Afectar los niveles sangu\u00edneos de los f\u00e1rmacos antirretrovirales, potencialmente reduciendo su eficacia o aumentando el riesgo de efectos secundarios.\n\nOpciones m\u00e1s seguras:\n\n Integrasas no potenciadas: F\u00e1rmacos como Raltegravir, Dolutegravir o Bictegravir son menos propensos a interactuar con anticonceptivos hormonales.\n An\u00e1logos no nucle\u00f3sidos inhibidores de la transcriptasa inversa (NNRTIs) espec\u00edficos: Rilpivirina y Doravirina son opciones que no modifican el CYP3A4, lo que las hace menos proclives a interactuar con anticonceptivos hormonales.\n\nRecomendaci\u00f3n:\n\n Consulta a tu m\u00e9dico o especialista en VIH: Para obtener asesoramiento personalizado y asegurarte de que tanto tu tratamiento antirretroviral como tu m\u00e9todo anticonceptivo sean seguros y efectivos para ti.\n Visita nuestras p\u00e1ginas espec\u00edficas de interacciones (si tienes acceso a ellas) para m\u00e1s detalles sobre las interacciones entre f\u00e1rmacos."
+}

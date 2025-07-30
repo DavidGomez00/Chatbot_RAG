@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 puedo hacer para proteger mi h\u00edgado mientras tomo mi tratamiento para el VIH?\n",
+    "context_info": [
+        {
+            "text": " Como se explica a lo largo de esta gu\u00eda, se puede evitar la transmisi\u00f3n del VIH con el uso de m\u00e9todos barrera o con herramientas de prevenci\u00f3n biom\u00e9dica: Preservativos externos o internos: Los preservativos junto con los lubricantes utilizados de forma correcta evitan la infecci\u00f3n por el VIH, as\u00ed como muchas otras infecciones de transmisi\u00f3n sexual. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
+            "_distance": 0.7205697894096375
+        },
+        {
+            "text": " Piel: Constituye una excelente barrera frente al VIH, a menos que exista un corte o herida abiertos. El contacto con la piel de fluidos infecciosos no supone una v\u00eda de infecci\u00f3n.  Membranas mucosas de la boca, garganta y est\u00f3mago: Estas membranas constituyen buenas barreras frente a la infecci\u00f3n por el VIH, siempre que no presenten irritaciones, cortes, \u00falceras o llagas.  Saliva: La saliva contiene prote\u00ednas y bajo contenido en sal que reducen de forma activa la capacidad de infecci\u00f3n del virus. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
+            "_distance": 0.7369101643562317
+        },
+        {
+            "text": " RECOMENDACIONES 1.Ofrecer TAR a todos los pacientes diagnosticados ya que suprime persistentemente la carga viral plasm\u00e1tica y genital del VIH y reduce el riesgo de transmisi\u00f3n sexual y perinatal del virus, destacando como la herramienta preventiva m\u00e1s potente frente a lainfecci\u00f3n por el VIH ( A-I).  2.Ofrecer la PrEP (A-I) y la PPE (A-II) en aquellas situaciones de riesgo en que est\u00e1n indicadas, ya que tambi\u00e9n son medidas farmacol\u00f3gicas muy efectivas en la prevenci\u00f3ndel VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 0.7402857542037964
+        },
+        {
+            "text": "La mujer embarazada portadora del VIH debe ser tratada con TAR espec\u00edfico para prevenir la transmisi\u00f3n vertical, programar ces\u00e1rea, tratar al reci\u00e9n nacido con AZT y evitar la lactancia materna. ",
+            "source": "manejo_paciente_vih_en_ap, section 20.0.",
+            "_distance": 0.7459352612495422
+        },
+        {
+            "text": " Ahora que sabes el estado serol\u00f3gico al VIH de tu pareja, a\u00fan pod\u00e9is estar juntos y practicar sexo de forma segura. Puedes utilizar la PrEP para reducir el riesgo de infecci\u00f3n en gran medida (si se toma de forma adecuada). Puede ser un gran modo de protegerte frente al VIH.  El riesgo de transmisi\u00f3n del VIH es cero si tu pareja toma tratamiento frente el VIH y su carga viral es indetectable. Esta afirmaci\u00f3n es v\u00e1lida tanto para las relaciones anales como las vaginales y en parejas gais o heterosexuales. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 0.746595561504364
+        }
+    ],
+    "answer": "No response content"
+}

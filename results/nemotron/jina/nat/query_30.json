@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEs posible que los nuevos antirretrovirales, como bictegravir o fostemsavir, causen problemas neurol\u00f3gicos a largo plazo?\n",
+    "context_info": [
+        {
+            "text": "Diversos estudios han demostrado que algunos antirretrovirales a concentraciones terap\u00e9uticas podr\u00edan causar neurotoxicidad y que el cambio de f\u00e1rmacos neurot\u00f3xicos por otros con un mejor perfil de tolerabilidad puede ayudar a revertir la sintomatolog\u00eda neurocognitiva. En la Tabla 3 se recogen algunos de los principales FAR con su perfil de neurotoxicidad. ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.7043149471282959
+        },
+        {
+            "text": " Informaci\u00f3n sobre transportadores UCSF-FDA TransPortal Los antirretrovirales que presentan un mayor n\u00famero de interacciones, que pueden ser cl\u00ednicamente graves, son los IP potenciados con ritonavir o cobicistat, elvitegravir/cobicistat (inhibidores potentes del metabolismo) y los ITINN efavirenz, nevirapina, y etravirina (inductores del metabolismo). ",
+            "source": "ManualClinico, section 8.3.7.",
+            "_distance": 0.7807148098945618
+        },
+        {
+            "text": "Tambi\u00e9n se han informado de elevaciones de CK, rabdomi\u00f3lisis y miopat\u00eda/miositis en pacientes que toman dolutegravir y raltegravir. Puede presentar una etiolog\u00eda multifactorial hasta en un 33% de los casos. La CVP alta del VIH es un factor de riesgo de lesi\u00f3n renal aguda en la rabdomi\u00f3lisis asociada al VIH. b. ",
+            "source": "ManualClinico, section 23.3.2.",
+            "_distance": 0.7909740805625916
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.828768789768219
+        },
+        {
+            "text": "Tanto EVG/c como DRV potenciado con cobicistat o ritonavir (DRV/p) presentan la desventaja potencial de un mayor riesgo de interacciones, adem\u00e1s de no haber demostrado la no- inferioridad respecto a las pautas preferentes. DRV/r, de hecho, se mostr\u00f3 inferior a DTG y a RAL en sendos ensayos cl\u00ednicos abiertos. ",
+            "source": "ManualClinico, section 9.2.",
+            "_distance": 0.8427591919898987
+        }
+    ],
+    "answer": "Para abordar tu consulta con la precisi\u00f3n requerida dentro de mi conocimiento especializado en VIH (que se basa en el conjunto de informaci\u00f3n proporcionada y puede no estar totalmente actualizado respecto a investigaciones muy recientes), debo destacar los siguientes puntos:\n\n1. Conocimiento Actual sobre Antirretrovirales y Neurotoxicidad: Seg\u00fan mi conocimiento, diversos estudios han demostrado que algunos antirretrovirales pueden causar neurotoxicidad a concentraciones terap\u00e9uticas. Esto ha llevado a la identificaci\u00f3n de perfiles de neurotoxicidad para varios f\u00e1rmacos anti-VIH (como se detalla en la Tabla 3 mencionada, aunque no proporcionada en tu consulta).\n\n2. F\u00e1rmacos Espec\u00edficos Mentados (Bictegravir y Fostemsavir): \n   - Bictegravir: Se trata de un inhibidor de la integrasa que se utiliza en combinaci\u00f3n con otros medicamentos para tratar el VIH. Aunque mi conocimiento puede no estar fully actualizado, hasta donde llega mi informaci\u00f3n, bictegravir ha demostrado un perfil de seguridad favorable, incluyendo una baja propensi\u00f3n a causar efectos adversos neurol\u00f3gicos significativos en ensayos cl\u00ednicos. Sin embargo, la monitorizaci\u00f3n a largo plazo es crucial para cualquier nuevo f\u00e1rmaco.\n   - Fostemsavir (Tambi\u00e9n conocido como ViiV Healthcare's Rukobia): Es un antagonista del receptor de entrada CCR5 utilizado en pacientes con VIH-1 resistente a m\u00faltiples medicamentos. Aunque mi conocimiento puede no capturar todos los detalles m\u00e1s recientes, inicialmente se ha observado un perfil de seguridad aceptable. Los efectos neurol\u00f3gicos a largo plazo, si los hay, podr\u00edan ser objeto de investigaci\u00f3n continua.\n\n3. Consideraciones Generales:\n   - La neurotoxicidad asociada con antirretrovirales puede ser multifactorial y dependiente del paciente.\n   - El monitoreo continuo y la evaluaci\u00f3n individualizada son esenciales para detectar cualquier efecto adverso a largo plazo.\n   - Los perfiles de seguridad de los f\u00e1rmacos pueden evolucionar con m\u00e1s investigaci\u00f3n y experiencia cl\u00ednica.\n\nRespuesta Directa a tu Pregunta:\nDentro del alcance de mi conocimiento actual, no hay evidencia destacada que sugiera que bictegravir o fostemsavir causen problemas neurol\u00f3gicos a largo plazo de manera significativa. Sin embargo, es crucial la monitorizaci\u00f3n continua y la evaluaci\u00f3n individual por parte de profesionales de la salud para cualquier tratamiento, especialmente con medicamentos relativamente nuevos.\n\nRecomendaci\u00f3n:\nPara m\u00e1s informaci\u00f3n espec\u00edfica y actualizada sobre estos f\u00e1rmacos o su uso en tu caso particular, consulta a tu m\u00e9dico. Los profesionales de la salud pueden ofrecer orientaci\u00f3n basada en las \u00faltimas investigaciones y considerando tus condiciones de salud \u00fanicas."
+}

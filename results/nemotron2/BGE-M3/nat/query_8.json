@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1les son los factores de riesgo que pueden aumentar la probabilidad de desarrollar esteatosis hep\u00e1tica mientras estoy en tratamiento para el VIH?\n",
+    "context_info": [
+        {
+            "text": " 5.Pacientes con VIH y cirrosis hep\u00e1tica (de cualquier etiolog\u00eda) y aquellos con infecci\u00f3n por el VHB y un riesgo estimado de CHC mayor del 0,2% anual, deben ser examinadosmediante una ecograf\u00eda hep\u00e1tica semestral ( I-A). 3.4.5 Alteraciones neuropsiqui\u00e1tricas en la infecci\u00f3n VIH La infecci\u00f3n por el VIH puede incrementar el riesgo de enfermedad psiqui\u00e1trica y a su vez la enfermedad psiqui\u00e1trica es un factor de riesgo para la adquisici\u00f3n de la infecci\u00f3n por el VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6028813123703003
+        },
+        {
+            "text": " TAR en pacientes con hepatopat\u00eda Las principales causas de da\u00f1os hep\u00e1tico en los pacientes con infecci\u00f3n por VIH son las coinfecciones por VHC y por VHB. Con la menor prevalencia de hepatitis v\u00edricas, la esteatosis/ esteatohepatitis no alcoh\u00f3lica est\u00e1 cobrando cada vez mayor relevancia. ",
+            "source": "ManualClinico, section 9.6.3.",
+            "_distance": 0.62310791015625
+        },
+        {
+            "text": "Factores como mayor edad, sexo masculino, mayor \u00edndice de masa corporal (IMC), diabetes, antecedentes familiares o enfermedad renal se asocian a una mayor incidencia de HTA en PVVIH igual que en poblaci\u00f3n general. Adem\u00e1s determinados factores relacionados con el VIH como un mayor grado de inmunosupresi\u00f3n, la inflamaci\u00f3n cr\u00f3nica, la reconstituci\u00f3n inmune, la translocaci\u00f3n bacteriana o la lipodistrofia se han asociado con un mayor riesgo de HTA. ",
+            "source": "ManualClinico, section 20.2.3.",
+            "_distance": 0.6599823832511902
+        },
+        {
+            "text": "Cuando la infecci\u00f3n por VIH se asocia a otros factores de riesgo (edad mayor de 50 a\u00f1os, mujer posmenop\u00e1usica, bajo peso, consumo de tabaco, alcohol y opi\u00e1ceos, administraci\u00f3n de corticoides, diabetes, hipertrigliceridemia, insuficiencia renal e infecci\u00f3n cr\u00f3nica por VHC y recuento de CD4 \udbc0\udc01 250 c/ml), se recomienda realizar un estudio metab\u00f3lico del calcio y niveles de vitamina D y analizar la densidad mineral \u00f3sea con una densitometr\u00eda \u00f3sea (B-III). ",
+            "source": "manejo_paciente_vih_en_ap, section 19.0.",
+            "_distance": 0.6755672693252563
+        },
+        {
+            "text": "Tambi\u00e9n se han informado de elevaciones de CK, rabdomi\u00f3lisis y miopat\u00eda/miositis en pacientes que toman dolutegravir y raltegravir. Puede presentar una etiolog\u00eda multifactorial hasta en un 33% de los casos. La CVP alta del VIH es un factor de riesgo de lesi\u00f3n renal aguda en la rabdomi\u00f3lisis asociada al VIH. b. ",
+            "source": "ManualClinico, section 23.3.2.",
+            "_distance": 0.6846805214881897
+        }
+    ],
+    "answer": "No response content"
+}

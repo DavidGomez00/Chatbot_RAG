@@ -1,6 +1,8 @@
 import json
 import os
 import re
+import torch
+from sentence_transformers import SentenceTransformer
 
 from dotenv import load_dotenv
 from langchain_experimental.text_splitter import SemanticChunker
@@ -97,20 +99,25 @@ def _natural_section_split(document:str, text:str, chunk_size:int=512) -> list:
     )
     return chunks
 
+# Désactive l'utilisation du GPU
+os.environ["CUDA_VISIBLE_DEVICES"] = ""
 
-def _semantic_split(text:str, semantic_model="multilingual5e"):
-    '''Divide a given text into chunks using semantic splitting.
-    TODO: Check text_splitter parameters.'''
+# Libérer la mémoire GPU
+torch.cuda.empty_cache()
+def _semantic_split(text: str, semantic_model="multilingual5e"):
+    '''Divide a given text into chunks using semantic splitting.'''
 
     text_splitter = SemanticChunker(
         embeddings=HuggingFaceEmbeddings(
-            model_name=embedding_model_dict[semantic_model]
+            model_name=embedding_model_dict[semantic_model],
+            model_kwargs={'device': 'cpu'}  # Assurez-vous que le modèle utilise le CPU
         ),
         buffer_size=1,
         breakpoint_threshold_type='percentile',
         breakpoint_threshold_amount=95
     )
     return text_splitter.create_documents([text])
+
 
 
 def _natural_and_semantic_split(document:str, text:str, semantic_model="multilingual5e"):

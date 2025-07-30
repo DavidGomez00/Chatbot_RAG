@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 cambios en la dieta o el estilo de vida podr\u00edan ayudarme a mejorar la salud de mi h\u00edgado?\n",
+    "context_info": [
+        {
+            "text": "Actualmente, el cribado del deterioro no permite prevenir su progresi\u00f3n con eficacia, por lo que no estar\u00eda indicada su valoraci\u00f3n salvo en caso de emergencia de s\u00edntomas 12. Cribado de comorbilidades Comorbilidad Cribado Decisiones Hep\u00e1tica Cirrosis por VHC tras RVS12 Hepatocarcinoma Ecograf\u00eda cada 6 meses Potencialmente evitable si RH <14 kPa en RVS12 Varices esof\u00e1gicas Varices esof\u00e1gicas EDA cada 2-3 a\u00f1os hasta emergencia de varices con riesgo de sangrado e inicio de profilaxisNo cribar si RH <30 kPa y plaquetas >110.000 en RVS12 Infecci\u00f3n por el VHB Hepatocarcinoma PAGE-B >10: ecograf\u00eda semestral EHGMA No indicado Prevenci\u00f3n: tratar obesidad, DM2, DLP Respiratorias C\u00e1ncer No indicado Prevenci\u00f3n: tratar tabaquismo Renales Deterioro de funci\u00f3n renalCKD-EPI y b\u00e1sico de orina cada 6 meses \u00d3seas Osteoporosis Hombres >50 a\u00f1os y mujeres postmenop\u00e1usicas: FRAX anual SNC Deterioro cognitivo No indicado Prevenci\u00f3n: reducci\u00f3n de RCV RECOMENDACIONES 1 En pacientes con infecci\u00f3n por el VIH se deben tener en cuenta en cada visita cl\u00ednica tanto de AH como de A P, las diferentes formas de comorbilidad hep\u00e1tica, renal, \u00f3sea, pulmonar o del SNC, descartando su existencia, realizando los cribados preventivos y modificando si es necesario, los h\u00e1bitos de vida, el TAR y tratando espec\u00edficamente la entidad. ( I-A) 3.4.3 Infecciones asociadas al VIH.",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9207212924957275
+        },
+        {
+            "text": "Calidad de vida del paciente y h\u00e1bitos t\u00f3xicos (tabaquismo, alcohol, etc.). Patolog\u00eda m\u00e9dica asociada (hepatopat\u00eda, nefropat\u00eda\u2026), deseo reproductivo en caso de mujeres, as\u00ed como exploraciones complementarias realizadas: revisiones ginecol\u00f3gicas (mamograf\u00eda, citolog\u00eda vaginal), urol\u00f3gicas, colonoscopias, densitometr\u00edas\u2026 Exploraci\u00f3n f\u00edsica: Peso, talla, \u00edndice de masa corporal, per\u00edmetro abdominal y tensi\u00f3n arterial. Adenopat\u00edas loco-regionales. Piel y mucosas. Auscultaci\u00f3n cardiaca y pulmonar, exploraci\u00f3n abdominal, valoraci\u00f3n de extremidades con pulsos perif\u00e9ricos. Exploraci\u00f3n neurol\u00f3gica y neurocognitiva. Examen ginecol\u00f3gico en mujeres (exploraci\u00f3n mamaria, citolog\u00eda). En los HSH debe realizarse un tacto rectal y/o citolog\u00eda anal. Cribado de ITS, incluyendo exudados. Pruebas complementarias: Hemograma y f\u00f3rmula leucocitaria, recuento plaquetario y subpoblaciones linfocitarias (CD4/CD8). Bioqu\u00edmica b\u00e1sica con filtrado glomerular, perfil hep\u00e1tico y lip\u00eddico. Anticuerpos (ELISA) y prueba de confirmaci\u00f3n si disponemos de una sola serolog\u00eda VIH previa. Carga viral del VIH (ARN VIH-1). Genotipo de resistencias del VIH-1. HLA-B*5701 (Detecci\u00f3n del subtipo *5701 del gen HLA-B asociado a hipersensibilidad a Abacavir). Serolog\u00edas: VHA, VHB, VHC, CMV, T.",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.3.",
+            "_distance": 0.9804847240447998
+        },
+        {
+            "text": "De aquellos 66 indicadores 9 estaban destinados a evaluar aspectos relacionados con las comorbilidades. Como se puede observar 8 de los 9 indicadores se refieren a la valoraci\u00f3n de la enfermedad hep\u00e1tica y tan s\u00f3lo hay uno que valore el riesgo cardiovascular. Los avances que se han producido en el campo de la hepatitis C hacen que alguno de estos indicadores haya quedado obsoleto. Por el contrario, en el momento en que se propusieron estos indicadores \u00fanicamente uno de ellos valoraba de manera gen\u00e9rica el riesgo cardiovascular. Posiblemente en el futuro debamos introducir nuevos indicadores m\u00e1s espec\u00edficos para monitorizar la evaluaci\u00f3n y el manejo de las comorbilidades en los pacientes con infecci\u00f3n por VIH.",
+            "source": "ManualClinico, section 35.4.",
+            "_distance": 0.9868478178977966
+        },
+        {
+            "text": "Se recomienda el tratamiento de las infecciones cr\u00f3nicas. En mujeres embarazadas y en personas con riesgo de desarrollar infecci\u00f3n cr\u00f3nica se debe evitar el consumo de productos del cerdo, animales de caza poco cocinados, y los moluscos crudos. La cocci\u00f3n de los alimentos a 70\u00ba durante 30 minutos inactiva el virus. En Espa\u00f1a, GEHEP/SEIMC han desarrollado la primera gu\u00eda de cuidados de la infecci\u00f3n por VHE del mundo, con una amplia revisi\u00f3n sobre el tema. Documento de Consenso de GEHEP perteneciente a la SEIMC sobre el diagn\u00f3stico, manejo y prevenci\u00f3n de la infecci\u00f3n por el virus de la Hepatitis E ",
+            "source": "ManualClinico, section 27.5.",
+            "_distance": 0.991361141204834
+        },
+        {
+            "text": "En conclusi\u00f3n, es necesario elaborar programas de intervenci\u00f3n que nos permitan mejorar la funci\u00f3n y evitar la discapacidad. El reto es pasar de una atenci\u00f3n expectante, que trata comorbilidades seg\u00fan van present\u00e1ndose, a un modelo proactivo que incorpore una \u201cvisi\u00f3n geri\u00e1trica\u201d, dando mayor importancia a la independencia, al mantenimiento de la funci\u00f3n y a la calidad de vida. Lo importante es detectar aquellos pacientes que precisan un seguimiento m\u00e1s estrecho o intervenciones espec\u00edficas como una valoraci\u00f3n geri\u00e1trica global exhaustiva por estar en riesgo de presentar eventos adversos de salud. Tal y como destaca la OMS en su informe sobre envejecimiento y salud, \u201cm\u00e1s de lo mismo no es suficiente\u201d, se necesita un cambio sist\u00e9mico. ",
+            "source": "ManualClinico, section 26.3.3.",
+            "_distance": 0.9937601685523987
+        }
+    ],
+    "answer": "No response content"
+}

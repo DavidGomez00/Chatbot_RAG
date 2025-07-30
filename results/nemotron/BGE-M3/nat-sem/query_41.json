@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento es por boca o pinchado?\n",
+    "context_info": [
+        {
+            "text": "Algoritmo Intervenci\u00f3n Breve en Alcohol, basado en las recomendaciones del USPTF 2013. Tratamiento Los principales tratamientos se basan en terapias psicol\u00f3gicas y de apoyo individual, grupal y socio-familiar. El tratamiento farmacol\u00f3gico es eficaz fundamentalmente en el trastorno moderado-grave. Las intervenciones breves reiteradas han demostrado efectividad.",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.950689971446991
+        },
+        {
+            "text": "El diagn\u00f3stico se realizar\u00e1 por la cl\u00ednica, pruebas de imagen y/o anatom\u00eda patol\u00f3gica/ microbiolog\u00eda. ",
+            "source": "ManualClinico, section 18.5.",
+            "_distance": 0.9673919677734375
+        },
+        {
+            "text": "Las infecciones far\u00edngeas son generalmente asintom\u00e1ticas. b.Diagn\u00f3stico y tratamiento El diagnostico de las infecciones por CT se hace actualmente a trav\u00e9s de t\u00e9cnicas moleculares de amplificaci\u00f3n de \u00e1cidos nucleicos ( TAAN) sobre exudado uretral/vaginal/cervical/rectal o en primer chorro de primera micci\u00f3n (preferentemente). El cultivo en medios celulares y las t\u00e9cnicas serol\u00f3gicas est\u00e1n hoy en d\u00eda en desuso. En cuanto al tratamiento cabe destacar en la infecci\u00f3n del tracto genital azitromicina y doxiciclina parecen tener la misma eficacia. Sin embargo, se ha cuestionado la eficacia de una dosis \u00fanica de 1gr de azitromicina en la proctitis por serotipos D-K. ",
+            "source": "ManualClinico, section 28.4.1.",
+            "_distance": 0.9833924174308777
+        },
+        {
+            "text": "Para el diagn\u00f3stico se requiere la biopsia. El tratamiento es quir\u00fargico con resecci\u00f3n local o ampliada y generalmente implica vaciamiento ganglionar ipsilateral. ",
+            "source": "ManualClinico, section 16.4.3.",
+            "_distance": 0.9877442717552185
+        },
+        {
+            "text": "Ciertas lesiones en la boca est\u00e1n tambi\u00e9n relacionadas con pr\u00e1cticas de riesgo para otras ITS. En un estudio publicado en 2012 encuentran que la candidiasis bucal, la xerostom\u00eda y la periodontitis ulcerativa necrotizante fueron las entidades m\u00e1s frecuentes, asoci\u00e1ndose a carga viral m\u00e1s alta junto con recuento bajo de linfocitos CD4+. Entre otros factores asociados a las infecciones orales destacamos la xerostom\u00eda, una mala higiene oral, el consumo de drogas, tabaco o alcohol y una mayor edad. Se han propuesto diversas clasificaciones de las manifestaciones orales de la infecci\u00f3n por VIH. En la Tabla 1, se resumen las lesiones m\u00e1s frecuentes comentadas en el presente texto. En la Tabla 2, se ha adaptado la clasificaci\u00f3n y los criterios diagn\u00f3sticos de las lesiones orales en el paciente con infecci\u00f3n por VIH propuestos en 1993 y revisados en el 2009. En cuanto a los tratamientos de las patolog\u00edas descritas, remitimos al lector a cap\u00edtulos de esta obra espec\u00edficos y al documento de prevenci\u00f3n y tratamiento de infecciones oportunistas y otras coinfecciones en pacientes con infecci\u00f3n por VIH: Documento de prevenci\u00f3n y tratamiento de infecciones oportunistas y otras coinfecciones en pacientes con infecci\u00f3n por VIH. Actualizaci\u00f3n Mayo 2015 ",
+            "source": "ManualClinico, section 16.2.1.",
+            "_distance": 0.9894995093345642
+        }
+    ],
+    "answer": "Una pregunta concisa!\n\nBas\u00e1ndome en el conocimiento proporcionado, no hay una respuesta \u00fanica que abarque todos los tratamientos relacionados con el VIH, ya que depende de la condici\u00f3n espec\u00edfica o infecci\u00f3n asociada. Sin embargo, puedo ofrecerte algunas orientaciones generales dentro del \u00e1mbito del VIH y las condiciones mencionadas:\n\n1. Tratamiento para el VIH en s\u00ed: El tratamiento antirretroviral (TAR) se administra por v\u00eda oral (por boca), en forma de pastillas o l\u00edquidos, que deben tomarse diariamente seg\u00fan la prescripci\u00f3n m\u00e9dica.\n\n2. Infecciones asociadas al VIH:\n   - Infecci\u00f3n por Chlamydia Trachomatis (CT): El tratamiento suele ser con antibi\u00f3ticos administrados por v\u00eda oral, como azitromicina o doxiciclina.\n   - Otras infecciones oportunistas: Dependiendo de la infecci\u00f3n, el tratamiento puede variar. Algunos tratamientos para infecciones oportunistas tambi\u00e9n se administran por v\u00eda oral, mientras que otros podr\u00edan requerir tratamiento intravenoso (pinchado) en casos m\u00e1s graves o espec\u00edficos.\n\n3. Lesiones orales asociadas al VIH: Los tratamientos para condiciones como la candidiasis bucal pueden incluir medicamentos t\u00f3picos (aplicados directamente en la boca) o, en algunos casos, tabletas orales para tragar.\n\nRespuesta concluyente:\n- La mayor\u00eda de los tratamientos para el VIH y sus infecciones asociadas se administran por v\u00eda oral (boca).\n- Sin embargo, existen excepciones, especialmente para infecciones oportunistas graves que podr\u00edan requerir tratamiento intravenoso (pinchado).\n\nRecomendaci\u00f3n: Para obtener informaci\u00f3n espec\u00edfica sobre tu condici\u00f3n o tratamiento, consulta a tu m\u00e9dico, ya que ellos pueden ofrecerte orientaci\u00f3n personalizada y precisa."
+}

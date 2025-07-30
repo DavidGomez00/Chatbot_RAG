@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento me va a producir cambios en el cuerpo visibles?\n",
+    "context_info": [
+        {
+            "text": " En cambio, una persona que reciba tratamiento ver\u00e1 c\u00f3mo su carga viral se reduce hasta alcanzar la \u201cindetectabilidad\u201d, es decir, por debajo del nivel de detecci\u00f3n en las pruebas de laboratorio \u2013por lo general, 50 copias/mL, pero incluso por debajo de las 20 copias/mL dependiendo del tipo de tecnolog\u00eda utilizada\u2013 (v\u00e9anse las Figuras 4 y 5). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.804254949092865
+        },
+        {
+            "text": "Los motivos para considerar el cambio de un tratamiento eficaz son m\u00faltiples: intolerabilidad/ toxicidad, ya sea presente (cambio reactivo) o para prevenirlas (cambio proactivo), simplificaci\u00f3n propiamente dicha (disminuci\u00f3n del n\u00famero de comprimidos, de dosis diarias o del n\u00famero de medicamentos), requerimientos diet\u00e9ticos, interacciones farmacol\u00f3gicas, comorbilidades, embarazo o deseo de embarazo y tambi\u00e9n es importante la sostenibilidad del tratamiento. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 0.8173364400863647
+        },
+        {
+            "text": "Otros trastornos, frecuentes en su d\u00eda, como son las alteraciones en la redistribuci\u00f3n de la grasa corporal han pr\u00e1cticamente desaparecido con el uso de los nuevos f\u00e1rmacos. Como regla general el enfoque diagn\u00f3stico y terap\u00e9utico de estos trastornos es el mismo que en la poblaci\u00f3n general. El principal factor diferencial es la existencia de interacciones farmacol\u00f3gicas con los f\u00e1rmacos antirretrovirales. ",
+            "source": "ManualClinico, section 24.2.",
+            "_distance": 0.8329205513000488
+        },
+        {
+            "text": "Tras realizar el cambio debe programarse un control cl\u00ednico y de laboratorio a las 2-4 semanas para monitorizar la tolerancia, adherencia y la eficacia (CV) del nuevo r\u00e9gimen. ",
+            "source": "ManualClinico, section 33.4.1.",
+            "_distance": 0.8443507552146912
+        },
+        {
+            "text": "Entre las personas que empezaron el tratamiento de forma precoz hubo tambi\u00e9n una reducci\u00f3n del 41% en la aparici\u00f3n de eventos cl\u00ednicos. Por tanto, se demuestra tanto un beneficio en la comunidad, la reducci\u00f3n de la transmisi\u00f3n del VIH, como un beneficio individual, el descenso en la aparici\u00f3n de eventos cl\u00ednicos, entre las personas que comienzan pronto el tratamiento y tienen una pareja estable no infectada. ",
+            "source": "ManualClinico, section 11.2.",
+            "_distance": 0.8466820120811462
+        }
+    ],
+    "answer": "Excelente pregunta!\n\nCon los nuevos f\u00e1rmacos antirretrovirales, es alentador informar que las alteraciones en la redistribuci\u00f3n de la grasa corporal, com\u00fanmente conocidas como \"lipodistrofia\" o \"efectos lip\u00eddicos\", han pr\u00e1cticamente desaparecido. Estos cambios, que en el pasado afectaban a algunas personas con VIH, se manifestaban en forma de:\n\n Aumento o p\u00e9rdida de grasa en \u00e1reas espec\u00edficas del cuerpo (como la cara, el cuello, el abdomen, los brazos o las piernas)\n Cambios en la distribuci\u00f3n de la grasa corporal\n\nActualmente, gracias a los avances en la medicaci\u00f3n antirretroviral, es poco probable experimentar cambios visibles significativos en el cuerpo debido al tratamiento. Sin embargo, es importante destacar que cada persona puede responder de manera \u00fanica al tratamiento.\n\nSi tienes inquietudes espec\u00edficas sobre posibles efectos secundarios o cambios corporales, te recomiendo:\n\n Hablar con tu m\u00e9dico: ellos conocen tus condiciones individuales y pueden ofrecerte orientaci\u00f3n personalizada.\n Asistir a controles regulares: esto permitir\u00e1 monitorear cualquier cambio y ajustar el tratamiento si fuera necesario.\n\nRecuerda, la salud y el bienestar son lo primordial. Si surgen dudas o inquietudes, siempre es mejor consultar a un profesional de la salud."
+}

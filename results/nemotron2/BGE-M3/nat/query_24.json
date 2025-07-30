@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 pruebas deber\u00eda considerar solicitar a mi m\u00e9dico para asegurarme de que mi coraz\u00f3n est\u00e1 saludable mientras recibo tratamiento para el VIH?\n",
+    "context_info": [
+        {
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.6506890654563904
+        },
+        {
+            "text": " PRUEBA/ACTIVIDAD/EXPLORACI\u00d3NVALORACI\u00d3N INCIALSEGUIMIENTO Serolog\u00eda VIH-1/2, si la infecci\u00f3n no est\u00e1 confirmada previamente.\u221a - Hemograma \u221a Cada 3-6 meses Estudio b\u00e1sico de coagulaci\u00f3n \u221a Seg\u00fan indicaci\u00f3n cl\u00ednica Bioqu\u00edmica plasm\u00e1tica que incluya perfil hep\u00e1tico, renal (con FGe) y metab\u00f3lico\u221a Cada 3-6 meses Perfil \u00f3seo (Ca, P y Vitamina D) \u221a Seg\u00fan indicaci\u00f3n cl\u00ednica C\u00e1lculo del RCV 1\u221a Cada 2 a\u00f1os en varones >40 a\u00f1os y en mujeres >50 a\u00f1os2. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6550043821334839
+        },
+        {
+            "text": "Te realizar\u00e1n pruebas para comprobar la fortaleza de tu sistema inmunitario y de tu estado de salud, en general. Es probable que necesites alg\u00fan tiempo para asumir esta novedad en tu vida.  Si dispones de apoyo e informaci\u00f3n, ser\u00e1 m\u00e1s sencillo. El hecho de tener informaci\u00f3n fiable te ayudar\u00e1 a tomar decisiones informadas sobre tu salud. Descubrir que tienes el VIH nunca es agradable, pero actualmente el VIH es una infecci\u00f3n tratable y manejable. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.6608387231826782
+        },
+        {
+            "text": " Recomendaciones generales para la prueba del VIH La prueba debe ser de acceso libre y gratuita, confidencial y voluntaria, por tanto, con consentimiento verbal y registrado en la historia cl\u00ednica. Se recomienda, adem\u00e1s, una breve informaci\u00f3n antes de la prueba y asesoramiento posterior a esta. El servicio de salud debe garantizar la atenci\u00f3n sanitaria a la persona con resultado positivo y acceso al TAR, si lo precisa. ",
+            "source": "manejo_paciente_vih_en_ap, section 6.0.",
+            "_distance": 0.6700849533081055
+        },
+        {
+            "text": " En AP, la prueba se debe ofrecer de forma normalizada, como parte de un chequeo habitual y a toda persona que lo solicite, especialmente a las que tienen m\u00e1s riesgo de infectarse y las que presentan s\u00edntomas de infecci\u00f3n por el VIH u otras enfermedades asociadas. Antes de asegurar el diagn\u00f3stico, es necesario realizar una prueba de confirmaci\u00f3n, adem\u00e1s del test serol\u00f3gico habitual y considerar la posibilidad del per\u00edodo de abstinencia terap\u00e9utica. ",
+            "source": "manejo_paciente_vih_en_ap, section 23.0.",
+            "_distance": 0.6701036095619202
+        }
+    ],
+    "answer": "No response content"
+}

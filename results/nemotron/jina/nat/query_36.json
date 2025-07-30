@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1l es el Tratamiento que tengo que tomar?\n",
+    "context_info": [
+        {
+            "text": "El manejo de estos trastornos se basa en tratamiento sintom\u00e1tico con medidas diet\u00e9ticas, antiem\u00e9ticos y antidiarreicos como la loperamida y, en los casos m\u00e1s severos, la sustituci\u00f3n del f\u00e1rmaco implicado por otro antirretroviral. ",
+            "source": "ManualClinico, section 10.2.",
+            "_distance": 0.812984049320221
+        },
+        {
+            "text": " Tratamiento El tratamiento del CP, al igual que en la poblaci\u00f3n general, debe ser dirigido por un equipo multidisciplinar, que realizar\u00e1 la estadificaci\u00f3n y decidir\u00e1 el esquema terap\u00e9utico m\u00e1s adecuado para cada caso. Si el paciente tiene la infecci\u00f3n por VIH controlada deben utilizarse todas las estrategias disponibles, incluida la inmunoterapia con f\u00e1rmacos anti-PD1 como el pembrolizumab y el nivolumab con los que se han obtenido resultados prometedores en peque\u00f1as series de casos. ",
+            "source": "ManualClinico, section 15.2.5.",
+            "_distance": 0.8784064650535583
+        },
+        {
+            "text": "Resultan de elecci\u00f3n las pautas basadas en un inhibidor de la integrasa como raltegravir, dolutegravir, o bictegravir en combinaci\u00f3n con ABC/3TC, o FTC/ TAF. En presencia de infecci\u00f3n activa o pasada por VHB, el r\u00e9gimen terap\u00e9utico debe incluir FTC/ TAF como pauta preferente. Adem\u00e1s de la quimioterapia y el TAR, en todos los linfomas es necesario ofrecer algunos tratamientos complementarios que mejoraran el pron\u00f3stico del paciente . ",
+            "source": "ManualClinico, section 14.2.4.",
+            "_distance": 0.8851252794265747
+        },
+        {
+            "text": " Tratamiento Disponemos de varias opciones para el tratamiento del SK, pero existen datos suficientes para recomendar que debe ser individualizado en funci\u00f3n de la extensi\u00f3n y localizaci\u00f3n de las lesiones, los s\u00edntomas asociados y la inmunodepresi\u00f3n responsable . El peso principal del tratamiento recae en mejorar la inmunodepresi\u00f3n, que en el caso de los pacientes con infecci\u00f3n por VIH es el inicio o ajuste del TAR. ",
+            "source": "ManualClinico, section 13.5.",
+            "_distance": 0.899529755115509
+        },
+        {
+            "text": "Cuando esto no es suficiente, se recomienda iniciar el tratamiento con f\u00e1rmacos t\u00f3picos (corticoides, an\u00e1logos de vitamina D), fototerapia o retinoides. Si es preciso el uso de agentes inmunosupresores se har\u00e1 en pacientes con linfocitos CD4+ estables y carga viral indetectable. Se han utilizado agentes sist\u00e9micos tradicionales (metotrexate, ciclosporina) y biol\u00f3gicos (anti-TNF, ustekinumab)16. ",
+            "source": "ManualClinico, section 17.4.1.",
+            "_distance": 0.9145495295524597
+        }
+    ],
+    "answer": "Para proporcionar una respuesta precisa, necesito m\u00e1s informaci\u00f3n sobre tu situaci\u00f3n espec\u00edfica.\n\nBas\u00e1ndome en el conocimiento especializado que tengo sobre el VIH, te puedo ofrecer algunas pautas generales de tratamiento para diferentes escenarios relacionados con el VIH. Sin embargo, es fundamental que consultes a tu m\u00e9dico para obtener un diagn\u00f3stico y recomendaci\u00f3n de tratamiento personalizados.\n\n\u00bfPodr\u00edas proporcionar m\u00e1s detalles sobre tu consulta de tratamiento? Por favor, selecciona uno de los siguientes escenarios o proporciona informaci\u00f3n adicional:\n\n1. Tratamiento para el VIH en general: \n   - Respuesta: Se recomiendan pautas basadas en un inhibidor de la integrasa (como raltegravir, dolutegravir, o bictegravir) en combinaci\u00f3n con ABC/3TC, o FTC/TAF. Si hay infecci\u00f3n activa o pasada por VHB, se prefiere FTC/TAF.\n\n2. Tratamiento para Canker (CP) en pacientes con VIH:\n   - Respuesta: Debe ser dirigido por un equipo multidisciplinario. Si el VIH est\u00e1 controlado, se pueden utilizar todas las estrategias disponibles, incluida inmunoterapia con f\u00e1rmacos anti-PD1.\n\n3. Tratamiento para Linfomas en pacientes con VIH:\n   - Respuesta: Adem\u00e1s de la quimioterapia y el TAR, se ofrecen tratamientos complementarios para mejorar el pron\u00f3stico. No hay un tratamiento espec\u00edfico detallado en mi conocimiento base para este escenario.\n\n4. Tratamiento para Sarcoma de Kaposi (SK) en pacientes con VIH:\n   - Respuesta: Debe ser individualizado seg\u00fan la extensi\u00f3n, localizaci\u00f3n de las lesiones, s\u00edntomas y grado de inmunodepresi\u00f3n. El tratamiento principal es mejorar la inmunodepresi\u00f3n mediante TAR. Otras opciones incluyen f\u00e1rmacos t\u00f3picos, fototerapia, retinoides o, en algunos casos, agentes inmunosupresores.\n\n5. Otro (por favor, especifica):\n   - Respuesta: Para m\u00e1s informaci\u00f3n sobre tu caso espec\u00edfico, consulta a tu m\u00e9dico."
+}

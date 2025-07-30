@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfPor qu\u00e9 mi tratamiento anterior no ha funcionado?\n",
+    "context_info": [
+        {
+            "text": "Los motivos para considerar el cambio de un tratamiento eficaz son m\u00faltiples: intolerabilidad/ toxicidad, ya sea presente (cambio reactivo) o para prevenirlas (cambio proactivo), simplificaci\u00f3n propiamente dicha (disminuci\u00f3n del n\u00famero de comprimidos, de dosis diarias o del n\u00famero de medicamentos), requerimientos diet\u00e9ticos, interacciones farmacol\u00f3gicas, comorbilidades, embarazo o deseo de embarazo y tambi\u00e9n es importante la sostenibilidad del tratamiento. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 0.9659469127655029
+        },
+        {
+            "text": " - Los tratamientos con f\u00e1rmacos para otros procesos deben tener en cuenta las frecuentes interacciones con la medicaci\u00f3n antirretroviral.  - Tambi\u00e9n se debe investigar la presencia de factores que dificulten la adherencia al tratamiento antiviral y ayudar, en lo posible, a neutralizarlos. En caso de abandono del tratamiento, se debe derivar de nuevo al paciente a la unidad de atenci\u00f3n especializada para reiniciar el tratamiento de rescate. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.9930614233016968
+        },
+        {
+            "text": "Los habituales efectos adversos a corto y largo plazo de los antirretrovirales, y otros aspectos dependientes del paciente o del propio sistema, son causa frecuente de abandono del tratamiento y de la consiguiente aparici\u00f3n de resistencias. Es \u00fatil conocer estos factores que influyen en la adherencia y ayudar a minimizar aquellos que no la favorecen. ",
+            "source": "manejo_paciente_vih_en_ap, section 23.0.",
+            "_distance": 1.0630191564559937
+        },
+        {
+            "text": "Aunque existen casos individuales de mejor\u00eda al utilizar un IP o al cambiar a esta familia sin haber existido respuesta a otros reg\u00edmenes, no existe evidencia tan amplia para concretar que su uso sea indispensable m\u00e1s all\u00e1 de alcanzar la indetectabilidad, salvo situaciones de resistencia.Los pacientes que reciben ya TAR y tienen un diagn\u00f3stico de novo de SK deben ser evaluados sobre fracaso, falta de adherencia o presencia de resistencias. ",
+            "source": "ManualClinico, section 13.5.",
+            "_distance": 1.0653257369995117
+        },
+        {
+            "text": "\u2022Fracaso cl\u00ednico, progresi\u00f3n de la enfermedad, debe excluirse de \u00e9ste supuesto: los cuadros de reconstituci\u00f3n inmunol\u00f3gica tras iniciar el TAR, procesos secundarios al da\u00f1o sobre \u00f3rganos que condicion\u00f3 previamente el VIH. As\u00ed mismo antes de confirmar que estamos ante un fracaso cl\u00ednico del TAR, deben descartarse otras causas concomitantes tales como infecciones (tuberculosis), neoplasias o la malnutrici\u00f3n. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 1.074026346206665
+        }
+    ],
+    "answer": "Excelente pregunta! Hay varias razones por las que un tratamiento antirretroviral (TAR) anterior puede no haber funcionado como se esperaba. A continuaci\u00f3n, te presento algunas de las causas m\u00e1s comunes que debemos considerar:\n\n1. Fracaso cl\u00ednico: La progresi\u00f3n de la enfermedad a pesar del tratamiento. Sin embargo, antes de confirmar esto, es crucial descartar otras causas subyacentes.\n2. Falta de adherencia: No haber seguido el r\u00e9gimen de medicaci\u00f3n tal como se prescribi\u00f3 (dosis, horarios, etc.). La adherencia es fundamental para el \u00e9xito del tratamiento.\n3. Resistencia a los f\u00e1rmacos: El virus puede desarrollar resistencia a uno o m\u00e1s medicamentos del r\u00e9gimen, lo que reduce su eficacia.\n4. Interacciones farmacol\u00f3gicas: Otras medicaciones que est\u00e1s tomando pueden interactuar con los antirretrovirales, afectando su absorci\u00f3n, metabolismo o aumentando el riesgo de efectos adversos.\n5. Cuadros de reconstituci\u00f3n inmunol\u00f3gica: Al iniciar el TAR, puede ocurrir una reconstituci\u00f3n inmunol\u00f3gica que, aunque es un signo de \u00e9xito del tratamiento, puede manifestarse como un \"efecto paradojal\" y confundirse con un fracaso.\n6. Procesos secundarios al da\u00f1o previo del VIH: El tratamiento puede no ser efectivo para revertir da\u00f1os preexistentes en \u00f3rganos o sistemas afectados por el VIH antes de iniciar el TAR.\n7. Causas concomitantes no relacionadas directamente con el VIH:\n\t Infecciones (como la tuberculosis).\n\t Neoplasias (c\u00e1nceres).\n\t Malnutrici\u00f3n, que puede afectar la absorci\u00f3n de los medicamentos o el estado general de salud.\n\nPara determinar espec\u00edficamente por qu\u00e9 tu tratamiento anterior no ha funcionado, te recomiendo lo siguiente:\n\n- Consulta con tu m\u00e9dico: Es esencial discutir tus resultados y s\u00edntomas actuales con un profesional de la salud especializado en VIH. Ellos pueden evaluar tu situaci\u00f3n particular, realizar las pruebas necesarias (como an\u00e1lisis de resistencia viral) y ofrecerte una explicaci\u00f3n detallada.\n- Reevaluaci\u00f3n del tratamiento: Bas\u00e1ndose en los resultados, tu m\u00e9dico puede sugerir ajustes al r\u00e9gimen actual o cambiar a un nuevo esquema terap\u00e9utico m\u00e1s adecuado para ti.\n\nRecuerda, la comunicaci\u00f3n abierta con tu equipo de salud es clave para encontrar el mejor enfoque para tu tratamiento."
+}

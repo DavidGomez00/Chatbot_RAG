@@ -1,0 +1,31 @@
+{
+    "query": "Si noto dificultades en mi memoria, \u00bfdeber\u00eda esto estar relacionado con mi tratamiento antirretroviral?\n",
+    "context_info": [
+        {
+            "text": "\u00c9stas pueden deberse a la situaci\u00f3n inmunol\u00f3gica propia del sujeto, siendo de especial relevancia aquellos que se encuentren con un recuento de CD4 < 200 cel/\u03bcL, los cuales presentan mayor riesgo de adquirir enfermedades graves en determinados entornos; tambi\u00e9n pueden estar relacionadas con aspectos burocr\u00e1ticos, como la restricci\u00f3n de acceso a determinados pa\u00edses, o la limitaci\u00f3n a la hora de poder adquirir tratamiento antirretroviral en determinados destinos en caso de necesidad; pueden adem\u00e1s existir posibles interacciones entre el tratamiento antirretroviral del paciente y las vacunas, quimioprofilaxis o tratamientos diversos que el sujeto pueda requerir de cara a dicho viaje. ",
+            "source": "ManualClinico, section 29.2.",
+            "_distance": 0.7299368977546692
+        },
+        {
+            "text": "Generalmente, suele estar entre 50.000 y 100.000 copias/mL cuando se inicia el tratamiento antirretroviral.  4. El tratamiento deber\u00eda reducir la carga viral a menos de 50 copias/mL en un plazo de unos 3 meses. Esto tambi\u00e9n reduce la capacidad de infecci\u00f3n de todos los fluidos corporales.  Figura 5: LA RELACI\u00d3N ENTRE CARGA VIRAL Y TRANSMISI\u00d3N DEL VIH EN EL ESTUDIO DE RAKAI La carga viral del VIH est\u00e1 relacionada de forma directa con el riesgo de transmisi\u00f3n del virus. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7608563899993896
+        },
+        {
+            "text": "El principal h\u00e1ndicap del tratamiento antirretroviral son sus posibles interacciones, ya sea con f\u00e1rmacos concomitantes que se usen durante el viaje, como con la quimioprofilaxis de algunas enfermedades como el paludismo. Conviene tambi\u00e9n tener en cuenta el creciente uso y las posibles interacciones derivadas de la medicina alternativa, las plantas medicinales y los complementos alimentarios HIV Drug Interactions . ",
+            "source": "ManualClinico, section 29.2.2.",
+            "_distance": 0.7674973607063293
+        },
+        {
+            "text": "Con el control de la infecci\u00f3n gracias al tratamiento antirretroviral (TAR), el complejo demencia-SIDA ha ido evolucionando a formas m\u00e1s leves de afectaci\u00f3n de las funciones neurocognitivas, no exentas tambi\u00e9n de consecuencias a nivel funcional para el individuo que las presenta. En este primer punto del cap\u00edtulo 23 abordaremos el origen de los trastornos neurocognitivos que presentan las personas que conviven con el VIH, su diagn\u00f3stico y su tratamiento. ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.7700310945510864
+        },
+        {
+            "text": "Es fundamental el manejo de las interacciones con el tratamiento antirretroviral (consultar Apartado b del Cap\u00edtulo 8 de este mismo documento para posibles interacciones farmacol\u00f3gicas ). ",
+            "source": "ManualClinico, section 25.3.3.",
+            "_distance": 0.7747192978858948
+        }
+    ],
+    "answer": "No necesariamente. Las dificultades en la memoria pueden tener diversas causas y no siempre est\u00e1n directamente relacionadas con el tratamiento antirretroviral (TAR). Sin embargo, es importante considerar que las personas que viven con el VIH pueden experimentar trastornos neurocognitivos debido a la infecci\u00f3n por el virus en s\u00ed misma.\n\nPosibles explicaciones en relaci\u00f3n al VIH y su tratamiento:\n\n1. Efectos del VIH en el sistema nervioso: El VIH puede afectar directamente el cerebro, lo que puede llevar a problemas de memoria y otros trastornos neurocognitivos. Aunque el tratamiento antirretroviral (TAR) es efectivo para controlar la infecci\u00f3n, algunos efectos en el sistema nervioso pueden persistir o desarrollarse con el tiempo.\n\n2. Efectos secundarios del TAR: Algunos medicamentos antirretrovirales pueden tener efectos secundarios que afectan la funci\u00f3n cognitiva, incluyendo problemas de memoria. Sin embargo, estos casos son relativamente raros y m\u00e1s com\u00fanmente asociados con f\u00e1rmacos de generaciones anteriores.\n\nPasos a seguir:\n\n- Consulta a tu m\u00e9dico: Es crucial discutir tus preocupaciones con tu proveedor de atenci\u00f3n m\u00e9dica. Ellos pueden evaluar si tus dificultades de memoria est\u00e1n relacionadas con el VIH, el TAR, o si hay otra causa subyacente que necesita ser abordada.\n\n- Evaluaci\u00f3n neurocognitiva: Tu m\u00e9dico puede recomendar una evaluaci\u00f3n especializada para determinar la naturaleza de tus problemas de memoria. Esto ayudar\u00e1 a identificar si se trata de un efecto directo del VIH, un lado efecto del tratamiento, o algo completamente diferente.\n\n- Ajuste del TAR (si necesario): Si se determina que el TAR es el causante, tu m\u00e9dico podr\u00eda considerar ajustes en tu r\u00e9gimen de tratamiento para minimizar los efectos secundarios.\n\n- Atenci\u00f3n a otros factores: Mant\u00e9n un estilo de vida saludable, incluyendo una dieta equilibrada, ejercicio regular y suficiente descanso. Estos h\u00e1bitos pueden ayudar a mejorar la funci\u00f3n cognitiva en general.\n\nRecuerda: La comunicaci\u00f3n abierta con tu equipo de atenci\u00f3n m\u00e9dica es clave para gestionar cualquier preocupaci\u00f3n relacionada con el VIH y su tratamiento."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl medicamento que tomo, como tenofovir alafenamida (TAF) o bictegravir, puede aumentar el riesgo de grasa en el h\u00edgado?\n",
+    "context_info": [
+        {
+            "text": "Los f\u00e1rmacos antiretrovirales que pueden causar elevaciones en los l\u00edpidos son los inhibidores de la proteasa, en especial si el potenciador utilizado es ritonavir, y el uso de efavirenz. El uso de tenofovir disoproxil fumarato tiene un efecto reductor sobre los niveles de colesterol total que se pierde cuando se usa la nueva formulaci\u00f3n de tenofovir alafenamida. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.73076331615448
+        },
+        {
+            "text": "Recientemente se ha implicado a TAF en casos espor\u00e1dicos de toxicidad renal y, administrado conjuntamente con inhibidores de la integrasa, en una ganancia excesiva de peso e incluso obesidad cl\u00ednica en PVV. La implicaci\u00f3n del aumento de peso excesivo, si se confirma, en una potencial lesividad renal est\u00e1 por confirmar. Las PVV pueden, en alg\u00fan momento de su evoluci\u00f3n, recibir otros f\u00e1rmacos con nefrotoxicidad potencial. ",
+            "source": "ManualClinico, section 22.4.",
+            "_distance": 0.7490997910499573
+        },
+        {
+            "text": " El cambio de dolutegravir/abacavir/lamivudina a bictegravir/ FTC /TAF puede realizarse por decisi\u00f3n cl\u00ednica, pero no puede recomendarse el cambio buscando un beneficio en el perfil lip\u00eddico, funci\u00f3n renal o DMO, ni una reducci\u00f3n del RCV . ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7542576193809509
+        },
+        {
+            "text": "Todo paciente coinfectado deber\u00eda iniciar o mantener una pauta de tratamiento antirretroviral que incluya f\u00e1rmacos inhibidores de la polimerasa del VHB con elevada barrera gen\u00e9tica: tenofovir (TDF), o tenofovir alafenamida (TAF). Entecavir tiene alta barrera gen\u00e9tica frente a VHB, pero no es eficaz frente al VIH y puede favorecer la selecci\u00f3n de la mutaci\u00f3n M184V en el VIH, por lo que s\u00f3lo se pautar\u00eda en pacientes con contraindicaci\u00f3n de TDF/TAF y control de viremia VIH con TAR. ",
+            "source": "ManualClinico, section 27.3.4.",
+            "_distance": 0.8088066577911377
+        },
+        {
+            "text": "Algunos ejemplos son el incremento de toxicidad renal al administrar conjuntamente dos f\u00e1rmacos con potencial nefrotoxicidad, como tenofovir con antiinfl amatorios no esteroideos o antimicrobianos nefrot\u00f3xicos, o bien asociar medicamentos que pueden prolongar el intervalo Q Tc, como por ejemplo hidroxicloroquina y azitromicina utilizados inicialmente en el tratamiento contra la infecci\u00f3n causada por SARS-CoV-2. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8450363278388977
+        }
+    ],
+    "answer": "No response content"
+}

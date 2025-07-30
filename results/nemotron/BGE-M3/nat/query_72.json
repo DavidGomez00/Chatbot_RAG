@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo nazca mi hijo es recomendable que le d\u00e9 el pecho estando con tratamiento antirretroviral y carga viral indetectable?\n",
+    "context_info": [
+        {
+            "text": "No obstante, en el momento actual, incluso aunque la madre est\u00e9 bien controlada y con carga viral de VIH indetectable (<50 copias/mL), no existe la suficiente evidencia en cuanto a que el riesgo de la transmisi\u00f3n del VIH de la madre al reci\u00e9n nacido en esta situaci\u00f3n sea cero, por lo que en nuestro medio la recomendaci\u00f3n es sustituir la lactancia materna por f\u00f3rmula adaptada. ",
+            "source": "ManualClinico, section 31.3.",
+            "_distance": 0.7420652508735657
+        },
+        {
+            "text": "Aunque con estos estudios se puede descartar la infecci\u00f3n en el lactante, se recomienda la realizaci\u00f3n de una serolog\u00eda de VIH (ELISA), a los 12-18 meses de vida. Se debe realizar al nacer estudio de otras infecciones de transmisi\u00f3n vertical CMV mediante realizaci\u00f3n de PCR CMV en orina del reci\u00e9n nacido y TORCH, Sifilis, VHC,VHB mediante serolog\u00eda si no se hubiese testado durante la gestaci\u00f3n. ",
+            "source": "ManualClinico, section 31.2.2.",
+            "_distance": 0.7544190883636475
+        },
+        {
+            "text": "En los menores de 3 a\u00f1os, adolescentes sexualmente activos y ni\u00f1os con manifestaciones cl\u00ednicas asociadas al VIH y/o bajo recuento de linfocitos CD4+ para la edad, debe ser iniciado sin demora. Antes de iniciar el tratamiento es necesario valorar las caracter\u00edsticas de cada paciente, su potencial adherencia, la capacidad para tomar comprimidos, otras coinfecciones. Deber\u00e1n disponerse de un estudio de resistencias (resistencias transmitidas o producidas tras la exposici\u00f3n a antirretrovirales). ",
+            "source": "ManualClinico, section 33.3.",
+            "_distance": 0.7609577775001526
+        },
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7720467448234558
+        },
+        {
+            "text": "Generalmente, suele estar entre 50.000 y 100.000 copias/mL cuando se inicia el tratamiento antirretroviral.  4. El tratamiento deber\u00eda reducir la carga viral a menos de 50 copias/mL en un plazo de unos 3 meses. Esto tambi\u00e9n reduce la capacidad de infecci\u00f3n de todos los fluidos corporales.  Figura 5: LA RELACI\u00d3N ENTRE CARGA VIRAL Y TRANSMISI\u00d3N DEL VIH EN EL ESTUDIO DE RAKAI La carga viral del VIH est\u00e1 relacionada de forma directa con el riesgo de transmisi\u00f3n del virus. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7777547836303711
+        }
+    ],
+    "answer": "No, seg\u00fan las recomendaciones actuales en nuestro medio, no se recomienda la lactancia materna aunque est\u00e9s bien controlada con tratamiento antirretroviral y tengas una carga viral de VIH indetectable (<50 copias/mL). Aunque el riesgo de transmisi\u00f3n del VIH sea muy bajo en este escenario, todav\u00eda no existe suficiente evidencia que garantice un riesgo cero de transmisi\u00f3n del VIH de la madre al reci\u00e9n nacido.\n\nRecomendaci\u00f3n: Sustituir la lactancia materna por f\u00f3rmula adaptada para minimizar cualquier riesgo potencial de transmisi\u00f3n del VIH a tu hijo."
+}

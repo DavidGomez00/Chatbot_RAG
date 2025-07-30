@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi quiero tener hijos, es necesario planear el embarazo con mis especialistas de VIH?\n",
+    "context_info": [
+        {
+            "text": " Toda persona infectada por el VIH en edad f\u00e9rtil debe recibir consejo preconcepcional dirigido a informar sobre la posibilidad de tener hijos sanos y la conveniencia de planificar el embarazo para minimizar los riesgos en la madre y en el hijo . Las PVIH muchas veces desconocen el riesgo casi nulo de la transmisi\u00f3n de su enfermedad al feto en condiciones adecuadas. - Lo ideal es planifi car el embarazo con tiempo, de ah\u00ed la importancia de la consulta preconcepcional, realizada en las consultas de A P. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.553922712802887
+        },
+        {
+            "text": " Planificaci\u00f3n y preparaci\u00f3n general de la gestaci\u00f3n Con la finalidad de conseguir que el embarazo llegue cuando la mujer tenga un buen control virol\u00f3gico de la infecci\u00f3n VIH, con un adecuado tratamiento antirretroviral (T AR), y en un buen estado de salud general y obst\u00e9trica. ",
+            "source": "ManualClinico, section 32.2.1.",
+            "_distance": 0.6192469000816345
+        },
+        {
+            "text": " Prevenci\u00f3n de la transmisi\u00f3n horizontal Con respecto a los consejos preconcepcionales para abordar los problemas de transmisi\u00f3n de la infecci\u00f3n VIH a la pareja, hasta no hace mucho tiempo, las parejas serodiscordantes que deseaban tener un hijo eran referidas a una consulta especializada de fertilidad con laboratorio de alta seguridad biol\u00f3gica. ",
+            "source": "ManualClinico, section 32.2.3.",
+            "_distance": 0.6644880175590515
+        },
+        {
+            "text": " Introducci\u00f3n La atenci\u00f3n ginecol\u00f3gica a mujeres infectadas por VIH, debe incluir medidas de planificaci\u00f3n familiar fundamentalmente para evitar gestaciones no deseadas y con alguna de ellas evitar la transmisi\u00f3n de ITS. La mayor\u00eda de los m\u00e9todos anticonceptivos pueden ser usados por mujeres infectadas por el VIH. Para hacer una correcta elecci\u00f3n del m\u00e9todo anticonceptivo, existen los criterios de elegibilidad de la Organizaci\u00f3n Mundial de la Salud (OMS). ",
+            "source": "ManualClinico, section 30.2.1.",
+            "_distance": 0.6747622489929199
+        },
+        {
+            "text": " Las recomendaciones de TAR son las mismas que para la poblaci\u00f3n adulta. RECOMENDACIONES 1.En las PVIH es necesario planificar la gestaci\u00f3n en la mejor situaci\u00f3n cl\u00ednica posible, minimizando los riesgos para la mujer, la pareja y el feto, exponiendo las distintas opciones reproductivas, en funci\u00f3n de si la persona con infecci\u00f3n por el VIH es el hombre, la mujer o ambos (II-A). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6781390905380249
+        }
+    ],
+    "answer": "S\u00ed, es altamente recomendable.\n\nPlanificar el embarazo con tus especialistas en VIH es crucial para varias razones clave:\n\n1. Control virol\u00f3gico \u00f3ptimo: Quieres asegurarte de que tu carga viral est\u00e9 bajo control con un tratamiento antirretroviral (TAR) efectivo. Esto minimiza significativamente el riesgo de transmisi\u00f3n del VIH al beb\u00e9.\n2. Salud general y obst\u00e9trica: Los especialistas evaluar\u00e1n tu salud general y cualquier condici\u00f3n obst\u00e9trica preexistente para garantizar que est\u00e9s en las mejores condiciones posibles para un embarazo saludable.\n3. Selecci\u00f3n del mejor momento: La planificaci\u00f3n permite identificar el momento ideal para el embarazo, cuando tanto t\u00fa como tu pareja (si corresponde) est\u00e9n en \u00f3ptimas condiciones de salud.\n4. Informaci\u00f3n sobre riesgos y opciones reproductivas: Tus especialistas te proporcionar\u00e1n informaci\u00f3n detallada sobre los riesgos asociados y las diversas opciones reproductivas disponibles, teniendo en cuenta el estado serol\u00f3gico de ambos miembros de la pareja (si aplica).\n5. Prevenci\u00f3n de la transmisi\u00f3n horizontal: En caso de parejas serodiscordantes, recibir\u00e1s consejos espec\u00edficos para minimizar el riesgo de transmisi\u00f3n del VIH a tu pareja durante el per\u00edodo de planificaci\u00f3n y concepci\u00f3n.\n\nRecomendaci\u00f3n clave (II-A): Planificar la gestaci\u00f3n en la mejor situaci\u00f3n cl\u00ednica posible es esencial para minimizar los riesgos para ti, tu pareja (si corresponde) y el feto, exponiendo las distintas opciones reproductivas seg\u00fan sea aplicable."
+}

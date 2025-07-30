@@ -1,0 +1,31 @@
+{
+    "query": "Si noto dificultades en mi memoria, \u00bfdeber\u00eda esto estar relacionado con mi tratamiento antirretroviral?\n",
+    "context_info": [
+        {
+            "text": " - Los tratamientos con f\u00e1rmacos para otros procesos deben tener en cuenta las frecuentes interacciones con la medicaci\u00f3n antirretroviral.  - Tambi\u00e9n se debe investigar la presencia de factores que dificulten la adherencia al tratamiento antiviral y ayudar, en lo posible, a neutralizarlos. En caso de abandono del tratamiento, se debe derivar de nuevo al paciente a la unidad de atenci\u00f3n especializada para reiniciar el tratamiento de rescate. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.6945784091949463
+        },
+        {
+            "text": "En el caso que para construir un nuevo r\u00e9gimen, se requiera de un antirretroviral que no tenga indicaci\u00f3n pedi\u00e1trica, se valorara su administraci\u00f3n bajo uso compasivo. En pacientes con m\u00faltiples fracasos y con un patr\u00f3n de resistencias que determine ausencia de una combinaci\u00f3n de antirretrovirales que garantice el control de la replicaci\u00f3n viral, mantendremos la pauta menos t\u00f3xica a la espera de nuevas opciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8725751042366028
+        },
+        {
+            "text": "Con el control de la infecci\u00f3n gracias al tratamiento antirretroviral (TAR), el complejo demencia-SIDA ha ido evolucionando a formas m\u00e1s leves de afectaci\u00f3n de las funciones neurocognitivas, no exentas tambi\u00e9n de consecuencias a nivel funcional para el individuo que las presenta. En este primer punto del cap\u00edtulo 23 abordaremos el origen de los trastornos neurocognitivos que presentan las personas que conviven con el VIH, su diagn\u00f3stico y su tratamiento. ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.8813964128494263
+        },
+        {
+            "text": "Es fundamental el manejo de las interacciones con el tratamiento antirretroviral (consultar Apartado b del Cap\u00edtulo 8 de este mismo documento para posibles interacciones farmacol\u00f3gicas ). ",
+            "source": "ManualClinico, section 25.3.3.",
+            "_distance": 0.8897365927696228
+        },
+        {
+            "text": "Igualmente, aquellas personas que hayan sido diagnosticadas recientemente y acaben de comenzar el tratamiento antirretroviral, deber\u00edan retrasar entre 3-6 meses el viaje, con el objetivo de comprobar la tolerancia y respuesta al tratamiento, afianzar la adherencia al mismo, minimizar el riesgo de presentaci\u00f3n de un s\u00edndrome de reconstituci\u00f3n inmune durante el viaje, y mejorar y estabilizar la situaci\u00f3n inmunol\u00f3gica lo m\u00e1ximo posible previo a la partida. ",
+            "source": "ManualClinico, section 29.2.1.",
+            "_distance": 0.8987322449684143
+        }
+    ],
+    "answer": "No necesariamente. Aunque el tratamiento antirretroviral (TAR) es fundamental para controlar la infecci\u00f3n por VIH, las dificultades en la memoria pueden tener varias causas en personas que conviven con el VIH.\n\nPosibles explicaciones relacionadas con el VIH:\n\n1. Trastornos neurocognitivos asociados al VIH (TN-VIH): El VIH puede afectar directamente el sistema nervioso central, provocando trastornos neurocognitivos de leve a moderada gravedad, incluyendo problemas de memoria.\n2. Efectos secundarios de algunos medicamentos antirretrovirales: Aunque menos com\u00fan, algunos f\u00e1rmacos antirretrovirales pueden tener efectos secundarios que afectan la cognici\u00f3n o la memoria. Sin embargo, estos casos son relativamente raros y suelen ser leves.\n\nOtras posibles causas no relacionadas directamente con el TAR:\n\n1. Factores psicol\u00f3gicos: Estr\u00e9s, ansiedad, depresi\u00f3n o trastornos del estado de \u00e1nimo pueden influir en la percepci\u00f3n de dificultades mnem\u00f3nicas.\n2. Estilo de vida y factores de riesgo: Falta de sue\u00f1o, consumo excesivo de alcohol, drogas, d\u00e9ficit nutricional, o enfermedades concomitantes (como hipertensi\u00f3n, diabetes) pueden afectar la memoria.\n3. Envejecimiento natural: La edad puede influir en la capacidad mnem\u00f3nica.\n\nRecomendaci\u00f3n:\n\nSi experimentas dificultades con la memoria, es crucial discutir esto con tu m\u00e9dico especialista en VIH. \u00c9l/ella podr\u00e1:\n\n- Evaluar si estos s\u00edntomas podr\u00edan estar relacionados con el TAR o con otros factores.\n- Revisar tu tratamiento antirretroviral para descartar posibles interacciones o efectos secundarios.\n- Derivarte a especialistas (neur\u00f3logo, psic\u00f3logo, etc.) si fuera necesario para una evaluaci\u00f3n m\u00e1s profunda.\n- Ofrecerte orientaci\u00f3n sobre c\u00f3mo mejorar la memoria y el bienestar general.\n\nRecuerda: La comunicaci\u00f3n abierta con tu equipo de salud es clave para abordar cualquier inquietud relacionada con tu tratamiento y salud en general."
+}

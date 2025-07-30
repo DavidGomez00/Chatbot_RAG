@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfTengo otras opciones si mi tratamiento no funciona?\n",
+    "context_info": [
+        {
+            "text": " - Los tratamientos con f\u00e1rmacos para otros procesos deben tener en cuenta las frecuentes interacciones con la medicaci\u00f3n antirretroviral.  - Tambi\u00e9n se debe investigar la presencia de factores que dificulten la adherencia al tratamiento antiviral y ayudar, en lo posible, a neutralizarlos. En caso de abandono del tratamiento, se debe derivar de nuevo al paciente a la unidad de atenci\u00f3n especializada para reiniciar el tratamiento de rescate. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.97771155834198
+        },
+        {
+            "text": "Ahora bien, sin tratamiento, todos pueden acabar desarrollando la enfermedad aunque lo hagan m\u00e1s tarde. ",
+            "source": "ManualClinico, section 5.3.",
+            "_distance": 1.0323140621185303
+        },
+        {
+            "text": "En el caso que para construir un nuevo r\u00e9gimen, se requiera de un antirretroviral que no tenga indicaci\u00f3n pedi\u00e1trica, se valorara su administraci\u00f3n bajo uso compasivo. En pacientes con m\u00faltiples fracasos y con un patr\u00f3n de resistencias que determine ausencia de una combinaci\u00f3n de antirretrovirales que garantice el control de la replicaci\u00f3n viral, mantendremos la pauta menos t\u00f3xica a la espera de nuevas opciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 1.0688655376434326
+        },
+        {
+            "text": "En ausencia de curaci\u00f3n definitiva o erradicaci\u00f3n, puede conseguirse una cura funcional o remisi\u00f3n biol\u00f3gica si se consigue controlar la viremia plasm\u00e1tica en ausencia de TAR, a pesar de que no se haya conseguido erradicar por completo el VIH en c\u00e9lulas latentes, donde se puede mantener integrado. ",
+            "source": "ManualClinico, section 9.8.3.",
+            "_distance": 1.0807052850723267
+        },
+        {
+            "text": "Los pacientes con SK, precisan tratamiento antirretroviral y en funci\u00f3n de la inmunodepresi\u00f3n y el n\u00famero de lesiones se puede utilizar tratamientos locales mediante cirug\u00eda convencional o con l\u00e1ser, inyecciones locales de vinblastina o agentes esclerosantes. Sin embargo, lo habitual es el uso de quimioterapia sist\u00e9mica con doxorrubicina liposomal o bien taxanos como el paclitaxel. La radioterapia se desaconseja debido a la mucositis que puede originar. ",
+            "source": "ManualClinico, section 16.4.1.",
+            "_distance": 1.0875433683395386
+        }
+    ],
+    "answer": "S\u00ed, existen varias opciones a considerar si tu tratamiento actual contra el VIH no est\u00e1 funcionando como se espera. Es importante recordar que cada situaci\u00f3n es \u00fanica y la mejor opci\u00f3n para ti depender\u00e1 de tus circunstancias espec\u00edficas, incluyendo tu historial m\u00e9dico, el patr\u00f3n de resistencia viral (si aplica) y tu respuesta previa a tratamientos antirretrovirales. Aqu\u00ed te presento algunas opciones generales que podr\u00edan ser consideradas bajo la supervisi\u00f3n de un profesional de la salud especializado en VIH:\n\n1. Cambio de R\u00e9gimen Terap\u00e9utico: Si el tratamiento actual no est\u00e1 controlando adecuadamente la viremia (carga viral) o si est\u00e1s experimentando efectos secundarios intolerables, tu m\u00e9dico podr\u00eda recomendar cambiar a un nuevo r\u00e9gimen de tratamiento. Esto podr\u00eda implicar reemplazar uno o m\u00e1s de los medicamentos actuales con otros que el virus no haya desarrollado resistencia.\n\n2. Tratamiento de Rescate: En casos de fracaso terap\u00e9utico previo, se puede dise\u00f1ar un \"tratamiento de rescate\". Esto implica seleccionar medicamentos a los cuales el virus todav\u00eda es sensible, bas\u00e1ndose en pruebas de resistencia genot\u00edpica o fenot\u00edpica. El objetivo es encontrar una combinaci\u00f3n efectiva que controle la replicaci\u00f3n viral.\n\n3. Uso Compasivo de Nuevos F\u00e1rmacos: Si no hay opciones terap\u00e9uticas disponibles que garanticen el control de la infecci\u00f3n debido a m\u00faltiples resistencias, y siempre bajo estricta supervisi\u00f3n m\u00e9dica, podr\u00eda considerarse el acceso a nuevos f\u00e1rmacos bajo programas de \"uso compasivo\". Esto significa acceder a medicamentos que a\u00fan no han sido aprobados para su uso general o que est\u00e1n en fase de investigaci\u00f3n, pero que podr\u00edan ofrecer una esperanza de controlar la infecci\u00f3n.\n\n4. Mantenimiento con la Pauta Menos T\u00f3xica: En situaciones extremas donde no hay opciones viables para cambiar el tratamiento debido a una resistencia viral m\u00faltiple, el enfoque podr\u00eda ser mantener al paciente con la pauta menos t\u00f3xica posible, mientras se aguarda el desarrollo de nuevas opciones terap\u00e9uticas.\n\n5. Participaci\u00f3n en Estudios Cl\u00ednicos: Para algunos pacientes, participar en estudios cl\u00ednicos que eval\u00faan nuevos tratamientos o estrategias terap\u00e9uticas podr\u00eda ofrecer acceso a opciones innovadoras que no est\u00e1n disponibles de otra manera.\n\nAcci\u00f3n Recomendada: \n- Consulta a tu M\u00e9dico Especialista: Es crucial discutir tus opciones con un profesional de la salud que conozca tu historial m\u00e9dico y pueda ofrecerte el asesoramiento m\u00e1s adecuado basado en tu situaci\u00f3n espec\u00edfica. \n\nRecuerda, cada persona vive su infecci\u00f3n por VIH de manera \u00fanica, y lo que funciona para una persona puede no funcionar para otra. La clave es trabajar estrechamente con tu equipo de atenci\u00f3n m\u00e9dica para encontrar la mejor estrategia para ti."
+}

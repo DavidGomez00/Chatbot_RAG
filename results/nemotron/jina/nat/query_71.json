@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo nazca mi hijo qu\u00e9 probabilidades tiene de infectarse con el VIH si me tomo el tratamiento y estoy indetectable en el momento del parto?\n",
+    "context_info": [
+        {
+            "text": " En todos los escenarios se dar\u00e1 prioridad a favorecer el seguimiento y la adherencia de la mujer, intentando eliminar todas las barreras y asegurar que la mujer embarazada mantenga o alcance cu\u00e1nto antes una CVP indetectable.  5. Manejo del parto en mujeres infectadas por el VIH.  En mujeres con CVP menor de 50 cp/ml en la semana 36 de gestaci\u00f3n, el riesgo de transmisi\u00f3n maternofetal es muy bajo independientemente de si se realiza ces\u00e1rea o no. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6147971749305725
+        },
+        {
+            "text": " El riesgo de transmisi\u00f3n heterosexual es cercano a cero cuando el miembro infectado tiene la carga viral plasm\u00e1tica (CVP) indetectable. Por este motivo parejas serodiscordantes en las que el miembro infectado por el VIH tiene la CVP indetectable al menos 6 meses y desean concebir, pueden tener relaciones sexuales desprotegidas.  3. Manejo de la MVIH en edad f\u00e9rtil. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6336228847503662
+        },
+        {
+            "text": "\u2022 \u25e6 Gestante con serolog\u00eda para el VIH desconocida en el parto Se debe realizar una prueba r\u00e1pida para VIH y una serolog\u00eda con ELISA de 4\u00ba generaci\u00f3n. Si la prueba r\u00e1pida es positiva, se administrar\u00e1 TAR (RAL o DTG +TDF/FTC), AZT intravenoso (al menos 2 horas antes del parto) y realizar ces\u00e1rea electiva. Despu\u00e9s del parto, se confirmar\u00e1 la infecci\u00f3n del VIH y se solicitar\u00e1 estudio basal y se continuar\u00e1 con T AR. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.6786924004554749
+        },
+        {
+            "text": " Introducci\u00f3n La infecci\u00f3n VIH tiene caracter\u00edsticas especiales en la edad pedi\u00e1trica; La mayor\u00eda de ni\u00f1os se infectan por transmisi\u00f3n vertical (durante el embarazo o en parto), por lo que el VIH incide en etapas precoces de su desarrollo y diferenciaci\u00f3n celular. Sin tratamiento la progresi\u00f3n a sida es m\u00e1s r\u00e1pida y la mortalidad elevada, s\u00f3lo un 3% de los pacientes son asintom\u00e1ticos o no progresores. ",
+            "source": "ManualClinico, section 33.1.",
+            "_distance": 0.6822677850723267
+        },
+        {
+            "text": "No obstante, en el momento actual, incluso aunque la madre est\u00e9 bien controlada y con carga viral de VIH indetectable (<50 copias/mL), no existe la suficiente evidencia en cuanto a que el riesgo de la transmisi\u00f3n del VIH de la madre al reci\u00e9n nacido en esta situaci\u00f3n sea cero, por lo que en nuestro medio la recomendaci\u00f3n es sustituir la lactancia materna por f\u00f3rmula adaptada. ",
+            "source": "ManualClinico, section 31.3.",
+            "_distance": 0.6937698125839233
+        }
+    ],
+    "answer": "Seg\u00fan el conocimiento proporcionado, cuando una mujer embarazada con VIH mantiene una Carga Viral Plasm\u00e1tica (CVP) indetectable (<50 cp/ml) en la semana 36 de gestaci\u00f3n, el riesgo de transmisi\u00f3n maternofetal es muy bajo, independientemente de si se realiza ces\u00e1rea o parto vaginal.\n\nAunque no se especifica un porcentaje exacto de riesgo en este escenario, se destaca que el riesgo es \"muy bajo\". Para poner esto en perspectiva, en contextos donde la madre recibe tratamiento antirretroviral efectivo y mantiene una carga viral indetectable, el riesgo de transmisi\u00f3n del VIH de madre a hijo puede reducirse a menos del 1% (este porcentaje no est\u00e1 expl\u00edcitamente mencionado en el conocimiento proporcionado pero es ampliamente aceptado en la literatura m\u00e9dica).\n\nImportante recordar:\n- Asegurarte de mantener la adherencia al tratamiento para conservar una CVP indetectable.\n- Sigue las recomendaciones de tu equipo m\u00e9dico para el manejo del parto y el cuidado postnatal, incluyendo la decisi\u00f3n sobre la lactancia (en este conocimiento se sugiere sustituir la lactancia materna por f\u00f3rmula adaptada, incluso con CVP indetectable).\n- Confirma con tu m\u00e9dico las probabilidades espec\u00edficas seg\u00fan tu caso, ya que cada situaci\u00f3n puede tener matices \u00fanicos. \n\nEn resumen, con tratamiento y una CVP indetectable en el momento del parto, el riesgo de transmisi\u00f3n del VIH a tu hijo es muy bajo, pero para detalles precisos y recomendaciones personalizadas, siempre es mejor consultar directamente con tu m\u00e9dico."
+}

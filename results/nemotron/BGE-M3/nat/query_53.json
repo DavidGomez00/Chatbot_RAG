@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 pasos debo seguir despu\u00e9s de identificar un fracaso virol\u00f3gico en un paciente?\n",
+    "context_info": [
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.6259393692016602
+        },
+        {
+            "text": "El fracaso se categoriza en: \u2022Fracaso virol\u00f3gico , est\u00e1 definido en pacientes en TAR, por la ausencia de supresi\u00f3n viral completa (CV por debajo del l\u00edmite de detectabilidad de la t\u00e9cnica utilizada, generalmente <20 \u00f3 75 copias /mL), o detecci\u00f3n de viremia tras control de la misma. En adultos se considera fracaso si la CV tras 6 meses de TAR es \u2265 200 copias/mL. Los ni\u00f1os con CV muy elevadas al inicio del TAR, puede tardar m\u00e1s de 6 meses en alcanzar la indetectabilidad. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.6667819619178772
+        },
+        {
+            "text": "Si la CV sigue descendiendo progresivamente puede ser apropiado esperar unas semanas m\u00e1s. En la actualidad las pautas iniciales de TAR recomendadas como preferentes tienen un muy bajo riesgo de fracaso virol\u00f3gico con desarrollo de resistencias. En general el nivel de CV que establecemos para definir fracaso virol\u00f3gico son 200 copias/mL. Umbrales inferiores condicionar\u00edan cambios de TAR innecesarios. El fracaso virol\u00f3gico debe confirmarse siempre con una segunda determinaci\u00f3n de CV. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.6959487199783325
+        },
+        {
+            "text": "El cl\u00ednico debe evaluar los condicionantes del fracaso identificando causas de mala adherencia, buscar posibles errores de dosificaci\u00f3n o interacciones significativas. Hay que intentar pautar un TAR c\u00f3modo, bien tolerado, de escasa toxicidad teniendo en cuenta las comorbilidades del paciente. Es preciso tambi\u00e9n hacer una historia detallada de todos los reg\u00edmenes TAR previos determinando si ha habido cambios por fracasos virol\u00f3gicos o por toxicidad/tolerabilidad. ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 0.7411582469940186
+        },
+        {
+            "text": "El objetivo del TAR tras fracaso es mantener el control de la replicaci\u00f3n viral por debajo del l\u00edmite de detecci\u00f3n de la t\u00e9cnica utilizada para su valoraci\u00f3n . El cambio del TAR tras fracaso debe tener en cuenta la historia de f\u00e1rmacos antirretrovirales a los que ha estado expuesto el paciente, los resultados de los estudios de resistencias actuales y los previos, las caracter\u00edsticas del paciente y su capacidad para mantener la adherencia. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7627630233764648
+        }
+    ],
+    "answer": "Una vez identificado un fracaso virol\u00f3gico en un paciente, te recomiendo seguir estos pasos precisos y ordenados:\n\n1. Confirmaci\u00f3n del Fracaso Virol\u00f3gico:\n   - Realiza una segunda determinaci\u00f3n de la Carga Viral (CV) para confirmar el fracaso virol\u00f3gico.\n   - Aseg\u00farate de que la primera lectura no fue un resultado aislado o un error de laboratorio.\n\n2. Evaluaci\u00f3n de Causas:\n   - Adherencia: Investiga si hubo problemas de adherencia al tratamiento antirretroviral (TAR). Preg\u00fantale al paciente sobre su rutina, posibles olvidos, cambios en su horario que podr\u00edan afectar la toma de medicamentos, etc.\n   - Dosificaci\u00f3n: Verifica si las dosis administradas son adecuadas seg\u00fan el peso del paciente y las recomendaciones para cada f\u00e1rmaco.\n   - Tolerancia y Toxicidad: Eval\u00faa si el paciente ha experimentado efectos secundarios que podr\u00edan influir en la adherencia o si hay signos de toxicidad.\n   - Interacciones Medicamentosas: Analiza posibles interacciones entre los f\u00e1rmacos antirretrovirales y otros medicamentos que el paciente pueda estar tomando, incluyendo suplementos diet\u00e9ticos.\n\n3. Historia Detallada de TAR Previos:\n   - Documenta todos los reg\u00edmenes de TAR previos del paciente.\n   - Identifica si hubo cambios en estos reg\u00edmenes debido a fracasos virol\u00f3gicos, toxicidad o problemas de tolerabilidad.\n\n4. Estudios de Resistencia:\n   - Solicita estudios de resistencia viral para entender el perfil de resistencias del virus en ese momento.\n   - Revisa los resultados de estudios de resistencia previos, si existen, para identificar patrones o mutaciones espec\u00edficas.\n\n5. Reevaluaci\u00f3n y Adjuste del TAR:\n   - Con base en la informaci\u00f3n recopilada, el objetivo es seleccionar un nuevo r\u00e9gimen de TAR que:\n     - Sea efectivo contra las cepas resistentes identificadas.\n     - Sea c\u00f3modo y bien tolerado para fomentar la adherencia.\n     - Tenga una baja toxicidad y sea adecuado considerando las comorbilidades del paciente.\n   - Considera la posibilidad de consultar con un experto en VIH o un panel de resistencia viral para ayudar en la toma de decisiones.\n\n6. Seguimiento Cuidadoso:\n   - Programa controles regulares para monitorizar la nueva carga viral despu\u00e9s del ajuste del TAR.\n   - Ajusta el tratamiento seg\u00fan sea necesario bas\u00e1ndote en los resultados de estos controles.\n\nRecuerda que cada paciente es \u00fanico, por lo que la estrategia puede variar dependiendo de las espec\u00edficas necesidades y circunstancias del caso. Si tienes alguna duda adicional o el paciente presenta condiciones fuera del \u00e1mbito del VIH, no dudes en consultar a un m\u00e9dico especialista para una evaluaci\u00f3n m\u00e1s exhaustiva."
+}

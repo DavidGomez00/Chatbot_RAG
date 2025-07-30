@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 debo hacer si comienzo a experimentar cambios en mi estado mental o cognitivo mientras estoy en tratamiento con antirretrovirales?\n",
+    "context_info": [
+        {
+            "text": " - Los tratamientos con f\u00e1rmacos para otros procesos deben tener en cuenta las frecuentes interacciones con la medicaci\u00f3n antirretroviral.  - Tambi\u00e9n se debe investigar la presencia de factores que dificulten la adherencia al tratamiento antiviral y ayudar, en lo posible, a neutralizarlos. En caso de abandono del tratamiento, se debe derivar de nuevo al paciente a la unidad de atenci\u00f3n especializada para reiniciar el tratamiento de rescate. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.7285950183868408
+        },
+        {
+            "text": "Por este motivo es relativamente com\u00fan que los ni\u00f1os puedan modificar su tratamiento a medida que incrementan su edad o aumentan su peso. En la Tabla 4 se resumen las posibilidades de estos cambios y las presentaciones a dosis fijas con indicaci\u00f3n, en Espa\u00f1a, en menores de 18 a\u00f1os. Es importante que previ\u00f3 al cambio, se revise exhaustivamente la historia de antirretrovirales a los que el paciente ha estado expuesto, con el fin de asegurar no comprometer la \u00e9xito de la nueva pauta. ",
+            "source": "ManualClinico, section 33.4.1.",
+            "_distance": 0.7286586761474609
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7512064576148987
+        },
+        {
+            "text": "Finalmente, cuando el VIH se encuentra bien controlado debemos actuar sobre aquellos factores que puedan estar produciendo da\u00f1o a nivel neurocognitivo. Algunos aspectos como evitar el uso de drogas psicoactivas o el control de los factores de riesgo cardiovascular ser\u00e1n claves en estos casos. Otro aspecto importante en estas situaciones ser\u00e1 evaluar el perfil de neurotoxicidad de los f\u00e1rmacos utilizados, especialmente el de los f\u00e1rmacos antirretrovirales (FAR). ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.7574691772460938
+        },
+        {
+            "text": "En los menores de 3 a\u00f1os, adolescentes sexualmente activos y ni\u00f1os con manifestaciones cl\u00ednicas asociadas al VIH y/o bajo recuento de linfocitos CD4+ para la edad, debe ser iniciado sin demora. Antes de iniciar el tratamiento es necesario valorar las caracter\u00edsticas de cada paciente, su potencial adherencia, la capacidad para tomar comprimidos, otras coinfecciones. Deber\u00e1n disponerse de un estudio de resistencias (resistencias transmitidas o producidas tras la exposici\u00f3n a antirretrovirales). ",
+            "source": "ManualClinico, section 33.3.",
+            "_distance": 0.76596999168396
+        }
+    ],
+    "answer": "Si comienzas a experimentar cambios en tu estado mental o cognitivo mientras est\u00e1s en tratamiento con antirretrovirales, te recomiendo seguir los siguientes pasos:\n\n1. Consulta a tu m\u00e9dico inmediatamente: Es crucial informar a tu m\u00e9dico sobre cualquier cambio que notes en tu estado mental o cognitivo. Esto incluye s\u00edntomas como confusi\u00f3n, problemas de memoria, cambios de humor, ansiedad, depresi\u00f3n, o cualquier otra alteraci\u00f3n que te preocupe.\n\n2. Eval\u00faa el perfil de neurotoxicidad de tus f\u00e1rmacos: Tu m\u00e9dico deber\u00e1 evaluar los antirretrovirales que est\u00e1s tomando para determinar si alguno de ellos podr\u00eda estar contribuyendo a los cambios observados. Algunos f\u00e1rmacos antirretrovirales tienen un perfil de neurotoxicidad m\u00e1s alto que otros.\n\n3. Revisa tu adherencia al tratamiento: Aseg\u00farate de que est\u00e1s tomando tus medicamentos exactamente como se te ha prescrito. La falta de adherencia puede afectar negativamente el control del VIH, lo que a su vez podr\u00eda influir en tu salud cognitiva y mental.\n\n4. Explora posibles interacciones con otros f\u00e1rmacos: Si est\u00e1s tomando medicamentos adicionales para otras condiciones, es importante que tu m\u00e9dico revise si existen interacciones entre estos f\u00e1rmacos y tus antirretrovirales que podr\u00edan estar afectando tu estado mental o cognitivo.\n\n5. Control de factores de riesgo cardiovascular y uso de drogas psicoactivas: Tu m\u00e9dico puede aconsejarte sobre c\u00f3mo controlar los factores de riesgo cardiovascular y evitar el uso de drogas psicoactivas, ya que ambos aspectos pueden impactar significativamente en tu salud neurocognitiva.\n\n6. Considera un ajuste en tu tratamiento antirretroviral si es necesario: Bas\u00e1ndose en la evaluaci\u00f3n, tu m\u00e9dico podr\u00eda decidir cambiar tu pauta de tratamiento a una con un perfil de neurotoxicidad m\u00e1s bajo. Por ejemplo, si est\u00e1s experimentando efectos adversos del sistema nervioso central (SNC) causados por efavirenz, el cambio a rilpivirina, doravirina o raltegravir podr\u00eda ser una opci\u00f3n.\n\nRecuerda, la comunicaci\u00f3n abierta y oportuna con tu m\u00e9dico es clave para manejar cualquier efecto secundario de tu tratamiento antirretroviral y proteger tu salud cognitiva y mental."
+}

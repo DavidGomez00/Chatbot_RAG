@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi me quedo embarazada podr\u00e9 seguir mi tratamiento habitual?\n",
+    "context_info": [
+        {
+            "text": "Una vez demostrada la continuaci\u00f3n de la supresi\u00f3n virol\u00f3gica el paciente puede volver a la rutina de visitas habituales.  Situaciones especiales.  Embarazo. Ver cap\u00edtulo correspondiente de este documento. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7642576694488525
+        },
+        {
+            "text": "El tratamiento frente al VIH te permitir\u00e1 tener una esperanza de vida similar a la de una persona sin el VIH, con una buena calidad de vida. Es muy probable que no tengas que renunciar a nada de lo que hac\u00edas como consecuencia de tu nueva situaci\u00f3n.  Como parte de la atenci\u00f3n prenatal, de forma rutinaria se incluye la realizaci\u00f3n de la prueba del VIH a todas las mujeres (durante el primer y tercer trimestre de embarazo). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.7719271183013916
+        },
+        {
+            "text": " Si recibes el diagn\u00f3stico durante la gestaci\u00f3n, deber\u00edas recibir counselling y una atenci\u00f3n especial.  Para m\u00e1s informaci\u00f3n o apoyo, puedes preguntarme m\u00e1s al respecto. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.8735138177871704
+        },
+        {
+            "text": " Desde la consulta preconcepcional, se remitir\u00e1 a la MVIH a la consulta de VIH para iniciar o cambiar el TAR a pautas con mayores tasas de seguridad durante el embarazo. Tanto el MAP como el m\u00e9dico especialista en VIH deber\u00e1n revisar todas las medicaciones y h\u00e1bitos t\u00f3xicos de la mujer con el fin de evitar posibles drogas teratog\u00e9nicas. 4. Manejo del TAR en la mujer embarazada con VIH.  Toda MVIH debe recibir TAR durante todo el embarazo intentando mantener CVP indetectable. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8749499320983887
+        },
+        {
+            "text": "Mujer VIH+ con deseo/posibilidad de embarazoMujer VIH+ en tratamiento con embarazo recienteMujer embarazada reci\u00e9n diagnosticada de infecci\u00f3n por VIH MEDIDAS GENERALESRevaluar el TAR.Evitar f\u00e1rmacos contraindicados/con pocos datos en embarazo.Hablar con la paciente de sus deseos de embarazo.Remitir de forma r\u00e1pida a su especialista en VIH.Ajustar TAR a pautas de elecci\u00f3n en embarazo.Remitir de forma urgente a unidad VIH.Inicio de TAR cuanto antes con pautas de elecci\u00f3n durante el embarazo. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8882208466529846
+        }
+    ],
+    "answer": "Excelente pregunta!\n\nRespuesta: No necesariamente. Si est\u00e1s viviendo con VIH y te queda embarazada o planeas quedar embarazada, es importante ajustar tu tratamiento antirretroviral (TAR) para garantizar la seguridad tanto para ti como para tu beb\u00e9.\n\nPasos a seguir:\n\n1. Reevaluaci\u00f3n del TAR: Tu m\u00e9dico especialista en VIH reevaluar\u00e1 tu tratamiento actual para determinar si es necesario cambiarlo o ajustarlo.\n2. Evitar f\u00e1rmacos no recomendados durante el embarazo: Algunos medicamentos antirretrovirales pueden tener efectos adversos durante el embarazo, por lo que se buscar\u00e1n alternativas m\u00e1s seguras.\n3. Ajuste a pautas de elecci\u00f3n para el embarazo: Se te ofrecer\u00e1 un nuevo tratamiento (o ajustar\u00e1 el existente) que tenga mayores tasas de seguridad durante el embarazo y mantenga tu carga viral (CVP) indetectable.\n\nImportante:\n\n La mujer con VIH debe recibir TAR durante todo el embarazo, intentando mantener una CVP indetectable.\n Si acabas de recibir un diagn\u00f3stico de VIH durante el embarazo, se iniciar\u00e1 el tratamiento lo antes posible con pautas de elecci\u00f3n para el embarazo.\n\nPr\u00f3ximos pasos para ti:\n\n Consulta con tu m\u00e9dico especialista en VIH: Comunica tus planes de embarazo o tu reciente diagn\u00f3stico de embarazo para reevaluar y ajustar tu tratamiento seg\u00fan sea necesario.\n Remisi\u00f3n a la unidad de VIH (si no has sido remitida ya): Para una atenci\u00f3n especializada en el manejo del VIH durante el embarazo."
+}

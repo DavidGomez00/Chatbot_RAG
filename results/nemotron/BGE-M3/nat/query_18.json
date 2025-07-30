@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfSi alguien con VIH sigue el tratamiento adecuadamente, puede llegar a no transmitir el virus a otras personas?\n",
+    "query": "\u00bfSi estoy tomando efavirenz, puede afectar mis niveles de colesterol y aumentar mi riesgo de infarto o problemas en el h\u00edgado?\n",
     "context_info": [
         {
-            "text": "El tratamiento precoz no s\u00f3lo proporciona beneficio en la salud individual de la persona que lo recibe, sino que beneficia a la sociedad ya que las personas con supresi\u00f3n viral prolongada del VIH no pueden transmitir la infecci\u00f3n a otras personas, incluso en el contexto de pr\u00e1cticas sexuales o de inyecci\u00f3n de riesgo, o en el caso de la transmisi\u00f3n vertical. ",
-            "source": "ManualClinico, section 11.2.",
-            "_distance": 0.5681217908859253
+            "text": "Los f\u00e1rmacos antiretrovirales que pueden causar elevaciones en los l\u00edpidos son los inhibidores de la proteasa, en especial si el potenciador utilizado es ritonavir, y el uso de efavirenz. El uso de tenofovir disoproxil fumarato tiene un efecto reductor sobre los niveles de colesterol total que se pierde cuando se usa la nueva formulaci\u00f3n de tenofovir alafenamida. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.6932263970375061
         },
         {
-            "text": " Si la persona con el VIH tiene la carga viral indetectable gracias al tratamiento antirretroviral, el riesgo de transmisi\u00f3n es cero, incluso si no se emplean preservativos.  Si la persona sin el VIH toma la PrEP frente al virus de forma apropiada, entonces el riesgo de transmisi\u00f3n se reduce de forma espectacular, incluso cuando no se utilizan preservativos. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.5694480538368225
+            "text": " Riesgo cardiovascular Algunos antirretrovirales (IP e ITIAN) elevan los niveles de colesterol total (CT), de lipoprote\u00ednas de baja densidad (c-LDL) y, sobre todo, de triglic\u00e9ridos, adem\u00e1s de disminuir los niveles de lipoprote\u00ednas de alta densidad (c-HDL). Esto se suma a otros factores de riesgo cl\u00e1sicos, m\u00e1s frecuentes en los seropositivos (tabaquismo, diabetes, hipertensi\u00f3n). ",
+            "source": "manejo_paciente_vih_en_ap, section 18.0.",
+            "_distance": 0.7386877536773682
         },
         {
-            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.5755037069320679
+            "text": "Reducir su consumo contribuye a reducir la transmisi\u00f3n, promover la adherencia al tratamiento y prevenir las complicaciones de salud.  En las personas con VIH aumenta el riesgo de padecer ECV del 37% al 78%, HCC y disfunci\u00f3n neurocognitiva, especialmente con el consumo sostenido en el tiempo.  Evaluaci\u00f3n Se debe preguntar rutinariamente por el consumo e informar sobre sus efectos delet\u00e9reos. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7412461638450623
         },
         {
-            "text": "De ah\u00ed que sea necesario abordar ambas cuestiones desde el enfoque que proporciona la respuesta al VIH basada en los derechos partiendo de la evidencia cient\u00edfica de distintos estudios como los Partner, en los que se pone de manifiesto que una persona con VIH que toma correctamente el tratamiento antirretroviral y presenta carga viral indetectable de forma continuada no transmite el virus aunque mantenga relaciones sexuales sin preservativo. ",
-            "source": "ManualClinico, section 34.1.",
-            "_distance": 0.590981662273407
+            "text": " Dislipemia La infecci\u00f3n por VIH sin tratamiento antiretroviral tiene un efecto sobre el nivel de los l\u00edpidos: baja los niveles de colesterol total y colesterol HDL y LDL y sube los niveles de triglic\u00e9ridos. El propio virus y determinados f\u00e1rmacos antiretrovirales est\u00e1n asociados a un aumento del riesgo cardiovascular independientemente de sus efectos sobre los l\u00edpidos. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.7571696639060974
         },
         {
-            "text": "Hay muchas parejas cuyo estado serol\u00f3gico al VIH es diferente (es decir, en un miembro es positivo y en el otro, negativo) que disfrutan de una vida sexual plena y activa sin riesgo de infecci\u00f3n.  El riesgo de transmisi\u00f3n del VIH cuando no se toma tratamiento antirretroviral.  Un estudio realizado en 1994 examin\u00f3 las tasas de transmisi\u00f3n del virus en m\u00e1s de 250 parejas heterosexuales mon\u00f3gamas, donde un miembro ten\u00eda el VIH y el otro no. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.6251558661460876
+            "text": " Introducci\u00f3n El riesgo de enfermedad cardiovascular (ECV) est\u00e1 aumentado en las personas que viven con infecci\u00f3n por VIH (PVVIH), con una tasa de eventos CV de alrededor de dos veces superior a la poblaci\u00f3n general tanto en pa\u00edses ricos como en aquellos de bajos recursos1. ",
+            "source": "ManualClinico, section 20.1.",
+            "_distance": 0.8025258779525757
         }
     ],
-    "answer": "S\u00ed, es absolutamente posible. De hecho, est\u00e1 cient\u00edficamente comprobado que si una persona con VIH sigue el tratamiento antirretroviral de forma correcta y logra suprimir su carga viral hasta niveles indetectables, el riesgo de transmitir el virus a otras personas es cero, incluso en situaciones de pr\u00e1cticas sexuales o de inyecci\u00f3n de riesgo, o en el caso de transmisi\u00f3n vertical (de madre a hijo durante el embarazo, parto o lactancia).\n\nEsto ha sido ampliamente demostrado por estudios como el estudio Partner, entre otros, que han puesto de manifiesto la efectividad del tratamiento antirretroviral no solo para mejorar la salud individual de la persona con VIH, sino tambi\u00e9n para prevenir la transmisi\u00f3n del virus a otras personas.\n\nPor lo tanto, si alguien con VIH:\n\n1. Sigue el tratamiento antirretroviral adecuadamente.\n2. Logra una carga viral indetectable de forma continuada.\n\nEntonces, no puede transmitir el VIH, incluso sin el uso de preservativos, en el contexto de relaciones sexuales o en otras situaciones de riesgo. Sin embargo, es importante recordar que este escenario solo se aplica a la transmisi\u00f3n del VIH y no protege contra otras infecciones de transmisi\u00f3n sexual (ITS)."
+    "answer": "S\u00ed, seg\u00fan la informaci\u00f3n disponible, el uso de efavirenz puede tener un efecto sobre tus niveles de l\u00edpidos. A continuaci\u00f3n, te proporciono detalles espec\u00edficos relacionados con tu consulta:\n\n1. Efecto sobre los niveles de colesterol: El efavirenz se ha asociado con elevaciones en los niveles de l\u00edpidos, incluyendo un posible aumento en el colesterol total. Esto se debe a que algunos antirretrovirales, como el efavirenz, pueden influir en el metabolismo lip\u00eddico.\n\n2. Riesgo de infarto (Enfermedad Cardiovascular - ECV): El aumento en los niveles de colesterol total, especialmente si conlleva un incremento en las lipoprote\u00ednas de baja densidad (c-LDL) y triglic\u00e9ridos, junto con una disminuci\u00f3n en las lipoprote\u00ednas de alta densidad (c-HDL), puede incrementar el riesgo de enfermedad cardiovascular. Esto es particularmente relevante si ya tienes otros factores de riesgo cl\u00e1sicos para ECV, como tabaquismo, diabetes, hipertensi\u00f3n, los cuales son m\u00e1s frecuentes en personas seropositivas.\n\n3. Problemas hep\u00e1ticos: Aunque tu consulta se centra en el efecto sobre los l\u00edpidos y el riesgo cardiovascular, es importante mencionar que el efavirenz puede tener implicaciones hep\u00e1ticas, especialmente en individuos con antecedentes de problemas hep\u00e1ticos o en aquellos que consumen alcohol de manera regular. Sin embargo, el efecto directo del efavirenz sobre los niveles de l\u00edpidos no se asocia com\u00fanmente con da\u00f1o hep\u00e1tico directo relacionado con la dislipemia.\n\nRecomendaciones:\n- Monitoreo regular: Es crucial que tu m\u00e9dico realice un seguimiento peri\u00f3dico de tus perfiles lip\u00eddicos y, si es necesario, ajuste tu tratamiento antirretroviral o te recomiende cambios en tu estilo de vida.\n- Estilo de vida saludable: Mantener una dieta equilibrada baja en grasas saturadas, realizar ejercicio regularmente, evitar el tabaquismo y limitar el consumo de alcohol pueden ayudar a mitigar los efectos adversos sobre tus niveles de l\u00edpidos y reducir el riesgo cardiovascular.\n- Eval\u00faa otros factores de riesgo: Si tienes otros factores de riesgo para ECV, es importante abordarlos conjuntamente con tu m\u00e9dico.\n\nPara una evaluaci\u00f3n personalizada y recomendaciones espec\u00edficas, te recomiendo discutir estos aspectos detalladamente con tu m\u00e9dico, quien podr\u00e1 ofrecerte orientaci\u00f3n basada en tu historial cl\u00ednico completo."
 }

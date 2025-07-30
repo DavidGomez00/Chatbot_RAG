@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 tipo de controles necesitar\u00e9 despu\u00e9s de comenzar el tratamiento?\n",
+    "context_info": [
+        {
+            "text": "Seguimiento tanto los pacientes en tratamiento como aquellos que no lo han iniciado requieren de un adecuado seguimiento, con el fin de identificar los problemas m\u00e9dicos que presenten (tolerancia, adherencia, toxicidad) y evitar la progresi\u00f3n de la enfermedad (control CD4 y CV). Los pacientes ser\u00e1n inmunizados, siguiendo las recomendaciones establecidas para pacientes pedi\u00e1tricos con infecci\u00f3n VIH. ",
+            "source": "ManualClinico, section 33.2.2.",
+            "_distance": 0.8261873126029968
+        },
+        {
+            "text": "Los candidatos a recibirla se someter\u00e1n a una valoraci\u00f3n inicial para conocer su estado de salud y descartar la presencia de contraindicaciones para tomarla. Si se confirma la idoneidad del candidato, deber\u00e1 acudir a las citas trimestrales en las que se realizar\u00e1n pruebas del VIH, ITS y otros ex\u00e1menes para evaluar los efectos secundarios, y se dispensar\u00e1 la medicaci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 8.0.",
+            "_distance": 0.8296542167663574
+        },
+        {
+            "text": " Control del paciente coinfectado por VIH/VHC tras erradicacion de VHC Tras la erradicaci\u00f3n del VHC no se desarrolla una inmunidad que proteja contra la reinfecci\u00f3n por el mismo u otro subtipo de VHC. En pacientes con riesgo para infecci\u00f3n por VHC (por ej. usuarios de drogas por v\u00eda parenteral y HSH con relaciones no protegidas y/o consumo de chemsex) est\u00e1 indicado monitorizar peri\u00f3dicamente (por ej. anualmente, ante sospecha de nueva exposici\u00f3n o elevaci\u00f3n de nuevo de transaminasas). ",
+            "source": "ManualClinico, section 27.2.6.",
+            "_distance": 0.8539708852767944
+        },
+        {
+            "text": "Tras realizar el cambio debe programarse un control cl\u00ednico y de laboratorio a las 2-4 semanas para monitorizar la tolerancia, adherencia y la eficacia (CV) del nuevo r\u00e9gimen. ",
+            "source": "ManualClinico, section 33.4.1.",
+            "_distance": 0.8656197190284729
+        },
+        {
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.8725893497467041
+        }
+    ],
+    "answer": "Una vez que hayas iniciado el tratamiento antirretroviral, es fundamental un seguimiento regular para asegurar la efectividad del tratamiento y minimizar posibles complicaciones. A continuaci\u00f3n, te detallo los controles que generalmente se recomiendan:\n\n1. Control Trimestral:\n   - Pruebas del VIH: Para evaluar la respuesta viral al tratamiento, t\u00edpicamente mediante la carga viral.\n   - Ex\u00e1menes de ITS y otros: Dependiendo de tus factores de riesgo y condiciones de salud, podr\u00edan incluirse pruebas para otras infecciones de transmisi\u00f3n sexual (ITS) u otros ex\u00e1menes seg\u00fan sea necesario.\n   - Evaluaci\u00f3n de Efectos Secundarios: Un chequeo para monitorear cualquier efecto adverso del tratamiento y ajustarlo si es necesario.\n   - Dispensaci\u00f3n de Medicaci\u00f3n: Recibir\u00e1s el suministro de medicamentos necesarios para el siguiente per\u00edodo.\n\n2. Control de Laboratorio y Cl\u00ednico Post-Cambio de Tratamiento:\n   - Si se realiza un cambio en tu r\u00e9gimen de tratamiento, se programar\u00e1 un control cl\u00ednico y de laboratorio dentro de las 2-4 semanas posteriores.\n   - Objetivo: Evaluar la tolerancia, adherencia y eficacia (carga viral, CV) del nuevo r\u00e9gimen.\n\n3. Monitoreo Peri\u00f3dico para Pacientes Coinfectados con VIH/VHC post-Erradicaci\u00f3n de VHC:\n   - Si tienes antecedentes de infecci\u00f3n por virus de la hepatitis C (VHC) erradicada y factores de riesgo para su re-infecci\u00f3n (como uso de drogas parenterales, pr\u00e1cticas sexuales de riesgo, etc.), se recomienda un monitoreo anual o ante sospecha de nueva exposici\u00f3n.\n\n4. Evaluaci\u00f3n del Riesgo Cardiovascular:\n   - Al inicio del tratamiento y de manera peri\u00f3dica, se evaluar\u00e1 tu riesgo cardiovascular, ya que la infecci\u00f3n por VIH y algunos tratamientos antirretrovirales pueden aumentar este riesgo.\n   - Acciones Preventivas: Se te asesorar\u00e1 sobre dietas saludables, ejercicio regular, abandono del tabaquismo y, si necesario, se podr\u00edan prescribir f\u00e1rmacos para controlar el colesterol y la diabetes.\n\nRecuerda que cada paciente es \u00fanico, por lo que tu m\u00e9dico podr\u00eda personalizar estos controles seg\u00fan tus necesidades espec\u00edficas de salud. Si tienes alguna inquietud adicional o espec\u00edfica sobre tu tratamiento, siempre es mejor consultar directamente con tu equipo de atenci\u00f3n m\u00e9dica."
+}

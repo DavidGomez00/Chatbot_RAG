@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento me va a producir cambios en el cuerpo visibles?\n",
+    "context_info": [
+        {
+            "text": "Otros trastornos, frecuentes en su d\u00eda, como son las alteraciones en la redistribuci\u00f3n de la grasa corporal han pr\u00e1cticamente desaparecido con el uso de los nuevos f\u00e1rmacos. Como regla general el enfoque diagn\u00f3stico y terap\u00e9utico de estos trastornos es el mismo que en la poblaci\u00f3n general. El principal factor diferencial es la existencia de interacciones farmacol\u00f3gicas con los f\u00e1rmacos antirretrovirales. ",
+            "source": "ManualClinico, section 24.2.",
+            "_distance": 0.986894965171814
+        },
+        {
+            "text": "Puede tener como consecuencias: desgarros anales, priapismo\u2026; sexo menos seguro (infecciones de transmisi\u00f3n sexual); toxicidad de las drogas; interacciones con los f\u00e1rmacos antirretrovirales y mala adherencia; paranoia, psicosis, bloqueos, p\u00e9rdida de conocimiento, amnesia, despersonalizaci\u00f3n, \u2026; infecciones relacionadas con el consumo intravenoso; imposibilidad de practicar sexo sin ChemSex ; alteraci\u00f3n de la vida, tanto a nivel personal como profesional. ",
+            "source": "ManualClinico, section 25.3.4.",
+            "_distance": 1.0162826776504517
+        },
+        {
+            "text": "El m\u00e9dico no debe asumir que un TAR es \u00f3ptimo para su paciente s\u00f3lo porque la carga viral est\u00e1 suprimida. A veces el paciente debe realizar un sobreesfuerzo importante para adaptar el tratamiento a su estilo de vida y mantener una buena adherencia o puede ser capaz de sobrellevar unos efectos adversos que pueden ser err\u00f3neamente entendidos como inevitables. En estos casos, un cambio de tratamiento puede mejorar notablemente la calidad de vida de los pacientes. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 1.020513653755188
+        },
+        {
+            "text": "Los motivos para considerar el cambio de un tratamiento eficaz son m\u00faltiples: intolerabilidad/ toxicidad, ya sea presente (cambio reactivo) o para prevenirlas (cambio proactivo), simplificaci\u00f3n propiamente dicha (disminuci\u00f3n del n\u00famero de comprimidos, de dosis diarias o del n\u00famero de medicamentos), requerimientos diet\u00e9ticos, interacciones farmacol\u00f3gicas, comorbilidades, embarazo o deseo de embarazo y tambi\u00e9n es importante la sostenibilidad del tratamiento. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 1.0794821977615356
+        },
+        {
+            "text": "Terapias locales como la crioterapia, radioterapia, infiltraci\u00f3n local con quimioter\u00e1picos, o el tratamiento con l\u00e1ser puede ser \u00fatil en aquellos casos de afectaci\u00f3n focal, especialmente si existe compresi\u00f3n del retorno venoso o afectaci\u00f3n linf\u00e1tica, o como complemento a un tratamiento generalizado con TAR o/y quimioterapia. ",
+            "source": "ManualClinico, section 13.5.",
+            "_distance": 1.0862939357757568
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, te puedo informar lo siguiente:\n\nCambios visibles en el cuerpo debido al tratamiento:\n\n En el pasado: S\u00ed, era com\u00fan que los tratamientos antirretrovirales (TAR) produjeran cambios visibles en la redistribuci\u00f3n de la grasa corporal, conocidos como lipodistrofia. Estos inclu\u00edan:\n\t+ Aumento o disminuci\u00f3n de grasa en \u00e1reas espec\u00edficas del cuerpo (como la cara, el cuello, el abdomen, los brazos o las piernas)\n\t+ Cambios en la forma y tama\u00f1o de algunas partes del cuerpo\n Actualmente: Con los nuevos f\u00e1rmacos antirretrovirales, estos cambios visibles en la redistribuci\u00f3n de la grasa corporal han pr\u00e1cticamente desaparecido. Los tratamientos actuales est\u00e1n dise\u00f1ados para ser m\u00e1s efectivos y con menos efectos secundarios, incluyendo una menor incidencia de lipodistrofia.\n\nImportante: Si tienes inquietudes sobre posibles cambios en tu cuerpo debido al tratamiento, es fundamental discutirlos con tu m\u00e9dico. Ellas pueden:\n\n1. Evaluar si los cambios son relacionados con el tratamiento o tienen otra causa subyacente.\n2. Ajustar tu tratamiento para minimizar cualquier efecto secundario, si es posible.\n3. Ofrecerte orientaci\u00f3n y apoyo para manejar cualquier cambio que experimentes.\n\nRecuerda, la comunicaci\u00f3n abierta con tu m\u00e9dico es clave para asegurarte de que tu tratamiento se adapte a tus necesidades individuales y para mantener una buena calidad de vida."
+}

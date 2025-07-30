@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento con rilpivirina puede provocar efectos secundarios neurol\u00f3gicos como mareos o problemas de equilibrio?\n",
+    "context_info": [
+        {
+            "text": " Efectos adversos secundarios a f\u00e1rmacos antirretrovirales Los s\u00edntomas gastrointestinales incluyendo n\u00e1useas, v\u00f3mitos y diarrea son los efectos adversos m\u00e1s frecuentemente relacionados con el uso de f\u00e1rmacos antirretrovirales. Los inhibidores de la proteasa (IP) potenciados han sido los principales responsables de dicha sintomatolog\u00eda, mucho m\u00e1s marcada con los IP m\u00e1s antiguos, como ritonavir, indinavir o nelfinavir. ",
+            "source": "ManualClinico, section 19.4.2.",
+            "_distance": 0.813783586025238
+        },
+        {
+            "text": " Alteraciones neurol\u00f3gicas Entre los f\u00e1rmacos asociados con alteraciones neurol\u00f3gicas destaca EFV; es su efecto adverso m\u00e1s frecuente y se caracteriza por mareos, inestabilidad, insomnio, sue\u00f1os vividos y fala de concentraci\u00f3n. Esta toxicidad aparece desde los primeros d\u00edas de tratamiento y en muchas ocasiones es limitante, obligando a retirar el f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.8932701945304871
+        },
+        {
+            "text": "93 En pacientes con alteraciones gastrointestinales as ociadas a IP potenciado (IP/p) estos f\u00e1rmacos deben suspenderse. El cambio de la pauta a la coformulaci\u00f3n de rilpivirina, FTC y TDF, a la de rilpivirina, FTC y TAF, o a doravirina, FTC y TDF es adecuado. En pacientes con dislipemia asociada a IP/p la suspensi\u00f3n de estos f\u00e1rmacos es una opci\u00f3n terap\u00e9utica. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9304997324943542
+        },
+        {
+            "text": "Rilpivirina y atazanavir pueden ser v\u00edctima de interacciones al asociarlos a inhibidores de la bomba de protones, que pueden reducir la absorci\u00f3n. En la tabla: ARV y riesgo de interacci\u00f3n: metabolismo, efecto inductor e inhibidor de enzimas y transportadores\u201d se detalla el comportamiento de los diferentes antirretrovirales como sustratos, inductores o inhibidores de las enzimas del citocromo P450, de la glucuronidaci\u00f3n y de la P-gp. ",
+            "source": "ManualClinico, section 8.3.7.",
+            "_distance": 0.9316278100013733
+        },
+        {
+            "text": "Entre sus efectos secundarios m\u00e1s frecuentes est\u00e1n la hepatotoxicidad (NVP) y el mareo, insomnio, dificultad de concentraci\u00f3n y exantema con EFV. ETV aporta una alta barrera gen\u00e9tica y mejora la facilidad de los anteriores para inducir resistencias. RPV presenta una eficacia similar con una mejor tolerancia. ",
+            "source": "manejo_paciente_vih_en_ap, section 14.0.",
+            "_distance": 0.9726985096931458
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, espec\u00edficamente en el \u00e1mbito de los f\u00e1rmacos antirretrovirales y sus efectos adversos:\n\nNo, el tratamiento con Rilpivirina no se asocia frecuentemente con efectos secundarios neurol\u00f3gicos como mareos, problemas de equilibrio, insomnio, dificultad de concentraci\u00f3n o sue\u00f1os vividos de la misma manera que sucede con otro f\u00e1rmaco.\n\nEl f\u00e1rmaco que s\u00ed se relaciona com\u00fanmente con estos efectos secundarios neurol\u00f3gicos es el Efavirenz (EFV). Los mareos, inestabilidad, insomnio, sue\u00f1os vividos y falta de concentraci\u00f3n son efectos adversos frecuentes del EFV, que pueden aparecer desde los primeros d\u00edas de tratamiento y, en algunos casos, obligan a la suspensi\u00f3n del f\u00e1rmaco debido a su intensidad.\n\nSi est\u00e1 experimentando s\u00edntomas como mareos o problemas de equilibrio mientras toma Rilpivirina, es importante que consulte a su m\u00e9dico para evaluar posibles interacciones con otros medicamentos, efectos secundarios menos comunes o condiciones subyacentes que podr\u00edan estar contribuyendo a estos s\u00edntomas. \n\nPara m\u00e1s informaci\u00f3n espec\u00edfica sobre su caso, le recomiendo consulta a su m\u00e9dico."
+}

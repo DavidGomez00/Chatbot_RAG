@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 tipo de controles necesitar\u00e9 despu\u00e9s de comenzar el tratamiento?\n",
+    "context_info": [
+        {
+            "text": "Tras realizar el cambio debe programarse un control cl\u00ednico y de laboratorio a las 2-4 semanas para monitorizar la tolerancia, adherencia y la eficacia (CV) del nuevo r\u00e9gimen. ",
+            "source": "ManualClinico, section 33.4.1.",
+            "_distance": 0.6413828134536743
+        },
+        {
+            "text": "En pacientes con dificultades con la adherencia, debe optarse por f\u00e1rmacos con una posolog\u00eda sencilla y alta barrera gen\u00e9tica. Tras iniciar el TAR, el paciente debe seguir controles peri\u00f3dicos, con el fin de supervisar la tolerancia, la adherencia y ajustar las dosis al peso o superficie corporal, en cada visita por el continuo crecimiento de los ni\u00f1os. ",
+            "source": "ManualClinico, section 33.3.",
+            "_distance": 0.7333605289459229
+        },
+        {
+            "text": "En muy pocos pacientes (<3%) que iniciaron el TAR precozmente (<90 d\u00edas) se ha observado un control virol\u00f3gico cuando lo pararon, pero parad\u00f3jicamente las caracter\u00edsticas virol\u00f3gicas, inmunol\u00f3gicas y gen\u00e9ticas de estos \u201ccontroladores post-TAR\u201d son completamente diferentes a los controladores de elite y adem\u00e1s tampoco se pueden identificar basalmente. Por tanto, en la pr\u00e1ctica cl\u00ednica, se debe iniciar el TAR durante la infecci\u00f3n aguda y se debe mantener de forma indefinida como en la infecci\u00f3n cr\u00f3nica. ",
+            "source": "ManualClinico, section 4.7.",
+            "_distance": 0.7393459677696228
+        },
+        {
+            "text": "Seguimiento tanto los pacientes en tratamiento como aquellos que no lo han iniciado requieren de un adecuado seguimiento, con el fin de identificar los problemas m\u00e9dicos que presenten (tolerancia, adherencia, toxicidad) y evitar la progresi\u00f3n de la enfermedad (control CD4 y CV). Los pacientes ser\u00e1n inmunizados, siguiendo las recomendaciones establecidas para pacientes pedi\u00e1tricos con infecci\u00f3n VIH. ",
+            "source": "ManualClinico, section 33.2.2.",
+            "_distance": 0.7478838562965393
+        },
+        {
+            "text": "Se deben hacer algunas consideraciones espec\u00edficas al inicio del TAR: \u2022 Antes de iniciar el TAR se debe realizar una valoraci\u00f3n cl\u00ednica (anamnesis y exploraci\u00f3n completa) para detectar posibles manifestaciones cl\u00ednicas preexistentes, determinar comorbilidades y posibles interacciones medicamentosas. Es imprescindible asegurarse de que el paciente comprende adecuadamente los objetivos del tratamiento, la relevancia que tiene para el control de la infecci\u00f3n y la importancia de la adherencia. ",
+            "source": "ManualClinico, section 9.1.",
+            "_distance": 0.7739534378051758
+        }
+    ],
+    "answer": "No response content"
+}

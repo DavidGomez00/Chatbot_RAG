@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo afecta mi tratamiento a mi riesgo de problemas card\u00edacos y hep\u00e1ticos?\n",
+    "context_info": [
+        {
+            "text": "Su asociaci\u00f3n con RTV altera el metabolismo hep\u00e1tico, incrementando su concentraci\u00f3n y su semivida, lo que potencia su actividad y disminuye la frecuencia y la dosis de cada toma. Los efectos secundarios m\u00e1s habituales son gastrointestinales (diarrea), lipodistrofia y alteraciones metab\u00f3licas de los l\u00edpidos y de la glucosa. ",
+            "source": "manejo_paciente_vih_en_ap, section 15.0.",
+            "_distance": 0.7840244174003601
+        },
+        {
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.7907931804656982
+        },
+        {
+            "text": " Dislipemia La infecci\u00f3n por VIH sin tratamiento antiretroviral tiene un efecto sobre el nivel de los l\u00edpidos: baja los niveles de colesterol total y colesterol HDL y LDL y sube los niveles de triglic\u00e9ridos. El propio virus y determinados f\u00e1rmacos antiretrovirales est\u00e1n asociados a un aumento del riesgo cardiovascular independientemente de sus efectos sobre los l\u00edpidos. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.7968899011611938
+        },
+        {
+            "text": "Reducir su consumo contribuye a reducir la transmisi\u00f3n, promover la adherencia al tratamiento y prevenir las complicaciones de salud.  En las personas con VIH aumenta el riesgo de padecer ECV del 37% al 78%, HCC y disfunci\u00f3n neurocognitiva, especialmente con el consumo sostenido en el tiempo.  Evaluaci\u00f3n Se debe preguntar rutinariamente por el consumo e informar sobre sus efectos delet\u00e9reos. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8005408644676208
+        },
+        {
+            "text": "Se recomienda TAR con estricto control de tensi\u00f3n arterial y empleo precoz de IECA/ARA-2, adem\u00e1s del tratamiento espec\u00edfico de la coinfecci\u00f3n que pudiera estar implicada en su patogenia, como en el caso de la glomerulonefritis membranoproliferativa o crioglobulin\u00e9mica asociada al VHC. En casos seleccionados con curso cl\u00ednico grave y deterioro progresivo de la funci\u00f3n renal puede estar justificado tratamiento inmunosupresor. ",
+            "source": "ManualClinico, section 22.2.1.",
+            "_distance": 0.8029182553291321
+        }
+    ],
+    "answer": "No response content"
+}

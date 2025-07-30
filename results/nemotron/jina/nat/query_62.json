@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 se analiza en un test de resistencias y c\u00f3mo se hace?\n",
+    "context_info": [
+        {
+            "text": "Existen test genot\u00edpicos y fenot\u00edpicos para determinar la presencia de resistencias a antirretrovirales. Para interpretar estas pruebas es necesario conocer la historia farmacol\u00f3gica y los fracasos virales y test de resistencias previos. Los algoritmos de interpretaci\u00f3n de las resistencias genot\u00edpicas son muy \u00fatiles para su interpretaci\u00f3n. ",
+            "source": "ManualClinico, section 8.1.",
+            "_distance": 0.8766711950302124
+        },
+        {
+            "text": "Para ello se recomienda realizar las pruebas recogidas en la Tabla 1 . Antes de iniciar TAR deben estudiarse las posibles mutaciones de resistencia presentes en el genoma de las enzimas diana de los diferentes f\u00e1rmacos antirretrovirales mediante m\u00e9todos genot\u00edpicos. ",
+            "source": "ManualClinico, section 7.3.",
+            "_distance": 0.9702179431915283
+        },
+        {
+            "text": " Limitaciones de los test de resistencia (TR) Para realizar un TR se necesita una carga viral de al menos 400-500 copias/mL. Incluso con cargas virales mayores, los TR convencionales no detectan poblaciones minoritarias, que son aqu\u00e9llas que representan menos del 15-20% de la poblaci\u00f3n circulante. \u00c9stas pueden ser importantes en el caso de uso de NVP o EFV. Otra limitaci\u00f3n es cu\u00e1ndo realizar el TR. ",
+            "source": "ManualClinico, section 8.4.1.",
+            "_distance": 1.0526175498962402
+        },
+        {
+            "text": "Si la carga viral es mayor de 200 copias entonces suele ser factible realizar una prueba genot\u00edpica de resistencias. Esta prueba debe hacerse mientras que el paciente a\u00fan recibe el TAR que est\u00e1 fracasando o como m\u00e1ximo cuatro semanas despu\u00e9s de haberlo discontinuado. Si esta prueba genot\u00edpica de resistencias no encuentra mutaciones es probable que la causa del fracaso sea la mala adherencia al TAR. Si existen resistencias entonces resulta obligado el cambio a un nuevo TAR sin resistencias cruzadas. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 1.0606805086135864
+        },
+        {
+            "text": " Interpretaci\u00f3n de los TR Cuando se procede a la interpretaci\u00f3n de un TR se deben tener en cuenta los previos, ya que las mutaciones de resistencia quedan archivadas en el genoma viral. Si se han producido fracasos virales con f\u00e1rmacos con baja barrera gen\u00e9tica y no disponemos de TR en esos fracasos, debemos mantener un alto nivel de sospecha de que existan mutaciones a los mismos. a. ",
+            "source": "ManualClinico, section 8.4.4.",
+            "_distance": 1.0695960521697998
+        }
+    ],
+    "answer": "An\u00e1lisis en un test de resistencias:\nEn un test de resistencias para el VIH, se analizan las posibles mutaciones de resistencia presentes en el genoma de las enzimas diana de los diferentes f\u00e1rmacos antirretrovirales. Esto incluye examinar las secuencias g\u00e9nicas del virus que podr\u00edan haber mutado como respuesta a la exposici\u00f3n previa a antirretrovirales, lo que podr\u00eda conferir resistencia a ciertos medicamentos.\n\nTipos de an\u00e1lisis:\nExisten dos tipos principales de tests de resistencias mencionados:\n\n1. Test Genot\u00edpicos: Estos son los m\u00e1s com\u00fanmente utilizados y analizados en la informaci\u00f3n proporcionada. Identifican las mutaciones g\u00e9nicas espec\u00edficas en el virus que est\u00e1n asociadas con la resistencia a ciertos antirretrovirales.\n   \n2. Test Fenot\u00edpicos: Aunque no se profundiza en ellos en la informaci\u00f3n suministrada, b\u00e1sicamente miden la capacidad del virus para replicarse en presencia de diferentes concentraciones de un f\u00e1rmaco antirretroviral, indicando directamente el nivel de resistencia.\n\nC\u00f3mo se hace (con foco en Test Genot\u00edpicos):\n- Requisito previo: Se necesita una carga viral de al menos 400-500 copias/mL para realizar un test genot\u00edpico de resistencias convencional. Sin embargo, con avances tecnol\u00f3gicos, algunos m\u00e9todos pueden funcionar con cargas virales m\u00e1s bajas (alrededor de >200 copias/mL para algunas pruebas).\n  \n- Momento de realizaci\u00f3n: Idealmente, el test genot\u00edpico debe hacerse:\n  - Mientras el paciente a\u00fan est\u00e1 recibiendo el tratamiento antirretroviral (TAR) que est\u00e1 fracasando.\n  - Como m\u00e1ximo, cuatro semanas despu\u00e9s de haber discontinuado dicho TAR, para maximizar la precisi\u00f3n en la detecci\u00f3n de mutaciones relevantes.\n\n- Interpretaci\u00f3n: La interpretaci\u00f3n de los resultados debe considerar:\n  - Historia farmacol\u00f3gica del paciente: Para entender qu\u00e9 antirretrovirales ha recibido previamente.\n  - Fracasos virales y tests de resistencia previos: Ya que las mutaciones de resistencia permanecen en el genoma viral.\n  - Uso de algoritmos de interpretaci\u00f3n de resistencias genot\u00edpicas: Para guiar la elecci\u00f3n del nuevo r\u00e9gimen de TAR, evitando f\u00e1rmacos con resistencias cruzadas."
+}

@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfEl VIH tiene cura o las personas con VIH pueden curarse con tratamiento?\n",
+    "query": "\u00bfC\u00f3mo puedo saber si tengo esteatosis hep\u00e1tica y qu\u00e9 s\u00edntomas debo vigilar?\n",
     "context_info": [
         {
-            "text": "Aunque hay pruebas de concepto que han conseguido la curaci\u00f3n definitiva de la infecci\u00f3n por VIH (trasplante heter\u00f3logo de m\u00e9dula \u00f3sea con delecci\u00f3n de CCR5 con quimerismo completo, asociado a quimio y/o radioterapia) su mortalidad es elevada y no est\u00e1n indicadas ni son escalables a la poblaci\u00f3n que recibe TAR y se mantiene asintom\u00e1tica. ",
-            "source": "ManualClinico, section 9.8.3.",
-            "_distance": 0.6163374781608582
+            "text": "En fase cr\u00f3nica se detecta por serolog\u00eda.  Estrongiloidiasis (Strongyloides stercolaris ). Helmintosis que puede cursar de forma cr\u00f3nica por su ciclo autoinfectivo. Suele ser asintom\u00e1tica u oligosintom\u00e1tica pero existe una forma grave de presentaci\u00f3n que es la hiperinfestaci\u00f3n. En el VIH puede aparecer como s\u00edndrome de reconstituci\u00f3n inmune. Est\u00e1 recomendado hacer cribado en pacientes que vienen de \u00e1rea end\u00e9mica o en los que tienen eosino filia. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8063579201698303
         },
         {
-            "text": " El reservorio celular del VIH La erradicaci\u00f3n del VIH no es posible con los tratamientos actuales debido a los mecanismos de persistencia viral en sus c\u00e9lulas diana. La prueba m\u00e1s concluyente de esta afirmaci\u00f3n se observa al interrumpir el TAR en un paciente con viremia controlada durante a\u00f1os, en los que se produce en pocos d\u00edas un repunte de la carga viral a niveles similares a los previos al iniciar el TAR. ",
-            "source": "ManualClinico, section 3.5.",
-            "_distance": 0.6165624856948853
+            "text": "En nuestro medio, hasta un 25 % de los pacientes coinfectados por VIH/VHC y con erradicaci\u00f3n del VHC presenta cirrosis hep\u00e1tica. En estos pacientes, y probablemente tambi\u00e9n en pacientes curados en estadio F3, est\u00e1 indicado el cribado de hepatocarcinoma semestral mediante ecograf\u00eda u otra t\u00e9cnica de imagen. ",
+            "source": "ManualClinico, section 27.2.6.",
+            "_distance": 0.8289312124252319
         },
         {
-            "text": " Por otra parte, el curso de la infecci\u00f3n por el VIH/Sida ha sufrido un claro cambio desde que se dispone de un tratamiento antirretroviral (TAR) eficaz y hemos asistido a una importante reducci\u00f3n de la morbimortalidad y de la transmisi\u00f3n de la infecci\u00f3n por el VIH. Es te TAR ha evolucionado hasta unos niveles alt\u00edsimos de eficacia, tolerancia y sencillez en el 80% de las personas que viven con el VIH. ",
-            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 1.1.",
-            "_distance": 0.6233522295951843
+            "text": " La enfermedad hep\u00e1tica grasa asociada a enfermedad metab\u00f3lica (EHGMA) es un problema emergente en las PVIH. Por ello deber\u00eda realizarse un cribado anal\u00edtico incluyendo transaminasas y ecogr\u00e1fico en caso de que exista elevaci\u00f3n de \u00e9stas. Adem\u00e1s, deben tratarse en\u00e9rgicamente todos los procesos metab\u00f3licos que se asocian con la EHGMA, particularmente obesidad y DM2. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8314120769500732
         },
         {
-            "text": "De entre todas ellas ocho tienen una elevada incidencia: cuatro son curables en la mayor\u00eda de los casos (s\u00edfilis, gonorrea, clamidiasis y tricomoniasis); tres son controlables con tratamiento (herpes, VIH y VPH); y la \u00faltima, producida por el VHB, \u00fanicamente se cura en la actualidad en el 20% de los casos. ",
-            "source": "ManualClinico, section 28.1.",
-            "_distance": 0.6304953694343567
+            "text": "En el 2-5% de los casos con cl\u00ednica hay manifestaciones extrahep\u00e1ticas, entre ellas destaca el s\u00edndrome de Guillain-Barr\u00e9 y la neuralgia amiotr\u00f3fica. El diagn\u00f3stico se basa en la detecci\u00f3n del ARN en suero o en la presencia de IgM con seroconversi\u00f3n de IgG. La positividad aislada de IgG no es diagn\u00f3stica. Se recomienda el cribado en personas con hepatitis aguda, con hepatitis cr\u00f3nica (especialmente en aquellas que presentan descompensaciones), o con enfermedad hep\u00e1tica de origen incierto. ",
+            "source": "ManualClinico, section 27.5.",
+            "_distance": 0.8326245546340942
         },
         {
-            "text": "En ausencia de curaci\u00f3n definitiva o erradicaci\u00f3n, puede conseguirse una cura funcional o remisi\u00f3n biol\u00f3gica si se consigue controlar la viremia plasm\u00e1tica en ausencia de TAR, a pesar de que no se haya conseguido erradicar por completo el VIH en c\u00e9lulas latentes, donde se puede mantener integrado. ",
-            "source": "ManualClinico, section 9.8.3.",
-            "_distance": 0.6339439153671265
+            "text": "La disfagia es el s\u00edntoma m\u00e1s frecuente, pero tambi\u00e9n pueden presentar odinofagia, n\u00e1useas, v\u00f3mitos y fiebre; en casos graves pueden cursar con hematemesis, melenas y signos de perforaci\u00f3n. No es infrecuente la formaci\u00f3n de estenosis o f\u00edstulas como complicaci\u00f3n evolutiva de las \u00falceras profundas que genera. En la enfermedad por CMV diseminada, la esofagitis puede acompa\u00f1arse de hepatitis, enteritis y colitis, cuyas manifestaciones cl\u00ednicas son dolor abdominal y diarrea. ",
+            "source": "ManualClinico, section 19.2.1.",
+            "_distance": 0.8329281806945801
         }
     ],
-    "answer": "Respuesta precisa y clara:\n\nActualmente, no hay una cura definitiva para el VIH con los tratamientos disponibles. Aunque existen pruebas de concepto que han logrado la curaci\u00f3n definitiva (como trasplantes de m\u00e9dula \u00f3sea muy espec\u00edficos), estas opciones no son escalables, ni indicadas para la mayor\u00eda de las personas que viven con VIH y se mantienen asintom\u00e1ticas con tratamiento antirretroviral (TAR).\n\nSin embargo...\n\nCon el tratamiento antirretroviral (TAR) eficaz, es posible alcanzar una \"cura funcional\" o \"remisi\u00f3n biol\u00f3gica\". Esto significa que, aunque el VIH no se erradique completamente del cuerpo (persistiendo en c\u00e9lulas latentes), se puede controlar la viremia plasm\u00e1tica de manera efectiva. En aproximadamente el 80% de las personas con VIH, el TAR ha demostrado ser altamente eficaz, tolerable y sencillo de administrar, permiti\u00e9ndoles llevar una vida pr\u00e1cticamente normal.\n\nResumen:\n- No hay cura definitiva disponible para la mayor\u00eda.\n- El tratamiento antirretroviral (TAR) puede lograr una \"cura funcional\" o \"remisi\u00f3n biol\u00f3gica\" en la mayor\u00eda de los casos."
+    "answer": "Detecci\u00f3n y S\u00edntomas de Esteatosis Hep\u00e1tica (Enfermedad Hep\u00e1tica Grasa Asociada a Enfermedad Metab\u00f3lica, EHGMA) en Pacientes con VIH:\n\n- Cribado Recomendado: Debes realizar un cribado anal\u00edtico que incluya la revisi\u00f3n de tus transaminasas (enzimas hep\u00e1ticas) y, si estas est\u00e1n elevadas, se te recomendar\u00e1 una ecograf\u00eda u otra t\u00e9cnica de imagen para evaluar tu h\u00edgado.\n\n- S\u00edntomas a Vigilar (aunque muchos casos son asintom\u00e1ticos o oligosintom\u00e1ticos):\n  - Dolor en el cuadrante superior derecho del abdomen (debido a la inflamaci\u00f3n hep\u00e1tica)\n  - Fatiga (cansancio generalizado)\n  - P\u00e9rdida de apetito\n  - N\u00e1useas y ocasionalmente v\u00f3mitos\n\n- Factores de Riesgo que Deben Ser Tratados con Urgencia:\n  - Obesidad: Mant\u00e9n un peso saludable a trav\u00e9s de una dieta equilibrada y ejercicio regular.\n  - Diabetes Mellitus Tipo 2 (DM2): Controla tus niveles de az\u00facar en sangre seg\u00fan las indicaciones de tu m\u00e9dico.\n\n- Acciones Recomendadas:\n  - Consulta Regular: Mantente en contacto con tu m\u00e9dico para monitorear cualquier cambio en tus an\u00e1lisis o s\u00edntomas.\n  - Estilo de Vida Saludable: Adopta h\u00e1bitos alimenticios saludables, realiza ejercicio f\u00edsico regularmente y evita el consumo excesivo de alcohol.\n\nRecuerda, la esteatosis hep\u00e1tica puede progresar sin s\u00edntomas notorios en sus etapas iniciales. Por eso, es crucial seguir las recomendaciones de cribado y control de factores de riesgo asociados, especialmente si eres una persona que vive con VIH (PVIH). \n\nPara un diagn\u00f3stico preciso y tratamiento personalizado, consulta a tu m\u00e9dico."
 }

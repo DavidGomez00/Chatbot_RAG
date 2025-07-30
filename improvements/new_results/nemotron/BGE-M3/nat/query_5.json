@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento con rilpivirina puede provocar efectos secundarios neurol\u00f3gicos como mareos o problemas de equilibrio?",
+    "context_info": [
+        {
+            "text": " Alteraciones neurol\u00f3gicas Entre los f\u00e1rmacos asociados con alteraciones neurol\u00f3gicas destaca EFV; es su efecto adverso m\u00e1s frecuente y se caracteriza por mareos, inestabilidad, insomnio, sue\u00f1os vividos y fala de concentraci\u00f3n. Esta toxicidad aparece desde los primeros d\u00edas de tratamiento y en muchas ocasiones es limitante, obligando a retirar el f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.8165069222450256
+        },
+        {
+            "text": "Entre sus efectos secundarios m\u00e1s frecuentes est\u00e1n la hepatotoxicidad (NVP) y el mareo, insomnio, dificultad de concentraci\u00f3n y exantema con EFV. ETV aporta una alta barrera gen\u00e9tica y mejora la facilidad de los anteriores para inducir resistencias. RPV presenta una eficacia similar con una mejor tolerancia. ",
+            "source": "manejo_paciente_vih_en_ap, section 14.0.",
+            "_distance": 0.8390686511993408
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8698747158050537
+        },
+        {
+            "text": "Muchos otros medicamentos se han relacionado con efectos adversos neurol\u00f3gicos, como RPV y en general todos los f\u00e1rmacos de la familia de los INI; entre \u00e9stos, DTG y quiz\u00e1s tambi\u00e9n BIC, son los m\u00e1s asociados a estas alteraciones, en especial insomnio. En cada paciente debe valorarse individualmente cu\u00e1l es la importancia cl\u00ednica de esta toxicidad y la posible relaci\u00f3n causal con el f\u00e1rmaco; en el caso de que se considere probable esta asociaci\u00f3n debe valorarse la retirada del f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.8854610323905945
+        },
+        {
+            "text": "Su asociaci\u00f3n con RTV altera el metabolismo hep\u00e1tico, incrementando su concentraci\u00f3n y su semivida, lo que potencia su actividad y disminuye la frecuencia y la dosis de cada toma. Los efectos secundarios m\u00e1s habituales son gastrointestinales (diarrea), lipodistrofia y alteraciones metab\u00f3licas de los l\u00edpidos y de la glucosa. ",
+            "source": "manejo_paciente_vih_en_ap, section 15.0.",
+            "_distance": 0.8902795314788818
+        }
+    ],
+    "answer": "S\u00ed, aunque menos frecuente en comparaci\u00f3n con algunos otros medicamentos antiretrovirales, el tratamiento con rilpivirina (RPV) puede ocasionalmente provocar efectos secundarios neurol\u00f3gicos. Estos pueden incluir:\n\n1. Mareos: Algunos pacientes han reportado mareos como un efecto secundario del tratamiento con rilpivirina, aunque este efecto es m\u00e1s com\u00fanmente asociado con otros medicamentos como la efavirenz (EFV).\n\n2. Problemas de equilibrio: De manera similar, problemas de equilibrio o inestabilidad pueden ocurrir, pero son relativamente raros en comparaci\u00f3n con otros efectos secundarios.\n\nEs importante destacar que rilpivirina generalmente se considera bien tolerada, y estos efectos neurol\u00f3gicos espec\u00edficos son menos comunes en comparaci\u00f3n con otros medicamentos de su clase, como la efavirenz (EFV), que es conocida por causar m\u00e1s frecuentemente mareos, insomnio, dificultades para concentrarse, y sue\u00f1os v\u00edvidos.\n\nQu\u00e9 hacer si experimentas estos s\u00edntomas:\n\n- Comunicaci\u00f3n con tu m\u00e9dico: Si est\u00e1s tomando rilpivirina y experimentas mareos, problemas de equilibrio, o cualquier otro efecto secundario neurol\u00f3gico, es crucial informar a tu m\u00e9dico lo antes posible. \n  \n- Evaluaci\u00f3n individualizada: Tu m\u00e9dico evaluar\u00e1 la gravedad de estos s\u00edntomas y su probable relaci\u00f3n con el tratamiento. Si se determina que rilpivirina es la causa, se podr\u00e1n considerar ajustes en tu r\u00e9gimen de tratamiento para minimizar estos efectos secundarios.\n\n- Alternativas de tratamiento: En casos donde los efectos secundarios neurol\u00f3gicos son significativos y atribuidos a la rilpivirina, tu m\u00e9dico podr\u00eda recomendar cambiar a un medicamento alternativo que tenga un perfil de seguridad m\u00e1s favorable para ti. Otras opciones dentro de la clase de los inhibidores no nucle\u00f3sidos de la transcriptasa reversa (INNTR) o fuera de ella, como doravirina o medicamentos de otras clases, podr\u00edan ser consideradas bas\u00e1ndose en tu historia cl\u00ednica y necesidades individuales."
+}

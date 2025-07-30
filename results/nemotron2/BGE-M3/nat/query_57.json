@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfTengo otras opciones si mi tratamiento no funciona?\n",
+    "context_info": [
+        {
+            "text": "Existen otras pautas recomendadas consideradas como \u2018alternativas\u2019 a las anteriores, bien porque no disponen de evidencia que demuestre una eficacia no inferior a alguna de las pautas preferentes, o porque tienen desventajas potenciales o restricciones en su indicaci\u00f3n. Pueden ser, sin embargo, de elecci\u00f3n en subgrupos de pacientes o en casos especiales. ",
+            "source": "ManualClinico, section 9.2.",
+            "_distance": 0.757305383682251
+        },
+        {
+            "text": " - Los tratamientos con f\u00e1rmacos para otros procesos deben tener en cuenta las frecuentes interacciones con la medicaci\u00f3n antirretroviral.  - Tambi\u00e9n se debe investigar la presencia de factores que dificulten la adherencia al tratamiento antiviral y ayudar, en lo posible, a neutralizarlos. En caso de abandono del tratamiento, se debe derivar de nuevo al paciente a la unidad de atenci\u00f3n especializada para reiniciar el tratamiento de rescate. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.7602657079696655
+        },
+        {
+            "text": "Hay diferentes propuestas de tratamiento, siendo las tres m\u00e1s aceptadas con Azitromicina 500mg (primer dia) + 250mg/d\u00eda (2\u00ba-5\u00bad\u00edas), o si el paciente ha hecho 7 d\u00edas de tratamiento emp\u00edrico con doxiciclina 100 mg/12h, a\u00f1adir 1 gr de azitromicina seguido de 2 d\u00edas m\u00e1s de 500 mg. En caso de fracaso terap\u00e9utico, se puede pautar moxifloxacino 400mg/d\u00eda durante 7-10d\u00edas. ",
+            "source": "ManualClinico, section 28.4.2.",
+            "_distance": 0.766913652420044
+        },
+        {
+            "text": "Cuando esto no es suficiente, se recomienda iniciar el tratamiento con f\u00e1rmacos t\u00f3picos (corticoides, an\u00e1logos de vitamina D), fototerapia o retinoides. Si es preciso el uso de agentes inmunosupresores se har\u00e1 en pacientes con linfocitos CD4+ estables y carga viral indetectable. Se han utilizado agentes sist\u00e9micos tradicionales (metotrexate, ciclosporina) y biol\u00f3gicos (anti-TNF, ustekinumab)16. ",
+            "source": "ManualClinico, section 17.4.1.",
+            "_distance": 0.77576744556427
+        },
+        {
+            "text": "El tratamiento farmacol\u00f3gico es eficaz fundamentalmente en el trastorno moderado-grave.  Las intervenciones breves reiteradas han demostrado efectividad. Idealmente la intervenci\u00f3n deber\u00eda ofrecerse en el mismo entorno del tratamiento.  La naltrexona de liberaci\u00f3n sostenida constituye una opci\u00f3n bien tolerada y efectiva para disminuir el consumo, aunque con adherencia y retenci\u00f3n variables. Nalmefeno presenta menor riesgo de hepatotoxicidad. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7889827489852905
+        }
+    ],
+    "answer": "No response content"
+}

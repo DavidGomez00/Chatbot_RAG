@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo empiezo el tratamiento?\n",
+    "context_info": [
+        {
+            "text": " Particularidades terap\u00e9uticas El TAR debe recomendarse en todos los pacientes con infecci\u00f3n aguda. En los pacientes gravemente sintom\u00e1ticos, el inicio del TAR debe realizarse de forma inmediata, ya que acorta la duraci\u00f3n y gravedad de los s\u00edntomas. En el resto de pacientes debe iniciarse lo antes posible (menos de una semana). El inicio precoz se asocia al m\u00e1ximo beneficio inmunol\u00f3gico (alcanzar m\u00e1s de 900 linfocitos CD4/\u00b5L a los 3-5 a\u00f1os). ",
+            "source": "ManualClinico, section 4.7.",
+            "_distance": 0.6598395109176636
+        },
+        {
+            "text": "En pacientes con toxoplasmosis cerebral algunos expertos consideran que puede iniciarse TAR a las 2-3 semanas del inicio del tratamiento anti- Toxoplasma. En pacientes con meningitis tuberculosa se desconoce el momento \u00f3ptimo de inicio del TAR y se recomienda utilizar en este escenario los criterios generales de la tuberculosis en funci\u00f3n de la inmunodepresi\u00f3n. ",
+            "source": "ManualClinico, section 9.6.1.",
+            "_distance": 0.7084853649139404
+        },
+        {
+            "text": "Entre los inconvenientes destacan la complejidad de administrar diferentes tratamientos, sus posibles interacciones, el solapamiento de toxicidades y el s\u00edndrome inflamatorio de reconstituci\u00f3n inmune (SIRI). La IO mejor estudiada en cuanto al momento \u00f3ptimo de iniciar el TAR es la tuberculosis. En pacientes con inmunodepresi\u00f3n profunda (CD4 < 50 c\u00e9lulas/\u03bcL), debe iniciarse lo antes posible, tras comprobar la tolerancia al tratamiento antituberculoso y no m\u00e1s tarde de las 2 primeras semanas. ",
+            "source": "ManualClinico, section 9.6.1.",
+            "_distance": 0.7124349474906921
+        },
+        {
+            "text": " PCR (al identificar por PCR nos pueden decir si existe o no resistencia a la Rifampicina).Isoniazida 5 mg/Kg + Rifampicina 10 mg/Kg + Pirazinamida 20-25 mg/Kg + Etambutol 20 mg/Kg 2 meses y luego seguir 4 meses m\u00e1s con Isoniazida + Rifampicina.  En algunos casos se prolonga el tratamiento (meningitis tuberculosa, tbc \u00f3sea) hasta 9-12 meses.  Si <50 CD4 hay que iniciar TAR lo antes posible (2 primeras semanas). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.728342592716217
+        },
+        {
+            "text": "Las gu\u00edas actuales recomiendan iniciar tratamiento con una combinaci\u00f3n de dosis bajas de IECA \u00f3 ARA II asociado a tiazidas \u00f3 antagonistas del calcio, teniendo en cuenta las interacciones con los FAR. RECOMENDACIONES 1.Se debe valorar el RCV en la evaluaci\u00f3n inicial y repetirse anualmente con cualquiera de las herramientas disponibles ( I-A). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7484334707260132
+        }
+    ],
+    "answer": "No response content"
+}

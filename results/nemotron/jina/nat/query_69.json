@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1l es el tratamiento antirretroviral recomendado si me quedo embarazada?\n",
+    "context_info": [
+        {
+            "text": " Tratamiento antirretroviral (TAR) durante el embarazo Los criterios para el uso de TAR en la mujer embarazada difieren respecto a las recomendaciones generales para el adulto, en el sentido de que debe considerarse la seguridad para la madre y el ni\u00f1o. Se deben considerar m\u00faltiples factores al elegir TAR para una mujer embarazada. La elecci\u00f3n del TAR se basar\u00e1 en el estudio de resistencias, las interacciones, la experiencia con el uso de estos medicamentos en el embarazo y en la seguridad de estos. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.5856863260269165
+        },
+        {
+            "text": " Planificaci\u00f3n y preparaci\u00f3n general de la gestaci\u00f3n Con la finalidad de conseguir que el embarazo llegue cuando la mujer tenga un buen control virol\u00f3gico de la infecci\u00f3n VIH, con un adecuado tratamiento antirretroviral (T AR), y en un buen estado de salud general y obst\u00e9trica. ",
+            "source": "ManualClinico, section 32.2.1.",
+            "_distance": 0.6112672090530396
+        },
+        {
+            "text": "La mujer embarazada portadora del VIH debe ser tratada con TAR espec\u00edfico para prevenir la transmisi\u00f3n vertical, programar ces\u00e1rea, tratar al reci\u00e9n nacido con AZT y evitar la lactancia materna. ",
+            "source": "manejo_paciente_vih_en_ap, section 20.0.",
+            "_distance": 0.6769227385520935
+        },
+        {
+            "text": " Prevenci\u00f3n de la transmisi\u00f3n vertical B\u00e1sicamente descansa en una adecuada gesti\u00f3n del tratamiento antirretroviral: la elecci\u00f3n de un TAR adecuado para una paciente no previamente tratada que quiere quedarse embarazada o que ya lo est\u00e1, y las recomendaciones para optimizar y adaptar el TAR al per\u00edodo gestacional en las pacientes que ya lo est\u00e1n tomando, es un asunto importante y complejo, que requiere conocimientos espec\u00edficos. ",
+            "source": "ManualClinico, section 32.2.2.",
+            "_distance": 0.7042653560638428
+        },
+        {
+            "text": "Si se decide usar los anticonceptivos hormonales se deben tener en cuenta las interacciones con el tratamiento antirretroviral, para asegurar la seguridad y eficacia. Las integrasas no potenciadas como el Raltegravir, Dolutegravir o Bictegravir, o, entre los An\u00e1logos no nucleosidos inhibidores de la transcriptasa Inversa, aquellos que no modifican al CYP3A4 (rilpivirina, doravirina), son los m\u00e1s seguros. Para m\u00e1s detalles consultar las paginas espec\u00edficas de interacciones. ",
+            "source": "ManualClinico, section 30.2.3.",
+            "_distance": 0.709943413734436
+        }
+    ],
+    "answer": "Tratamiento Antirretroviral (TAR) durante el Embarazo\n\nAl quedar embarazada, es crucial seleccionar un tratamiento antirretroviral (TAR) que asegure tanto tu salud como la de tu beb\u00e9. La elecci\u00f3n del TAR se basa en varios factores:\n\n1. Estudio de Resistencias: Se realiza para determinar la efectividad de ciertos medicamentos contra el VIH en tu caso espec\u00edfico.\n2. Interacciones Medicamentosas: Es importante evitar interacciones entre el TAR y otros medicamentos que puedas estar tomando, incluidos anticonceptivos hormonales si los est\u00e1s considerando despu\u00e9s del embarazo.\n3. Experiencia y Seguridad en el Embarazo: Se prefiere el uso de medicamentos con un historial comprobado de seguridad para madres embarazadas y sus beb\u00e9s.\n\nOpciones de TAR Recomendadas durante el Embarazo:\n\n- Integrasas no Potenciadas:\n  - Raltegravir\n  - Dolutegravir\n  - Bictegravir: Estos medicamentos suelen ser bien tolerados y tienen un perfil de seguridad favorable para el embarazo.\n\n- An\u00e1logos no Nucleosidos Inhibidores de la Transcriptasa Inversa (NNRTIs) que no Modifican al CYP3A4:\n  - Rilpivirina\n  - Doravirina: Estos medicamentos tienen menos interacciones con otros f\u00e1rmacos, incluidos anticonceptivos hormonales, lo que los hace seguros durante el embarazo.\n\nImportante:\n\n- No inicies o cambies un tratamiento antirretroviral sin consultar a tu m\u00e9dico. Cada caso es \u00fanico y requiere una evaluaci\u00f3n personalizada.\n- La planificaci\u00f3n y preparaci\u00f3n general de la gestaci\u00f3n es clave. Deber\u00edas tener un buen control virol\u00f3gico, estar en un tratamiento antirretroviral adecuado, y gozar de buena salud general y obst\u00e9trica antes del embarazo.\n\nPara m\u00e1s detalles espec\u00edficos sobre tu situaci\u00f3n o para discutir interacciones con otros medicamentos, consulta a tu m\u00e9dico, quien podr\u00e1 ofrecerte asesoramiento personalizado."
+}

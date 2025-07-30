@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfQu\u00e9 es diagn\u00f3stico tard\u00edo?\n",
+    "query": "Si tengo problemas hep\u00e1ticos, \u00bfhay alg\u00fan antirretroviral m\u00e1s recomendable para evitar que mi h\u00edgado empeore?\n",
     "context_info": [
         {
-            "text": "Se define el diagn\u00f3stico tard\u00edo como aquel caso que se diagn\u00f3stica con menos de 350 linfocitos CD4+ c\u00e9lulas/mm3 y la enfermedad avanzada cuando el nivel de CD4+ tuvieron es inferior un diagn\u00f3stico a 200 tard\u00edo, c\u00e9lulas/mm3siendo. Casi este la mitad porcentaje de los superior nuevos conforme diagn\u00f3sticos de aumentaba 2017 la edad al diagn\u00f3stico, en heterosexuales y UDI, y en casos procedentes de \u00c1frica Subsahariana y Latinoam\u00e9rica. ",
-            "source": "ManualClinico, section 1.2.",
-            "_distance": 0.5099048018455505
+            "text": "En la elecci\u00f3n de los antirretrovirales en un paciente coinfectado por VIH/VHC se tendr\u00e1 en cuenta su potencial hepatotoxicidad, la existencia de cirrosis hep\u00e1tica y la indicaci\u00f3n de tratamiento frente al VHC. Los TAR de uso preferente actuales tienen muy escasa hepatoxicidad y, salvo en pacientes con cirrosis descompensada, pueden utilizarse sin restricciones. ",
+            "source": "ManualClinico, section 27.2.4.",
+            "_distance": 0.6842985153198242
         },
         {
-            "text": " Introducci\u00f3n Disminuir el diagn\u00f3stico tard\u00edo (DT) de la infecci\u00f3n por VIH es uno de los principales retos de la respuesta a la epidemia del VIH. La definici\u00f3n establecida de retraso diagn\u00f3stico se refiere a personas que presentan un recuento de CD4 inferior a 350 c\u00e9lulas/\u00b5l, o que presentan un evento definitorio de sida, sin importar el recuento de c\u00e9lulas CD4. ",
-            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_info, section 1.0.",
-            "_distance": 0.5583012700080872
+            "text": " Tratamiento de VHB El tratamiento antirretroviral, que incluye f\u00e1rmacos activos frente a la infecci\u00f3n por VHB, se asocia con menor evoluci\u00f3n a cirrosis, descompensaci\u00f3n o desarrollo de hepatocarcinoma. Incluso en pacientes con cirrosis descompensada se asocia con mejor\u00eda en supervivencia, reversi\u00f3n de la descompensaci\u00f3n y salida de la lista de espera de trasplante. ",
+            "source": "ManualClinico, section 27.3.4.",
+            "_distance": 0.7127735018730164
         },
         {
-            "text": " El diagn\u00f3stico tard\u00edo en personas con enfermedad avanzada fue de un 25,1%.  El diagn\u00f3stico tard\u00edo es la causa de muchas de las muertes asociadas al VIH. Estas podr\u00edan evitarse promoviendo el diagn\u00f3stico precoz de la infecci\u00f3n. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 2.0.",
-            "_distance": 0.7522299885749817
+            "text": "En el caso que para construir un nuevo r\u00e9gimen, se requiera de un antirretroviral que no tenga indicaci\u00f3n pedi\u00e1trica, se valorara su administraci\u00f3n bajo uso compasivo. En pacientes con m\u00faltiples fracasos y con un patr\u00f3n de resistencias que determine ausencia de una combinaci\u00f3n de antirretrovirales que garantice el control de la replicaci\u00f3n viral, mantendremos la pauta menos t\u00f3xica a la espera de nuevas opciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7958749532699585
         },
         {
-            "text": "En Espa\u00f1a se estima que entre el 25 y el 30% de las personas seropositivas desconocen ser portadoras del virus, porcentaje similar al del resto de Europa, y los diagn\u00f3sticos nuevos presentan una elevada proporci\u00f3n de diagn\u00f3stico tard\u00edo (DT) (definido como un recuento de linfocitos CD4 en el momento del diagn\u00f3stico menor de 350 c./ml) en el 45% de los casos y con menos de 200 CD4/ml en el 28% de los casos. ",
-            "source": "manejo_paciente_vih_en_ap, section 2.0.",
-            "_distance": 0.9230369329452515
+            "text": " Uso de f\u00e1rmacos antirretrovirales en PVV con insuficiencia renal Aunque el pilar fundamental del manejo de la infecci\u00f3n por VIH es el TAR, sigue siendo importante el tratamiento y la profilaxis de las infecciones oportunistas y, cada vez m\u00e1s, se requiere el uso de tratamientos concomitantes para las comorbilidades. ",
+            "source": "ManualClinico, section 22.5.",
+            "_distance": 0.8481178283691406
         },
         {
-            "text": "Aunque es raro, el reconocimiento de este s\u00edndrome es importante para que el d4T pueda retirarse y se inicien las medidas de apoyo en este trastorno potencialmente mortal. ",
-            "source": "ManualClinico, section 23.3.2.",
-            "_distance": 0.9242584705352783
+            "text": " Las implicaciones para la salud, en caso de que se produzca la reinfecci\u00f3n, depender\u00e1n de la gravedad de la resistencia adquirida y de su manejo farmacol\u00f3gico. En cualquier caso, los f\u00e1rmacos antirretrovirales de \u00faltima generaci\u00f3n tienen una buena capacidad para mantener bajo control incluso virus que presentan mutaciones de resistencia.  CARGA VIRAL Riesgo cero: El VIH no est\u00e1 presente (por ejemplo, en personas seronegativas). La carga viral est\u00e1 indetectable. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8533405065536499
         }
     ],
-    "answer": "Diagn\u00f3stico Tard\u00edo (DT) de la infecci\u00f3n por VIH:\n\nSe define como aquel caso que se diagnostica con:\n\n1. Menos de 350 linfocitos CD4+ c\u00e9lulas/mm\u00b3: Esto indica un sistema inmunitario comprometido, lo que puede aumentar el riesgo de desarrollar enfermedades oportunistas y complicaciones relacionadas con el VIH.\n2. O la presencia de un evento definitorio de SIDA, independientemente del recuento de c\u00e9lulas CD4. Esto sugiere una progresi\u00f3n avanzada de la infecci\u00f3n, que podr\u00eda haberse evitado con un diagn\u00f3stico y tratamiento oportunos.\n\nEn resumen, el diagn\u00f3stico tard\u00edo se refiere a la detecci\u00f3n de la infecci\u00f3n por VIH en una etapa avanzada, cuando el sistema inmunitario ya ha sufrido da\u00f1os significativos. Esto subraya la importancia del diagn\u00f3stico precoz para iniciar un tratamiento efectivo y prevenir complicaciones graves."
+    "answer": "Excelente pregunta! En pacientes con problemas hep\u00e1ticos, como t\u00fa, es crucial elegir un antirretroviral (ARV) que tenga un perfil de seguridad hepatol\u00f3gica favorable. A continuaci\u00f3n, te proporciono informaci\u00f3n basada en mi conocimiento especializado en VIH:\n\nGeneralmente, los ARV de \u00faltima generaci\u00f3n tienen una baja hepatotoxicidad, lo que significa que la mayor\u00eda pueden utilizarse sin restricciones, excepto en casos de cirrosis hep\u00e1tica descompensada.\n\nRecomendaciones para pacientes con problemas hep\u00e1ticos:\n\n1. Evitar ARV con alto potencial hepatot\u00f3xico: Aunque no se mencionan espec\u00edficamente en mi conocimiento, es importante que tu m\u00e9dico evite aquellos con historial de toxicidad hep\u00e1tica significativa.\n2. Opciones m\u00e1s seguras para pacientes con problemas hep\u00e1ticos:\n\t No hay una lista expl\u00edcita en mi conocimiento, pero se sugiere que los ARV actuales tienen muy escasa hepatotoxicidad. Sin embargo, es crucial que tu m\u00e9dico eval\u00fae cada caso individualmente.\n3. Cirrosis descompensada: En estos casos, la selecci\u00f3n del ARV debe ser especialmente cuidadosa. Aunque no se proporcionan opciones espec\u00edficas en mi conocimiento, es fundamental que tu m\u00e9dico especialista en VIH y, si es posible, un hepat\u00f3logo, colaboren para tomar la mejor decisi\u00f3n.\n\nAcci\u00f3n recomendada:\n\n Consulta a tu m\u00e9dico: Para una evaluaci\u00f3n personalizada, discute tus problemas hep\u00e1ticos con tu m\u00e9dico especialista en VIH. \u00c9l/ella podr\u00e1:\n\t+ Evaluar la gravedad de tus problemas hep\u00e1ticos.\n\t+ Seleccionar el ARV m\u00e1s adecuado para ti, considerando tu perfil de salud espec\u00edfico.\n\t+ Monitorear estrechamente tu condici\u00f3n hep\u00e1tica durante el tratamiento.\n\nRecuerda: La elecci\u00f3n del antirretroviral adecuado en pacientes con problemas hep\u00e1ticos debe ser individualizada y requerir\u00e1 la evaluaci\u00f3n de un profesional de la salud especializado."
 }

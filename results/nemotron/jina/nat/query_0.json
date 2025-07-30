@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfQu\u00e9 es exactamente el VIH y en qu\u00e9 se diferencia del SIDA?\n",
+    "query": "\u00bfLos medicamentos antirretrovirales que contienen inhibidores de la integrasa que tomo pueden afectar mi h\u00edgado y causar acumulaci\u00f3n de grasa en \u00e9l?\n",
     "context_info": [
         {
-            "text": "Se diferencian de las Enfermedades de Transmisi\u00f3n Sexual por el hecho de la ITS implica la presencia de un pat\u00f3geno de transmisi\u00f3n sexual, y se empieza a hablar de ETS cuando el pat\u00f3geno desencadena una enfermedad. As\u00ed, por ejemplo, el VIH es una ITS, pero puede desencadenar el desarrollo del s\u00edndrome de la inmunodeficiencia adquirida, m\u00e1s conocido como SIDA, una de las ETS m\u00e1s conocidas, si el paciente no accede a la medicaci\u00f3n antirretroviral. ",
-            "source": "Documento-de-recomendaciones-FEXIT, section 1.0.",
-            "_distance": 0.7156982421875
+            "text": "Entre sus efectos secundarios est\u00e1n la inflamaci\u00f3n local (60-70%) con dolor y tumoraci\u00f3n con enfuvirtida, porque se administra por v\u00eda subcut\u00e1nea e infecciones respiratorias y riesgo de cardiopat\u00eda isqu\u00e9mica con MVC.  Inhibidores de la integrasa (InInt) Son raltegravir (RAL) y elvitegravir, este \u00faltimo no comercializado a\u00fan. Act\u00faan bloqueando la integrasa, enzima necesaria para unir los extremos reactivos del ADN viral al ADN celular. ",
+            "source": "manejo_paciente_vih_en_ap, section 16.0.",
+            "_distance": 0.6689955592155457
         },
         {
-            "text": " Introducci\u00f3n El virus de la inmunodeficiencia humana tipo 2 (VIH-2) es un retrovirus gen\u00e9ticamente cercano al VIH-1, el agente etiol\u00f3gico m\u00e1s conocido del s\u00edndrome de inmunodeficiencia adquirida (SIDA). Est\u00e1 formado por al menos 9 grupos diferentes (a, b, c, d, e, f, g, h, i) siendo los grupos a y b los m\u00e1s prevalentes. Al comparar el VIH-1 y VIH-2 existen importantes diferencias estructurales que influyen en la patogenicidad, historia natural y tratamiento de los mismos. ",
-            "source": "ManualClinico, section 5.1.",
-            "_distance": 0.758151650428772
+            "text": "Los inhibidores de la integrasa (INI) tambi\u00e9n se asocian a cierta toxicidad gastrointestinal, siendo m\u00e1s frecuente con dolutegravir (DTG), elvitegravir (EVG) y bictegravir (BIC) que con su predecesor raltegravir (RAL). Los inhibidores de la transcriptasa inversa an\u00e1logos de nucle\u00f3sidos (ITIAN) y no an\u00e1logos (ITINN) rara vez producen alteraciones gastrointestinales siendo el abacavir (ABC) el que lo hace con m\u00e1s frecuencia. ",
+            "source": "ManualClinico, section 10.2.",
+            "_distance": 0.6706361770629883
         },
         {
-            "text": " VIH-2: 9 grupos y 2 recombinantes Aunque el VIH-2 tambi\u00e9n es capaz de causar SIDA, presenta importantes diferencias con el VIH-1: es menos patog\u00e9nico, presenta per\u00edodos de latencia cl\u00ednica m\u00e1s largos, progresi\u00f3n m\u00e1s lenta y menores tasas de transmisi\u00f3n horizontal y vertical. El VIH-2 se clasifica en 9 grupos (A- I), representando cada grupo un \u00fanico evento de transmisi\u00f3n del virus entre especies, y 2 formas recombinantes. Los grupos A y B son los m\u00e1s prevalentes. ",
-            "source": "ManualClinico, section 2.3.2.",
-            "_distance": 0.8083798885345459
+            "text": "Los inhibidores de la transcriptasa inversa inducen relativamente pocos trastornos gastrointestinales. Cabe destacar que en algunos pacientes el abacavir se relaciona con intolerancia digestiva y n\u00e1useas. Los inhibidores de la integrasa, tienen un excelente perfil de tolerabilidad gastrointestinal. El manejo de estos trastornos incluye desde el tratamiento sintom\u00e1tico con antiem\u00e9ticos o antidiarreicos como loperamida a la sustituci\u00f3n del f\u00e1rmaco responsable cuando son intensos o no desaparece. ",
+            "source": "ManualClinico, section 19.4.2.",
+            "_distance": 0.7129248380661011
         },
         {
-            "text": "No obstante, el VIH-2 es menos patog\u00e9nico que el VIH-1; presenta menores tasas de transmisibilidad, un descenso menor y m\u00e1s lento de los recuentos de linfocitos CD4+ y una menor morbimortalidad, con un per\u00edodo asintom\u00e1tico entre la infecci\u00f3n y el desarrollo del SIDA considerablemente m\u00e1s prolongado que el del VIH-1. No es infrecuente que los pacientes infectados por VIH-2 se comporten como progresores lentos. ",
-            "source": "ManualClinico, section 5.3.",
-            "_distance": 0.8602780699729919
+            "text": "Su asociaci\u00f3n con RTV altera el metabolismo hep\u00e1tico, incrementando su concentraci\u00f3n y su semivida, lo que potencia su actividad y disminuye la frecuencia y la dosis de cada toma. Los efectos secundarios m\u00e1s habituales son gastrointestinales (diarrea), lipodistrofia y alteraciones metab\u00f3licas de los l\u00edpidos y de la glucosa. ",
+            "source": "manejo_paciente_vih_en_ap, section 15.0.",
+            "_distance": 0.8388038277626038
         },
         {
-            "text": "El VIH-2, sin embargo, es mucho menos infectivo que el VIH-1, con tasas de transmisi\u00f3n heterosexual entre cinco y diez veces menores y tasas de transmisi\u00f3n vertical del orden de 20-30 veces menores. ",
-            "source": "ManualClinico, section 5.2.",
-            "_distance": 0.8656215667724609
+            "text": " Efectos adversos secundarios a f\u00e1rmacos antirretrovirales Los s\u00edntomas gastrointestinales incluyendo n\u00e1useas, v\u00f3mitos y diarrea son los efectos adversos m\u00e1s frecuentemente relacionados con el uso de f\u00e1rmacos antirretrovirales. Los inhibidores de la proteasa (IP) potenciados han sido los principales responsables de dicha sintomatolog\u00eda, mucho m\u00e1s marcada con los IP m\u00e1s antiguos, como ritonavir, indinavir o nelfinavir. ",
+            "source": "ManualClinico, section 19.4.2.",
+            "_distance": 0.8992382884025574
         }
     ],
-    "answer": "VIH (Virus de la Inmunodeficiencia Humana):\nEl VIH es un retrovirus que ataca al sistema inmunol\u00f3gico, espec\u00edficamente a los linfocitos CD4+ (c\u00e9lulas T), debilitando la capacidad del cuerpo para combatir infecciones y enfermedades. El virus se transmite a trav\u00e9s de fluidos corporales como sangre, semen, l\u00edquido vaginal y leche materna.\n\nSIDA (S\u00edndrome de Inmunodeficiencia Adquirida):\nEl SIDA es la etapa m\u00e1s avanzada de la infecci\u00f3n por VIH. No es el virus en s\u00ed, sino una condici\u00f3n cl\u00ednica que se desarrolla cuando el VIH ha da\u00f1ado severamente el sistema inmunitario, dej\u00e1ndolo vulnerable a infecciones oportunistas y c\u00e1nceres raras.\n\nDiferencias clave:\n\n1. Causa vs. Consecuencia: El VIH es el virus que causa la infecci\u00f3n, mientras que el SIDA es la consecuencia de una infecci\u00f3n por VIH no tratada o mal manejada.\n2. Grado de Afectaci\u00f3n del Sistema Inmunol\u00f3gico: En el caso del VIH, el sistema inmunitario est\u00e1 afectado pero a\u00fan puede responder a ciertas infecciones. En el SIDA, la capacidad del cuerpo para combatir infecciones es severamente comprometida.\n3. S\u00edntomas y Enfermedades Asociadas: La infecci\u00f3n por VIH puede ser asintom\u00e1tica o presentar s\u00edntomas leves a moderados. El SIDA se caracteriza por la presencia de infecciones oportunistas graves y/o ciertos tipos de c\u00e1ncer, indicativos del colapso del sistema inmunol\u00f3gico.\n4. Tratamiento y Pron\u00f3stico: Con tratamiento antirretroviral (TAR), las personas con VIH pueden llevar una vida relativamente normal, controlando la replicaci\u00f3n viral. El SIDA, como etapa final, tiene un pron\u00f3stico m\u00e1s grave si no se inicia o ajusta adecuadamente el tratamiento.\n\nImportante: La progresi\u00f3n de VIH a SIDA puede prevenirse o retrasarse significativamente con diagn\u00f3stico temprano y tratamiento antirretroviral efectivo."
+    "answer": "Seg\u00fan el conocimiento proporcionado, no hay una menci\u00f3n expl\u00edcita directa a que los inhibidores de la integrasa (InInt) como clase causen da\u00f1o hep\u00e1tico con acumulaci\u00f3n de grasa o \"esteatosis hep\u00e1tica\" espec\u00edficamente. \n\nSin embargo, se menciona que la asociaci\u00f3n de algunos f\u00e1rmacos con Ritonavir (RTV) puede alterar el metabolismo hep\u00e1tico, incrementando la concentraci\u00f3n y la semivida del medicamento, lo cual puede potenciar su actividad pero no se explicita un da\u00f1o hep\u00e1tico directo por los InInt.\n\nSobre la lipodistrofia, se menciona que es un efecto secundario m\u00e1s habitual en ciertos antirretrovirales, pero esto se asocia m\u00e1s a alteraciones metab\u00f3licas de los l\u00edpidos y de la glucosa, sin especificar directamente a los InInt como causantes de lipodistrofia o acumulaci\u00f3n de grasa en el h\u00edgado.\n\nRecomendaci\u00f3n: Dado que tu pregunta implica una evaluaci\u00f3n espec\u00edfica de riesgos para tu salud hep\u00e1tica relacionada con tus medicamentos actuales, Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico. \u00c9l/ella puede ofrecerte una evaluaci\u00f3n personalizada considerando tu historial cl\u00ednico, los medicamentos espec\u00edficos que est\u00e1s tomando y cualquier otro factor relevante."
 }

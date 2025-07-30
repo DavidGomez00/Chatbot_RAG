@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfDe qu\u00e9 se mueren las personas con VIH?",
+    "query": "\u00bfEl tratamiento con efavirenz puede afectar mi estado de \u00e1nimo o causar problemas como insomnio o ansiedad?\n",
     "context_info": [
         {
-            "text": " Infecciones oportunistas : Han sido la principal causa de morbilidad y mortalidad de los pacientes VIH desde el inicio de la epidemia. Corresponden a la categor\u00eda C de la clasificaci\u00f3n de la infecci\u00f3n por el VIH de los CDC.  Infecciones por par\u00e1sitos: Destacar la infecci\u00f3n por Toxoplasma gondii que en los pacientes VIH puede producir coriorretinitis y lesi\u00f3n ocupante de espacio (LOE) en el SNC. ",
+            "text": " Alteraciones neurol\u00f3gicas Entre los f\u00e1rmacos asociados con alteraciones neurol\u00f3gicas destaca EFV; es su efecto adverso m\u00e1s frecuente y se caracteriza por mareos, inestabilidad, insomnio, sue\u00f1os vividos y fala de concentraci\u00f3n. Esta toxicidad aparece desde los primeros d\u00edas de tratamiento y en muchas ocasiones es limitante, obligando a retirar el f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.9216893315315247
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
             "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
-            "_distance": 0.8467166423797607
+            "_distance": 0.9280123710632324
         },
         {
-            "text": "Como consecuencia de esta inmunosupresi\u00f3n mantenida se produce, a partir de un nivel de deterioro (<200 CD4/\u00b5L), la aparici\u00f3n de infecciones oportunistas y tumores que definen el SIDA y causan la muerte del paciente infectado. ",
-            "source": "ManualClinico, section 3.2.3.",
-            "_distance": 0.8925870060920715
+            "text": " La preocupaci\u00f3n y el estr\u00e9s pueden causar s\u00edntomas que algunas personas atribuyen al VIH, especialmente si la preocupaci\u00f3n les impide dormir. Un psic\u00f3logo puede ayudarte con estos problemas. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 11.0.",
+            "_distance": 0.9282453060150146
         },
         {
-            "text": " Con el herpes, por ejemplo, las c\u00e9lulas diana del VIH mantienen unos niveles mucho m\u00e1s elevados incluso semanas despu\u00e9s de que se haya curado una \u00falcera. Por esta raz\u00f3n, las personas con herpes podr\u00edan tener un mayor riesgo de VIH, si se exponen, aunque en ese momento no presenten \u00falceras.  ALCOHOL Y OTRAS DROGAS Riesgo cero: Sin consumo de alcohol y/o drogas.  Entre estos extremos, el riesgo var\u00eda dependiendo del nivel de consumo de alcohol y/u otras drogas. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.8986109495162964
+            "text": "Muchos otros medicamentos se han relacionado con efectos adversos neurol\u00f3gicos, como RPV y en general todos los f\u00e1rmacos de la familia de los INI; entre \u00e9stos, DTG y quiz\u00e1s tambi\u00e9n BIC, son los m\u00e1s asociados a estas alteraciones, en especial insomnio. En cada paciente debe valorarse individualmente cu\u00e1l es la importancia cl\u00ednica de esta toxicidad y la posible relaci\u00f3n causal con el f\u00e1rmaco; en el caso de que se considere probable esta asociaci\u00f3n debe valorarse la retirada del f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 1.0387568473815918
         },
         {
-            "text": "Aunque hay pruebas de concepto que han conseguido la curaci\u00f3n definitiva de la infecci\u00f3n por VIH (trasplante heter\u00f3logo de m\u00e9dula \u00f3sea con delecci\u00f3n de CCR5 con quimerismo completo, asociado a quimio y/o radioterapia) su mortalidad es elevada y no est\u00e1n indicadas ni son escalables a la poblaci\u00f3n que recibe TAR y se mantiene asintom\u00e1tica. ",
-            "source": "ManualClinico, section 9.8.3.",
-            "_distance": 0.8989037871360779
-        },
-        {
-            "text": "El n\u00famero de nuevos casos de VIH y la mortalidad est\u00e1n disminuyendo a nivel mundial. En 2018 hubo 1,7 millones de nuevas infecciones (incluidos 160.000 menores de 15 a\u00f1os) de las que un tercio ocurrieron en j\u00f3venes de 15 a 24 a\u00f1os (descenso estimado del 16% respecto a 2010). No obstante, esta tendencia no es igual en todo el mundo. ",
-            "source": "ManualClinico, section 1.1.",
-            "_distance": 0.906413733959198
+            "text": "Entre sus efectos secundarios m\u00e1s frecuentes est\u00e1n la hepatotoxicidad (NVP) y el mareo, insomnio, dificultad de concentraci\u00f3n y exantema con EFV. ETV aporta una alta barrera gen\u00e9tica y mejora la facilidad de los anteriores para inducir resistencias. RPV presenta una eficacia similar con una mejor tolerancia. ",
+            "source": "manejo_paciente_vih_en_ap, section 14.0.",
+            "_distance": 1.0471487045288086
         }
     ],
-    "answer": "Seg\u00fan mi conocimiento especializado en VIH, las personas con VIH suelen fallecer principalmente debido a:\n\n1. Infecciones oportunistas: Estas infecciones aprovechan el sistema inmunol\u00f3gico debilitado que ocurre cuando el recuento de CD4 cae por debajo de 200 c\u00e9lulas/\u00b5L. Ejemplos incluyen:\n\t Infecci\u00f3n por Toxoplasma gondii, que puede causar coriorretinitis y lesiones ocupantes de espacio (LOE) en el Sistema Nervioso Central (SNC).\n\t Otras infecciones oportunistas clasificadas como Categor\u00eda C seg\u00fan la clasificaci\u00f3n de los CDC.\n2. Tumores: El deterioro del sistema inmunol\u00f3gico tambi\u00e9n aumenta el riesgo de desarrollar ciertos tipos de c\u00e1ncer, que pueden ser mortales.\n\nEs importante destacar que estas complicaciones suelen ocurrir en etapas avanzadas de la infecci\u00f3n por VIH, cuando el virus no ha sido diagnosticado o no se ha tratado adecuadamente. El tratamiento antirretroviral (TAR) efectivo puede controlar la progresi\u00f3n del VIH, prevenir la aparici\u00f3n de infecciones oportunistas y tumores, y mejorar significativamente la calidad de vida y la expectativa de vida de las personas con VIH."
+    "answer": "S\u00ed, el tratamiento con Efavirenz (EFV) est\u00e1 asociado con efectos adversos neurol\u00f3gicos y psicol\u00f3gicos. Algunos de los efectos secundarios m\u00e1s comunes incluyen:\n\n1. Insomnio: Dificultad para conciliar o mantener el sue\u00f1o.\n2. Sue\u00f1os vividos: Experiencias on\u00edricas intensas o v\u00edvidas que pueden ser perturbadoras.\n3. Dificultad de concentraci\u00f3n: Problemas para enfocarte o mantener la atenci\u00f3n.\n4. Mareos e inestabilidad: Sentimientos de v\u00e9rtigo o dificultad para mantener el equilibrio.\n\nAdem\u00e1s, aunque no se mencionan expl\u00edcitamente como efectos secundarios directos del EFV en el conocimiento proporcionado, es importante tener en cuenta que:\n\n- Ansiedad: Puede ser exacerbada o desencadenada por la alteraci\u00f3n del sue\u00f1o y los efectos sobre el estado de \u00e1nimo.\n- Alteraciones del estado de \u00e1nimo: La combinaci\u00f3n de insomnio, dificultad de concentraci\u00f3n y otros efectos secundarios puede influir negativamente en el estado de \u00e1nimo, potencialmente contribuyendo a sentimientos de ansiedad, irritabilidad o incluso depresi\u00f3n.\n\nQu\u00e9 hacer:\n\n- Si experimentas alguno de estos s\u00edntomas, es crucial discutirlos con tu m\u00e9dico. \n- En muchos casos, estos efectos secundarios aparecen al inicio del tratamiento y pueden disminuir con el tiempo, pero para algunas personas, estos efectos pueden ser limitantes.\n- Tu m\u00e9dico puede considerar cambiar tu tratamiento a alternativas como Rilpivirina o Doravirina, que han demostrado ser opciones adecuadas para aquellos que experimentan efectos adversos del sistema nervioso central causados por Efavirenz. Raltegravir tambi\u00e9n es mencionado como una opci\u00f3n viable en ciertos contextos.\n\nRecuerda, la salud mental es tan importante como la f\u00edsica. Si sientes que estos s\u00edntomas afectan significativamente tu calidad de vida, no dudes en buscar apoyo adicional, como terapia con un psic\u00f3logo, para manejar el estr\u00e9s y la ansiedad relacionados con tu tratamiento."
 }

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfTomar tenofovir alafenamida (TAF) puede tener un impacto negativo en mi sistema nervioso central, como mareos o alteraciones cognitivas?\n",
+    "context_info": [
+        {
+            "text": " Alteraciones neurol\u00f3gicas Entre los f\u00e1rmacos asociados con alteraciones neurol\u00f3gicas destaca EFV; es su efecto adverso m\u00e1s frecuente y se caracteriza por mareos, inestabilidad, insomnio, sue\u00f1os vividos y fala de concentraci\u00f3n. Esta toxicidad aparece desde los primeros d\u00edas de tratamiento y en muchas ocasiones es limitante, obligando a retirar el f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.7253987789154053
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7781311273574829
+        },
+        {
+            "text": "Tenofovir alafenamida (TAF), al igual que TDF es un prof\u00e1rmaco de tenofovir, pero a diferencia de \u00e9ste tiene una semivida plasm\u00e1tica extraordinariamente corta, mientras que sus concentraciones intracelulares en c\u00e9lulas monucleares de sangre perif\u00e9rica, multiplican por 6 aquellas conseguidas con TDF. ",
+            "source": "ManualClinico, section 22.4.",
+            "_distance": 0.7865592241287231
+        },
+        {
+            "text": "Igualmente, los AINEs pueden producir deterioro hemodin\u00e1mico en pacientes con funci\u00f3n renal disminuida, si se administran durante largos per\u00edodos de tiempo o en asociaci\u00f3n con otros f\u00e1rmacos que interfieran en la hemodin\u00e1mica glomerular o potencialmente nefrot\u00f3xicos, como el tenofovir. Estos f\u00e1rmacos deben emplearse con gran precauci\u00f3n en pacientes con insuficiencia renal, en los que hay que ajustar cuidadosamente la dosis y vigilar estrechamente la evoluci\u00f3n de la funci\u00f3n renal. ",
+            "source": "ManualClinico, section 22.4.",
+            "_distance": 0.8288715481758118
+        },
+        {
+            "text": "Todo paciente coinfectado deber\u00eda iniciar o mantener una pauta de tratamiento antirretroviral que incluya f\u00e1rmacos inhibidores de la polimerasa del VHB con elevada barrera gen\u00e9tica: tenofovir (TDF), o tenofovir alafenamida (TAF). Entecavir tiene alta barrera gen\u00e9tica frente a VHB, pero no es eficaz frente al VIH y puede favorecer la selecci\u00f3n de la mutaci\u00f3n M184V en el VIH, por lo que s\u00f3lo se pautar\u00eda en pacientes con contraindicaci\u00f3n de TDF/TAF y control de viremia VIH con TAR. ",
+            "source": "ManualClinico, section 27.3.4.",
+            "_distance": 0.8431968092918396
+        }
+    ],
+    "answer": "No response content"
+}

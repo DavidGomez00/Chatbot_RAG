@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento me va a sentar mal? \u00bfCu\u00e1les son los principales efectos adversos?\n",
+    "context_info": [
+        {
+            "text": " Seguridad y efectos adversos de la PrEP En los estudios de PrEP se han evaluado tambi\u00e9n los potenciales riesgos de esta estrategia. Respecto a los efectos adversos, se ha observado mayor intolerancia digestiva que con el placebo, efecto que habitualmente remite en los primeros d\u00edas o semanas. No se han observado diferencias significativas en cuanto a efectos adversos grado 3 y 4. ",
+            "source": "ManualClinico, section 11.3.4.",
+            "_distance": 0.7326010465621948
+        },
+        {
+            "text": "La interacci\u00f3n puede producir tanto toxicidad, ocasionalmente grave, como fracaso terap\u00e9utico. \u2022Toxicidad y posibles efectos secundarios. Los pacientes pedi\u00e1tricos son m\u00e1s susceptibles al efecto t\u00f3xico de los f\u00e1rmacos, y ello puede incidir en su salud. Es fundamental monitorizar la toxicidad en el seguimiento. \u2022 Soporte de las familias y/o cuidadores de los pacientes, que garanticen un adecuado seguimiento. ",
+            "source": "ManualClinico, section 33.5.",
+            "_distance": 0.8669607639312744
+        },
+        {
+            "text": "Puede tener como consecuencias: desgarros anales, priapismo\u2026; sexo menos seguro (infecciones de transmisi\u00f3n sexual); toxicidad de las drogas; interacciones con los f\u00e1rmacos antirretrovirales y mala adherencia; paranoia, psicosis, bloqueos, p\u00e9rdida de conocimiento, amnesia, despersonalizaci\u00f3n, \u2026; infecciones relacionadas con el consumo intravenoso; imposibilidad de practicar sexo sin ChemSex ; alteraci\u00f3n de la vida, tanto a nivel personal como profesional. ",
+            "source": "ManualClinico, section 25.3.4.",
+            "_distance": 0.8761507272720337
+        },
+        {
+            "text": "Los habituales efectos adversos a corto y largo plazo de los antirretrovirales, y otros aspectos dependientes del paciente o del propio sistema, son causa frecuente de abandono del tratamiento y de la consiguiente aparici\u00f3n de resistencias. Es \u00fatil conocer estos factores que influyen en la adherencia y ayudar a minimizar aquellos que no la favorecen. ",
+            "source": "manejo_paciente_vih_en_ap, section 23.0.",
+            "_distance": 0.9221158027648926
+        },
+        {
+            "text": "Los candidatos a recibirla se someter\u00e1n a una valoraci\u00f3n inicial para conocer su estado de salud y descartar la presencia de contraindicaciones para tomarla. Si se confirma la idoneidad del candidato, deber\u00e1 acudir a las citas trimestrales en las que se realizar\u00e1n pruebas del VIH, ITS y otros ex\u00e1menes para evaluar los efectos secundarios, y se dispensar\u00e1 la medicaci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 8.0.",
+            "_distance": 0.9278911352157593
+        }
+    ],
+    "answer": "Efectos Adversos y Tolerabilidad del Tratamiento de PrEP\n\nLa mayor\u00eda de las personas pueden tolerar bien el tratamiento de Profilaxis Pre-Exposici\u00f3n (PrEP) para la prevenci\u00f3n del VIH. Sin embargo, como con cualquier medicamento, es posible experimentar algunos efectos adversos.\n\nEfectos Adversos Comunes:\n\n1. Intolerancia Digestiva: Es el efecto adverso m\u00e1s com\u00fanmente reportado. Puede manifestarse como n\u00e1useas, v\u00f3mitos, diarrea o dolor abdominal. Importante: Estos s\u00edntomas suelen ser leves y, en la mayor\u00eda de los casos, remiten en los primeros d\u00edas o semanas despu\u00e9s de iniciar el tratamiento.\n\nEfectos Adversos Graves (Menos Comunes):\n\n- Toxicidad: Aunque rara, puede ocurrir una toxicidad m\u00e1s grave, especialmente si se combinan ciertos medicamentos. Es crucial mencionar a su m\u00e9dico todos los medicamentos que est\u00e9 tomando.\n- Interacciones con Otros F\u00e1rmacos: La PrEP puede interactuar con otros medicamentos, incluidos algunos antirretrovirales, lo que podr\u00eda llevar a toxicidad o a un fracaso terap\u00e9utico.\n\nMonitoreo y Precauciones:\n\n- Seguimiento Regular: Es esencial acudir a las citas programadas para monitorear la presencia de efectos secundarios y realizar pruebas del VIH y otras ITS.\n- Comunicaci\u00f3n Abierta con su M\u00e9dico: Informe cualquier cambio en su salud o si est\u00e1 tomando nuevos medicamentos.\n\nRecuerde:\n\n- La mayor\u00eda de las personas pueden tomar PrEP sin experimentar efectos adversos significativos.\n- Los beneficios de la PrEP, como la reducci\u00f3n sustancial del riesgo de contraer VIH, suelen superar los riesgos de efectos adversos para aquellos en alto riesgo de exposici\u00f3n.\n- Si tiene inquietudes sobre posibles efectos adversos o interacciones medicamentosas, consulte a su m\u00e9dico. Est\u00e1n all\u00ed para evaluar su situaci\u00f3n individual y proporcionar la mejor gu\u00eda personalizada."
+}

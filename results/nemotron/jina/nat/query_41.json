@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento es por boca o pinchado?\n",
+    "context_info": [
+        {
+            "text": "Pinchazo o erosi\u00f3n superficial con agujas u otros objetos punzantes o cortantes abandonadas que no hanestado en contacto reciente con sangre.Besos. Reanimaci\u00f3n boca a boca sinlesiones cut\u00e1neomucosas. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 0.8935365080833435
+        },
+        {
+            "text": "Inicialmente se describieron casos con afectaci\u00f3n de la cavidad oral, pero posteriormente se ha descrito su aparici\u00f3n en otras localizaciones. El pron\u00f3stico, es muy malo, con una mediana de supervivencia menor de un a\u00f1o. Los reg\u00edmenes de quimioterapia intensiva no han demostrado mejores resultados que el CHOP o EPOCH, por lo que actualmente no existe un tratamiento est\u00e1ndar para el LPB. ",
+            "source": "ManualClinico, section 14.2.3.",
+            "_distance": 0.9971063733100891
+        },
+        {
+            "text": " Programas de asesoramiento sobre reducci\u00f3n de riesgos.  Marketing comportamental, basado en el behavioral targeting; es decir , en el dise\u00f1o de campa\u00f1as en funci\u00f3n del comportamiento.  Intervenciones biom\u00e9dicas Utilizan m\u00e9todos diagn\u00f3sticos y/o cl\u00ednicos o instrumentos preventivos, ya sean farmacol\u00f3gicos o no. En el siguiente cap\u00edtulo nos centraremos en los farmacol\u00f3gicos, mientras que en este lo haremos en los no farmacol\u00f3gicos. Como son, por ejemplo: Circuncisi\u00f3n masculina voluntaria. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 1.1071361303329468
+        },
+        {
+            "text": "Las lesiones pueden no causar s\u00edntomas, pero pueden volverse dolorosas tras traumatismos, ulceraciones o sobreinfecci\u00f3n. El SK puede afectar las enc\u00edas y el margen gingival provocando dolor, sangrado y frecuentemente obligar a la exodoncia. Las lesiones pueden ser muy aparentes o voluminosas e interferir con la degluci\u00f3n, el habla o la masticaci\u00f3n. En ocasiones se produce un linfedema facial muy severo, desfigurante y potencialmente mortal. El diagn\u00f3stico requiere la biopsia. ",
+            "source": "ManualClinico, section 16.4.1.",
+            "_distance": 1.133566975593567
+        },
+        {
+            "text": "Pinchazo percut\u00e1neo con exposici\u00f3n a sangre u otros fluidos potencialmente infectantes (1) Mordeduras humanas con soluci\u00f3n de continuidad en la piel y presencia deExposiciones con riesgo de transmisi\u00f3n apreciable VIH positivo con CVP detectable o desconocida (3) VIH desconocido con factores de riesgo (4).................................................Exposiciones con riesgo de transmisi\u00f3n bajo o m\u00ednimo VIH positivo con CVP indetectable VIH desconocido sin factores de riesgoRecomendar PPE ......................................Valorar individualmente (5) Relaci\u00f3n sexual orogenital (pene, vagina, ano), receptiva o insertiva, con o sin eyaculaci\u00f3n, sin preservativo u otro m\u00e9todo de barrera o mal uso del mismo. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 1.1530227661132812
+        }
+    ],
+    "answer": "Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\n\nMi conocimiento sobre el VIH se centra en aspectos espec\u00edficos como la transmisi\u00f3n, s\u00edntomas y prevenci\u00f3n, pero no abarca detalles sobre tratamientos m\u00e9dicos espec\u00edficos, incluyendo la administraci\u00f3n de medicamentos (oral vs. parenteral). Los tratamientos para el VIH, conocidos como Terapia Antirretroviral (TAR), suelen consistir en reg\u00edmenes de medicamentos administrados por v\u00eda oral. Sin embargo, para obtener informaci\u00f3n precisa sobre un tratamiento espec\u00edfico, incluyendo la ruta de administraci\u00f3n (por boca o pinchado/intravenosa), es crucial consultar a un m\u00e9dico especializado en el tratamiento del VIH. \u00c9l podr\u00e1 proporcionarte orientaci\u00f3n personalizada basada en tu condici\u00f3n de salud y las caracter\u00edsticas de tu tratamiento."
+}

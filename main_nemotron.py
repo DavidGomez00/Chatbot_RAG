@@ -45,7 +45,7 @@ def parse_arguments():
 
 if __name__ == "__main__":
 
-    os.chdir("/home/david/GitHub/gesida-rag-huil/")
+    os.chdir("/home/maxime/gesida-rag-huil/")
 
     # [ Set up logging ]
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -55,6 +55,8 @@ if __name__ == "__main__":
     args = parse_arguments()
     llm = args.llm
 
+    # création de la base de données vectorielle LanceDB (efficace)
+    
     embedding_models = ["BGE-M3", "jina"]
     strategies = ["nat", "nat-sem"]
 
@@ -71,7 +73,7 @@ if __name__ == "__main__":
 
             # [ Process queries ]
             base_prompt = read_file("system_prompt.txt")
-            queries = read_file("queries.txt", split_lines=True)
+            queries = read_file("nuevas_preguntas.txt", split_lines=True)
             for query_id, query in enumerate(queries):
 
                 logger.info(f"Query {query_id + 1} of {len(queries)}")
@@ -86,6 +88,8 @@ if __name__ == "__main__":
                     } for result in results
                 ]
                 context = "\n".join(result["text"] for result in results)
+
+## en gros, on fait la requête, on récup les 5 meilleurs résultats et ça devient le contexte pour la réponse
                 messages = [
                     {"role": "system", "content": f"Eres un asistente especializado en responder consultas sobre el VIH, con el siguiente conocimiento.\n{context}\n{base_prompt}"},
                     {"role": "user", "content": query.strip()}

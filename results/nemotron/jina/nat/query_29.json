@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl uso de cabotegravir y rilpivirina inyectable tiene menos probabilidades de causar efectos secundarios en el sistema nervioso que los tratamientos orales?\n",
+    "context_info": [
+        {
+            "text": "Si se decide usar los anticonceptivos hormonales se deben tener en cuenta las interacciones con el tratamiento antirretroviral, para asegurar la seguridad y eficacia. Las integrasas no potenciadas como el Raltegravir, Dolutegravir o Bictegravir, o, entre los An\u00e1logos no nucleosidos inhibidores de la transcriptasa Inversa, aquellos que no modifican al CYP3A4 (rilpivirina, doravirina), son los m\u00e1s seguros. Para m\u00e1s detalles consultar las paginas espec\u00edficas de interacciones. ",
+            "source": "ManualClinico, section 30.2.3.",
+            "_distance": 0.7608307600021362
+        },
+        {
+            "text": "Se pueden consultar en el cap\u00edtulo de interacciones y polifarmacia de este documento(apartado 3.3.2) o webs o Apps como http://www.interaccionesvih.com/.Como resumen, no hay interacciones importantes entre los f\u00e1rmacosanticonceptivos y la doravirina, rilpivirina, ITIAN, raltegravir, dolutegraviry bictegravir.- Anticoncepci\u00f3n de emergencia: se debe utilizar cuando falla otrom\u00e9todo. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8249794840812683
+        },
+        {
+            "text": "Tanto EVG/c como DRV potenciado con cobicistat o ritonavir (DRV/p) presentan la desventaja potencial de un mayor riesgo de interacciones, adem\u00e1s de no haber demostrado la no- inferioridad respecto a las pautas preferentes. DRV/r, de hecho, se mostr\u00f3 inferior a DTG y a RAL en sendos ensayos cl\u00ednicos abiertos. ",
+            "source": "ManualClinico, section 9.2.",
+            "_distance": 0.8523209691047668
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8593959808349609
+        },
+        {
+            "text": "Entre sus efectos secundarios est\u00e1n la inflamaci\u00f3n local (60-70%) con dolor y tumoraci\u00f3n con enfuvirtida, porque se administra por v\u00eda subcut\u00e1nea e infecciones respiratorias y riesgo de cardiopat\u00eda isqu\u00e9mica con MVC.  Inhibidores de la integrasa (InInt) Son raltegravir (RAL) y elvitegravir, este \u00faltimo no comercializado a\u00fan. Act\u00faan bloqueando la integrasa, enzima necesaria para unir los extremos reactivos del ADN viral al ADN celular. ",
+            "source": "manejo_paciente_vih_en_ap, section 16.0.",
+            "_distance": 0.8842898607254028
+        }
+    ],
+    "answer": "S\u00ed, el uso de cabotegravir y rilpivirina inyectable tiene menos probabilidades de causar efectos secundarios en el sistema nervioso central (SNC) en comparaci\u00f3n con algunos tratamientos orales.\n\nRazonamiento:\n\n1. Rilpivirina: Se menciona que el cambio a rilpivirina es una opci\u00f3n adecuada para pacientes que experimentan efectos adversos del sistema nervioso central (SNC) causados por efavirenz. Esto implica que la rilpivirina tiene un perfil m\u00e1s favorable en cuanto a efectos secundarios relacionados con el SNC.\n\n2. Cabotegravir: Aunque no se proporciona informaci\u00f3n espec\u00edfica sobre los efectos secundarios del cabotegravir en el texto, se sabe por contextos generales que los inhibidores de integrasa, como el cabotegravir, suelen tener perfiles de seguridad favorables con menos efectos secundarios neurol\u00f3gicos significativos en comparaci\u00f3n con algunas otras clases de antirretrovirales.\n\n3. Forma de administraci\u00f3n: La v\u00eda inyectable (parenteral) puede influir en la percepci\u00f3n subjetiva de los efectos secundarios, ya que los pacientes pueden no experimentar los mismos efectos gastrointestinales o neurol\u00f3gicos asociados con la absorci\u00f3n oral. Sin embargo, esta es una inferencia general y no se deriva directamente del texto proporcionado.\n\nConclusi\u00f3n basada en el conocimiento proporcionado:\nDadas las opciones de tratamiento mencionadas y los efectos secundarios asociados, el uso de cabotegravir y rilpivirina inyectable tendr\u00eda menos probabilidades de causar efectos secundarios en el sistema nervioso central en comparaci\u00f3n con tratamientos orales como el efavirenz, que se menciona espec\u00edficamente por sus efectos adversos en el SNC. Sin embargo, para una evaluaci\u00f3n completa y personalizada, siempre se recomienda consultar a un m\u00e9dico especialista. \n\nRespuesta ajustada a las instrucciones:\nS\u00ed, es probable que tenga menos probabilidades de causar efectos secundarios en el sistema nervioso central en comparaci\u00f3n con ciertos tratamientos orales espec\u00edficos mencionados (como el efavirenz). Para m\u00e1s informaci\u00f3n sobre su caso particular, consulta a tu m\u00e9dico."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo empiezo el tratamiento?\n",
+    "context_info": [
+        {
+            "text": " Particularidades terap\u00e9uticas El TAR debe recomendarse en todos los pacientes con infecci\u00f3n aguda. En los pacientes gravemente sintom\u00e1ticos, el inicio del TAR debe realizarse de forma inmediata, ya que acorta la duraci\u00f3n y gravedad de los s\u00edntomas. En el resto de pacientes debe iniciarse lo antes posible (menos de una semana). El inicio precoz se asocia al m\u00e1ximo beneficio inmunol\u00f3gico (alcanzar m\u00e1s de 900 linfocitos CD4/\u00b5L a los 3-5 a\u00f1os). ",
+            "source": "ManualClinico, section 4.7.",
+            "_distance": 0.9009031653404236
+        },
+        {
+            "text": " Cu\u00e1ndo iniciar tratamiento No existen estudios aleatorizados que nos digan cu\u00e1ndo debemos empezar el TAR en pacientes infectados por VIH-2. La decisi\u00f3n de iniciar TAR en pacientes asintom\u00e1ticos y con buenos CD4 no est\u00e1 clara ya que pueden permanecer largo tiempo sin tratamiento sin que se produzca inmunodepresi\u00f3n ni progresi\u00f3n cl\u00ednica . ",
+            "source": "ManualClinico, section 5.6.1.",
+            "_distance": 0.9159272909164429
+        },
+        {
+            "text": " El inicio r\u00e1pido del TAR (el mismo d\u00eda del diag n\u00f3stico o en la primera semana) incrementa la proporci\u00f3n de pacientes con supresi\u00f3n virol\u00f3gica.  Aun as\u00ed, es importante hacer una valoraci\u00f3n individualizada del momento adecuado para el inicio del TAR, teniendo en cuenta la disposici\u00f3n del paciente, fundamental para una adecuada adherencia. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.3.",
+            "_distance": 0.9546892046928406
+        },
+        {
+            "text": " En el caso de infecciones oportunistas (excepto TBC y criptococosis) se recomienda no demorar el inicio de TAR m\u00e1s de dos semanas tras el inicio del tratamiento de la infecci\u00f3n espec\u00edfica, para evitar la progresi\u00f3n cl\u00ednica y reducir la mortalidad, as\u00ed como prevenir la aparici\u00f3n del s\u00edndrome inflamatorio de respuesta inmune (SIRI).  TABLA 1: Cuando empezar el TAR en PVIH con infecciones oportunistas (adaptada de EACS Guidelines version 10.1, October 2020). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9585260152816772
+        },
+        {
+            "text": "3.3.1.2 Escenarios de tratamiento Tratamiento de inicio (en pacientes naive, sin exposici\u00f3n previa a TAR).  El TAR debe iniciarse en todos los pacientes con infecci\u00f3n por VIH-1, con o sin sintomatolog\u00eda, y con independencia del n\u00famero de CD4, para reducir la morbilidad y mortalidad asociadas al VIH, y para prevenir la transmisi\u00f3n (estudios START y TEMPRANO, HPTN 052, PARTNER). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.968190610408783
+        }
+    ],
+    "answer": "Claro, te proporcionar\u00e9 orientaci\u00f3n basada en el conocimiento especializado sobre el VIH que tengo:\n\nPara infecci\u00f3n aguda por VIH:\n- Pacientes gravemente sintom\u00e1ticos: El tratamiento antirretroviral (TAR) debe iniciarse de forma inmediata para acortar la duraci\u00f3n y gravedad de los s\u00edntomas.\n- Resto de pacientes con infecci\u00f3n aguda: Debe iniciarse lo antes posible, idealmente en menos de una semana, para asociar al m\u00e1ximo beneficio inmunol\u00f3gico a largo plazo.\n\nPara infecciones oportunistas (excepto TBC y criptococosis):\n- Se recomienda no demorar el inicio del TAR m\u00e1s de dos semanas despu\u00e9s del inicio del tratamiento espec\u00edfico para la infecci\u00f3n, para evitar progresi\u00f3n cl\u00ednica, reducir mortalidad y prevenir el s\u00edndrome inflamatorio de respuesta inmune (SIRI).\n\nPara pacientes asintom\u00e1ticos con buenos niveles de CD4:\n- La decisi\u00f3n de iniciar TAR no est\u00e1 clara debido a la falta de estudios aleatorizados. Se recomienda valoraci\u00f3n individualizada considerando la disposici\u00f3n del paciente para asegurar adherencia.\n\nEn general, para todos los pacientes con VIH-1 (con o sin sintomatolog\u00eda y independientemente del n\u00famero de CD4):\n- El TAR debe iniciarse para reducir morbilidad, mortalidad asociada al VIH y prevenir transmisi\u00f3n.\n\nRecuerda, es crucial una valoraci\u00f3n individualizada por un profesional de la salud para determinar el momento \u00f3ptimo para iniciar el tratamiento, considerando tus circunstancias espec\u00edficas y asegurando tu adherencia al mismo. Si tienes alguna inquietud adicional o necesitas m\u00e1s detalles sobre tu situaci\u00f3n particular, para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico."
+}

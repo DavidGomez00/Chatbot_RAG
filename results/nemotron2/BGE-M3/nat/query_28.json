@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento con rilpivirina puede provocar efectos secundarios neurol\u00f3gicos como mareos o problemas de equilibrio?\n",
+    "context_info": [
+        {
+            "text": " Alteraciones neurol\u00f3gicas Entre los f\u00e1rmacos asociados con alteraciones neurol\u00f3gicas destaca EFV; es su efecto adverso m\u00e1s frecuente y se caracteriza por mareos, inestabilidad, insomnio, sue\u00f1os vividos y fala de concentraci\u00f3n. Esta toxicidad aparece desde los primeros d\u00edas de tratamiento y en muchas ocasiones es limitante, obligando a retirar el f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.8165069222450256
+        },
+        {
+            "text": "Entre sus efectos secundarios m\u00e1s frecuentes est\u00e1n la hepatotoxicidad (NVP) y el mareo, insomnio, dificultad de concentraci\u00f3n y exantema con EFV. ETV aporta una alta barrera gen\u00e9tica y mejora la facilidad de los anteriores para inducir resistencias. RPV presenta una eficacia similar con una mejor tolerancia. ",
+            "source": "manejo_paciente_vih_en_ap, section 14.0.",
+            "_distance": 0.8390686511993408
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8698747158050537
+        },
+        {
+            "text": "Muchos otros medicamentos se han relacionado con efectos adversos neurol\u00f3gicos, como RPV y en general todos los f\u00e1rmacos de la familia de los INI; entre \u00e9stos, DTG y quiz\u00e1s tambi\u00e9n BIC, son los m\u00e1s asociados a estas alteraciones, en especial insomnio. En cada paciente debe valorarse individualmente cu\u00e1l es la importancia cl\u00ednica de esta toxicidad y la posible relaci\u00f3n causal con el f\u00e1rmaco; en el caso de que se considere probable esta asociaci\u00f3n debe valorarse la retirada del f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.8854610323905945
+        },
+        {
+            "text": "Su asociaci\u00f3n con RTV altera el metabolismo hep\u00e1tico, incrementando su concentraci\u00f3n y su semivida, lo que potencia su actividad y disminuye la frecuencia y la dosis de cada toma. Los efectos secundarios m\u00e1s habituales son gastrointestinales (diarrea), lipodistrofia y alteraciones metab\u00f3licas de los l\u00edpidos y de la glucosa. ",
+            "source": "manejo_paciente_vih_en_ap, section 15.0.",
+            "_distance": 0.8902795314788818
+        }
+    ],
+    "answer": "No response content"
+}

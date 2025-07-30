@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo puedo saber si tengo esteatosis hep\u00e1tica y qu\u00e9 s\u00edntomas debo vigilar?\n",
+    "context_info": [
+        {
+            "text": "En fase cr\u00f3nica se detecta por serolog\u00eda.  Estrongiloidiasis (Strongyloides stercolaris ). Helmintosis que puede cursar de forma cr\u00f3nica por su ciclo autoinfectivo. Suele ser asintom\u00e1tica u oligosintom\u00e1tica pero existe una forma grave de presentaci\u00f3n que es la hiperinfestaci\u00f3n. En el VIH puede aparecer como s\u00edndrome de reconstituci\u00f3n inmune. Est\u00e1 recomendado hacer cribado en pacientes que vienen de \u00e1rea end\u00e9mica o en los que tienen eosino filia. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8063579201698303
+        },
+        {
+            "text": "En nuestro medio, hasta un 25 % de los pacientes coinfectados por VIH/VHC y con erradicaci\u00f3n del VHC presenta cirrosis hep\u00e1tica. En estos pacientes, y probablemente tambi\u00e9n en pacientes curados en estadio F3, est\u00e1 indicado el cribado de hepatocarcinoma semestral mediante ecograf\u00eda u otra t\u00e9cnica de imagen. ",
+            "source": "ManualClinico, section 27.2.6.",
+            "_distance": 0.8289312124252319
+        },
+        {
+            "text": " La enfermedad hep\u00e1tica grasa asociada a enfermedad metab\u00f3lica (EHGMA) es un problema emergente en las PVIH. Por ello deber\u00eda realizarse un cribado anal\u00edtico incluyendo transaminasas y ecogr\u00e1fico en caso de que exista elevaci\u00f3n de \u00e9stas. Adem\u00e1s, deben tratarse en\u00e9rgicamente todos los procesos metab\u00f3licos que se asocian con la EHGMA, particularmente obesidad y DM2. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8314120769500732
+        },
+        {
+            "text": "En el 2-5% de los casos con cl\u00ednica hay manifestaciones extrahep\u00e1ticas, entre ellas destaca el s\u00edndrome de Guillain-Barr\u00e9 y la neuralgia amiotr\u00f3fica. El diagn\u00f3stico se basa en la detecci\u00f3n del ARN en suero o en la presencia de IgM con seroconversi\u00f3n de IgG. La positividad aislada de IgG no es diagn\u00f3stica. Se recomienda el cribado en personas con hepatitis aguda, con hepatitis cr\u00f3nica (especialmente en aquellas que presentan descompensaciones), o con enfermedad hep\u00e1tica de origen incierto. ",
+            "source": "ManualClinico, section 27.5.",
+            "_distance": 0.8326245546340942
+        },
+        {
+            "text": "La disfagia es el s\u00edntoma m\u00e1s frecuente, pero tambi\u00e9n pueden presentar odinofagia, n\u00e1useas, v\u00f3mitos y fiebre; en casos graves pueden cursar con hematemesis, melenas y signos de perforaci\u00f3n. No es infrecuente la formaci\u00f3n de estenosis o f\u00edstulas como complicaci\u00f3n evolutiva de las \u00falceras profundas que genera. En la enfermedad por CMV diseminada, la esofagitis puede acompa\u00f1arse de hepatitis, enteritis y colitis, cuyas manifestaciones cl\u00ednicas son dolor abdominal y diarrea. ",
+            "source": "ManualClinico, section 19.2.1.",
+            "_distance": 0.8329281806945801
+        }
+    ],
+    "answer": "No response content"
+}

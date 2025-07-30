@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 recursos o apoyo est\u00e1n disponibles para ayudarme a manejar los efectos secundarios del tratamiento en mi salud mental?\n",
+    "context_info": [
+        {
+            "text": "Motivaci\u00f3n y Derivaci\u00f3n al recurso adecuado.Favorecer un espacio adecuado de escucha, intimidad, seguridad, y confianza, gesti\u00f3n, reestructuraci\u00f3n cognitiva.Alternativas de ocio.Tratamiento de los trastornos por uso de sustancias y el sexo vinculado a drogas.Abordaje de otras \u00e1reas afectadas (personal, familiar, laboral...).Gesti\u00f3n emocional y conductual.Seguimiento.Alternativas de ocio.Derivaci\u00f3n y coordinaci\u00f3n con otros recursos. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6885883808135986
+        },
+        {
+            "text": "La permanencia en el plan terap\u00e9utico es cr\u00edtica para su eficacia. El counseling puede ser un componente esencial. Los f\u00e1rmacos son un elemento importante, si bien con eficacia variable seg\u00fan la droga. Los enfermos en los que coexista un trastorno mental deben, en general, recibir tratamiento para ambos problemas. La desintoxicaci\u00f3n es s\u00f3lo el primer paso del tratamiento de la adicci\u00f3n. ",
+            "source": "ManualClinico, section 25.3.3.",
+            "_distance": 0.7781222462654114
+        },
+        {
+            "text": "\u2022 Acci\u00f3n: el paciente decide modificar el comportamiento, el entorno y las circunstancias para abandonar su estilo de vida adictivo. \u2022 Mantenimiento: el paciente trabaja para evitar reca\u00eddas. c. Recursos y t\u00e9cnicas terap\u00e9uticas Los tratamientos se basan en terapias psicol\u00f3gicas y de apoyo individual, grupal y socio-familiar. El tratamiento farmacol\u00f3gico se ha demostrado eficaz fundamentalmente para la dependencia de alcohol y opioides. ",
+            "source": "ManualClinico, section 25.3.3.",
+            "_distance": 0.7887064814567566
+        },
+        {
+            "text": "La opci\u00f3n preferente de tratamiento son f\u00e1rmacos antipsic\u00f3ticos de segunda generaci\u00f3n (clozapina, risperidona, olanzapina, quetiapina, ziprasidona, etc.) (consultar Apartado b del Cap\u00edtulo 8 de este mismo documento para posibles interacciones farmacol\u00f3gicas ). ",
+            "source": "ManualClinico, section 25.2.4.",
+            "_distance": 0.8035934567451477
+        },
+        {
+            "text": " \u00bfC\u00f3mo se interviene?Informaci\u00f3n, orientaci\u00f3n y asesoramiento. Refuerzo de comportamientos protectores.Psicoeducaci\u00f3n.Identificaci\u00f3n de patr\u00f3n de uso problematico de drogas, y /o pr\u00e1cticas sexuales de riesgo.Diagn\u00f3stico de ITS, Hepatitis y VIH, y otras patolog\u00edas.Tratamiento de situaciones agudas: Infecciones y/o Intoxicaciones.Derivaci\u00f3n y coordinaci\u00f3n con otros recursos.Acompa\u00f1amiento. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8122092485427856
+        }
+    ],
+    "answer": "No response content"
+}

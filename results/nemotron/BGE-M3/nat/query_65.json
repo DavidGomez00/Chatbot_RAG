@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfPuede explicarme c\u00f3mo los tests de resistencia me ayudar\u00e1n a encontrar un tratamiento eficaz?\n",
+    "context_info": [
+        {
+            "text": "Tras identificar la causa, siendo la falta de cumplimiento la m\u00e1s frecuente, \u00e9sta deber\u00e1 ser corregida y si a pesar de ello no se consigue el control de la replicaci\u00f3n viral, se realizar\u00e1 un estudio de resistencias (el paciente debe estar tomando el TAR de forma regular, al menos durante 4 semanas, para que los resultados del estudio sean valorables). El estudio de resistencias nos permitir\u00e1 conocer los f\u00e1rmacos potencialmente activos para nuestro paciente. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.647384524345398
+        },
+        {
+            "text": "Existen test genot\u00edpicos y fenot\u00edpicos para determinar la presencia de resistencias a antirretrovirales. Para interpretar estas pruebas es necesario conocer la historia farmacol\u00f3gica y los fracasos virales y test de resistencias previos. Los algoritmos de interpretaci\u00f3n de las resistencias genot\u00edpicas son muy \u00fatiles para su interpretaci\u00f3n. ",
+            "source": "ManualClinico, section 8.1.",
+            "_distance": 0.6986283659934998
+        },
+        {
+            "text": "A pesar de que cada vez se cuestiona m\u00e1s la utilidad de los test de resistencias basales en los nuevos diagn\u00f3sticos con infecci\u00f3n cr\u00f3nica, o con fecha desconocida de la infecci\u00f3n, todas las gu\u00edas de pr\u00e1ctica cl\u00ednica recomiendan realizar un ensayo para la determinaci\u00f3n de resistencias basales en la infecci\u00f3n aguda. ",
+            "source": "ManualClinico, section 4.6.",
+            "_distance": 0.705694317817688
+        },
+        {
+            "text": "En estos pacientes el objetivo debe ser conseguir disminuir la carga viral y evitar la transmisi\u00f3n, por lo que poder anticipar el fracaso del tratamiento es fundamental, lo que justifica plenamente la investigaci\u00f3n de resistencias transmitidas mediante la determinaci\u00f3n de una prueba genot\u00edpica de resistencias , que tambi\u00e9n puede determinar el subtipo viral. ",
+            "source": "ManualClinico, section 4.6.",
+            "_distance": 0.7235770225524902
+        },
+        {
+            "text": "Si la carga viral es mayor de 200 copias entonces suele ser factible realizar una prueba genot\u00edpica de resistencias. Esta prueba debe hacerse mientras que el paciente a\u00fan recibe el TAR que est\u00e1 fracasando o como m\u00e1ximo cuatro semanas despu\u00e9s de haberlo discontinuado. Si esta prueba genot\u00edpica de resistencias no encuentra mutaciones es probable que la causa del fracaso sea la mala adherencia al TAR. Si existen resistencias entonces resulta obligado el cambio a un nuevo TAR sin resistencias cruzadas. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.7690905928611755
+        }
+    ],
+    "answer": "Claro, con gusto te explico c\u00f3mo los tests de resistencia pueden ayudarte a encontrar un tratamiento eficaz contra el VIH:\n\nProp\u00f3sito de los tests de resistencia:\nLos tests de resistencia (genot\u00edpicos o fenot\u00edpicos) tienen como objetivo identificar si el virus del VIH ha desarrollado mutaciones que lo hacen resistente a ciertos medicamentos antirretrovirales (ARV).\n\nC\u00f3mo funcionan para encontrar un tratamiento eficaz:\n\n1. Identificaci\u00f3n de resistencias: Cuando se realiza un test de resistencia, se analiza el material gen\u00e9tico del virus para detectar mutaciones espec\u00edficas conocidas por conferir resistencia a determinados ARV.\n2. Informe de resistencias: El resultado del test proporciona un informe detallado sobre las mutaciones encontradas y los f\u00e1rmacos a los que el virus puede ser resistente.\n3. Selecci\u00f3n de tratamiento adecuado:\n   - Si no hay resistencias detectadas, pero el tratamiento actual est\u00e1 fallando, se sugiere revisar la adherencia al tratamiento o explorar otras causas de fracaso.\n   - Si se identifican resistencias, el informe gu\u00eda a tu m\u00e9dico para seleccionar un nuevo r\u00e9gimen de Tratamiento Antirretroviral (TAR) que incluya f\u00e1rmacos a los cuales el virus no ha desarrollado resistencia. Esto se logra evitando los medicamentos con \"resistencias cruzadas\", es decir, aquellos a los que el virus tambi\u00e9n podr\u00eda ser resistente debido a las mutaciones detectadas.\n4. Objetivo final: El tratamiento ajustado seg\u00fan los resultados del test de resistencia tiene como objetivo principal reducir la carga viral a niveles indetectables, mejorar tu salud general y prevenir la transmisi\u00f3n del virus.\n\nImportante recordar:\n- Para que el test de resistencia sea v\u00e1lido, es crucial que est\u00e9s tomando el tratamiento actual de forma regular durante al menos 4 semanas antes de la prueba o que se realice a m\u00e1s tardar 4 semanas despu\u00e9s de haber suspendido el tratamiento.\n- La interpretaci\u00f3n de estos tests debe ser realizada por profesionales de la salud especializados, quien considerar\u00e1 tu historia farmacol\u00f3gica y antecedentes de fracasos virales previos."
+}

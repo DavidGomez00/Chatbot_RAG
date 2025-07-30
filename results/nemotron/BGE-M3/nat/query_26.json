@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEs seguro tomar dolutegravir si tengo antecedentes de trastornos neurol\u00f3gicos, como depresi\u00f3n o ansiedad?\n",
+    "context_info": [
+        {
+            "text": "En estos casos, se recomienda utilizar m\u00e9todos anticonceptivos alternativos para prevenir los embarazos no deseados o cambio del TAR. Datos recientes indican un aumento de la incidencia de defectos del tubo neural en madres expuestas a dolutegravir (DTG) en el momento de la concepci\u00f3n comparado con madres expuestas a tratamientos sin DTG (0,3% frente a 0,1%). ",
+            "source": "ManualClinico, section 31.1.1.",
+            "_distance": 0.7891369462013245
+        },
+        {
+            "text": "En estos pacientes se deben excluir otras polineuropat\u00edas como la infecci\u00f3n por virus de la hepatitis C (VHC), s\u00edfilis, d\u00e9ficits de vitamina B12 y/o \u00e1cido f\u00f3lico, diabetes, patolog\u00eda tiroidea\u2026 El TAR debe iniciarse en todos los pacientes con infecci\u00f3n por VIH, con o sin sintomatolog\u00eda, y con independencia del n\u00famero de linfocitos CD4+, su uso parece reducir el riesgo de PDNS. Si se administra un f\u00e1rmaco potencialmente neurot\u00f3xico (d4T,ddI) se debe suspender y sustituir siempre que sea posible. ",
+            "source": "ManualClinico, section 23.2.3.",
+            "_distance": 0.8311168551445007
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8407446146011353
+        },
+        {
+            "text": " Antecedentes familiares de enfermedades metab\u00f3licas (Diabetes mellitus tipo II (DM2), cardiovasculares, dislipemias) o tumorales.  Trastornos cognitivos y neurol\u00f3gicos.  Calidad de vida del paciente y h\u00e1bitos t\u00f3xicos (tabaquismo, alcohol, etc.). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.3.",
+            "_distance": 0.843761682510376
+        },
+        {
+            "text": " No utilizar en VHB cr\u00f3nica.* * En mujeres que deseen quedarse embarazadas o mujeres en edad f\u00e9rtil que no utilicen medidas anticonceptivas eficaces (preconcepci\u00f3n) debe informarse sobre el riesgo de defectos de tubo neural observado en algunos estudios en \u00c1frica con dolutegravir Tratamiento de rescate (fracaso del TAR).  El FV se define como la presencia de 2 cargas virales superiores a 50 copias/ml 24 semanas despu\u00e9s de haberse iniciado el TAR. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8447654247283936
+        }
+    ],
+    "answer": "Seguridad de Dolutegravir con Antecedentes de Trastornos Neurol\u00f3gicos\n\nConsiderando tus antecedentes de trastornos neurol\u00f3gicos, como depresi\u00f3n o ansiedad, y el uso de dolutegravir (DTG) en el tratamiento del VIH, hay algunos aspectos a tener en cuenta:\n\n1. Efectos Adversos del Sistema Nervioso Central (SNC): Dolutegravir, al igual que otros antirretrovirales, puede ocasionalmente causar efectos adversos relacionados con el SNC, aunque estos son m\u00e1s com\u00fanmente asociados con otros f\u00e1rmacos como la efavirenz.\n\n2. Depresi\u00f3n y Ansiedad: Aunque DTG no est\u00e1 espec\u00edficamente contraindicado en pacientes con antecedentes de depresi\u00f3n o ansiedad, es crucial monitorear cualquier cambio en tu estado emocional o cognitivo durante el tratamiento. Los estudios han mostrado que la mayor\u00eda de los efectos adversos neuropsiqui\u00e1tricos asociados con DTG son leves a moderados y generalmente se resuelven sin necesidad de ajustar el tratamiento.\n\n3. Recomendaciones:\n   - Monitoreo Cuidadoso: Tu m\u00e9dico debe realizar un seguimiento regular de tus trastornos neurol\u00f3gicos existentes para evaluar cualquier potencial empeoramiento o aparici\u00f3n de nuevos s\u00edntomas.\n   - Comunicaci\u00f3n Abierta: Es esencial que mantengas una comunicaci\u00f3n abierta con tu m\u00e9dico sobre cualquier cambio en tu estado de \u00e1nimo, s\u00edntomas de ansiedad o otros trastornos neurol\u00f3gicos.\n   - No Suspensi\u00f3n Autom\u00e1tica: La presencia de antecedentes de depresi\u00f3n o ansiedad por s\u00ed sola no justifica la suspensi\u00f3n de DTG. Cualquier decisi\u00f3n sobre ajustes en el tratamiento debe basarse en una evaluaci\u00f3n individualizada de los riesgos y beneficios.\n\nConclusi\u00f3n:\nEl uso de dolutegravir en pacientes con antecedentes de trastornos neurol\u00f3gicos como la depresi\u00f3n o la ansiedad puede ser seguro bajo monitoreo m\u00e9dico adecuado. Es crucial mantener una comunicaci\u00f3n abierta con tu equipo de salud para gestionar cualquier efecto adverso potencial y ajustar el tratamiento seg\u00fan sea necesario.\n\nPara una evaluaci\u00f3n personalizada, te recomiendo consultar a tu m\u00e9dico especialista en VIH, quien podr\u00e1 ofrecerte orientaci\u00f3n espec\u00edfica basada en tu historial cl\u00ednico completo y necesidades individuales."
+}

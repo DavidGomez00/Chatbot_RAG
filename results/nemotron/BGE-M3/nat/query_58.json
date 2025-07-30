@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 consecuencias tiene que mi tratamiento fracase?\n",
+    "context_info": [
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7115432024002075
+        },
+        {
+            "text": "\u2022Fracaso cl\u00ednico, progresi\u00f3n de la enfermedad, debe excluirse de \u00e9ste supuesto: los cuadros de reconstituci\u00f3n inmunol\u00f3gica tras iniciar el TAR, procesos secundarios al da\u00f1o sobre \u00f3rganos que condicion\u00f3 previamente el VIH. As\u00ed mismo antes de confirmar que estamos ante un fracaso cl\u00ednico del TAR, deben descartarse otras causas concomitantes tales como infecciones (tuberculosis), neoplasias o la malnutrici\u00f3n. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7388091683387756
+        },
+        {
+            "text": "El cl\u00ednico debe evaluar los condicionantes del fracaso identificando causas de mala adherencia, buscar posibles errores de dosificaci\u00f3n o interacciones significativas. Hay que intentar pautar un TAR c\u00f3modo, bien tolerado, de escasa toxicidad teniendo en cuenta las comorbilidades del paciente. Es preciso tambi\u00e9n hacer una historia detallada de todos los reg\u00edmenes TAR previos determinando si ha habido cambios por fracasos virol\u00f3gicos o por toxicidad/tolerabilidad. ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 0.7478297352790833
+        },
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7552512288093567
+        },
+        {
+            "text": "Puede tener como consecuencias: desgarros anales, priapismo\u2026; sexo menos seguro (infecciones de transmisi\u00f3n sexual); toxicidad de las drogas; interacciones con los f\u00e1rmacos antirretrovirales y mala adherencia; paranoia, psicosis, bloqueos, p\u00e9rdida de conocimiento, amnesia, despersonalizaci\u00f3n, \u2026; infecciones relacionadas con el consumo intravenoso; imposibilidad de practicar sexo sin ChemSex ; alteraci\u00f3n de la vida, tanto a nivel personal como profesional. ",
+            "source": "ManualClinico, section 25.3.4.",
+            "_distance": 0.7780138850212097
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, si tu tratamiento antirretroviral (TAR) fracasa, puede tener varias consecuencias importantes. A continuaci\u00f3n, te presento algunas de ellas:\n\nConsecuencias relacionadas con la salud:\n\n1. Desgarros anales: Pueden ocurrir debido a una disminuci\u00f3n en la respuesta inmune.\n2. Priapismo: Un trastorno raro que causa erecciones prolongadas y dolorosas, potencialmente relacionado con interacciones medicamentosas o efectos secundarios del tratamiento fallido.\n3. Infecciones de transmisi\u00f3n sexual (ITS): Un mayor riesgo debido a pr\u00e1cticas sexuales menos seguras, posiblemente influenciadas por el fracaso del tratamiento.\n4. Infecciones relacionadas con consumo intravenoso: Si el paciente consume drogas de manera insegura, aumenta el riesgo de contraer infecciones.\n\nConsecuencias relacionadas con la adherencia y efectos secundarios:\n\n1. Toxicidad de las drogas: El fracaso del tratamiento puede exacerbar los efectos secundarios nocivos de los medicamentos.\n2. Interacciones con f\u00e1rmacos antirretrovirales: Problemas con otros tratamientos o medicaciones que pueden interactuar negativamente con el TAR fallido.\n3. Mala adherencia: Un ciclo vicioso donde el fracaso del tratamiento lleva a una menor adherencia, empeorando a\u00fan m\u00e1s la situaci\u00f3n.\n\nConsecuencias psicosociales y de estilo de vida:\n\n1. Paranoia, psicosis, bloqueos, p\u00e9rdida de conocimiento, amnesia, despersonalizaci\u00f3n: Problemas psicol\u00f3gicos o neurol\u00f3gicos que pueden surgir o agravarse debido al estr\u00e9s del fracaso del tratamiento o al consumo de sustancias.\n2. Alteraci\u00f3n de la vida personal y profesional: El impacto del fracaso del tratamiento en la calidad de vida, relaciones y productividad laboral.\n3. Imposibilidad de practicar sexo sin ChemSex (uso de drogas para facilitar o mejorar el sexo): Un patr\u00f3n de comportamiento que puede perpetuarse o empeorar con el fracaso del tratamiento.\n\nEs crucial abordar estas consecuencias con un profesional de la salud. Para manejar adecuadamente el fracaso de tu tratamiento y mitigar estas consecuencias, te recomiendo consultar a tu m\u00e9dico especialista en VIH lo antes posible."
+}

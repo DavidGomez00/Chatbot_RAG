@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfEl VIH tiene cura o las personas con VIH pueden curarse con tratamiento?\n",
+    "query": "\u00bfC\u00f3mo puedo saber si tengo esteatosis hep\u00e1tica y qu\u00e9 s\u00edntomas debo vigilar?\n",
     "context_info": [
         {
-            "text": "En ausencia de curaci\u00f3n definitiva o erradicaci\u00f3n, puede conseguirse una cura funcional o remisi\u00f3n biol\u00f3gica si se consigue controlar la viremia plasm\u00e1tica en ausencia de TAR, a pesar de que no se haya conseguido erradicar por completo el VIH en c\u00e9lulas latentes, donde se puede mantener integrado. ",
-            "source": "ManualClinico, section 9.8.3.",
-            "_distance": 0.6417102813720703
+            "text": "La elastograf\u00eda hep\u00e1tica, es el m\u00e9todo de elecci\u00f3n para la valoraci\u00f3n no invasiva del da\u00f1o hep\u00e1tico EASL-ALEH Clinical Practice Guidelines: Non-invasive tests for evaluation of liver disease severity and prognosis En presencia de una elevaci\u00f3n importante de las transaminasas, la evaluaci\u00f3n es menos precisa y puede sobrestimar el da\u00f1o. Se han desarrollado tambi\u00e9n t\u00e9cnicas adaptadas a ecograf\u00eda est\u00e1ndar y a resonancia magn\u00e9tica nuclear. ",
+            "source": "ManualClinico, section 27.3.3.",
+            "_distance": 1.1867804527282715
         },
         {
-            "text": " Tratamiento El manejo del paciente infectado por VIH-2 no est\u00e1 tan claro como en el caso del paciente infectado por VIH-1. El hecho de que sea un virus minoritario en pa\u00edses del primer mundo hace que tengamos mucha menos evidencia tanto sobre el momento de empezar tratamiento como sobre con qu\u00e9 f\u00e1rmacos tratar. ",
-            "source": "ManualClinico, section 5.6.",
-            "_distance": 0.7101424932479858
+            "text": " 5.Pacientes con VIH y cirrosis hep\u00e1tica (de cualquier etiolog\u00eda) y aquellos con infecci\u00f3n por el VHB y un riesgo estimado de CHC mayor del 0,2% anual, deben ser examinadosmediante una ecograf\u00eda hep\u00e1tica semestral ( I-A). 3.4.5 Alteraciones neuropsiqui\u00e1tricas en la infecci\u00f3n VIH La infecci\u00f3n por el VIH puede incrementar el riesgo de enfermedad psiqui\u00e1trica y a su vez la enfermedad psiqui\u00e1trica es un factor de riesgo para la adquisici\u00f3n de la infecci\u00f3n por el VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 1.2117193937301636
         },
         {
-            "text": "Aunque hay pruebas de concepto que han conseguido la curaci\u00f3n definitiva de la infecci\u00f3n por VIH (trasplante heter\u00f3logo de m\u00e9dula \u00f3sea con delecci\u00f3n de CCR5 con quimerismo completo, asociado a quimio y/o radioterapia) su mortalidad es elevada y no est\u00e1n indicadas ni son escalables a la poblaci\u00f3n que recibe TAR y se mantiene asintom\u00e1tica. ",
-            "source": "ManualClinico, section 9.8.3.",
-            "_distance": 0.7276071906089783
+            "text": " La enfermedad hep\u00e1tica grasa asociada a enfermedad metab\u00f3lica (EHGMA) es un problema emergente en las PVIH. Por ello deber\u00eda realizarse un cribado anal\u00edtico incluyendo transaminasas y ecogr\u00e1fico en caso de que exista elevaci\u00f3n de \u00e9stas. Adem\u00e1s, deben tratarse en\u00e9rgicamente todos los procesos metab\u00f3licos que se asocian con la EHGMA, particularmente obesidad y DM2. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 1.2212550640106201
         },
         {
-            "text": "El tratamiento precoz no s\u00f3lo proporciona beneficio en la salud individual de la persona que lo recibe, sino que beneficia a la sociedad ya que las personas con supresi\u00f3n viral prolongada del VIH no pueden transmitir la infecci\u00f3n a otras personas, incluso en el contexto de pr\u00e1cticas sexuales o de inyecci\u00f3n de riesgo, o en el caso de la transmisi\u00f3n vertical. ",
-            "source": "ManualClinico, section 11.2.",
-            "_distance": 0.7327225804328918
+            "text": " TAR en pacientes con hepatopat\u00eda Las principales causas de da\u00f1os hep\u00e1tico en los pacientes con infecci\u00f3n por VIH son las coinfecciones por VHC y por VHB. Con la menor prevalencia de hepatitis v\u00edricas, la esteatosis/ esteatohepatitis no alcoh\u00f3lica est\u00e1 cobrando cada vez mayor relevancia. ",
+            "source": "ManualClinico, section 9.6.3.",
+            "_distance": 1.2231050729751587
         },
         {
-            "text": " Tratamiento como prevenci\u00f3n Sin duda, el diagn\u00f3stico de las personas infectadas por VIH y su tratamiento lo m\u00e1s precoz posible es la estrategia en la que m\u00e1s merece la pena invertir esfuerzos y recursos, si se pretende controlar realmente la epidemia. ",
-            "source": "ManualClinico, section 11.2.",
-            "_distance": 0.7369884252548218
+            "text": "S\u00edndromes/s\u00edntomas potencialmente relacionados con el VIH o el TAR, antes de solicitarse una valoraci\u00f3n a otros especialistas: gastrointestinal (diarrea, n\u00e1useas y v\u00f3mitos, flatulencia), neuropsiqui\u00e1trico (cefalea, mareo, insomnio, irritabilidad, depresi\u00f3n), metab\u00f3lico (dislipemia, resistencia a la insulina, aumento de peso, lipodistrofia\u2026), nefrol\u00f3gicos (deterioro de la funci\u00f3n renal...). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.3.",
+            "_distance": 1.231619119644165
         }
     ],
-    "answer": "Seg\u00fan mi conocimiento especializado en VIH, actualmente no existe una cura definitiva para el Virus de Inmunodeficiencia Humana (VIH). Sin embargo, es posible alcanzar lo que se denomina \"cura funcional\" o \"remisi\u00f3n biol\u00f3gica\".\n\n Esto significa que, aunque el virus no se erradica por completo del cuerpo (persistiendo en c\u00e9lulas latentes), es posible controlar la viremia plasm\u00e1tica (la cantidad de virus en sangre) mediante tratamiento antirretroviral (TAR). Este control permite a las personas con VIH vivir sin progresi\u00f3n de la enfermedad y sin desarrollar SIDA, manteni\u00e9ndose asintom\u00e1ticas.\n\nEs importante destacar que:\n\n   No se ha erradicado el virus: Aunque no haya s\u00edntomas, el virus permanece en c\u00e9lulas latentes.\n   Tratamiento continuo es necesario: Para mantener la remisi\u00f3n biol\u00f3gica, es crucial seguir el tratamiento antirretroviral de por vida.\n\nEn resumen, aunque no hay una \"cura\" en el sentido tradicional, el tratamiento adecuado puede llevar a una \"cura funcional\", permitiendo a las personas con VIH vivir vidas largas y saludables sin transmitir el virus a otros, siempre y cuando mantengan la supresi\u00f3n viral prolongada."
+    "answer": "Diagn\u00f3stico de Esteatosis Hep\u00e1tica en Pacientes con VIH:\n\nLa esteatosis hep\u00e1tica, tambi\u00e9n conocida como enfermedad hep\u00e1tica grasa (EHG), puede ser m\u00e1s prevalente en pacientes con infecci\u00f3n por VIH debido a factores como la terapia antirretroviral (TAR) y comorbilidades metab\u00f3licas. Para detectar la esteatosis hep\u00e1tica, se recomienda:\n\n1. Cribado Anal\u00edtico: Se deben realizar an\u00e1lisis de sangre para evaluar los niveles de:\n\t Transaminasas (ALT y AST): Elevaciones pueden indicar da\u00f1o hep\u00e1tico.\n2. Ecograf\u00eda Hep\u00e1tica: En caso de elevaci\u00f3n de transaminasas o factores de riesgo para EHG (obesidad, diabetes tipo 2, dislipemia), se recomienda una ecograf\u00eda hep\u00e1tica para visualizar el h\u00edgado y detectar posibles signos de esteatosis.\n\nS\u00edntomas a Vigilar (aunque la enfermedad puede ser asintom\u00e1tica en etapas tempranas):\n\n- Gastrointestinales:\n\t+ N\u00e1useas\n\t+ V\u00f3mitos\n\t+ Flatulencia\n\t+ Diarrea o estre\u00f1imiento\n- Generales:\n\t+ Fatiga\n\t+ P\u00e9rdida de apetito\n\t+ Dolor en la parte superior derecha del abdomen (menos com\u00fan)\n- S\u00edntomas Avanzados (en casos de progresi\u00f3n a esteatohepatitis no alcoh\u00f3lica o cirrosis):\n\t+ Ictericia (color amarillo en piel y ojos)\n\t+ Ascitis (acumulaci\u00f3n de l\u00edquido en el abdomen)\n\t+ Enrojecimiento de las palmas de las manos\n\t+ Hemorragias nasales o gingivales debido a alteraciones de coagulaci\u00f3n\n\nAcciones Recomendadas:\n\n- Consulta M\u00e9dica: Si presenta alguno de los s\u00edntomas mencionados o tiene factores de riesgo para EHG, consulte a su m\u00e9dico para una evaluaci\u00f3n y posibles pruebas diagn\u00f3sticas.\n- Estilo de Vida Saludable:\n\t+ Mantenga un peso saludable.\n\t+ Realice actividad f\u00edsica regular.\n\t+ Siga una dieta equilibrada baja en grasas saturadas y az\u00facares a\u00f1adidos.\n\t+ Evite el consumo excesivo de alcohol.\n\nRecuerde, la prevenci\u00f3n y el diagn\u00f3stico temprano son clave para el manejo efectivo de la esteatosis hep\u00e1tica. Para m\u00e1s detalles espec\u00edficos sobre su caso, consulta a tu m\u00e9dico."
 }

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo se recomienda hacer un Estudio de resistencias en personas con VIH?\n",
+    "context_info": [
+        {
+            "text": "En los menores de 3 a\u00f1os, adolescentes sexualmente activos y ni\u00f1os con manifestaciones cl\u00ednicas asociadas al VIH y/o bajo recuento de linfocitos CD4+ para la edad, debe ser iniciado sin demora. Antes de iniciar el tratamiento es necesario valorar las caracter\u00edsticas de cada paciente, su potencial adherencia, la capacidad para tomar comprimidos, otras coinfecciones. Deber\u00e1n disponerse de un estudio de resistencias (resistencias transmitidas o producidas tras la exposici\u00f3n a antirretrovirales). ",
+            "source": "ManualClinico, section 33.3.",
+            "_distance": 0.5641916990280151
+        },
+        {
+            "text": "Se debe recomendar la prueba especialmente en las siguientes situaciones que presentan una mayor probabilidad de infecci\u00f3n: - Personas con pr\u00e1cticas de riesgo: UDI, HSH, personas con m\u00faltiples contactos sexuales o que ejercen la prostituci\u00f3n, personas que hayan tenido contacto sexual con infectados por VIH o con aquellas que han tenido riesgo de contraer la infecci\u00f3n, agresiones sexuales y exposici\u00f3n accidental o no accidental. ",
+            "source": "manejo_paciente_vih_en_ap, section 6.1.",
+            "_distance": 0.6122537851333618
+        },
+        {
+            "text": "En el caso de existir fracaso terap\u00e9utico se debe construir un nuevo r\u00e9gimen utilizando f\u00e1rmacos previamente no usados, teniendo en cuenta el estudio de resistencias. Ahora bien, son pocos los laboratorios que tiene desarrollado el test para amplificar el VIH-2 y monitorizar sus mutaciones. No existen t\u00e9cnicas diagn\u00f3sticas de resistencias frente al VIH-2 comercializadas y se hacen en un \u00e1mbito de investigaci\u00f3n. ",
+            "source": "ManualClinico, section 5.6.3.",
+            "_distance": 0.6670881509780884
+        },
+        {
+            "text": " Cuando la mujer se considera de riesgo (pareja VIH+, m\u00faltiples parejas, consumo de drogas, enfermedades de transmisi\u00f3n sexual) se recomienda repetir la prueba de VIH en el tercer trimestre.  En mujeres que llegan al parto sin saber la serolog\u00eda VIH es obligado hacer una prueba r\u00e1pida de VIH cuanto antes. 2. Concepci\u00f3n en parejas serodiscordantes para evitar la transmisi\u00f3n sexual. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6695235371589661
+        },
+        {
+            "text": "En los estudios realizados, el desarrollo de resistencias ha sido excepcional entre receptores de PrEP que posteriormente adquirieron la infecci\u00f3n por VIH, demostr\u00e1ndose que la mayor\u00eda de casos de resistencias se produjeron en personas que iniciaron la PrEP estando ya infectadas. Se desconoce c\u00f3mo puede afectar en la aparici\u00f3n de resistencias la implementaci\u00f3n de la PrEP a gran escala y largo plazo, por lo que deber\u00e1 establecerse un sistema de monitorizaci\u00f3n de \u00e9stas. ",
+            "source": "ManualClinico, section 11.3.4.",
+            "_distance": 0.6698439121246338
+        }
+    ],
+    "answer": "Se recomienda realizar un estudio de resistencias en las siguientes situaciones:\n\n1. Antes de iniciar el tratamiento antirretroviral: Es necesario valorar las caracter\u00edsticas de cada paciente, pero espec\u00edficamente, se debe disponer de un estudio de resistencias para identificar posibles resistencias transmitidas o producidas tras la exposici\u00f3n a antirretrovirales.\n\n2. En caso de fracaso terap\u00e9utico: Si ocurre un fracaso en el tratamiento actual, se debe construir un nuevo r\u00e9gimen utilizando f\u00e1rmacos previamente no usados, teniendo en cuenta el estudio de resistencias para seleccionar los medicamentos m\u00e1s adecuados.\n\nNota importante: Es relevante mencionar que, aunque no se pregunta expl\u00edcitamente, este tipo de estudios est\u00e1n principalmente desarrollados y disponibles para el VIH-1. Para el VIH-2, las t\u00e9cnicas diagn\u00f3sticas de resistencias no est\u00e1n comercializadas y su an\u00e1lisis se lleva a cabo en un \u00e1mbito de investigaci\u00f3n, con pocos laboratorios capacitados para amplificar y monitorizar sus mutaciones."
+}

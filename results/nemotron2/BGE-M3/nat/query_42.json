@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo puede empezar con el tratamiento que es pinchado cada dos meses?\n",
+    "context_info": [
+        {
+            "text": " En el caso de infecciones oportunistas (excepto TBC y criptococosis) se recomienda no demorar el inicio de TAR m\u00e1s de dos semanas tras el inicio del tratamiento de la infecci\u00f3n espec\u00edfica, para evitar la progresi\u00f3n cl\u00ednica y reducir la mortalidad, as\u00ed como prevenir la aparici\u00f3n del s\u00edndrome inflamatorio de respuesta inmune (SIRI).  TABLA 1: Cuando empezar el TAR en PVIH con infecciones oportunistas (adaptada de EACS Guidelines version 10.1, October 2020). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8784582018852234
+        },
+        {
+            "text": " Particularidades terap\u00e9uticas El TAR debe recomendarse en todos los pacientes con infecci\u00f3n aguda. En los pacientes gravemente sintom\u00e1ticos, el inicio del TAR debe realizarse de forma inmediata, ya que acorta la duraci\u00f3n y gravedad de los s\u00edntomas. En el resto de pacientes debe iniciarse lo antes posible (menos de una semana). El inicio precoz se asocia al m\u00e1ximo beneficio inmunol\u00f3gico (alcanzar m\u00e1s de 900 linfocitos CD4/\u00b5L a los 3-5 a\u00f1os). ",
+            "source": "ManualClinico, section 4.7.",
+            "_distance": 0.9255077838897705
+        },
+        {
+            "text": "Si no es posible, se recomienda la combinaci\u00f3n de 2 plenamente activos y si es posible otros que conserven actividad virol\u00f3gica parcial. El objetivo de la nueva pauta es conseguir la supresi\u00f3n virol\u00f3gica en 6 meses. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9261839985847473
+        },
+        {
+            "text": "Si se usa TDF, realizar 1 y 3 meses despu\u00e9s de haberse iniciado el tratamiento y posteriormente cada 6 meses. Si DM2 o HTA, determinar adem\u00e1s microalbuminuria y cociente alb\u00famina/creatinina en muestra aislada de orina.  4. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9340770244598389
+        },
+        {
+            "text": "En pacientes con osteoporosis se recomienda repetir la DMO tras el primer a\u00f1o de tratamiento y cada 2-3 a\u00f1os posteriormente. ",
+            "source": "ManualClinico, section 2.5.",
+            "_distance": 0.9403697848320007
+        }
+    ],
+    "answer": "No response content"
+}

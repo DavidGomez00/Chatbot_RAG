@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo manejan las interacciones entre mis anticonceptivos y mi tratamiento antirretroviral?",
+    "context_info": [
+        {
+            "text": "Es fundamental el manejo de las interacciones con el tratamiento antirretroviral (consultar Apartado b del Cap\u00edtulo 8 de este mismo documento para posibles interacciones farmacol\u00f3gicas ). ",
+            "source": "ManualClinico, section 25.3.3.",
+            "_distance": 0.606031060218811
+        },
+        {
+            "text": "El principal h\u00e1ndicap del tratamiento antirretroviral son sus posibles interacciones, ya sea con f\u00e1rmacos concomitantes que se usen durante el viaje, como con la quimioprofilaxis de algunas enfermedades como el paludismo. Conviene tambi\u00e9n tener en cuenta el creciente uso y las posibles interacciones derivadas de la medicina alternativa, las plantas medicinales y los complementos alimentarios HIV Drug Interactions . ",
+            "source": "ManualClinico, section 29.2.2.",
+            "_distance": 0.6582801342010498
+        },
+        {
+            "text": "Si se decide usar los anticonceptivos hormonales se deben tener en cuenta las interacciones con el tratamiento antirretroviral, para asegurar la seguridad y eficacia. Las integrasas no potenciadas como el Raltegravir, Dolutegravir o Bictegravir, o, entre los An\u00e1logos no nucleosidos inhibidores de la transcriptasa Inversa, aquellos que no modifican al CYP3A4 (rilpivirina, doravirina), son los m\u00e1s seguros. Para m\u00e1s detalles consultar las paginas espec\u00edficas de interacciones. ",
+            "source": "ManualClinico, section 30.2.3.",
+            "_distance": 0.6917666792869568
+        },
+        {
+            "text": "Se pueden consultar en el cap\u00edtulo de interacciones y polifarmacia de este documento(apartado 3.3.2) o webs o Apps como http://www.interaccionesvih.com/.Como resumen, no hay interacciones importantes entre los f\u00e1rmacosanticonceptivos y la doravirina, rilpivirina, ITIAN, raltegravir, dolutegraviry bictegravir.- Anticoncepci\u00f3n de emergencia: se debe utilizar cuando falla otrom\u00e9todo. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7118848562240601
+        },
+        {
+            "text": " - Los tratamientos con f\u00e1rmacos para otros procesos deben tener en cuenta las frecuentes interacciones con la medicaci\u00f3n antirretroviral.  - Tambi\u00e9n se debe investigar la presencia de factores que dificulten la adherencia al tratamiento antiviral y ayudar, en lo posible, a neutralizarlos. En caso de abandono del tratamiento, se debe derivar de nuevo al paciente a la unidad de atenci\u00f3n especializada para reiniciar el tratamiento de rescate. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.7701748609542847
+        }
+    ],
+    "answer": "Excelente pregunta! Manejar las interacciones entre anticonceptivos y tratamiento antirretroviral es crucial para asegurar tanto la eficacia del control del VIH como la efectividad de la planificaci\u00f3n familiar. Aqu\u00ed te presento una gu\u00eda precisa basada en mi conocimiento especializado:\n\n### 1. Identificar el Tipo de Tratamiento Antirretroviral:\n- Integrasas no potenciadas: Son las m\u00e1s seguras con anticonceptivos hormonales. Ejemplos incluyen:\n  - Raltegravir\n  - Dolutegravir\n  - Bictegravir\n\n- An\u00e1logos no nucle\u00f3sidos inhibidores de la transcriptasa inversa (NNRTIs) que no modifican el CYP3A4:\n  - Rilpivirina\n  - Doravirina\n\nEstos f\u00e1rmacos tienen menos probabilidades de interactuar adversamente con anticonceptivos hormonales.\n\n### 2. Conocer las Interacciones con Anticonceptivos Hormonales:\n- Interacciones Menos Problem\u00e1ticas: No hay interacciones importantes reportadas entre:\n  - Doravirina, Rilpivirina, ITIAN (si aplica), Raltegravir, Dolutegravir y Bictegravir con la mayor\u00eda de los anticonceptivos hormonales.\n\n- Interacciones Potenciales con Otros Medicamentos Antirretrovirales: Es crucial consultar las interacciones espec\u00edficas para otros f\u00e1rmacos antirretrovirales no mencionados aqu\u00ed, ya que pueden interactuar con anticonceptivos hormonales de manera significativa.\n\n### 3. Herramientas y Recursos para Consulta:\n- Webs Especializadas: Puedes consultar detalles espec\u00edficos en sitios web dedicados a interacciones de f\u00e1rmacos, como [http://www.interaccionesvih.com/](http://www.interaccionesvih.com/).\n- Aplicaciones M\u00f3viles: Existen aplicaciones dise\u00f1adas para facilitar la b\u00fasqueda de interacciones farmacol\u00f3gicas que pueden ser de utilidad.\n- Cap\u00edtulo de Interacciones y Polifarmacia: En el documento base de conocimiento (Apartado 3.3.2), encontrar\u00e1s m\u00e1s informaci\u00f3n detallada sobre manejo de interacciones.\n\n### 4. Acci\u00f3n Recomendada:\n- Consulta Especializada: Antes de iniciar o cambiar cualquier tratamiento, incluidos anticonceptivos, es crucial consultar a tu m\u00e9dico especialista en VIH. Este profesional podr\u00e1 ofrecerte asesoramiento personalizado basado en tu r\u00e9gimen de tratamiento actual y necesidades espec\u00edficas.\n- Seguimiento Regular: Mant\u00e9n un seguimiento regular con tu equipo de salud para ajustar cualquier tratamiento seg\u00fan sea necesario.\n\nPara una evaluaci\u00f3n detallada y recomendaciones personalizadas, te invito a consultar a tu m\u00e9dico especialista en VIH."
+}

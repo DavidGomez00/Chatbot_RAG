@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEs importante que me hagan un test de resistencias?\n",
+    "context_info": [
+        {
+            "text": "A pesar de que cada vez se cuestiona m\u00e1s la utilidad de los test de resistencias basales en los nuevos diagn\u00f3sticos con infecci\u00f3n cr\u00f3nica, o con fecha desconocida de la infecci\u00f3n, todas las gu\u00edas de pr\u00e1ctica cl\u00ednica recomiendan realizar un ensayo para la determinaci\u00f3n de resistencias basales en la infecci\u00f3n aguda. ",
+            "source": "ManualClinico, section 4.6.",
+            "_distance": 0.6487489938735962
+        },
+        {
+            "text": "Tras identificar la causa, siendo la falta de cumplimiento la m\u00e1s frecuente, \u00e9sta deber\u00e1 ser corregida y si a pesar de ello no se consigue el control de la replicaci\u00f3n viral, se realizar\u00e1 un estudio de resistencias (el paciente debe estar tomando el TAR de forma regular, al menos durante 4 semanas, para que los resultados del estudio sean valorables). El estudio de resistencias nos permitir\u00e1 conocer los f\u00e1rmacos potencialmente activos para nuestro paciente. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.6732175350189209
+        },
+        {
+            "text": "Si la carga viral es mayor de 200 copias entonces suele ser factible realizar una prueba genot\u00edpica de resistencias. Esta prueba debe hacerse mientras que el paciente a\u00fan recibe el TAR que est\u00e1 fracasando o como m\u00e1ximo cuatro semanas despu\u00e9s de haberlo discontinuado. Si esta prueba genot\u00edpica de resistencias no encuentra mutaciones es probable que la causa del fracaso sea la mala adherencia al TAR. Si existen resistencias entonces resulta obligado el cambio a un nuevo TAR sin resistencias cruzadas. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.6864122152328491
+        },
+        {
+            "text": "Existen test genot\u00edpicos y fenot\u00edpicos para determinar la presencia de resistencias a antirretrovirales. Para interpretar estas pruebas es necesario conocer la historia farmacol\u00f3gica y los fracasos virales y test de resistencias previos. Los algoritmos de interpretaci\u00f3n de las resistencias genot\u00edpicas son muy \u00fatiles para su interpretaci\u00f3n. ",
+            "source": "ManualClinico, section 8.1.",
+            "_distance": 0.7164868712425232
+        },
+        {
+            "text": "Si la CV se encuentra entre 50 y 200 copias/mL es importante intentar reforzar la adherencia del paciente y repetir la determinaci\u00f3n al cabo de 2 a 4 semanas. En esta situaci\u00f3n puede no ser factible realizar una prueba genot\u00edpica de resistencia. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.7572179436683655
+        }
+    ],
+    "answer": "La importancia de realizarte un test de resistencias depende de varios factores relacionados con tu situaci\u00f3n espec\u00edfica en relaci\u00f3n con el VIH. Te proporcionar\u00e9 una gu\u00eda general basada en el conocimiento que tengo:\n\n1. Infecci\u00f3n Aguda: Si has sido recientemente diagnosticado con VIH (infecci\u00f3n aguda), s\u00ed, es recomendable realizar un test de resistencias basales seg\u00fan las gu\u00edas de pr\u00e1ctica cl\u00ednica. Esto ayuda a identificar cualquier resistencia preexistente a antirretrovirales, lo que puede influir en la elecci\u00f3n del tratamiento antirretroviral (TAR) m\u00e1s adecuado para ti.\n\n2. Infecci\u00f3n Cr\u00f3nica o Fecha Desconocida de Infecci\u00f3n: Si tienes una infecci\u00f3n cr\u00f3nica o no se conoce la fecha exacta de tu infecci\u00f3n, la utilidad de los test de resistencias basales es m\u00e1s cuestionada. En estos casos, el test de resistencias no siempre se considera inicialmente necesario, a menos que se presente un fracaso viral despu\u00e9s de iniciar el TAR.\n\n3. Fracaso Viral Durante el Tratamiento: Si est\u00e1s recibiendo tratamiento antirretroviral (TAR) y experimentas un fracaso viral (indicado por una carga viral elevada), s\u00ed, es importante realizar un estudio de resistencias. Esto debe hacerse mientras sigues tomando tu TAR actual o como m\u00e1ximo cuatro semanas despu\u00e9s de haberlo suspendido, siempre que tu carga viral sea mayor de 200 copias/mL, lo cual suele permitir una prueba genot\u00edpica de resistencias fiable.\n\n4. Carga Viral entre 50 y 200 copias/mL: Si tu carga viral se encuentra en este rango y est\u00e1s experimentando un posible fracaso viral, es importante reforzar la adherencia a tu tratamiento y repetir la medici\u00f3n de la carga viral en 2 a 4 semanas. En este escenario, puede no ser factible realizar una prueba genot\u00edpica de resistencias debido al bajo nivel de virus.\n\nResumen: La importancia del test de resistencias var\u00eda seg\u00fan tu situaci\u00f3n:\n- Infecci\u00f3n Aguda: Recomendado.\n- Infecci\u00f3n Cr\u00f3nica/Fecha Desconocida sin Fracaso Viral: No siempre necesario inicialmente.\n- Fracaso Viral Durante TAR (CV > 200 copias/mL): Importante para ajustar el tratamiento.\n- Fracaso Viral con CV entre 50 y 200 copias/mL: Se enfoca en reforzar la adherencia y repetir la medici\u00f3n de la carga viral.\n\nPara una evaluaci\u00f3n personalizada, siempre es mejor consultar a tu m\u00e9dico, quien puede ofrecerte asesoramiento espec\u00edfico basado en tus circunstancias \u00fanicas."
+}

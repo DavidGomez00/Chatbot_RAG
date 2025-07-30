@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfTomar tenofovir alafenamida (TAF) puede tener un impacto negativo en mi sistema nervioso central, como mareos o alteraciones cognitivas?\n",
+    "context_info": [
+        {
+            "text": "Tenofovir alafenamida (TAF), al igual que TDF es un prof\u00e1rmaco de tenofovir, pero a diferencia de \u00e9ste tiene una semivida plasm\u00e1tica extraordinariamente corta, mientras que sus concentraciones intracelulares en c\u00e9lulas monucleares de sangre perif\u00e9rica, multiplican por 6 aquellas conseguidas con TDF. ",
+            "source": "ManualClinico, section 22.4.",
+            "_distance": 0.7712706327438354
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8085753917694092
+        },
+        {
+            "text": " Alteraciones neurol\u00f3gicas Entre los f\u00e1rmacos asociados con alteraciones neurol\u00f3gicas destaca EFV; es su efecto adverso m\u00e1s frecuente y se caracteriza por mareos, inestabilidad, insomnio, sue\u00f1os vividos y fala de concentraci\u00f3n. Esta toxicidad aparece desde los primeros d\u00edas de tratamiento y en muchas ocasiones es limitante, obligando a retirar el f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.8097654581069946
+        },
+        {
+            "text": "A este respecto, resulta esencial la pobre afinidad del receptor de tenofovir en la c\u00e9lula epitelial tubular proximal renal, lo que limita su acumulaci\u00f3n en su interior y eventualmente su acci\u00f3n mitocondriot\u00f3xica por acumulaci\u00f3n. TAF se ha coformulado con FTC/ EVG/COBI, con FTC/RPV, con FTC/DRV/COBI y con FTC/BIC, adem\u00e1s de administrarse co- formulado como TAF/FTC. ",
+            "source": "ManualClinico, section 22.4.",
+            "_distance": 0.9263285398483276
+        },
+        {
+            "text": "Igualmente, los AINEs pueden producir deterioro hemodin\u00e1mico en pacientes con funci\u00f3n renal disminuida, si se administran durante largos per\u00edodos de tiempo o en asociaci\u00f3n con otros f\u00e1rmacos que interfieran en la hemodin\u00e1mica glomerular o potencialmente nefrot\u00f3xicos, como el tenofovir. Estos f\u00e1rmacos deben emplearse con gran precauci\u00f3n en pacientes con insuficiencia renal, en los que hay que ajustar cuidadosamente la dosis y vigilar estrechamente la evoluci\u00f3n de la funci\u00f3n renal. ",
+            "source": "ManualClinico, section 22.4.",
+            "_distance": 1.009557843208313
+        }
+    ],
+    "answer": "No, seg\u00fan el conocimiento proporcionado, no se asocia al Tenofovir Alafenamida (TAF) con efectos adversos significativos en el Sistema Nervioso Central (SNC) como mareos, insomnio, sue\u00f1os vividos, falta de concentraci\u00f3n, etc. \n\nDe hecho, se menciona que TAF es una opci\u00f3n adecuada para pacientes que experimentan efectos adversos del sistema nervioso central (SNC) causados por efavirenz (EFV), lo que sugiere que TAF no comparte estos efectos secundarios neurol\u00f3gicos asociados con el EFV.\n\nSi tienes inquietudes espec\u00edficas sobre tu tratamiento o experimentas alg\u00fan efecto adverso, siempre es recomendable consultar a tu m\u00e9dico para obtener orientaci\u00f3n personalizada. \n\nRespuesta resumida: No, TAF no se asocia con impactos negativos en el SNC como mareos o alteraciones cognitivas, seg\u00fan la informaci\u00f3n proporcionada."
+}

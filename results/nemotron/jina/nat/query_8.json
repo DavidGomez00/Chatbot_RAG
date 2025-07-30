@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfQu\u00e9 riesgos tiene ser diagnosticado con CD4 muy bajos?\n",
+    "query": "\u00bfCu\u00e1les son los factores de riesgo que pueden aumentar la probabilidad de desarrollar esteatosis hep\u00e1tica mientras estoy en tratamiento para el VIH?\n",
     "context_info": [
         {
-            "text": " Esta circunstancia es importante ya que hay que recordar que aquellos pacientes que en el momento del diagn\u00f3stico tienen los CD4 por debajo de 350 c\u00e9l/\u00b5L, tienen diez veces m\u00e1s riesgo de fallecer en el primer a\u00f1o tras su diagn\u00f3stico, que aquellos que tienen m\u00e1s de 350 c\u00e9l/\u00b5L. Y por otra parte, que estos pacientes, sin diagnosticar y por tanto sin tratar, son el origen de la mayor\u00eda de las nuevas infecciones. ",
-            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.3.",
-            "_distance": 0.5410584807395935
+            "text": "Factores como mayor edad, sexo masculino, mayor \u00edndice de masa corporal (IMC), diabetes, antecedentes familiares o enfermedad renal se asocian a una mayor incidencia de HTA en PVVIH igual que en poblaci\u00f3n general. Adem\u00e1s determinados factores relacionados con el VIH como un mayor grado de inmunosupresi\u00f3n, la inflamaci\u00f3n cr\u00f3nica, la reconstituci\u00f3n inmune, la translocaci\u00f3n bacteriana o la lipodistrofia se han asociado con un mayor riesgo de HTA. ",
+            "source": "ManualClinico, section 20.2.3.",
+            "_distance": 0.6798223257064819
         },
         {
-            "text": "Estas recomendaciones tienen especial relevancia para aquellas personas cuyo recuento de CD4 al diagn\u00f3stico sea < 200 cel/\u03bcL. Esta condici\u00f3n tambi\u00e9n cobrar\u00eda especial relevancia de cara a las posibles vacunaciones recomendadas como abordaremos m\u00e1s adelante. ",
-            "source": "ManualClinico, section 29.2.1.",
-            "_distance": 0.6860096454620361
+            "text": " TAR en pacientes con hepatopat\u00eda Las principales causas de da\u00f1os hep\u00e1tico en los pacientes con infecci\u00f3n por VIH son las coinfecciones por VHC y por VHB. Con la menor prevalencia de hepatitis v\u00edricas, la esteatosis/ esteatohepatitis no alcoh\u00f3lica est\u00e1 cobrando cada vez mayor relevancia. ",
+            "source": "ManualClinico, section 9.6.3.",
+            "_distance": 0.6985059976577759
         },
         {
-            "text": "En pacientes con un recuento de linfocitos CD4+ <100 cels/mm3, estas infecciones pueden asociarse a bacteriemia, infecci\u00f3n diseminada y mortalidad hasta en un 33% en estos pacientes. ",
-            "source": "ManualClinico, section 19.3.3.",
-            "_distance": 0.7628179788589478
+            "text": " 5.Pacientes con VIH y cirrosis hep\u00e1tica (de cualquier etiolog\u00eda) y aquellos con infecci\u00f3n por el VHB y un riesgo estimado de CHC mayor del 0,2% anual, deben ser examinadosmediante una ecograf\u00eda hep\u00e1tica semestral ( I-A). 3.4.5 Alteraciones neuropsiqui\u00e1tricas en la infecci\u00f3n VIH La infecci\u00f3n por el VIH puede incrementar el riesgo de enfermedad psiqui\u00e1trica y a su vez la enfermedad psiqui\u00e1trica es un factor de riesgo para la adquisici\u00f3n de la infecci\u00f3n por el VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7400363683700562
         },
         {
-            "text": "En el caso de un paciente diagnosticado por serolog\u00eda, que est\u00e1 sintom\u00e1tico o con cifras de CD4 disminuidas, sin tratamiento y con carga viral indetectable, deber\u00eda hacer sospechar de variantes del grupo O \u00f3 grupo N del VIH-1 \u00f3 variantes del VIH-2. ",
-            "source": "ManualClinico, section 6.5.5.",
-            "_distance": 0.8418499231338501
+            "text": "En pacientes en TAR se han identificado factores de riesgo adicionales tales como: sexo femenino, mayor estatura, consumo alcohol, creatinina plasm\u00e1tica elevada y el uso de isoniazida. La restauraci\u00f3n inmune o la supresi\u00f3n viral disminuyen su riesgo. Su patogenia podr\u00eda ser multifactorial y parece estar m\u00e1s relacionada con la acci\u00f3n t\u00f3xica de prote\u00ednas virales (gp 120) y/o citoquinas liberadas que por la acci\u00f3n directa del propio VIH. ",
+            "source": "ManualClinico, section 23.2.3.",
+            "_distance": 0.8336917757987976
         },
         {
-            "text": "Es posible que en algunos casos, como pacientes con linfocitos CD4+ bajos o con cirrosis avanzada, la efectividad sea m\u00e1s baja. A\u00fan as\u00ed la efectividad del tratamiento con AADs en VIH+ es muy elevada en todos los escenarios por lo que no ha de limitarse el tratamiento en estos pacientes. ",
-            "source": "ManualClinico, section 27.2.5.",
-            "_distance": 0.8493790626525879
+            "text": "A este hecho han contribuido la alta prevalencia de coinfecci\u00f3n por VIH/VHC, la coexistencia de otras causa de hepatopat\u00eda, como el consumo de alcohol y/o algunos tratamientos antirretrovirales (TAR), una historia natural de la hepatopat\u00eda por VHC acelerada y una baja probabilidad de erradicaci\u00f3n de la infecci\u00f3n por VHC. ",
+            "source": "ManualClinico, section 27.2.",
+            "_distance": 0.838357150554657
         }
     ],
-    "answer": "Seg\u00fan mi conocimiento especializado en VIH, si un paciente es diagnosticado con un recuento de linfocitos CD4+ muy bajos, enfrenta varios riesgos significativos:\n\n1. Riesgo de fallecimiento: Un diagn\u00f3stico con CD4 por debajo de 350 c\u00e9l/\u00b5L aumenta el riesgo de fallecer en el primer a\u00f1o despu\u00e9s del diagn\u00f3stico, siendo approximately diez veces m\u00e1s alto que para aquellos con CD4 por encima de 350 c\u00e9l/\u00b5L.\n\n2. Infecciones asociadas y complicaciones:\n   - Con un recuento de CD4+ < 200 cel/\u03bcL, se incrementa la relevancia de ciertas recomendaciones, incluyendo posibles vacunaciones espec\u00edficas.\n   - En casos extremos, con un recuento de linfocitos CD4+ < 100 cels/mm3, las infecciones pueden asociarse con:\n     - Bacteriemia (presencia de bacterias en la sangre)\n     - Infecci\u00f3n diseminada (infecci\u00f3n que se ha extendido a m\u00faltiples partes del cuerpo)\n     - Mortalidad elevada: Hasta un 33% en estos pacientes.\n\nEs crucial que los pacientes con CD4 bajos inicien el tratamiento antirretroviral de manera oportuna y sigan las recomendaciones m\u00e9dicas para manejar su condici\u00f3n y prevenir complicaciones. Adem\u00e1s, es importante destacar que, aunque la efectividad del tratamiento puede ser ligeramente m\u00e1s baja en pacientes con CD4 muy bajos o condiciones adicionales como cirrosis avanzada, el tratamiento con antirretrovirales (AADs) sigue siendo altamente eficaz en la mayor\u00eda de los escenarios."
+    "answer": "Para m\u00e1s informaci\u00f3n sobre la esteatosis hep\u00e1tica espec\u00edficamente, consulta a tu m\u00e9dico. Sin embargo, puedo proporcionarte informaci\u00f3n relacionada con factores de riesgo hep\u00e1ticos y TAR (Terapia Antirretroviral) que podr\u00edan estar indirectamente conectados:\n\nFactores de riesgo hep\u00e1tico en pacientes con VIH mencionados en mi conocimiento:\n\n1. Coinfecciones por VHC (Virus de la Hepatitis C) y VHB (Virus de la Hepatitis B): Estas son las principales causas de da\u00f1o hep\u00e1tico en pacientes con infecci\u00f3n por VIH.\n2. Consumo de alcohol: Mencionado como una causa coexistente de hepatopat\u00eda, junto con el VIH y otras infecciones virales.\n3. Algunos tratamientos antirretrovirales (TAR): Se menciona que ciertos TAR pueden contribuir a la hepatopat\u00eda.\n\nFactores de riesgo generales para la esteatosis hep\u00e1tica (no espec\u00edficamente en el contexto del VIH, pero relevantes en general):\n\n- Obesidad y mayor \u00edndice de masa corporal (IMC)\n- Diabetes\n- Consumo excesivo de alcohol\n- Algunos medicamentos\n\nConexi\u00f3n con el VIH/TAR:\nSi bien no se mencionan directamente factores de riesgo para la esteatosis hep\u00e1tica en el contexto del VIH, es plausible que:\n\n- La lipodistrofia, asociada con algunos tratamientos antirretrovirales, pueda influir en el metabolismo lip\u00eddico y potencialmente aumentar el riesgo de esteatosis hep\u00e1tica.\n- La inflamaci\u00f3n cr\u00f3nica y la translocaci\u00f3n bacteriana mencionadas como factores relacionados con el VIH que pueden aumentar el riesgo de HTA, podr\u00edan tambi\u00e9n influir indirectamente en el riesgo de desarrollar condiciones hep\u00e1ticas, incluyendo la esteatosis.\n\nRecomendaci\u00f3n:\nPara una evaluaci\u00f3n y consejo personalizados sobre el riesgo de esteatosis hep\u00e1tica mientras est\u00e1s en tratamiento para el VIH, consulta a tu m\u00e9dico. Ellos pueden ofrecerte orientaci\u00f3n basada en tu historial m\u00e9dico espec\u00edfico, tratamiento actual, y otros factores relevantes."
 }

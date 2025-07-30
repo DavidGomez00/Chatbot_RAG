@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi estoy con el tratamiento inyectable o con la pastilla \u00fanica que tiene dos componentes, puedo seguir o debo cambiar?\n",
+    "context_info": [
+        {
+            "text": " Cambio a reg\u00edmenes de dos f\u00e1rmacos: en pacientes con una pauta con 2 ITIAN e IPp que quieran simplificar el TAR y/o evitar los efectos adversos causados por los ITIAN, el cambio a IPp + lamivudina, a dolutegravir + lamivudina, o a dolutegravir + rilpivirina son opciones adecuadas. Los cambios desde 2 ITIAN + ITINAN o INI, a dolutegravir + lamivudina o a dolutegravir + rilpivirina tambi\u00e9n resultan apropiados. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7892285585403442
+        },
+        {
+            "text": "El cambio a dolutegravir + darunavir potenciado puede ser una opci\u00f3n en determinados pacientes que quieran simplificar su pauta actual o evitar toxicidades .  No se debe cambiar triple terapia ni terapia dual a monoterapia con IPp ni con dolutegravir.  Tras el cambio de un TAR es recomendable evaluar en un plazo de 3-6 semanas el mantenimiento de la supresi\u00f3n virol\u00f3gica y las determinaciones de laboratorio pertinentes, que depender\u00e1n del motivo del cambio (p.e lipidograma, o funci\u00f3n renal). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8617974519729614
+        },
+        {
+            "text": "Los motivos para considerar el cambio de un tratamiento eficaz son m\u00faltiples: intolerabilidad/ toxicidad, ya sea presente (cambio reactivo) o para prevenirlas (cambio proactivo), simplificaci\u00f3n propiamente dicha (disminuci\u00f3n del n\u00famero de comprimidos, de dosis diarias o del n\u00famero de medicamentos), requerimientos diet\u00e9ticos, interacciones farmacol\u00f3gicas, comorbilidades, embarazo o deseo de embarazo y tambi\u00e9n es importante la sostenibilidad del tratamiento. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 0.9539763927459717
+        },
+        {
+            "text": "En algunas circunstancias es obligado cambiar el TAR: \u2022 Cambio proactivo cuando el paciente tiene m\u00e1s riesgo de presentar un efecto adverso grave o irrecuperable si se mantiene el TAR actual que si se cambia (ej. lipoatrofia causada por an\u00e1logos timid\u00ednicos) o cuando debe iniciar un tratamiento que pueden presentar interacciones relevantes con el TAR. \u2022 Cambio reactivo cuando se producen efectos adversos atribuibles al TAR (ej. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 0.9694966673851013
+        },
+        {
+            "text": " El cambio desde una pauta doble o triple basada en un IP/p o un INI de alta barrera gen\u00e9tica a otra basada en un inhibidor de la transcriptasa inversa no an\u00e1logo de nucle\u00f3sido (ITINAN) o INI de baja barrera gen\u00e9tica solo debe hacerse si se puede garantizar la actividad antiviral de todos los f\u00e1rmacos del nuevo r\u00e9gimen. Si se piensa suspender tenofovir (difumarato \u00f3 alafenamida) deber\u00e1 revisarse previamente la serolog\u00eda del VHB. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.979054868221283
+        }
+    ],
+    "answer": "Bas\u00e1ndome en mi conocimiento especializado en VIH, te proporcionar\u00e9 una respuesta precisa y clara.\n\nAn\u00e1lisis de tu situaci\u00f3n:\n\n1. Tratamiento inyectable: No se menciona expl\u00edcitamente el tratamiento inyectable en mis conocimientos proporcionados, por lo que no puedo ofrecer una recomendaci\u00f3n espec\u00edfica al respecto. Para m\u00e1s informaci\u00f3n sobre este punto, consulta a tu m\u00e9dico.\n2. Pastilla \u00fanica con dos componentes (dual terapia): Esta opci\u00f3n se menciona en mis conocimientos.\n\nRespuesta para la pastilla \u00fanica de dual terapia:\n\n Si est\u00e1s recibiendo una pastilla \u00fanica con dos componentes (dual terapia) y deseas saber si debes seguir o cambiar, te puedo ofrecer la siguiente orientaci\u00f3n basada en mis conocimientos:\n\t+ No se debe cambiar de una terapia dual a monoterapia (un solo f\u00e1rmaco) ya sea con un Inhibidor de Proteasa potenciado (IPp) o con Dolutegravir. Esto se debe a que la monoterapia no es recomendada por razones de eficacia y resistencia viral.\n\t+ Si tu dual terapia actual est\u00e1 funcionando (supresi\u00f3n virol\u00f3gica adecuada, tolerancia aceptable), no hay necesidad de cambiar a menos que existan motivos espec\u00edficos para hacerlo, como:\n\t\t- Intolerabilidad o toxicidad asociada al tratamiento actual.\n\t\t- Deseo de simplificar el r\u00e9gimen (aunque ya est\u00e1s en una pastilla \u00fanica, podr\u00edas considerar otros aspectos como la frecuencia de dosificaci\u00f3n o el perfil de efectos secundarios).\n\t\t- Interacciones farmacol\u00f3gicas con otros medicamentos que est\u00e9s tomando.\n\t\t- Comorbilidades, embarazo, deseo de embarazo, o razones de sostenibilidad del tratamiento.\n\nRecomendaci\u00f3n general:\n\nSi no experimentas problemas significativos con tu tratamiento actual (pastilla \u00fanica de dual terapia), lo m\u00e1s recomendable es continuar con \u00e9l. Sin embargo, si tienes alguna inquietud o motivo para considerar un cambio, consulta a tu m\u00e9dico para evaluar las mejores opciones personalizadas para ti. Tu m\u00e9dico puede ofrecerte una evaluaci\u00f3n m\u00e1s detallada basada en tu historial cl\u00ednico completo y necesidades espec\u00edficas."
+}

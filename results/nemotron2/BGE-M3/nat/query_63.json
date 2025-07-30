@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfPor qu\u00e9 mi tratamiento anterior no ha funcionado?\n",
+    "context_info": [
+        {
+            "text": "Los motivos para considerar el cambio de un tratamiento eficaz son m\u00faltiples: intolerabilidad/ toxicidad, ya sea presente (cambio reactivo) o para prevenirlas (cambio proactivo), simplificaci\u00f3n propiamente dicha (disminuci\u00f3n del n\u00famero de comprimidos, de dosis diarias o del n\u00famero de medicamentos), requerimientos diet\u00e9ticos, interacciones farmacol\u00f3gicas, comorbilidades, embarazo o deseo de embarazo y tambi\u00e9n es importante la sostenibilidad del tratamiento. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 0.8161565661430359
+        },
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8243851065635681
+        },
+        {
+            "text": "Insuficiente coordinaci\u00f3n entre especialistas y entre niveles asistenciales, con existencia de funciones duplicadas y/o no realizadas. Carencia de un sistema para la clasificaci\u00f3n de pacientes, que permita identificar subgrupos que podr\u00edan beneficiarse de cuidados estandarizados. Aunque existen gu\u00edas y protocolos cl\u00ednicos de alta calidad, se desconoce su nivel de implementaci\u00f3n y no se mide sistem\u00e1ticamente su cumplimiento. ",
+            "source": "ManualClinico, section 35.3.3.",
+            "_distance": 0.8386281728744507
+        },
+        {
+            "text": "Cuando esto no es suficiente, se recomienda iniciar el tratamiento con f\u00e1rmacos t\u00f3picos (corticoides, an\u00e1logos de vitamina D), fototerapia o retinoides. Si es preciso el uso de agentes inmunosupresores se har\u00e1 en pacientes con linfocitos CD4+ estables y carga viral indetectable. Se han utilizado agentes sist\u00e9micos tradicionales (metotrexate, ciclosporina) y biol\u00f3gicos (anti-TNF, ustekinumab)16. ",
+            "source": "ManualClinico, section 17.4.1.",
+            "_distance": 0.8600156903266907
+        },
+        {
+            "text": "Hay diferentes propuestas de tratamiento, siendo las tres m\u00e1s aceptadas con Azitromicina 500mg (primer dia) + 250mg/d\u00eda (2\u00ba-5\u00bad\u00edas), o si el paciente ha hecho 7 d\u00edas de tratamiento emp\u00edrico con doxiciclina 100 mg/12h, a\u00f1adir 1 gr de azitromicina seguido de 2 d\u00edas m\u00e1s de 500 mg. En caso de fracaso terap\u00e9utico, se puede pautar moxifloxacino 400mg/d\u00eda durante 7-10d\u00edas. ",
+            "source": "ManualClinico, section 28.4.2.",
+            "_distance": 0.8697525858879089
+        }
+    ],
+    "answer": "No response content"
+}

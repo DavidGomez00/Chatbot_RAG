@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi tomo anticonceptivos para evitar un embarazo, le puede pasar algo al tratamiento antirretroviral?\n",
+    "context_info": [
+        {
+            "text": "Si se decide usar los anticonceptivos hormonales se deben tener en cuenta las interacciones con el tratamiento antirretroviral, para asegurar la seguridad y eficacia. Las integrasas no potenciadas como el Raltegravir, Dolutegravir o Bictegravir, o, entre los An\u00e1logos no nucleosidos inhibidores de la transcriptasa Inversa, aquellos que no modifican al CYP3A4 (rilpivirina, doravirina), son los m\u00e1s seguros. Para m\u00e1s detalles consultar las paginas espec\u00edficas de interacciones. ",
+            "source": "ManualClinico, section 30.2.3.",
+            "_distance": 0.6643175482749939
+        },
+        {
+            "text": "En las mujeres que comienzan TAR se deben investigar aspectos relacionados con el deseo reproductivo, ciclo menstrual y la menopausia, uso de m\u00e9todos anticonceptivos y resultados de controles ginecol\u00f3gicos previos. Antes de iniciar TAR, se debe realizar una prueba de embarazo para detectar la posibilidad de embarazo. Al prescribir TAR, se deben tener en cuenta que algunos f\u00e1rmacos antirretrovirales presentan interacciones farmacocin\u00e9ticas (PK) con los anticonceptivos hormonales. ",
+            "source": "ManualClinico, section 31.1.1.",
+            "_distance": 0.794704020023346
+        },
+        {
+            "text": "En estos casos, se recomienda utilizar m\u00e9todos anticonceptivos alternativos para prevenir los embarazos no deseados o cambio del TAR. Datos recientes indican un aumento de la incidencia de defectos del tubo neural en madres expuestas a dolutegravir (DTG) en el momento de la concepci\u00f3n comparado con madres expuestas a tratamientos sin DTG (0,3% frente a 0,1%). ",
+            "source": "ManualClinico, section 31.1.1.",
+            "_distance": 0.8074714541435242
+        },
+        {
+            "text": " Tratamiento antirretroviral (TAR) durante el embarazo Los criterios para el uso de TAR en la mujer embarazada difieren respecto a las recomendaciones generales para el adulto, en el sentido de que debe considerarse la seguridad para la madre y el ni\u00f1o. Se deben considerar m\u00faltiples factores al elegir TAR para una mujer embarazada. La elecci\u00f3n del TAR se basar\u00e1 en el estudio de resistencias, las interacciones, la experiencia con el uso de estos medicamentos en el embarazo y en la seguridad de estos. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.8162952661514282
+        },
+        {
+            "text": "Esta herramienta preventiva consiste en tomar medicaci\u00f3n antirretroviral antes y despu\u00e9s del sexo para que las personas sin el VIH puedan prevenir la infecci\u00f3n. Si se usa de forma correcta, es decir, tal como ha sido pautada por el m\u00e9dico, puede reducir el riesgo de infecci\u00f3n hasta en m\u00e1s de un 99%.  Adem\u00e1s, los preservativos, empleados de forma correcta, son una opci\u00f3n preventiva muy efectiva frente al VIH. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8257585167884827
+        }
+    ],
+    "answer": "S\u00ed, es importante tener en cuenta que los anticonceptivos hormonales pueden interactuar con el tratamiento antirretroviral (TAR). Estas interacciones pueden afectar la seguridad y eficacia de ambos tratamientos.\n\nQu\u00e9 debes saber:\n\n1. Algunos TAR son m\u00e1s seguros: Las integrasas no potenciadas, como:\n\t Raltegravir\n\t Dolutegravir\n\t Bictegravir\n\t Y algunos An\u00e1logos no nucleosidos inhibidores de la transcriptasa Inversa que no modifican al CYP3A4, como:\n\t\t+ Rilpivirina\n\t\t+ Doravirina\n\n   Son consideradas opciones m\u00e1s seguras cuando se combinan con anticonceptivos hormonales.\n\n2. Interacciones farmacocin\u00e9ticas (PK): Algunos f\u00e1rmacos antirretrovirales pueden interactuar con los anticonceptivos hormonales, lo que puede afectar su eficacia o aumentar el riesgo de efectos secundarios.\n\nRecomendaciones:\n\n Consulta a tu m\u00e9dico: Antes de iniciar o continuar con anticonceptivos hormonales mientras est\u00e1s en tratamiento antirretroviral, es crucial discutir las opciones con tu m\u00e9dico.\n Eval\u00faa alternativas: Considera m\u00e9todos anticonceptivos alternativos que no interact\u00faen con tu TAR, como preservativos (muy efectivos tambi\u00e9n contra el VIH), dispositivos intrauterinos (DIU), entre otros.\n Ajuste del TAR (si necesario): En algunos casos, tu m\u00e9dico podr\u00eda recomendar un ajuste en tu tratamiento antirretroviral para minimizar las interacciones.\n\nRecuerda: La comunicaci\u00f3n con tu m\u00e9dico es clave para asegurar la eficacia y seguridad de ambos tratamientos."
+}

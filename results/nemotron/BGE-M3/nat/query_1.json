@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfC\u00f3mo se contrae el VIH? \u00bfEs posible contagiarse por tocar a alguien?\n",
+    "query": "\u00bfHay alg\u00fan medicamento antirretroviral que sea m\u00e1s seguro para mi h\u00edgado si ya tengo problemas hep\u00e1ticos o factores de riesgo?\n",
     "context_info": [
         {
-            "text": " B\u00e1sicos del VIH El VIH no es un virus que se adquiera con facilidad por v\u00eda sexual. En comparaci\u00f3n con la cantidad de personas que practican sexo cada a\u00f1o, apenas un escaso porcentaje de las mismas contrae esta infecci\u00f3n.  Tras una exposici\u00f3n sexual al VIH, la probabilidad de no adquirir el virus es siempre mucho mayor que la de infectarse (por supuesto, el riesgo solo existe si la pareja sexual tiene el VIH y su carga viral es detectable). ",
-            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
-            "_distance": 0.5523593425750732
+            "text": "En la elecci\u00f3n de los antirretrovirales en un paciente coinfectado por VIH/VHC se tendr\u00e1 en cuenta su potencial hepatotoxicidad, la existencia de cirrosis hep\u00e1tica y la indicaci\u00f3n de tratamiento frente al VHC. Los TAR de uso preferente actuales tienen muy escasa hepatoxicidad y, salvo en pacientes con cirrosis descompensada, pueden utilizarse sin restricciones. ",
+            "source": "ManualClinico, section 27.2.4.",
+            "_distance": 0.7298749089241028
         },
         {
-            "text": " V\u00edas de transmisi\u00f3n El VIH no sobrevive f\u00e1cilmente en el medio ambiente, por lo que para que se transmita la infecci\u00f3n es necesario que el virus penetre en el organismo a trav\u00e9s de la sangre o mucosas. La transmisi\u00f3n del VIH se produce de persona a persona por distintas v\u00edas, que implican el contacto con sangre o fluidos. A nivel mundial la mayor parte de las infecciones se producen al mantener relaciones sexuales con penetraci\u00f3n sin protecci\u00f3n con una pareja infectada. ",
-            "source": "ManualClinico, section 1.3.",
-            "_distance": 0.5560527443885803
+            "text": "Si se decide usar los anticonceptivos hormonales se deben tener en cuenta las interacciones con el tratamiento antirretroviral, para asegurar la seguridad y eficacia. Las integrasas no potenciadas como el Raltegravir, Dolutegravir o Bictegravir, o, entre los An\u00e1logos no nucleosidos inhibidores de la transcriptasa Inversa, aquellos que no modifican al CYP3A4 (rilpivirina, doravirina), son los m\u00e1s seguros. Para m\u00e1s detalles consultar las paginas espec\u00edficas de interacciones. ",
+            "source": "ManualClinico, section 30.2.3.",
+            "_distance": 0.7828169465065002
         },
         {
-            "text": "Aunque el VIH se puede detectar en este l\u00edquido, es poco probable que haya una cantidad suficiente como para provocar la infecci\u00f3n.  El VIH no se transmite por los besos, ni siquiera por los besos profundos. El virus tampoco se transmite por escupir.  Aire: El VIH no se transmite a trav\u00e9s del aire.  Por otro lado, conviene recordar que muchas pr\u00e1cticas sexuales no suponen un riesgo de transmisi\u00f3n del VIH. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
-            "_distance": 0.5632794499397278
+            "text": "Una vez resuelto el cuadro, puede reintroducirse una nueva combinaci\u00f3n de ARV, evitando los que sean sospechosos de haberlo ocasionado y los que tengan un peor perfil de hepatotoxicidad y siempre habiendo eliminado otros potenciales agentes hepatot\u00f3xicos, como alcohol y otros f\u00e1rmacos. ",
+            "source": "ManualClinico, section 10.5.",
+            "_distance": 0.7916562557220459
         },
         {
-            "text": "Una persona puede infectarse despu\u00e9s de una \u00fanica exposici\u00f3n al virus, mientras que otra puede tener numerosas exposiciones a lo largo de los a\u00f1os y aun as\u00ed no adquirir el VIH. En muchas circunstancias, no es f\u00e1cil explicar por qu\u00e9 sucede.  Incluso en los casos de parejas en las que un miembro tiene el VIH con carga viral detectable y el otro es seronegativo, el riesgo de transmisi\u00f3n por no usar un cond\u00f3n una sola vez, puede ser solo del 0,2% (o de 1 entre 500). ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.5905929207801819
+            "text": " Tratamiento de VHB El tratamiento antirretroviral, que incluye f\u00e1rmacos activos frente a la infecci\u00f3n por VHB, se asocia con menor evoluci\u00f3n a cirrosis, descompensaci\u00f3n o desarrollo de hepatocarcinoma. Incluso en pacientes con cirrosis descompensada se asocia con mejor\u00eda en supervivencia, reversi\u00f3n de la descompensaci\u00f3n y salida de la lista de espera de trasplante. ",
+            "source": "ManualClinico, section 27.3.4.",
+            "_distance": 0.8046098351478577
         },
         {
-            "text": "La infecci\u00f3n por VIH se transmite por v\u00eda sangu\u00ednea (transfusiones, tratamiento con derivados hem\u00e1ticos, accidentes sanitarios y uso de drogas por v\u00eda intravenosa compartiendo material, por v\u00eda sexual (relaciones homo o heterosexuales sin preservativo o de forma vertical (de madre seropositiva no controlada a su descendencia, durante el embarazo, el parto o la lactancia ). Se ha estimado el riesgo potencial diferencial de las distintas v\u00edas de transmisi\u00f3n. ",
-            "source": "ManualClinico, section 11.1.",
-            "_distance": 0.5975450277328491
+            "text": " Esta constataci\u00f3n, que ha sido confirmada por la ciencia, ha servido como est\u00edmulo para que muchas personas con el VIH puedan mejorar la imagen que tienen de s\u00ed mismas y reducir la ansiedad a la hora de mantener relaciones sexuales.  Varios son los estudios y ensayos que han permitido demostrar este hallazgo. Por un lado, en 2011, el estudio HPTN052 realizado en parejas heterosexuales serodiscordantes hall\u00f3 que el tratamiento antirretroviral reduc\u00eda el riesgo de transmisi\u00f3n del VIH en un 93%. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 10.0.",
+            "_distance": 0.8149728775024414
         }
     ],
-    "answer": "\u00bfC\u00f3mo se contrae el VIH?\n\nEl VIH se contrae principalmente a trav\u00e9s del contacto directo con la sangre o fluidos corporales infectados de una persona que vive con el virus y tiene una carga viral detectable. Las v\u00edas de transmisi\u00f3n comunes son:\n\n1. V\u00eda sexual: Relaciones sexuales (homo o heterosexuales) sin protecci\u00f3n (preservativo) con una pareja que tenga el VIH y una carga viral detectable.\n2. V\u00eda sangu\u00ednea:\n\t Transfusiones de sangre contaminada (actualmente, la mayor\u00eda de los pa\u00edses tienen estrictos controles para evitar esto).\n\t Tratamiento con derivados hem\u00e1ticos infectados.\n\t Accidentes sanitarios (por ejemplo, pinchazos con agujas contaminadas en entornos m\u00e9dicos).\n\t Uso compartido de material para inyectar drogas por v\u00eda intravenosa.\n3. Transmisi\u00f3n vertical: De una madre seropositiva no controlada a su hijo durante:\n\t El embarazo.\n\t El parto.\n\t La lactancia.\n\n\u00bfEs posible contagiarse por tocar a alguien?\n\nNo, el VIH no se transmite por:\n\n- Tocar o abrazar a alguien que vive con el VIH.\n- Besos, incluso besos profundos.\n- Escupir.\n- A trav\u00e9s del aire.\n\nEl VIH necesita un medio para entrar en el cuerpo, como la sangre o ciertos fluidos corporales (incluyendo semen, fluidos vaginales, leche materna y sangre), y no puede penetrar a trav\u00e9s de la piel intacta. Por lo tanto, el simple acto de tocar a alguien no conlleva riesgo de transmisi\u00f3n del VIH."
+    "answer": "S\u00ed, existen opciones de tratamiento antirretroviral (ARV) que son m\u00e1s seguras para pacientes con problemas hep\u00e1ticos preexistentes o factores de riesgo para hepatotoxicidad. Considerando tu situaci\u00f3n, te recomendar\u00eda los siguientes:\n\n1. Integrasas no potenciadas: Estos f\u00e1rmacos tienen un perfil de hepatotoxicidad muy bajo, lo que los convierte en una excelente opci\u00f3n para pacientes con problemas hep\u00e1ticos. Algunos ejemplos son:\n   - Raltegravir\n   - Dolutegravir\n   - Bictegravir\n\n2. An\u00e1logos no nucle\u00f3sidos inhibidores de la transcriptasa inversa (NNRTIs) que no modifican el CYP3A4: Estos f\u00e1rmacos tambi\u00e9n tienen un bajo riesgo de hepatotoxicidad y son seguros para pacientes con problemas hep\u00e1ticos, siempre y cuando no tengan interacciones adversas con otros medicamentos. Ejemplos incluyen:\n   - Rilpivirina\n   - Doravirina\n\nEs crucial recordar que, antes de iniciar o cambiar cualquier tratamiento, debes consultar a tu m\u00e9dico para una evaluaci\u00f3n personalizada. Tu m\u00e9dico considerar\u00e1 todos los aspectos de tu salud, incluyendo la gravedad de tus problemas hep\u00e1ticos, otros medicamentos que est\u00e9s tomando (incluidos tratamientos para el VHC si es aplicable), y cualquier otra condici\u00f3n de salud subyacente, para determinar la mejor opci\u00f3n de tratamiento antirretroviral para ti.\n\nAdem\u00e1s, si tienes cirrosis descompensada, es importante un seguimiento cercano con tu equipo de atenci\u00f3n m\u00e9dica, ya que, aunque los f\u00e1rmacos mencionados tienen un perfil de seguridad favorable, la cirrosis descompensada requiere una evaluaci\u00f3n y manejo multidisciplinario. \n\nPara una recomendaci\u00f3n espec\u00edfica y personalizada, consulta a tu m\u00e9dico."
 }

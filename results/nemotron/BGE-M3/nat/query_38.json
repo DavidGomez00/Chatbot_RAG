@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento me va a sentar mal? \u00bfCu\u00e1les son los principales efectos adversos?\n",
+    "context_info": [
+        {
+            "text": "Habitualmente se utilizan coformulaciones (ABC+3TC, AZT+3TC, FTC+TDF y ABC+3TC+AZT) que disminuyen el n\u00famero de dosis y mejoran el cumplimiento. Se pueden utilizar en el embarazo y algunos son eficaces para el tratamiento de la hepatitis B. Los efectos secundarios m\u00e1s frecuentes son neuropat\u00eda perif\u00e9rica y mielotoxicidad, acidosis l\u00e1ctica, hepatotoxicidad, pancreatitis y nefropat\u00eda. Presentan resistencia cruzada entre ellos. ",
+            "source": "manejo_paciente_vih_en_ap, section 13.0.",
+            "_distance": 0.7614241242408752
+        },
+        {
+            "text": "Los habituales efectos adversos a corto y largo plazo de los antirretrovirales, y otros aspectos dependientes del paciente o del propio sistema, son causa frecuente de abandono del tratamiento y de la consiguiente aparici\u00f3n de resistencias. Es \u00fatil conocer estos factores que influyen en la adherencia y ayudar a minimizar aquellos que no la favorecen. ",
+            "source": "manejo_paciente_vih_en_ap, section 23.0.",
+            "_distance": 0.7915471196174622
+        },
+        {
+            "text": "El principal h\u00e1ndicap del tratamiento antirretroviral son sus posibles interacciones, ya sea con f\u00e1rmacos concomitantes que se usen durante el viaje, como con la quimioprofilaxis de algunas enfermedades como el paludismo. Conviene tambi\u00e9n tener en cuenta el creciente uso y las posibles interacciones derivadas de la medicina alternativa, las plantas medicinales y los complementos alimentarios HIV Drug Interactions . ",
+            "source": "ManualClinico, section 29.2.2.",
+            "_distance": 0.7940797805786133
+        },
+        {
+            "text": "Muchos otros medicamentos se han relacionado con efectos adversos neurol\u00f3gicos, como RPV y en general todos los f\u00e1rmacos de la familia de los INI; entre \u00e9stos, DTG y quiz\u00e1s tambi\u00e9n BIC, son los m\u00e1s asociados a estas alteraciones, en especial insomnio. En cada paciente debe valorarse individualmente cu\u00e1l es la importancia cl\u00ednica de esta toxicidad y la posible relaci\u00f3n causal con el f\u00e1rmaco; en el caso de que se considere probable esta asociaci\u00f3n debe valorarse la retirada del f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.7968326807022095
+        },
+        {
+            "text": "Hay diferentes propuestas de tratamiento, siendo las tres m\u00e1s aceptadas con Azitromicina 500mg (primer dia) + 250mg/d\u00eda (2\u00ba-5\u00bad\u00edas), o si el paciente ha hecho 7 d\u00edas de tratamiento emp\u00edrico con doxiciclina 100 mg/12h, a\u00f1adir 1 gr de azitromicina seguido de 2 d\u00edas m\u00e1s de 500 mg. En caso de fracaso terap\u00e9utico, se puede pautar moxifloxacino 400mg/d\u00eda durante 7-10d\u00edas. ",
+            "source": "ManualClinico, section 28.4.2.",
+            "_distance": 0.7990748286247253
+        }
+    ],
+    "answer": "No puedo predecir con certeza c\u00f3mo reaccionar\u00e1 tu cuerpo al tratamiento, ya que cada persona puede responder de manera diferente. Sin embargo, puedo informarte sobre los efectos adversos m\u00e1s comunes asociados con los tratamientos antirretrovirales mencionados:\n\nEfectos adversos m\u00e1s frecuentes:\n\n1. Neuropat\u00eda perif\u00e9rica: Problemas de sensibilidad, dolor o hormigueo en manos y pies.\n2. Mielotoxicidad: Posibles problemas con la producci\u00f3n de gl\u00f3bulos sangu\u00edneos (anemia, neutropenia, etc.).\n3. Acidosis l\u00e1ctica: Un desequilibrio en los niveles de \u00e1cido l\u00e1ctico en la sangre, que puede ser grave si no se trata.\n4. Hepatotoxicidad: Da\u00f1o al h\u00edgado, por lo que es importante el monitoreo de las pruebas hep\u00e1ticas.\n5. Pancreatitis: Inflamaci\u00f3n del p\u00e1ncreas, que puede ser dolorosa y requerir atenci\u00f3n m\u00e9dica inmediata.\n6. Nefropat\u00eda: Problemas o da\u00f1o a los ri\u00f1ones, especialmente importante en pacientes con antecedentes renales.\n\nOtros efectos adversos mencionados (espec\u00edficamente para algunos medicamentos):\n\n- Insomnio y otros efectos neurol\u00f3gicos: Asociados particularmente con f\u00e1rmacos como RPV, DTG y posiblemente BIC.\n\nQu\u00e9 puedes hacer:\n\n- Discute tus inquietudes con tu m\u00e9dico: Antes de iniciar el tratamiento, es crucial hablar sobre tus preocupaciones y cualquier condici\u00f3n m\u00e9dica preexistente.\n- Monitoreo regular: Asiste a todas las citas programadas para un seguimiento cercano de tus an\u00e1lisis y salud en general.\n- Reporta cualquier efecto adverso: No esperes a que los s\u00edntomas empeoren; informa a tu m\u00e9dico tan pronto notes algo anormal.\n\nRecuerda, el tratamiento antirretroviral es personalizado. Tu m\u00e9dico elegir\u00e1 la combinaci\u00f3n de medicamentos m\u00e1s adecuada para ti, considerando tus condiciones de salud espec\u00edficas y minimizando el riesgo de efectos adversos severos.\n\nPara una evaluaci\u00f3n y recomendaciones personalizadas, consulta a tu m\u00e9dico."
+}

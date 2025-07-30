@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo puedo comunicarle a mi m\u00e9dico mis preocupaciones sobre los efectos secundarios neurol\u00f3gicos que experimento?\n",
+    "context_info": [
+        {
+            "text": " Alteraciones neurol\u00f3gicas Entre los f\u00e1rmacos asociados con alteraciones neurol\u00f3gicas destaca EFV; es su efecto adverso m\u00e1s frecuente y se caracteriza por mareos, inestabilidad, insomnio, sue\u00f1os vividos y fala de concentraci\u00f3n. Esta toxicidad aparece desde los primeros d\u00edas de tratamiento y en muchas ocasiones es limitante, obligando a retirar el f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.8353743553161621
+        },
+        {
+            "text": "Muchos otros medicamentos se han relacionado con efectos adversos neurol\u00f3gicos, como RPV y en general todos los f\u00e1rmacos de la familia de los INI; entre \u00e9stos, DTG y quiz\u00e1s tambi\u00e9n BIC, son los m\u00e1s asociados a estas alteraciones, en especial insomnio. En cada paciente debe valorarse individualmente cu\u00e1l es la importancia cl\u00ednica de esta toxicidad y la posible relaci\u00f3n causal con el f\u00e1rmaco; en el caso de que se considere probable esta asociaci\u00f3n debe valorarse la retirada del f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.8355510234832764
+        },
+        {
+            "text": "Finalmente, cuando el VIH se encuentra bien controlado debemos actuar sobre aquellos factores que puedan estar produciendo da\u00f1o a nivel neurocognitivo. Algunos aspectos como evitar el uso de drogas psicoactivas o el control de los factores de riesgo cardiovascular ser\u00e1n claves en estos casos. Otro aspecto importante en estas situaciones ser\u00e1 evaluar el perfil de neurotoxicidad de los f\u00e1rmacos utilizados, especialmente el de los f\u00e1rmacos antirretrovirales (FAR). ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.8682643175125122
+        },
+        {
+            "text": "Un 5-10% pueden tener s\u00edntomas neurol\u00f3gicos como cefalea, meningitis as\u00e9ptica o, m\u00e1s raramente, otros s\u00edntomas neurol\u00f3gicos graves (convulsiones, meningoencefalitis, mielitis o s\u00edndrome de Guillain-Barr\u00e9). Desde el punto de vista del laboratorio es t\u00edpica la linfopenia seguida de linfocitosis (disminuci\u00f3n de la cifra de linfocitos CD4+, aumento de los linfocitos CD8+ y linfocitosis reactivos) (40%), la trombocitopenia (50%), la alteraci\u00f3n de las pruebas de funci\u00f3n hep\u00e1tica (20%) y el aumento de LDH y CK. ",
+            "source": "ManualClinico, section 4.5.",
+            "_distance": 0.8751909732818604
+        },
+        {
+            "text": "Al retirarse puede haber un empeoramiento cl\u00ednico durante las primeras semanas (fen\u00f3meno de rebote) tras lo cual comienza una mejor\u00eda progresiva con resoluci\u00f3n de los s\u00edntomas en unos meses. La potencial neurotoxicidad de los FAR no impide su uso porque los efectos beneficiosos de la supresi\u00f3n viral y la recuperaci\u00f3n de la funci\u00f3n inmune parecen superar su posible toxicidad. ",
+            "source": "ManualClinico, section 23.2.3.",
+            "_distance": 0.8884359002113342
+        }
+    ],
+    "answer": "Excelente decisi\u00f3n compartir tus inquietudes con tu m\u00e9dico. Aqu\u00ed te dejo algunos consejos para comunicar de manera efectiva tus preocupaciones sobre los efectos secundarios neurol\u00f3gicos relacionados con tu tratamiento contra el VIH:\n\n1. Preparaci\u00f3n previa:\n\t Anota detalladamente los s\u00edntomas que est\u00e1s experimentando, incluyendo:\n\t\t+ Tipo de s\u00edntoma (mareos, insomnio, sue\u00f1os vividos, falta de concentraci\u00f3n, cefalea, etc.)\n\t\t+ Frecuencia (diario, varias veces a la semana, ocasional)\n\t\t+ Duraci\u00f3n (desde cu\u00e1ndo comenzaron, si han cambiado con el tiempo)\n\t Identifica los medicamentos antirretrovirales (FAR) que est\u00e1s tomando actualmente\n2. Durante la consulta:\n\t S\u00e9 directo y claro: Comienza expresando tu preocupaci\u00f3n de manera abierta, por ejemplo: \"Doctor, quer\u00eda hablar con usted sobre algunos efectos secundarios que he notado desde que inici\u00e9 mi tratamiento con [nombre del medicamento]. Me preocupa c\u00f3mo podr\u00edan estar afectando mi salud neurol\u00f3gica.\"\n\t Comparte tus anotaciones: Presenta la lista de s\u00edntomas y detalles que has preparado. Esto ayudar\u00e1 a tu m\u00e9dico a entender mejor tu situaci\u00f3n.\n\t Preg\u00fantale sobre la posible relaci\u00f3n causal: \"\u00bfCree usted que estos s\u00edntomas podr\u00edan estar relacionados con mi tratamiento actual, espec\u00edficamente con [nombre del medicamento, por ejemplo, EFV, RPV, DTG, BIC]?\"\n3. Discusi\u00f3n y seguimiento:\n\t Escucha su evaluaci\u00f3n: Tu m\u00e9dico valorar\u00e1 la importancia cl\u00ednica de estos s\u00edntomas y la posible relaci\u00f3n con tu tratamiento.\n\t Explora opciones juntos:\n\t\t- Si se considera probable la asociaci\u00f3n, discute posibles alternativas de tratamiento que minimicen los efectos secundarios neurol\u00f3gicos.\n\t\t- Averigua sobre posibles ajustes en el horario de toma del medicamento o cambios en tu estilo de vida que podr\u00edan aliviar los s\u00edntomas.\n\t Seguimiento: Establece un plan para monitorear los s\u00edntomas y revisar su evoluci\u00f3n en consultas posteriores.\n\nEjemplo de di\u00e1logo para iniciarte:\n\n\"Tengo algunas inquietudes sobre mi tratamiento actual contra el VIH. Desde que empec\u00e9 a tomar [nombre del medicamento], he notado [describe tus s\u00edntomas, por ejemplo, 'insomnio y sue\u00f1os muy vividos']. Me preocupa si esto podr\u00eda estar relacionado con el tratamiento. \u00bfPodr\u00edamos discutir si hay una conexi\u00f3n y qu\u00e9 opciones tengo para manejar estos efectos secundarios?\""
+}

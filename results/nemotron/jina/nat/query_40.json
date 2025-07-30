@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo podr\u00e9 tener relaciones sexuales sin protecci\u00f3n?\n",
+    "context_info": [
+        {
+            "text": "Otras simplemente asumen el sexo sin preservativo sin negociarlo, porque perciben que proponerlo podr\u00eda ser visto por el otro miembro de la pareja como un acto de desconfianza. Sea como sea, conviene recordar que las relaciones mon\u00f3gamas per se no son una garant\u00eda de protecci\u00f3n frente al VIH. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.9050300121307373
+        },
+        {
+            "text": "Una postura contempor\u00e1nea admitir\u00eda que una persona que acepte mantener relaciones sexuales sin protecci\u00f3n, conociendo la existencia de enfermedades de transmisi\u00f3n sexual y de la venta de pruebas de detecci\u00f3n r\u00e1pida del VIH o preservativos en farmacias, ya ha aceptado el riesgo: todas las personas que participan en comportamientos con riesgo de transmisi\u00f3n del VIH son corresponsables. ",
+            "source": "ManualClinico, section 34.3.",
+            "_distance": 0.9752949476242065
+        },
+        {
+            "text": " El riesgo de transmisi\u00f3n heterosexual es cercano a cero cuando el miembro infectado tiene la carga viral plasm\u00e1tica (CVP) indetectable. Por este motivo parejas serodiscordantes en las que el miembro infectado por el VIH tiene la CVP indetectable al menos 6 meses y desean concebir, pueden tener relaciones sexuales desprotegidas.  3. Manejo de la MVIH en edad f\u00e9rtil. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 1.0086512565612793
+        },
+        {
+            "text": " De todos modos, tambi\u00e9n puedes mantenerte protegido y evitar las infecciones usando preservativos y lubricantes. P: \u00bfHay personas que est\u00e9n protegidas frente a la infecci\u00f3n de forma natural?  R: Algunas personas se ven expuestas al VIH en numerosas ocasiones (por relaciones con una o varias personas) y, a pesar de ello, no adquieren el virus. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 1.0112322568893433
+        },
+        {
+            "text": " Se aconseja a cualquier pareja \u2013sea o no mon\u00f3gama\u2013 que quiera prescindir de forma consensuada del uso del preservativo en sus relaciones sexuales, que, antes de dar el paso, ambos miembros conozcan su estado serol\u00f3gico al VIH y los riesgos a los que hayan podido exponerse con posterioridad a la prueba.  Algunas personas podr\u00edan plantearse la posibilidad de utilizar la profilaxis preexposici\u00f3n (PrEP) para protegerse del VIH a s\u00ed mismas y a sus parejas estables u ocasionales. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 1.011752724647522
+        }
+    ],
+    "answer": "Excelente pregunta sobre seguridad en las relaciones \u00edntimas.\n\nSeg\u00fan el conocimiento especializado que tengo sobre el VIH, te proporcionar\u00e9 una respuesta precisa y clara:\n\nRelaciones dentro de una pareja serodiscordante (donde uno de los miembros tiene VIH y el otro no):\n\n Condiciones para relaciones sin protecci\u00f3n:\n\t1. El miembro infectado con VIH debe tener una carga viral plasm\u00e1tica (CVP) indetectable.\n\t2. Esta condici\u00f3n de CVP indetectable debe ser mantenida durante al menos 6 meses.\n En este contexto espec\u00edfico: Si se cumplen ambas condiciones y la pareja desea concebir, pueden considerar tener relaciones sexuales sin protecci\u00f3n.\n\nPara parejas en general (incluyendo aquellas con estado serol\u00f3gico desconocido o sin restricciones de serodiscordancia):\n\n Recomendaci\u00f3n general para seguridad:\n\t+ Antes de prescindir del uso del preservativo, ambos miembros de la pareja deben conocer su estado serol\u00f3gico actualizado respecto al VIH.\n\t+ Deben estar informados sobre los riesgos de exposici\u00f3n posterior a la \u00faltima prueba.\n\nOtras consideraciones:\n\n Si est\u00e1s buscando protegerte adicionalmente, podr\u00edas explorar la profilaxis preexposici\u00f3n (PrEP), pero esto debe ser evaluado con un profesional de salud.\n Recuerda que las relaciones mon\u00f3gamas no son una garant\u00eda de protecci\u00f3n contra el VIH si no se conocen los estados serol\u00f3gicos o si hay riesgos de exposici\u00f3n previos.\n\nPara cualquier decisi\u00f3n espec\u00edfica sobre tu situaci\u00f3n:\nSi tienes dudas adicionales o necesitas orientaci\u00f3n personalizada, te aconsejo consultar a un m\u00e9dico o especialista en salud sexual."
+}

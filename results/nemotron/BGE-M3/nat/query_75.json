@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1les son las probabilidades de que mi beb\u00e9 est\u00e9 libre de VIH si cumplo con el tratamiento?\n",
+    "context_info": [
+        {
+            "text": "3.5 Aspectos particulares del seguimiento de las mujeres con VIH 3.5.1 Embarazo El riesgo de transmisi\u00f3n materno fetal de la infecci\u00f3n por el VIH es casi cero si las mujeres infectadas hacen un correcto seguimiento y tratamiento de su enfermedad. Esto se traduce en los bajos niveles de infecci\u00f3n por el VIH en reci\u00e9n nacidos en Espa\u00f1a en los \u00faltimos cinco a\u00f1os (menos de 6 casos a\u00f1o y s\u00f3lo 2 en 2019). Aun as\u00ed, son datos alarmantes, pues la transmisi\u00f3n vertical en Espa\u00f1a deber\u00eda ser 0. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6368619799613953
+        },
+        {
+            "text": " La oferta universal del test a las mujeres embarazadas ha reducido de forma espectacular el n\u00famero de beb\u00e9s que nacen con el VIH en Espa\u00f1a. El diagn\u00f3stico del VIH durante el embarazo permite que la madre pueda recibir un tratamiento que tambi\u00e9n protege al beb\u00e9. Si la infecci\u00f3n por el VIH se maneja de forma correcta, la prevenci\u00f3n resulta muy eficaz y, as\u00ed, las tasas de transmisi\u00f3n del virus al beb\u00e9 se reducen de forma espectacular (inferior al 1%). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.6460241079330444
+        },
+        {
+            "text": "El tratamiento frente al VIH te permitir\u00e1 tener una esperanza de vida similar a la de una persona sin el VIH, con una buena calidad de vida. Es muy probable que no tengas que renunciar a nada de lo que hac\u00edas como consecuencia de tu nueva situaci\u00f3n.  Como parte de la atenci\u00f3n prenatal, de forma rutinaria se incluye la realizaci\u00f3n de la prueba del VIH a todas las mujeres (durante el primer y tercer trimestre de embarazo). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.6569120287895203
+        },
+        {
+            "text": " Si la persona con el VIH tiene la carga viral indetectable gracias al tratamiento antirretroviral, el riesgo de transmisi\u00f3n es cero, incluso si no se emplean preservativos.  Si la persona sin el VIH toma la PrEP frente al virus de forma apropiada, entonces el riesgo de transmisi\u00f3n se reduce de forma espectacular, incluso cuando no se utilizan preservativos. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6903615593910217
+        },
+        {
+            "text": "Aunque en algunos estudios, a pesar de una mejor\u00eda tras el acceso al tratamiento antirretroviral, la tasa de fertilidad segu\u00eda siendo inferior a la de la mujer VIH negativa. El pron\u00f3stico del embarazo en la mujer VIH tambi\u00e9n ha mejorado tras el aumento del uso del tratamiento antirretroviral. En un estudio de la Woman\u2019s Interagency HIV Study se demostr\u00f3 una mejor\u00eda en los nacidos vivos igual\u00e1ndose a las mujeres VIH negativas en la era posterior al a\u00f1o 2001. ",
+            "source": "ManualClinico, section 32.3.",
+            "_distance": 0.7150442600250244
+        }
+    ],
+    "answer": "Excelente decisi\u00f3n al cumplir con tu tratamiento.\n\nSi sigues correctamente el tratamiento antirretroviral y tienes una carga viral indetectable, las probabilidades de transmisi\u00f3n del VIH a tu beb\u00e9 son casi nulas. De hecho, en Espa\u00f1a, gracias a este enfoque, se han reducido significativamente los casos de transmisi\u00f3n materno-fetal, llegando a menos de 6 casos al a\u00f1o (solo 2 en 2019).\n\nPara ser m\u00e1s preciso, con un tratamiento adecuado y una carga viral controlada:\n\n   La tasa de transmisi\u00f3n del VIH al beb\u00e9 se reduce a menos del 1%.\n   Si tu carga viral es indetectable, el riesgo de transmisi\u00f3n es cero, incluso sin el uso de preservativos en relaciones sexuales.\n\nRecuerda que la oferta universal del test de VIH durante el embarazo y el tratamiento oportuno son clave para estos resultados tan positivos. \u00a1Sigue adelante con tu tratamiento y disfruta de este proceso con tranquilidad! \n\n\u00bfNecesitas m\u00e1s informaci\u00f3n sobre tu caso espec\u00edfico? Para m\u00e1s detalles, consulta a tu m\u00e9dico."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo se compara el impacto de rilpivirina frente a doravirina en el colesterol y la acumulaci\u00f3n de grasa en el h\u00edgado?\n",
+    "context_info": [
+        {
+            "text": " Dislipemia La infecci\u00f3n por VIH sin tratamiento antiretroviral tiene un efecto sobre el nivel de los l\u00edpidos: baja los niveles de colesterol total y colesterol HDL y LDL y sube los niveles de triglic\u00e9ridos. El propio virus y determinados f\u00e1rmacos antiretrovirales est\u00e1n asociados a un aumento del riesgo cardiovascular independientemente de sus efectos sobre los l\u00edpidos. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.8365874886512756
+        },
+        {
+            "text": " Riesgo cardiovascular Algunos antirretrovirales (IP e ITIAN) elevan los niveles de colesterol total (CT), de lipoprote\u00ednas de baja densidad (c-LDL) y, sobre todo, de triglic\u00e9ridos, adem\u00e1s de disminuir los niveles de lipoprote\u00ednas de alta densidad (c-HDL). Esto se suma a otros factores de riesgo cl\u00e1sicos, m\u00e1s frecuentes en los seropositivos (tabaquismo, diabetes, hipertensi\u00f3n). ",
+            "source": "manejo_paciente_vih_en_ap, section 18.0.",
+            "_distance": 0.8880667090415955
+        },
+        {
+            "text": "Act\u00faan uni\u00e9ndose a un lugar de la TI pr\u00f3ximo al lugar activo, provocan un cambio conformacional y bloquean la acci\u00f3n de la polimerasa. No necesitan metabolizarse para activarse. El m\u00e1s empleado en la actualidad es rilpivirina que, por su mejor perfil de seguridad, ha desplazado a efavirenz y nevirapina. Etravirina y doravirina presentan mayor barrera gen\u00e9tica. ",
+            "source": "ManualClinico, section 8.2.2.",
+            "_distance": 0.8944227695465088
+        },
+        {
+            "text": "El efecto del tratamiento antirretroviral en el metabolismo lip\u00eddico varia seg\u00fan las familias y tambi\u00e9n seg\u00fan los f\u00e1rmacos individuales. Los antirretrovirales potenciados, IP o elvitegravir, y efavirenz son los f\u00e1rmacos con un mayor impacto a nivel lip\u00eddico. Los objetivos de tratamiento de la dislipemia en PVVIH deben ser, como m\u00ednimo, los recomendados en poblaci\u00f3n general, teniendo en cuenta que las f\u00f3rmulas de c\u00e1lculo de RCV suelen infraestimar el riesgo en PVVIH. ",
+            "source": "ManualClinico, section 20.2.5.",
+            "_distance": 0.8944794535636902
+        },
+        {
+            "text": "Los f\u00e1rmacos antiretrovirales que pueden causar elevaciones en los l\u00edpidos son los inhibidores de la proteasa, en especial si el potenciador utilizado es ritonavir, y el uso de efavirenz. El uso de tenofovir disoproxil fumarato tiene un efecto reductor sobre los niveles de colesterol total que se pierde cuando se usa la nueva formulaci\u00f3n de tenofovir alafenamida. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.9223172068595886
+        }
+    ],
+    "answer": "No response content"
+}

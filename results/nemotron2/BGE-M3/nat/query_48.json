@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 se considera un Fracaso virol\u00f3gico?\n",
+    "context_info": [
+        {
+            "text": "El fracaso se categoriza en: \u2022Fracaso virol\u00f3gico , est\u00e1 definido en pacientes en TAR, por la ausencia de supresi\u00f3n viral completa (CV por debajo del l\u00edmite de detectabilidad de la t\u00e9cnica utilizada, generalmente <20 \u00f3 75 copias /mL), o detecci\u00f3n de viremia tras control de la misma. En adultos se considera fracaso si la CV tras 6 meses de TAR es \u2265 200 copias/mL. Los ni\u00f1os con CV muy elevadas al inicio del TAR, puede tardar m\u00e1s de 6 meses en alcanzar la indetectabilidad. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.6570101380348206
+        },
+        {
+            "text": "Si la CV sigue descendiendo progresivamente puede ser apropiado esperar unas semanas m\u00e1s. En la actualidad las pautas iniciales de TAR recomendadas como preferentes tienen un muy bajo riesgo de fracaso virol\u00f3gico con desarrollo de resistencias. En general el nivel de CV que establecemos para definir fracaso virol\u00f3gico son 200 copias/mL. Umbrales inferiores condicionar\u00edan cambios de TAR innecesarios. El fracaso virol\u00f3gico debe confirmarse siempre con una segunda determinaci\u00f3n de CV. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.8316748142242432
+        },
+        {
+            "text": "Adem\u00e1s del fracaso virol\u00f3gico existen otras dos situaciones caracterizadas por CV detectable: \u2022 \u201cBlip \u201d: despu\u00e9s de alcanzada la supresi\u00f3n virol\u00f3gica hay una carga viral detectable, generalmente de bajo nivel que en la siguiente determinaci\u00f3n se ha vuelto a hacer indetectable. Generalmente no son predictores de fracaso virol\u00f3gico ulterior. \u2022 Viremia de bajo nivel: cargas virales persistentemente detectables en general menores de 200 copias/mL. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.8327341079711914
+        },
+        {
+            "text": " Fracaso del TAR El fracaso del TAR se refiere tanto a no alcanzar la supresi\u00f3n virol\u00f3gica (CV <50 copias/mL), despu\u00e9s de seis meses de iniciado un TAR en un paciente na\u00efve como al rebote virol\u00f3gico que ocurre en un paciente que ya hab\u00eda alcanzado la supresi\u00f3n virol\u00f3gica. En pacientes na\u00efve con CV muy alta (>1.000.000 copias/mL) es posible que, aunque el TAR est\u00e9 siendo eficaz, no se alcance la indetectabilidad en los primeros seis meses, especialmente si el TAR est\u00e1 basado en IP/p. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.8540867567062378
+        },
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8782892823219299
+        }
+    ],
+    "answer": "No response content"
+}

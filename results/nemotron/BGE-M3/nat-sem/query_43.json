@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfHay alguno de los tratamiento para pacientes que no han tomado nada que sea m\u00e1s efectivo o son iguales?\n",
+    "context_info": [
+        {
+            "text": " Carga Viral indetectable en pacientes infectados pero sin tratamiento Algunos pacientes infectados (5-7%), pueden mantener la replicaci\u00f3n del virus controlada por per\u00edodos prolongados de tiempo en ausencia de tratamiento antirretroviral. Estos pacientes se encuentran asintom\u00e1ticos y con cifras de CD4 estables (> 400-500 c\u00e9lulas/\u03bcl). Son los llamados No Progresores a largo plazo (LTNP) y Controladores de \u00e9lite (EC). En el caso de un paciente diagnosticado por serolog\u00eda, que est\u00e1 sintom\u00e1tico o con cifras de CD4 disminuidas, sin tratamiento y con carga viral indetectable, deber\u00eda hacer sospechar de variantes del grupo O \u00f3 grupo N del VIH-1 \u00f3 variantes del VIH-2.",
+            "source": "ManualClinico, section 6.5.5.",
+            "_distance": 0.9465659260749817
+        },
+        {
+            "text": "El tratamiento es m\u00e1s eficaz si se inicia precozmente. El tratamiento antiv\u00edrico con an\u00e1logos de nucle\u00f3sidos es eficaz, seguro y bien tolerado. Otras formas cl\u00ednicas son la esofagitis, la proctitis y la encefalitis (rara en pacientes con infecci\u00f3n por el VIH). La profilaxis primaria no est\u00e1 recomendada y la secundaria debe plantearse ante recurrencias graves o muy frecuentes. ",
+            "source": "ManualClinico, section 12.4.1.",
+            "_distance": 1.0041142702102661
+        },
+        {
+            "text": "Algunos estudios sugieren que la efectividad del tratamiento de la hepatitis C con AADs en VIH+ es inferior que en pacientes VIH. Es posible que en algunos casos, como pacientes con linfocitos CD4+ bajos o con cirrosis avanzada, la efectividad sea m\u00e1s baja. A\u00fan as\u00ed la efectividad del tratamiento con AADs en VIH+ es muy elevada en todos los escenarios por lo que no ha de limitarse el tratamiento en estos pacientes. En cuanto a las hepatitis agudas por VHC en pacientes VIH+ est\u00e1 indicado su tratamiento salvo en los casos en que se observe un descenso espont\u00e1neo en la viremia del VHC mayor de 2 log tras 4 semanas desde el diagn\u00f3stico (alta probabilidad de resoluci\u00f3n espont\u00e1nea). Dada la escasa evidencia en estudios de pacientes VIH+ algunas gu\u00edas recomiendan las mismas pautas para pacientes VIH- con hepatitis aguda C (pautas cortas de hasta 8 semanas) mientras que otras recomiendan tratar como si se tratara de una infecci\u00f3n cr\u00f3nica sin cirrosis. ",
+            "source": "ManualClinico, section 27.2.5.",
+            "_distance": 1.004494071006775
+        },
+        {
+            "text": "A la hora de decidir cu\u00e1l es la mejor opci\u00f3n, es aconsejable contar con el soporte de un pediatra experto en infecci\u00f3n VIH. Para efectuar el cambi\u00f3 debemos disponer de 2 e idealmente m\u00e1s f\u00e1rmacos completamente activos. En el caso que para construir un nuevo r\u00e9gimen, se requiera de un antirretroviral que no tenga indicaci\u00f3n pedi\u00e1trica, se valorara su administraci\u00f3n bajo uso compasivo. En pacientes con m\u00faltiples fracasos y con un patr\u00f3n de resistencias que determine ausencia de una combinaci\u00f3n de antirretrovirales que garantice el control de la replicaci\u00f3n viral, mantendremos la pauta menos t\u00f3xica a la espera de nuevas opciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 1.0080764293670654
+        },
+        {
+            "text": "Ya es posible utilizar por v\u00eda de acceso compasivo algunos de los f\u00e1rmacos todav\u00eda no comercializados indicados en el apartado h) de este cap\u00edtulo (fostemsavir o ibalizumab). ",
+            "source": "ManualClinico, section 9.4.1.",
+            "_distance": 1.0139552354812622
+        }
+    ],
+    "answer": "Excelente pregunta!\n\nSeg\u00fan mi conocimiento especializado en VIH, el tratamiento es m\u00e1s eficaz si se inicia precozmente. En cuanto a la eficacia de los tratamientos para pacientes que no han tomado ning\u00fan medicamento anteriormente (tambi\u00e9n conocidos como \"tratamiento inicial\" o \"primera l\u00ednea\"), la respuesta es que:\n\n No hay un tratamiento significativamente m\u00e1s efectivo que otro para todos los pacientes. La elecci\u00f3n del tratamiento inicial se basa en varios factores, incluyendo:\n\t1. Perfil de resistencia viral (si se conoce).\n\t2. Carga viral y recuento de CD4.\n\t3. Presencia de comorbilidades (otras enfermedades simult\u00e1neas).\n\t4. Posibles interacciones medicamentosas.\n\t5. Preferencias del paciente y facilidad de adherencia al tratamiento.\n Los tratamientos antiv\u00edricos con an\u00e1logos de nucle\u00f3sidos son eficaces, seguros y bien tolerados como primera l\u00ednea para la mayor\u00eda de los pacientes. Estos incluyen combinaciones de medicamentos como:\n\t+ Inhibidores de la transcriptasa inversa (ITV) + inhibidores de la proteasa (IP), o\n\t+ ITV + inhibidores de la integrasa, entre otros.\n\nEs importante destacar que cada paciente es \u00fanico, y lo que funciona mejor para uno puede no ser lo \u00f3ptimo para otro. Por ello, la elecci\u00f3n del tratamiento inicial debe ser personalizada bajo la gu\u00eda de un m\u00e9dico especialista en VIH.\n\nRecomendaci\u00f3n: Para determinar el mejor tratamiento inicial para un paciente espec\u00edfico, se debe consultar a un m\u00e9dico especialista en VIH, quien evaluar\u00e1 las caracter\u00edsticas individuales del paciente y recomendar\u00e1 la opci\u00f3n m\u00e1s adecuada."
+}

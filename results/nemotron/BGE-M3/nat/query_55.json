@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1l es el principal motivo/causa para que mi tratamiento falle?\n",
+    "context_info": [
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.708491861820221
+        },
+        {
+            "text": " Adherencia El cumplimiento terap\u00e9utico es fundamental para conseguir los objetivos del TAR. La falta de adherencia es la principal causa de fracaso del TAR, aumenta la mortalidad y favorece la selecci\u00f3n de mutaciones y la aparici\u00f3n de resistencias a los f\u00e1rmacos. ",
+            "source": "manejo_paciente_vih_en_ap, section 17.0.",
+            "_distance": 0.7618589997291565
+        },
+        {
+            "text": "Esto puede ocurrir por m\u00faltiples razones, coexistiendo la percepci\u00f3n del estigma, condicionantes socioecon\u00f3micos, factores culturales, creencias personales y falta de confianza en el sistema sanitario, como principales causas. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.3.",
+            "_distance": 0.7770323753356934
+        },
+        {
+            "text": " Factores que condicionan el fracaso del TAR Los principales condicionantes del fracaso del TAR son: \u2022Dependientes del paciente : mala adherencia al TAR, condicionada muchas veces por la tolerabilidad del TAR, dificultad de acceso a la atenci\u00f3n sanitaria o de seguimiento de los controles m\u00e9dicos, errores de dosificaci\u00f3n o existencia de comorbilidades que pueden afectar la adherencia (abuso de sustancias, patolog\u00eda psiqui\u00e1trica, afectaci\u00f3n neurocognitiva). ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 0.7876084446907043
+        },
+        {
+            "text": "El cl\u00ednico debe evaluar los condicionantes del fracaso identificando causas de mala adherencia, buscar posibles errores de dosificaci\u00f3n o interacciones significativas. Hay que intentar pautar un TAR c\u00f3modo, bien tolerado, de escasa toxicidad teniendo en cuenta las comorbilidades del paciente. Es preciso tambi\u00e9n hacer una historia detallada de todos los reg\u00edmenes TAR previos determinando si ha habido cambios por fracasos virol\u00f3gicos o por toxicidad/tolerabilidad. ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 0.8015452027320862
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, la falta de adherencia al tratamiento antirretroviral (TAR) es la principal causa de fracaso del tratamiento. Esto significa que no cumplir con el r\u00e9gimen de medicaci\u00f3n prescrito, ya sea por various motivos como:\n\n Percepci\u00f3n del estigma asociado al VIH\n Condicionantes socioecon\u00f3micos\n Factores culturales\n Creencias personales\n Falta de confianza en el sistema sanitario\n Dificultades con la tolerabilidad del TAR\n Problemas de acceso a la atenci\u00f3n sanitaria o seguimiento de controles m\u00e9dicos\n Errores en la dosificaci\u00f3n\n Comorbilidades (por ejemplo, abuso de sustancias, patolog\u00eda psiqui\u00e1trica, afectaci\u00f3n neurocognitiva)\n\nEs crucial trabajar estrechamente con tu equipo de salud para identificar y abordar cualquier obst\u00e1culo que pueda afectar tu adherencia al tratamiento."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 precauciones debo tomar durante el embarazo para asegurar la salud de mi beb\u00e9?\n",
+    "context_info": [
+        {
+            "text": "En ella, adem\u00e1s de promover h\u00e1bitos saludables, se identifi car\u00e1n posibles riesgos (laborales, ambientales, etc.), se actualizar\u00e1 el calendario vacunal (VHB, neumococo, gripe) (ver cap\u00edtulo calendario vacunal), se detectar\u00e1n circunstancias individuales que requieran una especial atenci\u00f3n y se recomendar\u00e1 la ingesta de \u00e1cido f\u00f3lico diario (para evitar defectos en el tubo neural) desde uno o dos meses antes de la concepci\u00f3n hasta la semana 12 de gestaci\u00f3n (cierre del tubo neural). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8832658529281616
+        },
+        {
+            "text": "La mujer embarazada portadora del VIH debe ser tratada con TAR espec\u00edfico para prevenir la transmisi\u00f3n vertical, programar ces\u00e1rea, tratar al reci\u00e9n nacido con AZT y evitar la lactancia materna. ",
+            "source": "manejo_paciente_vih_en_ap, section 20.0.",
+            "_distance": 0.9373583197593689
+        },
+        {
+            "text": "Desde una perspectiva general, hay que considerar aqu\u00ed: La anticoncepci\u00f3n si estas condiciones no est\u00e1n presentes y mientras se consiguen.La prevenci\u00f3n de infecciones, incluyendo una actualizaci\u00f3n del calendario vacunal adaptado a los pacientes VIH y una atenci\u00f3n especial a las infecciones que pueden afectar posteriormente al feto (Rubeola, Toxoplasma, CMV y las que se transmiten tambi\u00e9n por v\u00eda sexual, como L\u00faes, VHB y VHC).La promoci\u00f3n de h\u00e1bitos saludables, como la abstenci\u00f3n del tabaco, alcohol y otras drogas, la dieta \u2018prudente\u2019 (sin excesos de grasas saturadas, calor\u00edas o az\u00facares y rica en vitaminas y oligoelementos), etc.Los suplementos de folatos. ",
+            "source": "ManualClinico, section 32.2.1.",
+            "_distance": 0.9447324275970459
+        },
+        {
+            "text": "En caso de deseo de embarazo o gestaci\u00f3n debe prevenirse la transmisi\u00f3n materno-infantil** ( B-III*, A-I**) 8.Se recomienda la valoraci\u00f3n social, incluyendo el entorno sociofamiliar y los medios de vida, para aportar medidas de apoyo en caso necesario ( B-II) 25 2.1.2.1 Farmacol\u00f3gicas Las medidas preventivas farmacol\u00f3gicas para la prevenci\u00f3n de la infecci\u00f3n por el VIH, las podemos resumir en cuatro apartados.  1. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 0.9662570953369141
+        },
+        {
+            "text": "Tambi\u00e9n debe realizarse en el momento del parto en aquellas mujeres embarazadas que no hayan acudido a controles prenatales, especialmente en mujeres procedentes de pa\u00edses de alta prevalencia. ",
+            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_info, section 6.2.1.",
+            "_distance": 0.9753729701042175
+        }
+    ],
+    "answer": "Como portadora del VIH, es crucial tomar precauciones espec\u00edficas durante el embarazo para minimizar el riesgo de transmisi\u00f3n del virus a tu beb\u00e9 y asegurar su salud. A continuaci\u00f3n, te detallo las medidas recomendadas basadas en mi conocimiento especializado en VIH:\n\n1. Tratamiento Antirretroviral (TAR) espec\u00edfico: Debes seguir un r\u00e9gimen de TAR indicado por tu m\u00e9dico para reducir la carga viral y prevenir la transmisi\u00f3n del VIH a tu beb\u00e9.\n\n2. Programaci\u00f3n de Ces\u00e1rea: Se recomienda programar una ces\u00e1rea para reducir el riesgo de transmisi\u00f3n del VIH durante el parto, especialmente si la carga viral no est\u00e1 bien controlada.\n\n3. Tratamiento con AZT para el reci\u00e9n nacido: Despu\u00e9s del nacimiento, tu beb\u00e9 recibir\u00e1 tratamiento con Zidovudina (AZT) para reducir a\u00fan m\u00e1s el riesgo de infecci\u00f3n por VIH.\n\n4. Evitar la lactancia materna: Para prevenir la transmisi\u00f3n postnatal del VIH, se aconseja no amamantar a tu beb\u00e9. En su lugar, se recomendar\u00e1n f\u00f3rmulas infantiles adecuadas.\n\nAdem\u00e1s de estas medidas espec\u00edficas para el VIH, tambi\u00e9n es importante:\n\n- Actualizar el calendario vacunal (como contra el VHB, neumococo y gripe) seg\u00fan las recomendaciones para pacientes con VIH.\n- Ingesta diaria de \u00e1cido f\u00f3lico desde antes de la concepci\u00f3n hasta la semana 12 de gestaci\u00f3n para prevenir defectos del tubo neural.\n- Promoci\u00f3n de h\u00e1bitos saludables: Evitar el tabaco, alcohol y otras drogas, seguir una dieta equilibrada rica en vitaminas y oligoelementos.\n- Prevenci\u00f3n de infecciones: Tomar precauciones contra infecciones que podr\u00edan afectar al feto, como la Rubeola, Toxoplasma, CMV, L\u00faes, VHB y VHC.\n\nRecuerda: Es fundamental mantener una estrecha comunicaci\u00f3n con tu m\u00e9dico o equipo de atenci\u00f3n m\u00e9dica para ajustar estas recomendaciones a tus necesidades individuales y asegurar el mejor desenlace posible para ti y tu beb\u00e9."
+}

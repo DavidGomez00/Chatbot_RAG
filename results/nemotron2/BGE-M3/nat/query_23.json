@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo afecta mi estilo de vida, como el ejercicio y la alimentaci\u00f3n, mi riesgo de enfermedad cardiovascular mientras estoy en tratamiento para el VIH?\n",
+    "context_info": [
+        {
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.6091344952583313
+        },
+        {
+            "text": " Introducci\u00f3n El riesgo de enfermedad cardiovascular (ECV) est\u00e1 aumentado en las personas que viven con infecci\u00f3n por VIH (PVVIH), con una tasa de eventos CV de alrededor de dos veces superior a la poblaci\u00f3n general tanto en pa\u00edses ricos como en aquellos de bajos recursos1. ",
+            "source": "ManualClinico, section 20.1.",
+            "_distance": 0.6117168068885803
+        },
+        {
+            "text": "Diversos estudios han comparado la disminuci\u00f3n del riesgo cardiovascular asociada a diferentes intervenciones en pacientes con infecci\u00f3n por VIH. El abandono del tabaquismo o controlar adecuadamente las cifras de tensi\u00f3n arterial o colesterol tendr\u00edan el mayor impacto, muy por delante de otras intervenciones como el diagn\u00f3stico y tratamiento precoz de la infecci\u00f3n por VIH o evitar TAR relacionados con un aumento del RCV. ",
+            "source": "ManualClinico, section 20.2.7.",
+            "_distance": 0.6149708032608032
+        },
+        {
+            "text": " Riesgo cardiovascular en los pacientes con infecci\u00f3n por VIH La fisiopatolog\u00eda de la enfermedad cardiovascular en la infecci\u00f3n por VIH es compleja y en ella intervienen tanto factores dependientes de la propia persona como factores relacionados con el VIH 3. Los factores de riesgo tradicionales como el tabaquismo, la hipertensi\u00f3n, la diabetes o la dislipemia son, en general, m\u00e1s prevalentes en la poblaci\u00f3n VIH que en la poblaci\u00f3n general. ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.6225398778915405
+        },
+        {
+            "text": "Por otra parte, las PVVIH hipertensas tienen adem\u00e1s un mayor riesgo de sufrir eventos cardiovasculares que la poblaci\u00f3n general. Un estudio prospectivo que incluy\u00f3 m\u00e1s de 8000 pacientes VIH positivos y controles negativos de la cohorte de veteranos norteamericana encontr\u00f3 un riesgo de infarto agudo de miocardio (IAM) dos veces superior en los sujetos VIH positivos hipertensos que en los VIH negativos con HTA. ",
+            "source": "ManualClinico, section 20.2.3.",
+            "_distance": 0.667991042137146
+        }
+    ],
+    "answer": "No response content"
+}

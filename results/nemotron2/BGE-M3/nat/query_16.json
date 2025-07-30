@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo dolutegravir y bictegravir pueden causar aumento de peso y afectar mi salud hep\u00e1tica y cardiovascular?\n",
+    "context_info": [
+        {
+            "text": "Tambi\u00e9n se han informado de elevaciones de CK, rabdomi\u00f3lisis y miopat\u00eda/miositis en pacientes que toman dolutegravir y raltegravir. Puede presentar una etiolog\u00eda multifactorial hasta en un 33% de los casos. La CVP alta del VIH es un factor de riesgo de lesi\u00f3n renal aguda en la rabdomi\u00f3lisis asociada al VIH. b. ",
+            "source": "ManualClinico, section 23.3.2.",
+            "_distance": 0.7711778283119202
+        },
+        {
+            "text": " El cambio de dolutegravir/abacavir/lamivudina a bictegravir/ FTC /TAF puede realizarse por decisi\u00f3n cl\u00ednica, pero no puede recomendarse el cambio buscando un beneficio en el perfil lip\u00eddico, funci\u00f3n renal o DMO, ni una reducci\u00f3n del RCV . ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7795451879501343
+        },
+        {
+            "text": "El cambio de la pauta a la asociaci\u00f3n de rilpivirina, FTC y TDF, a la de rilpivirina, FTC y T AF, a la de doravirina, FTC y TDF, a pauta basada en raltegravir o en dolutegravir, o el cambio a la coformulaci\u00f3n de bictegravir, FTC y TAF es adecuado. En pacientes con dislipemia asociada a efavirenz la suspensi\u00f3n de este f\u00e1rmaco es una opci\u00f3n terap\u00e9utica; el cambio a raltegravir es adecuado. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8691076040267944
+        },
+        {
+            "text": "Su asociaci\u00f3n con RTV altera el metabolismo hep\u00e1tico, incrementando su concentraci\u00f3n y su semivida, lo que potencia su actividad y disminuye la frecuencia y la dosis de cada toma. Los efectos secundarios m\u00e1s habituales son gastrointestinales (diarrea), lipodistrofia y alteraciones metab\u00f3licas de los l\u00edpidos y de la glucosa. ",
+            "source": "manejo_paciente_vih_en_ap, section 15.0.",
+            "_distance": 0.8859009742736816
+        },
+        {
+            "text": " No utilizar en VHB cr\u00f3nica.* Dolutegravir + Emtricitabina/ Tenofovir Alafenamida* Raltegravir + Emtricitabina/Tenofovir AlafenamidaRaltegravir 400 mg 1 c/12 h o 600 mg 2 c/24 h 1 an\u00e1logo de nucl\u00e9osido asociado a 1 INIDolutegravir/Lamivudina No en <200 CD4 basal. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9180643558502197
+        }
+    ],
+    "answer": "No response content"
+}

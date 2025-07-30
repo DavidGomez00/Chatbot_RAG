@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1les son mis opciones si mi carga viral sigue siendo detectable?\n",
+    "context_info": [
+        {
+            "text": "Adem\u00e1s, la carga viral puede servir como una medida del riesgo de transmisi\u00f3n y de la efectividad de las intervenciones de prevenci\u00f3n, ya que tener cargas virales indetectables reduce el riesgo de transmisi\u00f3n del VIH. Se recomienda medir la carga viral: \u2022 En la valoraci\u00f3n inicial del paciente y antes de iniciar el tratamiento. ",
+            "source": "ManualClinico, section 6.5.1.",
+            "_distance": 0.7030949592590332
+        },
+        {
+            "text": " A mayor carga viral, mayor riesgo de transmisi\u00f3n del VIH. Cuando la carga viral est\u00e1 indetectable, el riesgo de transmisi\u00f3n del VIH es cero. Esto es as\u00ed incluso en presencia de otras infecciones de transmisi\u00f3n sexual que podr\u00edan provocar un aumento de la carga viral en los fluidos genitales.  Riesgo m\u00e1s elevado: La carga viral est\u00e1 muy elevada.  Recuerda: Durante la seroconversi\u00f3n (momento en el que aparecen los anticuerpos frente al VIH), la carga viral puede superar el mill\u00f3n de copias/mL. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7460377812385559
+        },
+        {
+            "text": "Adem\u00e1s del fracaso virol\u00f3gico existen otras dos situaciones caracterizadas por CV detectable: \u2022 \u201cBlip \u201d: despu\u00e9s de alcanzada la supresi\u00f3n virol\u00f3gica hay una carga viral detectable, generalmente de bajo nivel que en la siguiente determinaci\u00f3n se ha vuelto a hacer indetectable. Generalmente no son predictores de fracaso virol\u00f3gico ulterior. \u2022 Viremia de bajo nivel: cargas virales persistentemente detectables en general menores de 200 copias/mL. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.7663160562515259
+        },
+        {
+            "text": "b.Diagn\u00f3stico de infecci\u00f3n aguda La detecci\u00f3n de la carga viral puede ayudar al diagn\u00f3stico en las primeras semanas de la infecci\u00f3n cuando los anticuerpos espec\u00edficos anti-VIH no son detectables o cuando los enzimoinmunoensayos son positivos pero los confirmatorios son negativos o indeterminados, siempre y cuando se obtenga un nivel de carga viral elevado. ",
+            "source": "ManualClinico, section 6.5.1.",
+            "_distance": 0.7718083262443542
+        },
+        {
+            "text": "La carga viral realizada en DBS muestra una buena correlaci\u00f3n con la carga viral plasm\u00e1tica siendo el l\u00edmite de sensibilidad de la t\u00e9cnica de 1000-5000 copias/mL. c.Otras muestras La determinaci\u00f3n de carga viral sobre muestras como LCR, semen, muestras c\u00e9rvico-vaginales o tejidos, normalmente se utiliza en estudios de investigaci\u00f3n para comparar riesgo de transmisi\u00f3n o supresi\u00f3n virol\u00f3gica fuera del plasma. ",
+            "source": "ManualClinico, section 6.5.2.",
+            "_distance": 0.7808957695960999
+        }
+    ],
+    "answer": "No response content"
+}

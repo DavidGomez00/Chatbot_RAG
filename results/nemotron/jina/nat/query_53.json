@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 pasos debo seguir despu\u00e9s de identificar un fracaso virol\u00f3gico en un paciente?\n",
+    "context_info": [
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.4808294177055359
+        },
+        {
+            "text": "Una vez demostrada la continuaci\u00f3n de la supresi\u00f3n virol\u00f3gica el paciente puede volver a la rutina de visitas habituales.  Situaciones especiales.  Embarazo. Ver cap\u00edtulo correspondiente de este documento. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6736146211624146
+        },
+        {
+            "text": "El fracaso se categoriza en: \u2022Fracaso virol\u00f3gico , est\u00e1 definido en pacientes en TAR, por la ausencia de supresi\u00f3n viral completa (CV por debajo del l\u00edmite de detectabilidad de la t\u00e9cnica utilizada, generalmente <20 \u00f3 75 copias /mL), o detecci\u00f3n de viremia tras control de la misma. En adultos se considera fracaso si la CV tras 6 meses de TAR es \u2265 200 copias/mL. Los ni\u00f1os con CV muy elevadas al inicio del TAR, puede tardar m\u00e1s de 6 meses en alcanzar la indetectabilidad. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.6972384452819824
+        },
+        {
+            "text": "Adem\u00e1s del fracaso virol\u00f3gico existen otras dos situaciones caracterizadas por CV detectable: \u2022 \u201cBlip \u201d: despu\u00e9s de alcanzada la supresi\u00f3n virol\u00f3gica hay una carga viral detectable, generalmente de bajo nivel que en la siguiente determinaci\u00f3n se ha vuelto a hacer indetectable. Generalmente no son predictores de fracaso virol\u00f3gico ulterior. \u2022 Viremia de bajo nivel: cargas virales persistentemente detectables en general menores de 200 copias/mL. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.7727241516113281
+        },
+        {
+            "text": "Algunas determinaciones como la carga viral y el estudio de resistencias se deben realizar en el vi-rus infectante, por lo que la derivaci\u00f3n a la unidad de especializada se debe hacer lo antes posible despu\u00e9s de confirmar el diagn\u00f3stico y asesorar al paciente. ",
+            "source": "manejo_paciente_vih_en_ap, section 11.0.",
+            "_distance": 0.7827070355415344
+        }
+    ],
+    "answer": "Excelente pregunta. Despu\u00e9s de establecerse un fracaso virol\u00f3gico en un paciente, te recomiendo seguir los siguientes pasos para abordar la situaci\u00f3n de manera efectiva:\n\n1. An\u00e1lisis de las causas del fracaso:\n\t Dosis en funci\u00f3n del peso: Verifica si las dosis de los medicamentos antirretrovirales (ARV) est\u00e1n ajustadas correctamente seg\u00fan el peso del paciente.\n\t Tolerancia: Eval\u00faa si el paciente ha experimentado efectos secundarios que podr\u00edan haber afectado la adherencia o la eficacia del tratamiento.\n\t Adherencia: Investiga si el paciente ha cumplido con el r\u00e9gimen de tratamiento prescrito, explorando posibles barreras para la adherencia (e.g., olvidos, cambios en la rutina diaria).\n\t Interacciones medicamentosas: Revisa la lista de medicamentos del paciente para identificar posibles interacciones que podr\u00edan afectar la eficacia de los ARV.\n\n2. Derivaci\u00f3n a una unidad especializada (si corresponde):\n\t Si no est\u00e1s en una unidad especializada, considera derivar al paciente lo antes posible despu\u00e9s de confirmar el diagn\u00f3stico de fracaso virol\u00f3gico.\n\t Esto es especialmente importante para realizar determinaciones como la carga viral y el estudio de resistencias en el virus infectante.\n\n3. Reevaluaci\u00f3n y ajuste del tratamiento:\n\t Con base en el an\u00e1lisis de las causas, ajusta el tratamiento seg\u00fan sea necesario (e.g., cambio de medicamentos, ajuste de dosis).\n\t Aseg\u00farate de que el paciente comprenda los cambios y est\u00e9 comprometido con el nuevo r\u00e9gimen.\n\n4. Seguimiento cercano:\n\t Programa un seguimiento m\u00e1s frecuente para monitorear la respuesta del paciente al tratamiento ajustado.\n\t Esto incluye controles de carga viral para evaluar la efectividad del nuevo r\u00e9gimen.\n\n5. Educaci\u00f3n y apoyo al paciente:\n\t Aseg\u00farate de que el paciente entienda la importancia del ajuste en el tratamiento y los beneficios esperados.\n\t Ofrece apoyo para abordar cualquier barrera potencial para la adherencia, como cambios en el estilo de vida o estrategias para recordar la toma de medicamentos.\n\nRecuerda que cada paciente es \u00fanico, as\u00ed que aseg\u00farate de personalizar estos pasos seg\u00fan las necesidades espec\u00edficas del caso. Si tienes alguna duda adicional o la situaci\u00f3n excede tu \u00e1mbito de conocimiento, no dudes en consultar a un especialista."
+}

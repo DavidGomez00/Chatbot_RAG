@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEs posible que los nuevos antirretrovirales, como bictegravir o fostemsavir, causen problemas neurol\u00f3gicos a largo plazo?\n",
+    "context_info": [
+        {
+            "text": "Diversos estudios han demostrado que algunos antirretrovirales a concentraciones terap\u00e9uticas podr\u00edan causar neurotoxicidad y que el cambio de f\u00e1rmacos neurot\u00f3xicos por otros con un mejor perfil de tolerabilidad puede ayudar a revertir la sintomatolog\u00eda neurocognitiva. En la Tabla 3 se recogen algunos de los principales FAR con su perfil de neurotoxicidad. ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.8397665619850159
+        },
+        {
+            "text": "Los ensayos cl\u00ednicos no han demostrado la utilidad de algunos f\u00e1rmacos como la pregabalina, la lamotrigina o la amitriptilina. b.Neuropat\u00eda t\u00f3xica asociada a f\u00e1rmacos antirretrovirales Es un trastorno por toxicidad mitocondrial debida a la exposici\u00f3n a ITIAN, especialmente a zalcitabina (ddC), d4T y en menor medida ddI, conocidas como \u201cdrogas d\u201d. El mayor riesgo de desarrollar la polineuropat\u00eda distal t\u00f3xica se da en los tres primeros meses de terapia. ",
+            "source": "ManualClinico, section 23.2.3.",
+            "_distance": 0.9002549052238464
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9053569436073303
+        },
+        {
+            "text": "Tambi\u00e9n se han informado de elevaciones de CK, rabdomi\u00f3lisis y miopat\u00eda/miositis en pacientes que toman dolutegravir y raltegravir. Puede presentar una etiolog\u00eda multifactorial hasta en un 33% de los casos. La CVP alta del VIH es un factor de riesgo de lesi\u00f3n renal aguda en la rabdomi\u00f3lisis asociada al VIH. b. ",
+            "source": "ManualClinico, section 23.3.2.",
+            "_distance": 0.9153332710266113
+        },
+        {
+            "text": "Se puede pasar a Valganciclovir 900 mg/12 h vo cuando tolere adecuadamente. 3-4 semanas de tratamiento o hasta mejor\u00eda de s\u00edntomas.  Neumonitis: Ganciclovir 5 mg/ Kg/12 h iv 3-4 semanas de tratamiento o hasta mejor\u00eda de s\u00edntomas.  No indicada.  Leucoencefalopat\u00eda multifocal progresiva. Producida por el virus JC. No tiene un tratamiento espec\u00edfico. Lo mejor que podemos hacer es poner un TAR adecuado para conseguir control de la infecci\u00f3n VIH y recuperaci\u00f3n inmunol\u00f3gica. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9193883538246155
+        }
+    ],
+    "answer": "No response content"
+}

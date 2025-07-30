@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo puedo monitorizar la salud de mi h\u00edgado mientras sigo mi tratamiento para el VIH?\n",
+    "context_info": [
+        {
+            "text": "Se recomienda realizar una evaluaci\u00f3n renal en el momento del diagn\u00f3stico de la infecci\u00f3n VIH y al iniciar o modificar el TAR, y llevar a cabo posteriormente una monitorizaci\u00f3n peri\u00f3dica, al menos una vez al a\u00f1o en los pacientes con bajo riesgo de ERC y con mayor frecuencia en los que tienen un riesgo m\u00e1s elevado o reciben f\u00e1rmacos potencialmente nefrot\u00f3xicos. ",
+            "source": "ManualClinico, section 22.3.",
+            "_distance": 0.6842233538627625
+        },
+        {
+            "text": "Documento De Consenso de GeSIDA sobre el control y monitorizaci\u00f3n de la infecci\u00f3n por VIH En pacientes inmunodeprimidos, incluidos los pacientes VIH+ se recomienda la monitorizaci\u00f3n de la respuesta serol\u00f3gica 1-2 meses despu\u00e9s de completar la vacunaci\u00f3n y de forma anual, con administraci\u00f3n de una dosis de recuerdo si los niveles de antiHBs son inferiores a 10 mUI/mL. ",
+            "source": "ManualClinico, section 27.3.6.",
+            "_distance": 0.732150673866272
+        },
+        {
+            "text": "En nuestro medio, hasta un 25 % de los pacientes coinfectados por VIH/VHC y con erradicaci\u00f3n del VHC presenta cirrosis hep\u00e1tica. En estos pacientes, y probablemente tambi\u00e9n en pacientes curados en estadio F3, est\u00e1 indicado el cribado de hepatocarcinoma semestral mediante ecograf\u00eda u otra t\u00e9cnica de imagen. ",
+            "source": "ManualClinico, section 27.2.6.",
+            "_distance": 0.7443231344223022
+        },
+        {
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.7447370290756226
+        },
+        {
+            "text": "Posteriormente, en pacientes diab\u00e9ticos la HbA1c debe monitorizarse cada 6 meses con el objetivo de mantener unnivel < 7% (I-A). 3.4.2 Comorbilidades hep\u00e1ticas, respiratorias, renales, \u00f3seas y del SNC Comorbilidades hep\u00e1ticas La micro eliminaci\u00f3n del VHC se ha conseguido en la mayor\u00eda de los centros que atienden personas que viven con el VIH (PVIH). Como consecuencia, la morbilidad y mortalidad asociadas a la coinfecci\u00f3n por VHC han disminuido dr\u00e1sticamente. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7532716989517212
+        }
+    ],
+    "answer": "No response content"
+}

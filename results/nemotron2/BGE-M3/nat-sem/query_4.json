@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo puedo saber si tengo esteatosis hep\u00e1tica y qu\u00e9 s\u00edntomas debo vigilar?\n",
+    "context_info": [
+        {
+            "text": " Estimaci\u00f3n del da\u00f1o hep\u00e1tico La biopsia hep\u00e1tica proporciona la mejor estimaci\u00f3n del da\u00f1o hep\u00e1tico y su naturaleza. En la actualidad se indica s\u00f3lo en los casos con diagn\u00f3stico dudoso. La elastograf\u00eda hep\u00e1tica, es el m\u00e9todo de elecci\u00f3n para la valoraci\u00f3n no invasiva del da\u00f1o hep\u00e1tico EASL-ALEH Clinical Practice Guidelines: Non-invasive tests for evaluation of liver disease severity and prognosis En presencia de una elevaci\u00f3n importante de las transaminasas, la evaluaci\u00f3n es menos precisa y puede sobrestimar el da\u00f1o. Se han desarrollado tambi\u00e9n t\u00e9cnicas adaptadas a ecograf\u00eda est\u00e1ndar y a resonancia magn\u00e9tica nuclear.",
+            "source": "ManualClinico, section 27.3.3.",
+            "_distance": 0.7797123789787292
+        },
+        {
+            "text": " Manifestaciones cl\u00ednicas La sintomatolog\u00eda depende de la extensi\u00f3n de la enfermedad y es similar a la que presentan los pacientes sin infecci\u00f3n por VIH. Son frecuentes las manifestaciones respiratorias en forma de tos, disnea, dolor tor\u00e1cico y/o hemoptisis en el 80% de los casos. Pueden aparecer tambi\u00e9n s\u00edndromes paraneopl\u00e1sicos (hipercalcemia, manifestaciones neurol\u00f3gicas, SIADH\u2026) y s\u00edntomas constitucionales como fiebre, astenia, sudores nocturnos y p\u00e9rdida de peso. En la mitad de las ocasiones se encuentran desde el inicio del cuadro met\u00e1stasis a distancia.",
+            "source": "ManualClinico, section 15.2.2.",
+            "_distance": 0.8049139976501465
+        },
+        {
+            "text": "La enfermedad pulmonar es la manifestaci\u00f3n m\u00e1s frecuente, pero puede diseminarse por v\u00eda hemat\u00f3gena a otros \u00f3rganos, con mayor frecuencia la piel, estructuras osteoarticulares y tracto genitourinario. Los pacientes con VIH e inmunodepresi\u00f3n grave (recuento de linfocitos T CD4+ inferior a 200 c\u00e9lulas/\u00b5l) tiene, igual que otros pacientes inmunodeprimidos, mayor riesgo de infecci\u00f3n diseminada y agresiva, incluyendo afectaci\u00f3n del SNC (meningitis). El diagn\u00f3stico puede establecerse por identificaci\u00f3n del hongo en muestras histol\u00f3gicas o de lavado broncoalveolar (tinci\u00f3n de PAS o plata metanamina), cultivos (puede tardar varias semanas en crecer) o detecci\u00f3n de ant\u00edgeno. ",
+            "source": "ManualClinico, section 12.3.7.",
+            "_distance": 0.8530263900756836
+        },
+        {
+            "text": "Actualmente, el cribado del deterioro no permite prevenir su progresi\u00f3n con eficacia, por lo que no estar\u00eda indicada su valoraci\u00f3n salvo en caso de emergencia de s\u00edntomas 12. Cribado de comorbilidades Comorbilidad Cribado Decisiones Hep\u00e1tica Cirrosis por VHC tras RVS12 Hepatocarcinoma Ecograf\u00eda cada 6 meses Potencialmente evitable si RH <14 kPa en RVS12 Varices esof\u00e1gicas Varices esof\u00e1gicas EDA cada 2-3 a\u00f1os hasta emergencia de varices con riesgo de sangrado e inicio de profilaxisNo cribar si RH <30 kPa y plaquetas >110.000 en RVS12 Infecci\u00f3n por el VHB Hepatocarcinoma PAGE-B >10: ecograf\u00eda semestral EHGMA No indicado Prevenci\u00f3n: tratar obesidad, DM2, DLP Respiratorias C\u00e1ncer No indicado Prevenci\u00f3n: tratar tabaquismo Renales Deterioro de funci\u00f3n renalCKD-EPI y b\u00e1sico de orina cada 6 meses \u00d3seas Osteoporosis Hombres >50 a\u00f1os y mujeres postmenop\u00e1usicas: FRAX anual SNC Deterioro cognitivo No indicado Prevenci\u00f3n: reducci\u00f3n de RCV RECOMENDACIONES 1 En pacientes con infecci\u00f3n por el VIH se deben tener en cuenta en cada visita cl\u00ednica tanto de AH como de A P, las diferentes formas de comorbilidad hep\u00e1tica, renal, \u00f3sea, pulmonar o del SNC, descartando su existencia, realizando los cribados preventivos y modificando si es necesario, los h\u00e1bitos de vida, el TAR y tratando espec\u00edficamente la entidad. ( I-A) 3.4.3 Infecciones asociadas al VIH.",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8532145619392395
+        },
+        {
+            "text": "Se considera que puede adquirirse por v\u00eda respiratoria y que la enfermedad se produce por reactivaci\u00f3n de una infecci\u00f3n latente asintom\u00e1tica. Puede manifestarse como infecci\u00f3n diseminada con afectaci\u00f3n de la piel, SNC, m\u00e9dula \u00f3sea, ganglios, pulmones, h\u00edgado y tubo digestivo. El diagn\u00f3stico puede establecerse por identificaci\u00f3n del hongo en muestras histol\u00f3gicas (tinci\u00f3n Wright) y en ocasiones en sangre perif\u00e9rica o aislamiento en cultivos. ",
+            "source": "ManualClinico, section 12.3.8.",
+            "_distance": 0.8928953409194946
+        }
+    ],
+    "answer": "No response content"
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 se considera un Blip?\n",
+    "context_info": [
+        {
+            "text": " En aquellos que han alcanzado una supresi\u00f3n virol\u00f3gica pueden observarse repuntes virol\u00f3gicos transitorios o \u201cblips\u201d, definidos como determinaciones aisladas de CVP entre 50 y 500 copias/ml, que vuelven a la supresi\u00f3n virol\u00f3gica en la siguiente determinaci\u00f3n. En general, no se asocian a un FV posterior y, por tanto, no est\u00e1 indicado un cambio de TAR. Sin embargo, algunos estudios recientes se\u00f1alan que la presencia de \u201cblips\u201d de forma persistente podr\u00edan predecir el fracaso al TAR. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 1.0374233722686768
+        },
+        {
+            "text": "Adem\u00e1s del fracaso virol\u00f3gico existen otras dos situaciones caracterizadas por CV detectable: \u2022 \u201cBlip \u201d: despu\u00e9s de alcanzada la supresi\u00f3n virol\u00f3gica hay una carga viral detectable, generalmente de bajo nivel que en la siguiente determinaci\u00f3n se ha vuelto a hacer indetectable. Generalmente no son predictores de fracaso virol\u00f3gico ulterior. \u2022 Viremia de bajo nivel: cargas virales persistentemente detectables en general menores de 200 copias/mL. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 1.106609582901001
+        },
+        {
+            "text": " Interpretaci\u00f3n de viremias bajas En un 15-30% de pacientes con carga viral indetectable se detectan ocasionalmente episodios aislados y transitorios de viremia de bajo nivel (<500 copias/mL) denominados blips, que vuelven a ser inferiores a 50 copias/mL espont\u00e1neamente. Podr\u00edan estar causados por la replicaci\u00f3n del VIH en reservorios, fluctuaciones biol\u00f3gicas o errores en el procesamiento, y no parecen tener especial relevancia cl\u00ednica. ",
+            "source": "ManualClinico, section 6.5.4.",
+            "_distance": 1.1480735540390015
+        },
+        {
+            "text": "Repuntes virol\u00f3gicos transitorios aislados (\u201cblips\u201d) son valores de CVP entre 50 y 500 copias/ml, con valores previo y posterior <50 copias/ml. Los \u201cblips\u201d aislados con CVP<200 copias/ml no tienen repercusi\u00f3n cl\u00ednica. Sin embargo, los \u201cblips\u201d frecuentes o con cifras de CVP> 200 copias/ml se han asociado a mayor riesgo de FV y aparici\u00f3n de mutaciones de resistencia. A los pacientes con una determinaci\u00f3n de CVP entre 50 y 200 tras haber alcanzado la supresi\u00f3n se les debe repetir la CVP en 1-2 meses. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 1.2324790954589844
+        },
+        {
+            "text": "Pinchazo o erosi\u00f3n superficial con agujas u otros objetos punzantes o cortantes abandonadas que no hanestado en contacto reciente con sangre.Besos. Reanimaci\u00f3n boca a boca sinlesiones cut\u00e1neomucosas. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 1.317657232284546
+        }
+    ],
+    "answer": "Un \"Blip\" (o repunte virol\u00f3gico transitorio) se define como:\n\n Una determinaci\u00f3n aislada de Carga Viral Plasm\u00e1tica (CVP) entre 50 y 500 copias/mL.\n Que vuelve a la supresi\u00f3n virol\u00f3gica (CVP < 50 copias/mL) en la siguiente determinaci\u00f3n.\n\nEn otras palabras, un \"Blip\" es un breve y leve aumento en la carga viral que se resuelve por s\u00ed solo en la pr\u00f3xima medici\u00f3n, sin indicar necesariamente un fracaso en el tratamiento antirretroviral (TAR)."
+}

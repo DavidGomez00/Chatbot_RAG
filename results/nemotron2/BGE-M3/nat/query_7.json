@@ -1,0 +1,31 @@
+{
+    "query": "Si tengo problemas hep\u00e1ticos, \u00bfhay alg\u00fan antirretroviral m\u00e1s recomendable para evitar que mi h\u00edgado empeore?\n",
+    "context_info": [
+        {
+            "text": "En la elecci\u00f3n de los antirretrovirales en un paciente coinfectado por VIH/VHC se tendr\u00e1 en cuenta su potencial hepatotoxicidad, la existencia de cirrosis hep\u00e1tica y la indicaci\u00f3n de tratamiento frente al VHC. Los TAR de uso preferente actuales tienen muy escasa hepatoxicidad y, salvo en pacientes con cirrosis descompensada, pueden utilizarse sin restricciones. ",
+            "source": "ManualClinico, section 27.2.4.",
+            "_distance": 0.7012627124786377
+        },
+        {
+            "text": " Tratamiento de VHB El tratamiento antirretroviral, que incluye f\u00e1rmacos activos frente a la infecci\u00f3n por VHB, se asocia con menor evoluci\u00f3n a cirrosis, descompensaci\u00f3n o desarrollo de hepatocarcinoma. Incluso en pacientes con cirrosis descompensada se asocia con mejor\u00eda en supervivencia, reversi\u00f3n de la descompensaci\u00f3n y salida de la lista de espera de trasplante. ",
+            "source": "ManualClinico, section 27.3.4.",
+            "_distance": 0.7490825653076172
+        },
+        {
+            "text": "La coinfecci\u00f3n por los virus de las hepatitis B (VHB) y C (VHC), el genotipo 3 de este \u00faltimo y una ingesta elevada de alcohol favorecen el desarrollo de hepatotoxicidad. Los ITINN de segunda generaci\u00f3n, ETV y RPV, no tienen reacci\u00f3n cruzada y presentan mejor perfil de seguridad hep\u00e1tica que los ITINN previos. Los IP/p de \u00faltima generaci\u00f3n (ATV/p y DRV/p) son mucho menos hepatot\u00f3xicos que los IP previos. ",
+            "source": "ManualClinico, section 10.5.",
+            "_distance": 0.7807785868644714
+        },
+        {
+            "text": " Cribado de comorbilidades Comorbilidad Cribado Decisiones Hep\u00e1tica Cirrosis por VHC tras RVS12 Hepatocarcinoma Ecograf\u00eda cada 6 meses Potencialmente evitable si RH <14 kPa en RVS12 Varices esof\u00e1gicas Varices esof\u00e1gicas EDA cada 2-3 a\u00f1os hasta emergencia de varices con riesgo de sangrado e inicio de profilaxisNo cribar si RH <30 kPa y plaquetas >110.000 en RVS12 Infecci\u00f3n por el VHB Hepatocarcinoma PAGE-B >10: ecograf\u00eda semestral EHGMA No indicado Prevenci\u00f3n: tratar obesidad, DM2, DLP Respiratorias C\u00e1ncer No indicado Prevenci\u00f3n: tratar tabaquismo Renales Deterioro de funci\u00f3n renalCKD-EPI y b\u00e1sico de orina cada 6 meses \u00d3seas Osteoporosis Hombres >50 a\u00f1os y mujeres postmenop\u00e1usicas: FRAX anual SNC Deterioro cognitivo No indicado Prevenci\u00f3n: reducci\u00f3n de RCV RECOMENDACIONES 1 En pacientes con infecci\u00f3n por el VIH se deben tener en cuenta en cada visita cl\u00ednica tanto de AH como de A P, las diferentes formas de comorbilidad hep\u00e1tica, renal, \u00f3sea, pulmonar o del SNC, descartando su existencia, realizando los cribados preventivos y modificando si es necesario, los h\u00e1bitos de vida, el TAR y tratando espec\u00edficamente la entidad. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7995373606681824
+        },
+        {
+            "text": "Una vez resuelto el cuadro, puede reintroducirse una nueva combinaci\u00f3n de ARV, evitando los que sean sospechosos de haberlo ocasionado y los que tengan un peor perfil de hepatotoxicidad y siempre habiendo eliminado otros potenciales agentes hepatot\u00f3xicos, como alcohol y otros f\u00e1rmacos. ",
+            "source": "ManualClinico, section 10.5.",
+            "_distance": 0.8108763098716736
+        }
+    ],
+    "answer": "No response content"
+}

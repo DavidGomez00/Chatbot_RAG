@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo nazca mi hijo qu\u00e9 probabilidades tiene de infectarse con el VIH si me tomo el tratamiento y estoy indetectable en el momento del parto?\n",
+    "context_info": [
+        {
+            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.6280817985534668
+        },
+        {
+            "text": " El riesgo de transmisi\u00f3n heterosexual es cercano a cero cuando el miembro infectado tiene la carga viral plasm\u00e1tica (CVP) indetectable. Por este motivo parejas serodiscordantes en las que el miembro infectado por el VIH tiene la CVP indetectable al menos 6 meses y desean concebir, pueden tener relaciones sexuales desprotegidas.  3. Manejo de la MVIH en edad f\u00e9rtil. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6418377757072449
+        },
+        {
+            "text": "No obstante, en el momento actual, incluso aunque la madre est\u00e9 bien controlada y con carga viral de VIH indetectable (<50 copias/mL), no existe la suficiente evidencia en cuanto a que el riesgo de la transmisi\u00f3n del VIH de la madre al reci\u00e9n nacido en esta situaci\u00f3n sea cero, por lo que en nuestro medio la recomendaci\u00f3n es sustituir la lactancia materna por f\u00f3rmula adaptada. ",
+            "source": "ManualClinico, section 31.3.",
+            "_distance": 0.6710714101791382
+        },
+        {
+            "text": " Introducci\u00f3n La infecci\u00f3n VIH tiene caracter\u00edsticas especiales en la edad pedi\u00e1trica; La mayor\u00eda de ni\u00f1os se infectan por transmisi\u00f3n vertical (durante el embarazo o en parto), por lo que el VIH incide en etapas precoces de su desarrollo y diferenciaci\u00f3n celular. Sin tratamiento la progresi\u00f3n a sida es m\u00e1s r\u00e1pida y la mortalidad elevada, s\u00f3lo un 3% de los pacientes son asintom\u00e1ticos o no progresores. ",
+            "source": "ManualClinico, section 33.1.",
+            "_distance": 0.6785919666290283
+        },
+        {
+            "text": " Seguimiento del reci\u00e9n nacido expuesto a VIH Para descartar la infecci\u00f3n en el reci\u00e9n nacido se realizar\u00e1n las siguientes pruebas diagn\u00f3sticas, PCR (RNA/DNA) VIH a las 0-48 horas de vida, PCR (RNA/DNA) VIH a las 6 semanas de vida y una tercera PCR (RNA/DNA) VIH entre los 4-6 meses de vida. En los casos de alto riesgo de infecci\u00f3n se recomienda realizar tambi\u00e9n una determinaci\u00f3n de PCR (RNA/DNA) a los 15 d\u00edas de vida, para poder diagnosticar la posibilidad de transmisi\u00f3n durante el parto. ",
+            "source": "ManualClinico, section 31.2.2.",
+            "_distance": 0.6797077059745789
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, aunque est\u00e9s tomando tratamiento antirretroviral y tengas una carga viral indetectable (<50 copias/mL) en el momento del parto, no existe la suficiente evidencia para afirmar que el riesgo de transmisi\u00f3n del VIH de la madre al reci\u00e9n nacido sea cero.\n\nSin embargo, puedo proporcionarte informaci\u00f3n general sobre la reducci\u00f3n del riesgo de transmisi\u00f3n madre-hijo (TMH) cuando la madre est\u00e1 bajo tratamiento antirretroviral y tiene una carga viral indetectable:\n\n   Con tratamiento antirretroviral efectivo y carga viral indetectable, el riesgo de TMH se reduce significativamente, a menudo citado en estudios como menos del 1% (aunque este porcentaje puede variar dependiendo de m\u00faltiples factores).\n   Para minimizar a\u00fan m\u00e1s el riesgo, suelen recomendarse protocolos espec\u00edficos durante el embarazo, parto y posparto, incluyendo la administraci\u00f3n de profilaxis antirretroviral al reci\u00e9n nacido.\n\nPara obtener una evaluaci\u00f3n precisa de las probabilidades en tu caso espec\u00edfico y conocer las recomendaciones m\u00e1s actualizadas para minimizar el riesgo de transmisi\u00f3n, te recomiendo encarecidamente consultar a tu m\u00e9dico. \u00c9l podr\u00e1 ofrecerte orientaci\u00f3n personalizada basada en tus condiciones de salud actuales y en las gu\u00edas cl\u00ednicas m\u00e1s recientes."
+}

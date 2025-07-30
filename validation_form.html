@@ -3777,8 +3777,41 @@ Si estás experimentando mareos, problemas de equilibrio u otros efectos secunda
                     </select>
                 </div>
             </div>
+            <!-- Additional queries follow the same pattern -->
+            
+        <button type="submit">Envoyer</button>
         
-        </form>
+    </form>
+
+    <script>
+        document.getElementById("evaluationForm").addEventListener("submit", function(event) {
+            event.preventDefault(); // Prevent the default form submission
+
+            // Collect form data
+            const formData = new FormData(event.target);
+
+            // Send data to Formspree
+            fetch("https://formspree.io/f/mgvywjro", {
+                method: "POST",
+                body: formData,
+                headers: {
+                    'Accept': 'application/json'
+                }
+            })
+            .then(response => {
+                if (response.ok) {
+                    alert("Form submitted successfully!");
+                } else {
+                    alert("There was a problem submitting the form.");
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert("There was an error submitting the form.");
+            });
+        });
+    </script>
+
     </body>
     </html>
     

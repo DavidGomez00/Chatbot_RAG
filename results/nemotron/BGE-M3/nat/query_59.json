@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi mi tratamiento no funciona es posible que otros no, o es algo que no se relaciona?\n",
+    "context_info": [
+        {
+            "text": " - Los tratamientos con f\u00e1rmacos para otros procesos deben tener en cuenta las frecuentes interacciones con la medicaci\u00f3n antirretroviral.  - Tambi\u00e9n se debe investigar la presencia de factores que dificulten la adherencia al tratamiento antiviral y ayudar, en lo posible, a neutralizarlos. En caso de abandono del tratamiento, se debe derivar de nuevo al paciente a la unidad de atenci\u00f3n especializada para reiniciar el tratamiento de rescate. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.7848532795906067
+        },
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8123014569282532
+        },
+        {
+            "text": "103 Determinantes relacionados con el TAR: La dificultad para la correcta toma del tratamiento en pautas con un n\u00famero elevado de tomas o de comprimidos se asocia tambi\u00e9n a peor adherencia, resultando por ello \u00f3ptimos los tratamientos en r\u00e9gimen de pastilla \u00fanica, cuando sean posibles. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8187412023544312
+        },
+        {
+            "text": "Los motivos para considerar el cambio de un tratamiento eficaz son m\u00faltiples: intolerabilidad/ toxicidad, ya sea presente (cambio reactivo) o para prevenirlas (cambio proactivo), simplificaci\u00f3n propiamente dicha (disminuci\u00f3n del n\u00famero de comprimidos, de dosis diarias o del n\u00famero de medicamentos), requerimientos diet\u00e9ticos, interacciones farmacol\u00f3gicas, comorbilidades, embarazo o deseo de embarazo y tambi\u00e9n es importante la sostenibilidad del tratamiento. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 0.8215416669845581
+        },
+        {
+            "text": "En el caso que para construir un nuevo r\u00e9gimen, se requiera de un antirretroviral que no tenga indicaci\u00f3n pedi\u00e1trica, se valorara su administraci\u00f3n bajo uso compasivo. En pacientes con m\u00faltiples fracasos y con un patr\u00f3n de resistencias que determine ausencia de una combinaci\u00f3n de antirretrovirales que garantice el control de la replicaci\u00f3n viral, mantendremos la pauta menos t\u00f3xica a la espera de nuevas opciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8236768245697021
+        }
+    ],
+    "answer": "Excelente pregunta. En el contexto del VIH, si un tratamiento no funciona (lo que se conoce como \"fracaso terap\u00e9utico\"), hay varias razones subyacentes que pueden influir en la efectividad de futuros tratamientos. Aunque no es una sentencia de fracaso absoluto para todos los tratamientos, ciertamente hay relaci\u00f3n entre el fracaso de un tratamiento y las posibilidades de \u00e9xito con otros. Aqu\u00ed te explico por qu\u00e9:\n\nRazones comunes para el fracaso terap\u00e9utico que pueden afectar futuros tratamientos:\n\n1. Resistencia a los medicamentos: Cuando el virus del VIH se reproduce en presencia de un antirretroviral, puede desarrollar mutaciones que lo hacen resistente a ese medicamento espec\u00edfico. Si no se cambia la estrategia terap\u00e9utica adecuadamente, esta resistencia puede extenderse y afectar la eficacia de otros medicamentos dentro de la misma clase.\n2. Adherencia al tratamiento: Una mala adherencia al r\u00e9gimen prescrito es una causa com\u00fan de fracaso terap\u00e9utico. Si no se aborda este aspecto, es probable que el paciente tenga dificultades similares con futuros tratamientos, llevando a resultados sub\u00f3ptimos.\n3. Interacciones farmacol\u00f3gicas: El uso de ciertos medicamentos puede interactuar con los antirretrovirales, reduciendo su eficacia o aumentando el riesgo de efectos secundarios. Estas interacciones pueden ser relevantes para m\u00faltiples tratamientos si no se gestionan adecuadamente.\n4. Comorbilidades y factores del paciente: Condiciones de salud subyacentes o factores espec\u00edficos del paciente (como problemas de absorci\u00f3n de medicamentos) pueden afectar la eficacia de un tratamiento y potencialmente influir en el resultado de futuros reg\u00edmenes terap\u00e9uticos.\n\n\u00bfQu\u00e9 significa esto para ti?\n\n- No es un fracaso absoluto: Significa que, aunque haya relaci\u00f3n, cada tratamiento tiene sus particularidades. Un cambio en la estrategia terap\u00e9utica, considerando las causas del fracaso previo, puede conducir a un resultado exitoso.\n- Evaluaci\u00f3n y ajuste: Es crucial trabajar estrechamente con tu m\u00e9dico para identificar las causas subyacentes del fracaso terap\u00e9utico. Esto permite ajustar el tratamiento de manera efectiva, considerando factores como la resistencia viral, adherencia, interacciones medicamentosas y comorbilidades.\n- Opciones disponibles: Incluso en casos de m\u00faltiples fracasos, se pueden explorar otras opciones terap\u00e9uticas, como el uso compasivo de nuevos antirretrovirales o la participaci\u00f3n en ensayos cl\u00ednicos para acceder a tratamientos innovadores.\n\nConclusi\u00f3n:\nAunque hay relaci\u00f3n entre el fracaso de un tratamiento contra el VIH y las posibilidades de \u00e9xito con otros, no es una sentencia absoluta. La clave est\u00e1 en comprender las causas del fracaso previo y ajustar el enfoque terap\u00e9utico en consecuencia. Trabaja estrechamente con tu m\u00e9dico para encontrar la estrategia m\u00e1s efectiva para ti."
+}

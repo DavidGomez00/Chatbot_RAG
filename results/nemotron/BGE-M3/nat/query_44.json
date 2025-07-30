@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 tipo de controles necesitar\u00e9 despu\u00e9s de comenzar el tratamiento?\n",
+    "context_info": [
+        {
+            "text": "Tras realizar el cambio debe programarse un control cl\u00ednico y de laboratorio a las 2-4 semanas para monitorizar la tolerancia, adherencia y la eficacia (CV) del nuevo r\u00e9gimen. ",
+            "source": "ManualClinico, section 33.4.1.",
+            "_distance": 0.6413828134536743
+        },
+        {
+            "text": "En pacientes con dificultades con la adherencia, debe optarse por f\u00e1rmacos con una posolog\u00eda sencilla y alta barrera gen\u00e9tica. Tras iniciar el TAR, el paciente debe seguir controles peri\u00f3dicos, con el fin de supervisar la tolerancia, la adherencia y ajustar las dosis al peso o superficie corporal, en cada visita por el continuo crecimiento de los ni\u00f1os. ",
+            "source": "ManualClinico, section 33.3.",
+            "_distance": 0.7333605289459229
+        },
+        {
+            "text": "En muy pocos pacientes (<3%) que iniciaron el TAR precozmente (<90 d\u00edas) se ha observado un control virol\u00f3gico cuando lo pararon, pero parad\u00f3jicamente las caracter\u00edsticas virol\u00f3gicas, inmunol\u00f3gicas y gen\u00e9ticas de estos \u201ccontroladores post-TAR\u201d son completamente diferentes a los controladores de elite y adem\u00e1s tampoco se pueden identificar basalmente. Por tanto, en la pr\u00e1ctica cl\u00ednica, se debe iniciar el TAR durante la infecci\u00f3n aguda y se debe mantener de forma indefinida como en la infecci\u00f3n cr\u00f3nica. ",
+            "source": "ManualClinico, section 4.7.",
+            "_distance": 0.7393459677696228
+        },
+        {
+            "text": "Seguimiento tanto los pacientes en tratamiento como aquellos que no lo han iniciado requieren de un adecuado seguimiento, con el fin de identificar los problemas m\u00e9dicos que presenten (tolerancia, adherencia, toxicidad) y evitar la progresi\u00f3n de la enfermedad (control CD4 y CV). Los pacientes ser\u00e1n inmunizados, siguiendo las recomendaciones establecidas para pacientes pedi\u00e1tricos con infecci\u00f3n VIH. ",
+            "source": "ManualClinico, section 33.2.2.",
+            "_distance": 0.7478838562965393
+        },
+        {
+            "text": "Se deben hacer algunas consideraciones espec\u00edficas al inicio del TAR: \u2022 Antes de iniciar el TAR se debe realizar una valoraci\u00f3n cl\u00ednica (anamnesis y exploraci\u00f3n completa) para detectar posibles manifestaciones cl\u00ednicas preexistentes, determinar comorbilidades y posibles interacciones medicamentosas. Es imprescindible asegurarse de que el paciente comprende adecuadamente los objetivos del tratamiento, la relevancia que tiene para el control de la infecci\u00f3n y la importancia de la adherencia. ",
+            "source": "ManualClinico, section 9.1.",
+            "_distance": 0.7739534378051758
+        }
+    ],
+    "answer": "Despu\u00e9s de iniciar el Tratamiento Antirretroviral (TAR) para el VIH, es crucial seguir un plan de controles regulares. Estos controles son esenciales para monitorizar varios aspectos clave relacionados con tu tratamiento y salud en general. A continuaci\u00f3n, te detallo los tipos de controles que necesitar\u00e1s:\n\n1. Control Cl\u00ednico:\n   - Objetivo: Evaluar la tolerancia al tratamiento, es decir, c\u00f3mo est\u00e1s respondiendo a los medicamentos sin experimentar efectos adversos significativos.\n   - Frecuencia Inicial: Se recomienda una visita dentro de las 2-4 semanas despu\u00e9s del inicio del TAR.\n   - Posteriormente, depender\u00e1 de tu respuesta al tratamiento y de las indicaciones espec\u00edficas de tu m\u00e9dico, pero generalmente se aconsejan visitas cada 3-6 meses.\n\n2. Control de Laboratorio:\n   - Objetivos:\n     - Eficacia del Tratamiento (Carga Viral - CV): Verificar que el tratamiento est\u00e9 reduciendo efectivamente la carga viral en tu sangre, idealmente hasta niveles indetectables.\n     - Niveles de CD4: Monitorear c\u00f3mo evolucionan tus c\u00e9lulas CD4 (linfocitos T helper), que son un indicador de la fortaleza de tu sistema inmunol\u00f3gico.\n     - Toxicidad y Seguridad: Realizar an\u00e1lisis para detectar cualquier efecto adverso del tratamiento en tus \u00f3rganos o sistemas, como funci\u00f3n hep\u00e1tica, renal, etc.\n   - Frecuencia:\n     - Inmediatamente despu\u00e9s del inicio del TAR (2-4 semanas): Para establecer una l\u00ednea base y evaluar la respuesta inicial.\n     - Posteriormente, la frecuencia depender\u00e1 de tu progreso, pero com\u00fanmente se realizan controles de laboratorio cada 3-6 meses.\n\n3. Ajustes en el Tratamiento (si necesario):\n   - Si en alguno de estos controles se detectan problemas de tolerancia, adherencia, o eficacia, tu m\u00e9dico podr\u00e1 ajustar las dosis o incluso cambiar some de los f\u00e1rmacos del r\u00e9gimen para asegurar la mejor respuesta posible.\n\n4. Controles de Crecimiento y Desarrollo (en pacientes pedi\u00e1tricos):\n   - Dado que los ni\u00f1os est\u00e1n en constante crecimiento, es crucial ajustar las dosis de los medicamentos seg\u00fan sea necesario para mantener su eficacia y seguridad.\n\n5. Vacunaci\u00f3n:\n   - Seguir las recomendaciones de vacunaci\u00f3n establecidas para pacientes con VIH, con el fin de proteger contra otras infecciones.\n\nRecuerda, la adherencia al tratamiento y a estos controles es fundamental para el \u00e9xito del TAR y para mantener una buena salud en general. Si tienes alguna duda o inquietud, no dudes en consultar a tu m\u00e9dico."
+}

@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfCual es el pron\u00f3stico de vida de una persona con VIH?\n",
+    "query": "Si mi m\u00e9dico cambia mi tratamiento a un r\u00e9gimen con dolutegravir o rilpivirina, \u00bfes m\u00e1s seguro para mi h\u00edgado?\n",
     "context_info": [
         {
-            "text": "As\u00ed, la esperanza de vida a los 20 a\u00f1os en los pacientes con infecci\u00f3n por VIH y alto nivel educativo es de m\u00e1s de 60 a\u00f1os cifra que se acerca a las estimaciones realizadas en la poblaci\u00f3n general del mismo nivel educativo que son de m\u00e1s de 65,5 a\u00f1os. Como consecuencia del aumento de la esperanza de vida, se est\u00e1 produciendo un envejecimiento de la poblaci\u00f3n con el consiguiente aumento en la prevalencia de comorbilidades. ",
-            "source": "ManualClinico, section 35.2.1.",
-            "_distance": 0.6414103507995605
+            "text": "El cambio de la pauta a la asociaci\u00f3n de rilpivirina, FTC y TDF, a la de rilpivirina, FTC y T AF, a la de doravirina, FTC y TDF, a pauta basada en raltegravir o en dolutegravir, o el cambio a la coformulaci\u00f3n de bictegravir, FTC y TAF es adecuado. En pacientes con dislipemia asociada a efavirenz la suspensi\u00f3n de este f\u00e1rmaco es una opci\u00f3n terap\u00e9utica; el cambio a raltegravir es adecuado. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.5959968566894531
         },
         {
-            "text": "El pron\u00f3stico, si el VIH est\u00e1 controlado, viene determinado por factores relacionados con la propia neoplasia. a.Carcinoma de mama Al contrario de lo que sucede con otros TNDS, la mayor supervivencia de las mujeres VIH+, no conduce a un aumento en los casos diagnosticados de esta neoplasia. Sin embargo, el comportamiento del tumor en ocasiones es m\u00e1s agresivo y con una supervivencia menor a la observada en las mujeres VIH negativas para el mismo grupo de edad. ",
-            "source": "ManualClinico, section 15.4.2.",
-            "_distance": 0.7158953547477722
+            "text": " Cambio a reg\u00edmenes de dos f\u00e1rmacos: en pacientes con una pauta con 2 ITIAN e IPp que quieran simplificar el TAR y/o evitar los efectos adversos causados por los ITIAN, el cambio a IPp + lamivudina, a dolutegravir + lamivudina, o a dolutegravir + rilpivirina son opciones adecuadas. Los cambios desde 2 ITIAN + ITINAN o INI, a dolutegravir + lamivudina o a dolutegravir + rilpivirina tambi\u00e9n resultan apropiados. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6973586678504944
         },
         {
-            "text": "El tratamiento frente al VIH te permitir\u00e1 tener una esperanza de vida similar a la de una persona sin el VIH, con una buena calidad de vida. Es muy probable que no tengas que renunciar a nada de lo que hac\u00edas como consecuencia de tu nueva situaci\u00f3n.  Como parte de la atenci\u00f3n prenatal, de forma rutinaria se incluye la realizaci\u00f3n de la prueba del VIH a todas las mujeres (durante el primer y tercer trimestre de embarazo). ",
-            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
-            "_distance": 0.7438302636146545
+            "text": "El cambio a dolutegravir + darunavir potenciado puede ser una opci\u00f3n en determinados pacientes que quieran simplificar su pauta actual o evitar toxicidades .  No se debe cambiar triple terapia ni terapia dual a monoterapia con IPp ni con dolutegravir.  Tras el cambio de un TAR es recomendable evaluar en un plazo de 3-6 semanas el mantenimiento de la supresi\u00f3n virol\u00f3gica y las determinaciones de laboratorio pertinentes, que depender\u00e1n del motivo del cambio (p.e lipidograma, o funci\u00f3n renal). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7015190124511719
         },
         {
-            "text": "\u2022 Situaci\u00f3n social y econ\u00f3mica. Para la poblaci\u00f3n del paciente con infecci\u00f3n por el VIH existe un \u00edndice pron\u00f3stico de mortalidad, \u00edndice de VACS ( Veterans Aging Cohort Study , MD+CALC aunque no incorpora datos sobre la funci\u00f3n, cognici\u00f3n o multimorbilidad. ",
-            "source": "ManualClinico, section 26.2.2.",
-            "_distance": 0.7469902038574219
+            "text": "93 En pacientes con alteraciones gastrointestinales as ociadas a IP potenciado (IP/p) estos f\u00e1rmacos deben suspenderse. El cambio de la pauta a la coformulaci\u00f3n de rilpivirina, FTC y TDF, a la de rilpivirina, FTC y TAF, o a doravirina, FTC y TDF es adecuado. En pacientes con dislipemia asociada a IP/p la suspensi\u00f3n de estos f\u00e1rmacos es una opci\u00f3n terap\u00e9utica. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7015321254730225
         },
         {
-            "text": "En esta etapa, los pacientes suelen presentar un importante deterioro del estado general y comienzan a aparecer las enfermedades oportunistas. Es en ese momento cuando el individuo infectado es considerado como enfermo de SIDA. Tras alcanzar esta etapa, el tiempo medio de supervivencia despu\u00e9s de un recuento de CD4+ de 200 cels/mL es de 38 a 40 meses y de tan solo 12-18 meses si presenta una enfermedad oportunista . ",
-            "source": "ManualClinico, section 1.4.",
-            "_distance": 0.7532718777656555
+            "text": "Los ARV con un perfil m\u00e1s favorable de interacciones son los INI dolutegravir, bictegravir, y, especialmente, raltegravir, los ITIAN y entre los ITINN rilpivirina y doravirina. Estos ARV nos pueden ser \u00fatiles en pacientes polimedicados para evitar riesgos. Sin embargo, es importante tener en cuenta las interacciones de los INI con los anti\u00e1cidos (tambi\u00e9n p. ej complejos multivitam\u00ednicos). ",
+            "source": "ManualClinico, section 8.3.7.",
+            "_distance": 0.7484204769134521
         }
     ],
-    "answer": "Seg\u00fan mi conocimiento especializado en VIH, el pron\u00f3stico de vida de una persona con VIH ha mejorado significativamente gracias al tratamiento antirretroviral efectivo.\n\nPron\u00f3stico de Vida con Tratamiento:\nSi el VIH est\u00e1 controlado con tratamiento, la esperanza de vida se acerca notablemente a la de una persona sin el virus. De hecho:\n\n Esperanza de Vida a los 20 a\u00f1os: Para pacientes con infecci\u00f3n por VIH y alto nivel educativo, la esperanza de vida es de m\u00e1s de 60 a\u00f1os, muy cercana a las estimaciones para la poblaci\u00f3n general del mismo nivel educativo (m\u00e1s de 65,5 a\u00f1os).\n\nImportante: Este pron\u00f3stico favorable depende en gran medida de:\n\n1. Adherencia al tratamiento antirretroviral.\n2. Control efectivo de la carga viral.\n3. Atenci\u00f3n integral a la salud, incluyendo comorbilidades asociadas con el envejecimiento.\n\nRecuerda: Cada individuo es \u00fanico, y factores como la situaci\u00f3n social, econ\u00f3mica, y la presencia de comorbilidades pueden influir en el pron\u00f3stico general. Para una evaluaci\u00f3n personalizada, siempre es recomendable consultar a un m\u00e9dico especialista en VIH."
+    "answer": "S\u00ed, en general, el cambio a un r\u00e9gimen que incluya dolutegravir o rilpivirina puede ser beneficioso para reducir el riesgo de toxicidad hep\u00e1tica asociada con otros medicamentos antirretrovirales (ARV).\n\nDolutegravir:\n- Perfil de seguridad hep\u00e1tica: Dolutegravir, un inhibidor de la integrasa no nucle\u00f3sido (INI), tiene un perfil de seguridad favorable en cuanto a efectos secundarios hep\u00e1ticos.\n- Riesgo reducido: En comparaci\u00f3n con algunos otros ARV, el riesgo de elevaciones significativas en las enzimas hep\u00e1ticas (como ALT y AST) es relativamente bajo con dolutegravir.\n\nRilpivirina:\n- Perfil de seguridad hep\u00e1tica: Rilpivirina, un inhibidor no nucle\u00f3sido de la transcriptasa reversa (ITINN), tambi\u00e9n se asocia con una baja incidencia de eventos adversos hep\u00e1ticos.\n- Riesgo reducido: Similar a dolutegravir, rilpivirina tiene un perfil que sugiere un menor riesgo de da\u00f1o hep\u00e1tico en comparaci\u00f3n con ciertos otros medicamentos antirretrovirales.\n\nConsideraciones importantes:\n- Historial m\u00e9dico individual: La seguridad para tu h\u00edgado depender\u00e1 de tu historial m\u00e9dico espec\u00edfico, incluyendo cualquier condici\u00f3n hep\u00e1tica preexistente.\n- Monitoreo m\u00e9dico: Es crucial que sigas el monitoreo regular recomendado por tu m\u00e9dico para evaluar la funci\u00f3n hep\u00e1tica, independientemente del cambio en tu tratamiento.\n- Interacciones medicamentosas: Aseg\u00farate de informar a tu m\u00e9dico sobre todos los medicamentos y suplementos que est\u00e9s tomando, ya que algunas interacciones podr\u00edan afectar la seguridad hep\u00e1tica.\n\nRecomendaci\u00f3n:\nMant\u00e9n una comunicaci\u00f3n abierta con tu m\u00e9dico sobre cualquier inquietud o pregunta que tengas respecto a los efectos de tus medicamentos en tu h\u00edgado. Siguen siendo la mejor fuente de orientaci\u00f3n personalizada para tu caso espec\u00edfico."
 }

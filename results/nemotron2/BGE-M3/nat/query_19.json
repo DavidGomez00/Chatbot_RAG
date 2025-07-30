@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEs cierto como darunavir o lopinavir/ritonavir pueden aumentar el riesgo de resistencia a la insulina y contribuir a la acumulaci\u00f3n de grasa en el h\u00edgado?\n",
+    "context_info": [
+        {
+            "text": "Sin embargo, los f\u00e1rmacos antirretrovirales m\u00e1s modernos, a pesar de tener perfiles metab\u00f3licos mucho mejores, no est\u00e1n totalmente exentos de potenciales efectos a nivel metab\u00f3lico. Los IP utilizados en la actualidad, darunavir y atazanavir, tambi\u00e9n se han asociado a resistencia a la insulina , as\u00ed como los II , que tambi\u00e9n se han asociado a alteraciones del metabolismo hidrocarbonado en algunos estudios. ",
+            "source": "ManualClinico, section 20.2.4.",
+            "_distance": 0.7174953818321228
+        },
+        {
+            "text": "Algunos IP (atazanavir [ATV] y lopinavir[LPV]) se han asociado a un mayor riesgo de disminuci\u00f3n del FGe, aunque este efecto cl\u00ednico es controvertido y podr\u00eda deberse a la interacci\u00f3n de ritonavir (RTV) con TDF, dado que RTV inhibe la prote\u00edna MRP4 encargada de la extrusi\u00f3n de TDF desde el interior de la c\u00e9lula tubular renal permitiendo as\u00ed su ac\u00famulo en la misma. ",
+            "source": "ManualClinico, section 22.4.",
+            "_distance": 0.7675991654396057
+        },
+        {
+            "text": "Los f\u00e1rmacos antiretrovirales que pueden causar elevaciones en los l\u00edpidos son los inhibidores de la proteasa, en especial si el potenciador utilizado es ritonavir, y el uso de efavirenz. El uso de tenofovir disoproxil fumarato tiene un efecto reductor sobre los niveles de colesterol total que se pierde cuando se usa la nueva formulaci\u00f3n de tenofovir alafenamida. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.7819952368736267
+        },
+        {
+            "text": " Diabetes Mellitus y resistencia a la insulina Se ha descrito una mayor incidencia de alteraciones del metabolismo hidrocarbonado en PVVIH respecto a la poblaci\u00f3n general, tanto de diabetes mellitus como de resistencia a la insulina. El incremento de la resistencia a la insulina est\u00e1 principalmente ligado al TAR y se describi\u00f3 inicialmente con inhibidores de proteasa de primera generaci\u00f3n e ITIAN an\u00e1logos de timidina. ",
+            "source": "ManualClinico, section 20.2.4.",
+            "_distance": 0.7826645374298096
+        },
+        {
+            "text": " Riesgo cardiovascular Algunos antirretrovirales (IP e ITIAN) elevan los niveles de colesterol total (CT), de lipoprote\u00ednas de baja densidad (c-LDL) y, sobre todo, de triglic\u00e9ridos, adem\u00e1s de disminuir los niveles de lipoprote\u00ednas de alta densidad (c-HDL). Esto se suma a otros factores de riesgo cl\u00e1sicos, m\u00e1s frecuentes en los seropositivos (tabaquismo, diabetes, hipertensi\u00f3n). ",
+            "source": "manejo_paciente_vih_en_ap, section 18.0.",
+            "_distance": 0.8120914697647095
+        }
+    ],
+    "answer": "No response content"
+}

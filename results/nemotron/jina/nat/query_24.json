@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfEl VIH puede transmitirse a trav\u00e9s de agujas o tatuajes no esterilizados?\n",
+    "query": "\u00bfQu\u00e9 pruebas deber\u00eda considerar solicitar a mi m\u00e9dico para asegurarme de que mi coraz\u00f3n est\u00e1 saludable mientras recibo tratamiento para el VIH?\n",
     "context_info": [
         {
-            "text": " El VIH no se puede adquirir: Por comer alimentos \u2013cocinados o no\u2013 con restos de sangre.  A trav\u00e9s de una aguja est\u00e9ril utilizada en una cl\u00ednica u otro dispositivo sanitario.  Por un mordisco de una persona.  Por una picadura de insecto, incluyendo la de mosquito.  A trav\u00e9s de un animal.  Por convivir con alguien que tiene el VIH.  Por pincharse con una aguja de coser.  Por sentarse en un asiento con sangre y que esta traspase tu ropa interior.  Por limpiar un corta\u00fa\u00f1as. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
-            "_distance": 0.6406219601631165
+            "text": "Esto supone esperar a que haya transcurrido el periodo ventana de la prueba para que el resultado sea fiable. Si est\u00e1s preocupado por el VIH, puedes contactar con un m\u00e9dico, un centro de atenci\u00f3n de enfermedades de transmisi\u00f3n sexual o una ONG del VIH. Si crees que has estado expuesto al virus, puedes preguntar sobre cu\u00e1ndo resulta oportuno hacerse la prueba. Los profesionales sanitarios y los educadores para la salud podr\u00e1n analizar cu\u00e1l es tu riesgo con el detalle necesario. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 0.7694610953330994
         },
         {
-            "text": "El compartir agujas y material de inyecci\u00f3n comporta uno de los mayores riesgos de transmisi\u00f3n del VIH. Esto se debe a que es una v\u00eda directa entre la sangre de dos personas.  En el cap\u00edtulo 5 de esta gu\u00eda se muestran los distintos tipos de estructuras celulares de la piel y las membranas mucosas y c\u00f3mo se transmite el VIH a trav\u00e9s de ellas. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
-            "_distance": 0.6629704833030701
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.7975043058395386
         },
         {
-            "text": "Aunque el VIH se puede detectar en este l\u00edquido, es poco probable que haya una cantidad suficiente como para provocar la infecci\u00f3n.  El VIH no se transmite por los besos, ni siquiera por los besos profundos. El virus tampoco se transmite por escupir.  Aire: El VIH no se transmite a trav\u00e9s del aire.  Por otro lado, conviene recordar que muchas pr\u00e1cticas sexuales no suponen un riesgo de transmisi\u00f3n del VIH. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
-            "_distance": 0.728131890296936
+            "text": "Indica un resultado positivo para el VIH que necesita una prueba de confirmaci\u00f3n antes de asegurar la infecci\u00f3n ",
+            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_info, section 10.0.",
+            "_distance": 0.7994354367256165
         },
         {
-            "text": "La infecci\u00f3n por VIH se transmite por v\u00eda sangu\u00ednea (transfusiones, tratamiento con derivados hem\u00e1ticos, accidentes sanitarios y uso de drogas por v\u00eda intravenosa compartiendo material, por v\u00eda sexual (relaciones homo o heterosexuales sin preservativo o de forma vertical (de madre seropositiva no controlada a su descendencia, durante el embarazo, el parto o la lactancia ). Se ha estimado el riesgo potencial diferencial de las distintas v\u00edas de transmisi\u00f3n. ",
-            "source": "ManualClinico, section 11.1.",
-            "_distance": 0.7485817074775696
+            "text": " R: El \u00fanico modo en que puedes saber tu estado serol\u00f3gico al VIH es realiz\u00e1ndote una prueba de detecci\u00f3n.  Si eres una persona sexualmente activa, es mejor que tanto t\u00fa como tu(s) pareja(s) sep\u00e1is vuestro estado serol\u00f3gico al VIH.  Muchas personas sexualmente activas deciden incluir la prueba del VIH en el cuidado rutinario de su salud sexual. Se aconseja repetir la prueba cada 6 o 12 meses (o incluso cada 3), en funci\u00f3n detu nivel de actividad sexual y actividades de riesgo. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 0.8011360168457031
         },
         {
-            "text": " Exposici\u00f3n de otras mucosas o de piel no intacta a sangre u otros fluidos potencialmente infectantes (1) Exposiciones con riesgo de transmisi\u00f3n bajo o m\u00ednimo VIH positivo con CVP detectable o desconocida VIH desconocido con factores de riesgo VIH desconocido sin factores de riesgoValorar individualmente (5) Cualquier tipo de exposici\u00f3n con fuidos no infectantes (2) Exposiciones sobre piel intacta. Mordeduras sin rotura de piel ni sangrado. ",
-            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
-            "_distance": 0.7721431851387024
+            "text": " En AP, la prueba se debe ofrecer de forma normalizada, como parte de un chequeo habitual y a toda persona que lo solicite, especialmente a las que tienen m\u00e1s riesgo de infectarse y las que presentan s\u00edntomas de infecci\u00f3n por el VIH u otras enfermedades asociadas. Antes de asegurar el diagn\u00f3stico, es necesario realizar una prueba de confirmaci\u00f3n, adem\u00e1s del test serol\u00f3gico habitual y considerar la posibilidad del per\u00edodo de abstinencia terap\u00e9utica. ",
+            "source": "manejo_paciente_vih_en_ap, section 23.0.",
+            "_distance": 0.8074862957000732
         }
     ],
-    "answer": "S\u00ed, el VIH puede transmitirse a trav\u00e9s del uso compartido de agujas o material de inyecci\u00f3n no est\u00e9riles, as\u00ed como a trav\u00e9s de tatuajes realizados con equipo no esterilizado que haya estado en contacto con sangre infectada. \n\nAgujas y material de inyecci\u00f3n no est\u00e9riles:\n- Riesgo alto: El compartir agujas y material de inyecci\u00f3n comporta uno de los mayores riesgos de transmisi\u00f3n del VIH, ya que permite una v\u00eda directa entre la sangre de dos personas.\n\nTatuajes con equipo no esterilizado:\n- Riesgo potencial: Si el equipo de tatuaje ha estado previamente en contacto con sangre infectada y no se ha esterilizado adecuadamente, existe un riesgo potencial de transmisi\u00f3n del VIH. Esto se debe a que la sangre puede contener el virus y, si el equipo no se ha limpiado y esterilizado correctamente, puede transferirlo a otra persona.\n\nPrecauci\u00f3n:\n- Para evitar el riesgo de transmisi\u00f3n del VIH, es crucial utilizar siempre agujas y material de inyecci\u00f3n est\u00e9riles y de un solo uso.\n- En el caso de tatuajes, aseg\u00farate de que el establecimiento utilice pr\u00e1cticas de higiene adecuadas, incluyendo el uso de agujas y suministros est\u00e9riles para cada cliente."
+    "answer": "Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\n\n(Como asistente especializado en responder consultas sobre el VIH, mi conocimiento se centra en aspectos directamente relacionados con el VIH. Aunque puedo ofrecer algunos consejos generales, la evaluaci\u00f3n espec\u00edfica de la salud cardiovascular requiere una evaluaci\u00f3n personalizada por un profesional de la salud.)\n\nConsejo general basado en mi conocimiento sobre el VIH:\n\nCuando se trata del tratamiento para el VIH, es importante mencionar a tu m\u00e9dico que deseas evaluar tu riesgo cardiovascular, especialmente si est\u00e1s recibiendo tratamiento antirretroviral. Algunos tratamientos antirretrovirales pueden influir en los niveles de l\u00edpidos y aumentar el riesgo cardiovascular.\n\nPruebas que podr\u00edas mencionar a tu m\u00e9dico para consideraci\u00f3n (pero recuerda, la decisi\u00f3n final depende de su evaluaci\u00f3n profesional):\n\n1. An\u00e1lisis de sangre para evaluar los niveles de l\u00edpidos: Esto incluye colesterol total, triglic\u00e9ridos, LDL (colesterol \"malo\") y HDL (colesterol \"bueno\").\n2. Prueba de glucosa en sangre en ayunas: Para evaluar el control del az\u00facar en la sangre y riesgo de diabetes.\n3. Medici\u00f3n de la presi\u00f3n arterial: Fundamental para evaluar el riesgo cardiovascular.\n4. Ecocardiograma o evaluaciones m\u00e1s especializadas: Dependiendo de tus antecedentes m\u00e9dicos y los criterios de tu m\u00e9dico, podr\u00edan ser recomendables pruebas m\u00e1s espec\u00edficas para evaluar la funci\u00f3n card\u00edaca.\n\nRecuerda:\n\n- La mejor pr\u00e1ctica es mantener un estilo de vida saludable, con una dieta equilibrada, ejercicio regular y evitar el tabaquismo.\n- Si tienes factores de riesgo cardiovascular adicionales (historia familiar, obesidad, etc.), aseg\u00farate de discutirlos con tu m\u00e9dico.\n\nPara una evaluaci\u00f3n detallada y personalizada de tu salud cardiovascular, por favor, consulta a tu m\u00e9dico."
 }

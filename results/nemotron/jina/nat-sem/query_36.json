@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1l es el Tratamiento que tengo que tomar?\n",
+    "context_info": [
+        {
+            "text": " Tratamiento El tratamiento del CP, al igual que en la poblaci\u00f3n general, debe ser dirigido por un equipo multidisciplinar, que realizar\u00e1 la estadificaci\u00f3n y decidir\u00e1 el esquema terap\u00e9utico m\u00e1s adecuado para cada caso. Si el paciente tiene la infecci\u00f3n por VIH controlada deben utilizarse todas las estrategias disponibles, incluida la inmunoterapia con f\u00e1rmacos anti-PD1 como el pembrolizumab y el nivolumab con los que se han obtenido resultados prometedores en peque\u00f1as series de casos. Si el CP y el VIH se diagnostican de forma simult\u00e1nea, el TAR debe iniciarse tan pronto como sea posible despu\u00e9s de comenzar la terapia antineopl\u00e1sica y el paciente est\u00e9 cl\u00ednicamente estable.",
+            "source": "ManualClinico, section 15.2.5.",
+            "_distance": 0.8400482535362244
+        },
+        {
+            "text": " Particularidades terap\u00e9uticas El TAR debe recomendarse en todos los pacientes con infecci\u00f3n aguda. En los pacientes gravemente sintom\u00e1ticos, el inicio del TAR debe realizarse de forma inmediata, ya que acorta la duraci\u00f3n y gravedad de los s\u00edntomas.",
+            "source": "ManualClinico, section 4.7.",
+            "_distance": 0.8934293985366821
+        },
+        {
+            "text": "El diagn\u00f3stico requiere la biopsia. Los pacientes con SK, precisan tratamiento antirretroviral y en funci\u00f3n de la inmunodepresi\u00f3n y el n\u00famero de lesiones se puede utilizar tratamientos locales mediante cirug\u00eda convencional o con l\u00e1ser, inyecciones locales de vinblastina o agentes esclerosantes. Sin embargo, lo habitual es el uso de quimioterapia sist\u00e9mica con doxorrubicina liposomal o bien taxanos como el paclitaxel. La radioterapia se desaconseja debido a la mucositis que puede originar. No obstante, se remite al lector al (Cap\u00edtulo 13) donde se aborda de forma exhaustiva el tratamiento del SK. ",
+            "source": "ManualClinico, section 16.4.1.",
+            "_distance": 0.8947815299034119
+        },
+        {
+            "text": " Tratamiento El tratamiento del LH en pacientes con VIH no difiere del indicado para la poblaci\u00f3n general. La pauta de elecci\u00f3n es ABVD (adriamicina, bleomicina, vincristina y dacarbazina). El PET es una excelente herramienta para guiar el tratamiento. En los casos de buena evoluci\u00f3n, se puede limitar el uso de bleomicina a los tres primeros ciclos completando el tratamiento sin este f\u00e1rmaco 33. En los casos de LH resistente a una primera l\u00ednea de quimioterapia o en reca\u00edda, se debe administrar pautas de rescate. Los LH refractarios o en reca\u00edda tras TPH autog\u00e9nico pueden ser tratados con Brentuximab o inhibidores de PD-1/PDL-1. En la Tabla 4 se detallan las recomendaciones pr\u00e1cticas para el tratamiento del LH en la poblaci\u00f3n infectada por VIH.",
+            "source": "ManualClinico, section 14.5.2.",
+            "_distance": 0.9133524894714355
+        },
+        {
+            "text": " Control y seguimiento cl\u00ednico La PrEP no consiste \u00fanicamente en la prescripci\u00f3n del f\u00e1rmaco, sino que requiere una atenci\u00f3n integral, que debe incluir aspectos cl\u00ednicos, anal\u00edticos y consejo asistido sobre la salud sexual, incluyendo la prevenci\u00f3n de otras infecciones de transmisi\u00f3n sexual (ITS). En la Tabla 3 se puede ver un esquema de seguimiento.",
+            "source": "ManualClinico, section 11.3.3.",
+            "_distance": 0.9163711071014404
+        }
+    ],
+    "answer": "No puedo proporcionar un tratamiento espec\u00edfico sin conocer detalles espec\u00edficos sobre tu condici\u00f3n m\u00e9dica relacionada con el VIH.\n\nSin embargo, puedo ofrecerte una gu\u00eda general basada en la informaci\u00f3n proporcionada anteriormente, dependiendo de lo que busques tratar:\n\n### Si tienes Infecci\u00f3n por VIH:\n\n1. Tratamiento Antirretroviral (TAR): Debe ser iniciado lo antes posible, especialmente si el diagn\u00f3stico es reciente o si est\u00e1s comenzando a mostrar s\u00edntomas. El TAR es crucial para controlar la infecci\u00f3n y prevenir su progresi\u00f3n a SIDA.\n\n### Si tienes C\u00e1ncer de Pulm\u00f3n (CP) y VIH:\n\n1. Equipo Multidisciplinar: Debe dirigir tu tratamiento.\n2. Inmunoterapia: F\u00e1rmacos como pembrolizumab o nivolumab podr\u00edan ser recomendados si el VIH est\u00e1 controlado.\n3. TAR: Debe iniciarse tan pronto como sea posible, una vez comenzada la terapia antineopl\u00e1sica y cuando est\u00e9s cl\u00ednicamente estable.\n\n### Si tienes Sarcoma de Kaposi (SK) y VIH:\n\n1. Tratamiento Antirretroviral (TAR): Es esencial.\n2. Tratamientos Locales o Sist\u00e9micos: Dependiendo de la inmunodepresi\u00f3n y el n\u00famero de lesiones, podr\u00edan incluir:\n   - Cirug\u00eda convencional o con l\u00e1ser.\n   - Inyecciones locales de vinblastina o agentes esclerosantes.\n   - Quimioterapia sist\u00e9mica con doxorrubicina liposomal o taxanos como paclitaxel.\n\n### Si tienes Linfoma de Hodgkin (LH) y VIH:\n\n1. Quimioterapia: La pauta de elecci\u00f3n es ABVD.\n2. PET para Gu\u00eda de Tratamiento: \u00datil para evaluar la evoluci\u00f3n.\n3. Tratamientos de Rescate o Alternativos: Para casos resistentes o en reca\u00edda, como Brentuximab o inhibidores de PD-1/PDL-1.\n\n### Para la Prevenci\u00f3n con PrEP (Profilaxis Pre-Exposici\u00f3n):\n\n1. Atenci\u00f3n Integral: Incluye prescripci\u00f3n del f\u00e1rmaco, aspectos cl\u00ednicos, anal\u00edticos y consejer\u00eda sobre salud sexual.\n\nPara una recomendaci\u00f3n de tratamiento espec\u00edfica y personalizada, te aconsejo encarecidamente:\n### \"Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\""
+}

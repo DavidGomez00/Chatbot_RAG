@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 opciones de tratamiento existen para pacientes que han experimentado un fracaso en su terapia?\n",
+    "context_info": [
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7878075838088989
+        },
+        {
+            "text": "El cl\u00ednico debe evaluar los condicionantes del fracaso identificando causas de mala adherencia, buscar posibles errores de dosificaci\u00f3n o interacciones significativas. Hay que intentar pautar un TAR c\u00f3modo, bien tolerado, de escasa toxicidad teniendo en cuenta las comorbilidades del paciente. Es preciso tambi\u00e9n hacer una historia detallada de todos los reg\u00edmenes TAR previos determinando si ha habido cambios por fracasos virol\u00f3gicos o por toxicidad/tolerabilidad. ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 0.8132509589195251
+        },
+        {
+            "text": "En los pacientes que experimentan un deterioro cl\u00ednico o radiol\u00f3gico con el TAR, sugestivo de SIRI, se aconseja el uso de dexametasona. Hay estudios en marcha tanto con terapias anti-JVC, inmunomoduladores y estrategias de inmunizaci\u00f3n, aunque los resultados actuales son escasos. ",
+            "source": "ManualClinico, section 12.4.4.",
+            "_distance": 0.8418949842453003
+        },
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8501020073890686
+        },
+        {
+            "text": "Todas las estrategias terap\u00e9uticas que han tratado de evitar un TAR indefinido (bien erradicando la infecci\u00f3n o bien potenciando la respuesta inmunitaria como en los controladores de elite) en pacientes tratados en la infecci\u00f3n aguda han fracasado, como: Iniciar el TAR en la fase h\u00edper-aguda (Fiebig I) Administrar el TAR durante un periodo limitado de tiempoAdministrarlo de forma intermitente, a fin de potenciar la respuesta VIH- espec\u00edfica y controlar la replicaci\u00f3n viral sin TARCombinar el TAR con inmunosupresores, citoquinas o movilizadores del reservorioAsociar el TAR a vacunas terap\u00e9uticasCombinaciones de las anteriores estrategias. ",
+            "source": "ManualClinico, section 4.7.",
+            "_distance": 0.8508601784706116
+        }
+    ],
+    "answer": "Excelente pregunta. Cuando un paciente con VIH experimenta un fracaso en su terapia antirretroviral (TAR), es crucial abordar el tema de manera estrat\u00e9gica. A continuaci\u00f3n, te presento las opciones de tratamiento que se consideran en tales circunstancias, basadas en mi conocimiento especializado:\n\n1. Reevaluaci\u00f3n y ajuste del r\u00e9gimen TAR existente:\n   - Identificar causas del fracaso: Se busca determinar si el fracaso se debe a mala adherencia, dosificaci\u00f3n inadecuada, malabsorci\u00f3n o interacciones con otras medicaciones.\n   - Ajuste de dosis seg\u00fan peso: Asegurarse de que las dosis de los antirretrovirales sean adecuadas para el peso del paciente.\n   - Mejora de la tolerabilidad: Seleccionar f\u00e1rmacos con perfiles de toxicidad m\u00e1s favorables, considerando comorbilidades del paciente.\n\n2. Cambio a un nuevo r\u00e9gimen TAR:\n   - Historia detallada de reg\u00edmenes TAR previos: Analizar todos los tratamientos anteriores para entender patrones de fracaso virol\u00f3gico o toxicidad.\n   - Selecci\u00f3n de f\u00e1rmacos basada en resistencia viral y tolerabilidad: Elegir nuevos antirretrovirales que el virus no haya desarrollado resistencia, asegurando al mismo tiempo una buena tolerancia para el paciente.\n\n3. Manejo del S\u00edndrome de Inflamaci\u00f3n Reactiva (SIRI):\n   - Uso de dexametasona: En casos de deterioro cl\u00ednico o radiol\u00f3gico sugestivo de SIRI, la dexametasona puede ser recomendada para controlar la inflamaci\u00f3n.\n\n4. Consideraciones futuras y en investigaci\u00f3n:\n   - Terapias anti-VIH de nueva generaci\u00f3n: Aunque no especificadas aqu\u00ed, siempre es bueno mencionar que la investigaci\u00f3n contin\u00faa avanzando, ofreciendo esperanza para tratamientos m\u00e1s efectivos o con menos efectos secundarios.\n   - Inmunomoduladores y estrategias de inmunizaci\u00f3n: Estudios en curso exploran c\u00f3mo potenciar la respuesta inmune del paciente contra el VIH, aunque los resultados actuales son limitados.\n\nImportante: Cada paciente es \u00fanico, y la mejor estrategia de tratamiento debe ser personalizada por un profesional de la salud especializado en el manejo del VIH. Estas opciones deben servir como un punto de partida para una discusi\u00f3n m\u00e1s profunda con tu m\u00e9dico, quien podr\u00e1 ofrecer orientaci\u00f3n espec\u00edfica basada en tu situaci\u00f3n cl\u00ednica particular.\n\nPara una gu\u00eda terap\u00e9utica detallada y personalizada, consulta a tu m\u00e9dico."
+}

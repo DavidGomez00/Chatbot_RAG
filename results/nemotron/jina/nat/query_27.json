@@ -1,0 +1,31 @@
+{
+    "query": "Si tomo abacavir, \u00bfexiste un mayor riesgo de desarrollar s\u00edntomas neurol\u00f3gicos como confusi\u00f3n o alteraciones en la memoria?\n",
+    "context_info": [
+        {
+            "text": "Algunos estudios de cohortes retrospectivos han asociado el uso de abacavir o algunos IPs (LPV/r o DRV/r) a un aumento de eventos cardiovasculares, por lo que es recomendable utilizarlos con precauci\u00f3n en pacientes con alto riesgo cardiovascular (RCV). ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.7541348338127136
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8245217204093933
+        },
+        {
+            "text": "Los inhibidores de la transcriptasa inversa inducen relativamente pocos trastornos gastrointestinales. Cabe destacar que en algunos pacientes el abacavir se relaciona con intolerancia digestiva y n\u00e1useas. Los inhibidores de la integrasa, tienen un excelente perfil de tolerabilidad gastrointestinal. El manejo de estos trastornos incluye desde el tratamiento sintom\u00e1tico con antiem\u00e9ticos o antidiarreicos como loperamida a la sustituci\u00f3n del f\u00e1rmaco responsable cuando son intensos o no desaparece. ",
+            "source": "ManualClinico, section 19.4.2.",
+            "_distance": 0.9569802284240723
+        },
+        {
+            "text": " Alteraciones neurol\u00f3gicas Entre los f\u00e1rmacos asociados con alteraciones neurol\u00f3gicas destaca EFV; es su efecto adverso m\u00e1s frecuente y se caracteriza por mareos, inestabilidad, insomnio, sue\u00f1os vividos y fala de concentraci\u00f3n. Esta toxicidad aparece desde los primeros d\u00edas de tratamiento y en muchas ocasiones es limitante, obligando a retirar el f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.975986123085022
+        },
+        {
+            "text": "Factores como el consumo de drogas, la enfermedad cardiovascular, las enfermedades oportunistas del SNC o el consumo de sustancias o f\u00e1rmacos neurot\u00f3xicos. Un estudio ya cl\u00e1sico realizado por la cohorte CHARTER evalu\u00f3 que el riesgo de declinar cognitivo era 4,4 veces superior entre las personas infectadas por VIH que ten\u00edan otras comorbilidades neurocognitivas. ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 1.0259959697723389
+        }
+    ],
+    "answer": "Bas\u00e1ndome en el conocimiento proporcionado, no hay menci\u00f3n espec\u00edfica a que el abacavir est\u00e9 asociado con un mayor riesgo de desarrollar s\u00edntomas neurol\u00f3gicos como confusi\u00f3n o alteraciones en la memoria.\n\nSin embargo, s\u00ed se menciona que:\n\n1. Alteraciones neurol\u00f3gicas est\u00e1n m\u00e1s com\u00fanmente asociadas con Efavirenz (EFV), caracteriz\u00e1ndose por mareos, inestabilidad, insomnio, sue\u00f1os vividos y falta de concentraci\u00f3n.\n2. Factores de riesgo para declive cognitivo en personas infectadas por VIH incluyen el consumo de drogas, enfermedad cardiovascular, enfermedades oportunistas del SNC, y consumo de sustancias o f\u00e1rmacos neurot\u00f3xicos.\n\nEn cuanto al abacavir, se menciona que:\n\n Puede relacionarse con intolerancia digestiva y n\u00e1useas en algunos pacientes.\n Estudios de cohortes retrospectivos han asociado su uso (al igual que algunos inhibidores de proteasa como LPV/r o DRV/r) con un aumento de eventos cardiovasculares, recomend\u00e1ndose precauci\u00f3n en pacientes con alto riesgo cardiovascular.\n\nConclusi\u00f3n para tu consulta:\nPara el abacavir, no se menciona espec\u00edficamente un mayor riesgo de s\u00edntomas neurol\u00f3gicos como confusi\u00f3n o alteraciones en la memoria dentro del conocimiento proporcionado. Sin embargo, si est\u00e1s experimentando s\u00edntomas preocupantes, para m\u00e1s informaci\u00f3n y evaluaci\u00f3n personalizada, consulta a tu m\u00e9dico."
+}

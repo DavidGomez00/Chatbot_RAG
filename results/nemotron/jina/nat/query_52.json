@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1les son las causas m\u00e1s comunes de fracaso virol\u00f3gico en pacientes tratados?\n",
+    "context_info": [
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.5976051688194275
+        },
+        {
+            "text": "El fracaso se categoriza en: \u2022Fracaso virol\u00f3gico , est\u00e1 definido en pacientes en TAR, por la ausencia de supresi\u00f3n viral completa (CV por debajo del l\u00edmite de detectabilidad de la t\u00e9cnica utilizada, generalmente <20 \u00f3 75 copias /mL), o detecci\u00f3n de viremia tras control de la misma. En adultos se considera fracaso si la CV tras 6 meses de TAR es \u2265 200 copias/mL. Los ni\u00f1os con CV muy elevadas al inicio del TAR, puede tardar m\u00e1s de 6 meses en alcanzar la indetectabilidad. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.6424813270568848
+        },
+        {
+            "text": " Fracaso del TAR El fracaso del TAR se refiere tanto a no alcanzar la supresi\u00f3n virol\u00f3gica (CV <50 copias/mL), despu\u00e9s de seis meses de iniciado un TAR en un paciente na\u00efve como al rebote virol\u00f3gico que ocurre en un paciente que ya hab\u00eda alcanzado la supresi\u00f3n virol\u00f3gica. En pacientes na\u00efve con CV muy alta (>1.000.000 copias/mL) es posible que, aunque el TAR est\u00e9 siendo eficaz, no se alcance la indetectabilidad en los primeros seis meses, especialmente si el TAR est\u00e1 basado en IP/p. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.7358015775680542
+        },
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7701511383056641
+        },
+        {
+            "text": "Adem\u00e1s del fracaso virol\u00f3gico existen otras dos situaciones caracterizadas por CV detectable: \u2022 \u201cBlip \u201d: despu\u00e9s de alcanzada la supresi\u00f3n virol\u00f3gica hay una carga viral detectable, generalmente de bajo nivel que en la siguiente determinaci\u00f3n se ha vuelto a hacer indetectable. Generalmente no son predictores de fracaso virol\u00f3gico ulterior. \u2022 Viremia de bajo nivel: cargas virales persistentemente detectables en general menores de 200 copias/mL. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.7890991568565369
+        }
+    ],
+    "answer": "Excelente pregunta! Bas\u00e1ndome en mi conocimiento especializado en VIH, te puedo informar que, una vez establecido el fracaso virol\u00f3gico, es crucial analizar sus causas subyacentes. A continuaci\u00f3n, te presento las causas m\u00e1s comunes de fracaso virol\u00f3gico en pacientes tratados con Terapia Antirretroviral (TAR):\n\n1. Incompleta o mala adherencia: No cumplir con el r\u00e9gimen de medicaci\u00f3n prescrito, lo que puede llevar a una concentraci\u00f3n insuficiente de antirretrovirales en el organismo.\n2. Dosis insuficientes de antirretrovirales: Dosis no ajustadas al peso o necesidades individuales del paciente, lo que puede resultar en niveles plasm\u00e1ticos sub\u00f3ptimos de los medicamentos.\n3. Malabsorci\u00f3n: Problemas gastrointestinales o condiciones que impiden la adecuada absorci\u00f3n de los antirretrovirales en el intestino.\n4. Interacciones con otras medicaciones: Uso concurrente de f\u00e1rmacos que interact\u00faan con los antirretrovirales, alterando su eficacia o aumentando el riesgo de efectos secundarios.\n\nEstas causas son fundamentales para entender y abordar el fracaso virol\u00f3gico en pacientes bajo tratamiento. Si tienes m\u00e1s preguntas espec\u00edficas sobre alguna de estas causas o necesitas informaci\u00f3n adicional, no dudes en preguntar."
+}

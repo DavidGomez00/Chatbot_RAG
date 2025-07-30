@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo puedo saber si el tratamiento est\u00e1 funcionando correctamente?\n",
+    "context_info": [
+        {
+            "text": " Factores que condicionan el \u00e9xito terap\u00e9utico El \u00e9xito terap\u00e9utico viene determinado sin duda por el control precoz y mantenido de la replicaci\u00f3n viral. Los pacientes que han iniciado precozmente TAR, previo al deterioro inmunol\u00f3gico o progresi\u00f3n cl\u00ednica, se mantendr\u00e1n asintom\u00e1ticos, siempre y cuando se mantenga la eficacia del mismo. Para ello es fundamental: \u2022 Control de la adherencia. ",
+            "source": "ManualClinico, section 33.5.",
+            "_distance": 0.8200756907463074
+        },
+        {
+            "text": "Tras identificar la causa, siendo la falta de cumplimiento la m\u00e1s frecuente, \u00e9sta deber\u00e1 ser corregida y si a pesar de ello no se consigue el control de la replicaci\u00f3n viral, se realizar\u00e1 un estudio de resistencias (el paciente debe estar tomando el TAR de forma regular, al menos durante 4 semanas, para que los resultados del estudio sean valorables). El estudio de resistencias nos permitir\u00e1 conocer los f\u00e1rmacos potencialmente activos para nuestro paciente. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8297809362411499
+        },
+        {
+            "text": "Si se usa TDF, realizar 1 y 3 meses despu\u00e9s de haberse iniciado el tratamiento y posteriormente cada 6 meses. Si DM2 o HTA, determinar adem\u00e1s microalbuminuria y cociente alb\u00famina/creatinina en muestra aislada de orina.  4. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8342422842979431
+        },
+        {
+            "text": " En cambio, una persona que reciba tratamiento ver\u00e1 c\u00f3mo su carga viral se reduce hasta alcanzar la \u201cindetectabilidad\u201d, es decir, por debajo del nivel de detecci\u00f3n en las pruebas de laboratorio \u2013por lo general, 50 copias/mL, pero incluso por debajo de las 20 copias/mL dependiendo del tipo de tecnolog\u00eda utilizada\u2013 (v\u00e9anse las Figuras 4 y 5). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8359329700469971
+        },
+        {
+            "text": "El diagn\u00f3stico de ambas infecciones suele ser cl\u00ednico; si hay dudas, la PCR de una muestra de las lesiones tomada con torunda ofrece el mejor rendimiento diagn\u00f3stico. El tratamiento se muestra en la Tabla 1. En pacientes con recurrencias muy frecuentes o severas, est\u00e1 indicado el tratamiento supresor. AIDS info. ",
+            "source": "ManualClinico, section 17.5.1.",
+            "_distance": 0.8404767513275146
+        }
+    ],
+    "answer": "No response content"
+}

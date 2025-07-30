@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfDeber\u00eda cambiar mi tratamiento si decido quedar embarazada?\n",
+    "context_info": [
+        {
+            "text": "Los motivos para considerar el cambio de un tratamiento eficaz son m\u00faltiples: intolerabilidad/ toxicidad, ya sea presente (cambio reactivo) o para prevenirlas (cambio proactivo), simplificaci\u00f3n propiamente dicha (disminuci\u00f3n del n\u00famero de comprimidos, de dosis diarias o del n\u00famero de medicamentos), requerimientos diet\u00e9ticos, interacciones farmacol\u00f3gicas, comorbilidades, embarazo o deseo de embarazo y tambi\u00e9n es importante la sostenibilidad del tratamiento. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 0.7376999258995056
+        },
+        {
+            "text": "Es importante recordar que si el r\u00e9gimen antirretroviral est\u00e1 basado en f\u00e1rmacos de barrera gen\u00e9tica baja como ITINN o INI de primera generaci\u00f3n el riesgo de seleccionar mutaciones de resistencia incluso con viremias de bajo nivel es mayor que si el r\u00e9gimen est\u00e1 basado en f\u00e1rmacos de barrera gen\u00e9tica alta, como IP/p o INI de segunda generaci\u00f3n. En el primer caso el cambio de TAR debe ser m\u00e1s precoz y se debe cambiar a un TAR con f\u00e1rmacos de barrera gen\u00e9tica alta. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.7477219104766846
+        },
+        {
+            "text": "Mujer VIH+ con deseo/posibilidad de embarazoMujer VIH+ en tratamiento con embarazo recienteMujer embarazada reci\u00e9n diagnosticada de infecci\u00f3n por VIH MEDIDAS GENERALESRevaluar el TAR.Evitar f\u00e1rmacos contraindicados/con pocos datos en embarazo.Hablar con la paciente de sus deseos de embarazo.Remitir de forma r\u00e1pida a su especialista en VIH.Ajustar TAR a pautas de elecci\u00f3n en embarazo.Remitir de forma urgente a unidad VIH.Inicio de TAR cuanto antes con pautas de elecci\u00f3n durante el embarazo. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7507364749908447
+        },
+        {
+            "text": " Tratamiento antirretroviral (TAR) durante el embarazo Los criterios para el uso de TAR en la mujer embarazada difieren respecto a las recomendaciones generales para el adulto, en el sentido de que debe considerarse la seguridad para la madre y el ni\u00f1o. Se deben considerar m\u00faltiples factores al elegir TAR para una mujer embarazada. La elecci\u00f3n del TAR se basar\u00e1 en el estudio de resistencias, las interacciones, la experiencia con el uso de estos medicamentos en el embarazo y en la seguridad de estos. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.7549126744270325
+        },
+        {
+            "text": "Indicado si existe confecci\u00f3n con VHB. \u2022 TAF/FTC: Datos insuficientes sobre eficacia y seguridad durante gestaci\u00f3n.. Los cambios en la PK en el embarazo pueden llevar a niveles plasm\u00e1ticos m\u00e1s bajos de medicamentos y requerir dosis m\u00e1s altas, dosificaci\u00f3n m\u00e1s frecuente, aumento o monitoreo m\u00e1s frecuente de la carga viral. Si el diagn\u00f3stico del VIH se realiza durante el embarazo, el TAR se recomienda lo m\u00e1s precozmente posible, dada la posibilidad de transmisi\u00f3n intrauterina. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.7650730013847351
+        }
+    ],
+    "answer": "No response content"
+}

@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfDe qu\u00e9 se mueren las personas con VIH?",
+    "query": "\u00bfEl tratamiento con efavirenz puede afectar mi estado de \u00e1nimo o causar problemas como insomnio o ansiedad?\n",
     "context_info": [
         {
-            "text": " Infecci\u00f3n por VHC en pacientes con VIH La infecci\u00f3n por VHC y sus consecuencias (hepatopat\u00eda cr\u00f3nica/cirrosis) han sido una de las principales comorbilidades en pacientes VIH+ en Espa\u00f1a y las complicaciones derivadas de ellas la principal causa de muerte de estos pacientes. ",
-            "source": "ManualClinico, section 27.2.",
-            "_distance": 0.6578729152679443
-        },
-        {
-            "text": " Serolog\u00eda.Ivermectina 200 \u00b5g/Kg/d\u00eda vo, 2 d\u00edas.Como alternativa puede usarse Albendazol, Tiabendazol o Mebendazol aunque son pautas menos eficaces. 125 3.4.4 Cribado de las Neoplasias En las \u00faltimas d\u00e9cadas, la principal causa de muerte en esta poblaci\u00f3n son las enfermedades no relacionadas directamente con el VIH, siendo la m\u00e1s frecuente el c\u00e1ncer. De hecho, las neoplasias son responsables de aproximadamente un tercio de todas las muertes en personas con VIH3. ",
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
             "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
-            "_distance": 0.677681028842926
+            "_distance": 0.782305896282196
         },
         {
-            "text": "Aunque hay pruebas de concepto que han conseguido la curaci\u00f3n definitiva de la infecci\u00f3n por VIH (trasplante heter\u00f3logo de m\u00e9dula \u00f3sea con delecci\u00f3n de CCR5 con quimerismo completo, asociado a quimio y/o radioterapia) su mortalidad es elevada y no est\u00e1n indicadas ni son escalables a la poblaci\u00f3n que recibe TAR y se mantiene asintom\u00e1tica. ",
-            "source": "ManualClinico, section 9.8.3.",
-            "_distance": 0.7164010405540466
+            "text": " Alteraciones neurol\u00f3gicas Entre los f\u00e1rmacos asociados con alteraciones neurol\u00f3gicas destaca EFV; es su efecto adverso m\u00e1s frecuente y se caracteriza por mareos, inestabilidad, insomnio, sue\u00f1os vividos y fala de concentraci\u00f3n. Esta toxicidad aparece desde los primeros d\u00edas de tratamiento y en muchas ocasiones es limitante, obligando a retirar el f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.7905440926551819
         },
         {
-            "text": " Infecciones oportunistas : Han sido la principal causa de morbilidad y mortalidad de los pacientes VIH desde el inicio de la epidemia. Corresponden a la categor\u00eda C de la clasificaci\u00f3n de la infecci\u00f3n por el VIH de los CDC.  Infecciones por par\u00e1sitos: Destacar la infecci\u00f3n por Toxoplasma gondii que en los pacientes VIH puede producir coriorretinitis y lesi\u00f3n ocupante de espacio (LOE) en el SNC. ",
+            "text": "Entre sus efectos secundarios m\u00e1s frecuentes est\u00e1n la hepatotoxicidad (NVP) y el mareo, insomnio, dificultad de concentraci\u00f3n y exantema con EFV. ETV aporta una alta barrera gen\u00e9tica y mejora la facilidad de los anteriores para inducir resistencias. RPV presenta una eficacia similar con una mejor tolerancia. ",
+            "source": "manejo_paciente_vih_en_ap, section 14.0.",
+            "_distance": 0.8224177956581116
+        },
+        {
+            "text": "Reducir su consumo contribuye a reducir la transmisi\u00f3n, promover la adherencia al tratamiento y prevenir las complicaciones de salud.  En las personas con VIH aumenta el riesgo de padecer ECV del 37% al 78%, HCC y disfunci\u00f3n neurocognitiva, especialmente con el consumo sostenido en el tiempo.  Evaluaci\u00f3n Se debe preguntar rutinariamente por el consumo e informar sobre sus efectos delet\u00e9reos. ",
             "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
-            "_distance": 0.7209243178367615
+            "_distance": 0.8296176195144653
         },
         {
-            "text": " Introducci\u00f3n La infecci\u00f3n por VIH origina una destrucci\u00f3n masiva de su principal c\u00e9lula diana, los linfocitos CD4+. Sin embargo, la inmunodeficiencia provocada por la infecci\u00f3n es un cuadro mucho m\u00e1s complejo, que origina alteraciones en los mecanismos tanto de inmunidad innata como adquirida. La infecci\u00f3n por VIH provoca, de manera directa o mediante mecanismos indirectos, un estado de activaci\u00f3n cr\u00f3nica que lleva a una senescencia precoz del sistema inmune a pesar del tratamiento antirretroviral (TAR). ",
-            "source": "ManualClinico, section 3.1.",
-            "_distance": 0.7241290807723999
+            "text": "Los trastornos de ansiedad se caracterizan por tener una alta comorbilidad con los trastornos del estado de \u00e1nimo y de consumo de t\u00f3xicos. En lo que se refiere al tratamiento, las terapias psicol\u00f3gicas han presentado altas tasas de remisi\u00f3n de los problemas de ansiedad en personas con VIH. Los tratamientos psicol\u00f3gicos han demostrado especial efectividad en el trastorno por estr\u00e9s postraum\u00e1tico. ",
+            "source": "ManualClinico, section 25.2.3.",
+            "_distance": 0.8625591397285461
         }
     ],
-    "answer": "Seg\u00fan mi conocimiento especializado en VIH, las causas de muerte en personas con VIH han variado a lo largo del tiempo. Aqu\u00ed te presento la informaci\u00f3n actualizada basada en mis conocimientos:\n\n Anteriormente: Las principales causas de muerte en pacientes con VIH eran directamente relacionadas con la infecci\u00f3n, espec\u00edficamente debido a infecciones oportunistas (categor\u00eda C de la clasificaci\u00f3n de la infecci\u00f3n por el VIH de los CDC). Estas infecciones se producen cuando el sistema inmunol\u00f3gico est\u00e1 severamente debilitado.\n Actualmente: Con la implementaci\u00f3n efectiva del Tratamiento Antirretroviral (TAR) y el mejoramiento en la atenci\u00f3n m\u00e9dica, la situaci\u00f3n ha cambiado. Las enfermedades no directamente relacionadas con el VIH se han convertido en las principales causas de muerte entre las personas que viven con VIH.\n  - C\u00e1ncer (Neoplasias): Es la causa m\u00e1s frecuente de muerte en esta poblaci\u00f3n, responsable de aproximadamente un tercio de todas las muertes en personas con VIH.\n  - Enfermedad hep\u00e1tica cr\u00f3nica/cirrosis, especialmente relacionada con la coinfecci\u00f3n por VHC (Virus de la Hepatitis C): Aunque ha disminuido gracias a los avances en el tratamiento del VHC, sigue siendo una comorbilidad significativa.\n\nEs importante destacar que el tratamiento antirretroviral (TAR) ha revolucionado la gesti\u00f3n del VIH, transform\u00e1ndolo en una condici\u00f3n cr\u00f3nica manageable para muchas personas. Sin embargo, la atenci\u00f3n a comorbilidades y enfermedades no relacionadas directamente con el VIH es crucial para mejorar la calidad de vida y la supervivencia de las personas con VIH. \n\nRecuerda: Para un asesoramiento espec\u00edfico sobre tu situaci\u00f3n o la de un ser querido, siempre es recomendable consultar a un m\u00e9dico especialista en VIH."
+    "answer": "S\u00ed, el tratamiento con Efavirenz (EFV) puede afectar tu estado de \u00e1nimo y causar problemas relacionados con el sistema nervioso central (SNC). Entre los efectos secundarios m\u00e1s frecuentes asociados con la administraci\u00f3n de EFV se encuentran:\n\n1. Insomnio: Dificultades para conciliar o mantener el sue\u00f1o.\n2. Dificultad de concentraci\u00f3n: Problemas para enfocarte o mantener la atenci\u00f3n.\n3. Mareos o inestabilidad: Sensaciones de v\u00e9rtigo o dificultades para mantener el equilibrio.\n4. Sue\u00f1os vividos: Experiencias on\u00edricas intensas o v\u00edvidas que pueden ser perturbadoras.\n5. Alteraciones del estado de \u00e1nimo y ansiedad: Aunque no se mencionan expl\u00edcitamente como los efectos m\u00e1s frecuentes en el contexto proporcionado, es conocido que el EFV puede influir en el estado de \u00e1nimo, contribuyendo potencialmente a sentimientos de ansiedad o depresi\u00f3n en algunos pacientes.\n\nSi experimentas alguno de estos s\u00edntomas y te preocupan, es crucial discutirlos con tu m\u00e9dico. En muchos casos, especialmente si estos efectos son limitantes, el cambio a otro medicamento puede ser una opci\u00f3n viable. Como se menciona en la informaci\u00f3n proporcionada:\n\n- Rilpivirina y Doravirina son opciones adecuadas para reemplazar el EFV, especialmente en casos de efectos adversos del SNC.\n- Raltegravir tambi\u00e9n es considerado una opci\u00f3n adecuada en ciertos contextos.\n\nRecuerda que la adherencia al tratamiento antirretroviral es crucial para el control del VIH. Sin embargo, la calidad de vida y la tolerancia a los medicamentos tambi\u00e9n son fundamentales. Tu m\u00e9dico puede ofrecerte la mejor gu\u00eda personalizada basada en tu situaci\u00f3n espec\u00edfica."
 }

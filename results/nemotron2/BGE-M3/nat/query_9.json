@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 cambios en la dieta o el estilo de vida podr\u00edan ayudarme a mejorar la salud de mi h\u00edgado?\n",
+    "context_info": [
+        {
+            "text": "La alteraci\u00f3n del microbioma intestinal se ha correlacionado con la activaci\u00f3n inmune y el estado inflamatorio en pacientes con VIH. En la actualidad se est\u00e1n desarrollando estudios para modificar el microbioma intestinal mediante el uso de prebi\u00f3ticos y probi\u00f3ticos para intentar reducir la inflamaci\u00f3n cr\u00f3nica y las comorbilidades asociadas18. Por el momento no existen evidencias cient\u00edficas suficientes que justifiquen su uso. ",
+            "source": "ManualClinico, section 19.4.3.",
+            "_distance": 0.8535017967224121
+        },
+        {
+            "text": "109 2.Se debe ayudar al paciente, de forma motivacional, a realizar cambios en su estilo de vida, que incluyan evitar el tabaquismo, realizar una dieta m\u00e1s adecuada a sus necesidades y procurar el ejercicio f\u00edsico necesario. ( II-A).  3.En el manejo de la dislipemia, DM2 e HTA arterial se recomienda utilizar el mismo algoritmo terap\u00e9utico que en poblaci\u00f3n no VIH, teniendo en cuenta las interacciones conel TAR (II-A).  4.La HbA1c debe solicitarse antes del inicio del TAR. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8928853273391724
+        },
+        {
+            "text": "FIGURA 1 : Prevenci\u00f3n del RCV en PVIH (Adaptado seg\u00fan las ACC/AHA Guidelines 2019 y European AIDS Guidelines 2020) Estilo de vida saludable: Al igual que en la poblaci\u00f3n general, llevar un estilo de vida saludable es esencial en la prevenci\u00f3n primaria y secundaria de la ECV. La dieta mediterr\u00e1nea y un estilo de vida activo son fundamentales para prevenir y tratar la obesidad, HTA y DM2. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8984233736991882
+        },
+        {
+            "text": " Comorbilidades renales El envejecimiento y la presencia de comorbilidades en las PVIH pueden deteriorar la funci\u00f3n renal. Adem\u00e1s, el TDF se asocia con riesgo de desarrollo de tubulopat\u00edas y deterioro de la funci\u00f3n renal. La funci\u00f3n renal debe evaluarse peri\u00f3dicamente en PVIH, determinando el CKD-EPI y un examen b\u00e1sico de orina cada 6 a 12 meses. Debe actuarse sobre los factores de riesgo renal, controlando especialmente la HTA, la obesidad, la DM2 y el tabaquismo. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9206812977790833
+        },
+        {
+            "text": " Cribado de comorbilidades Comorbilidad Cribado Decisiones Hep\u00e1tica Cirrosis por VHC tras RVS12 Hepatocarcinoma Ecograf\u00eda cada 6 meses Potencialmente evitable si RH <14 kPa en RVS12 Varices esof\u00e1gicas Varices esof\u00e1gicas EDA cada 2-3 a\u00f1os hasta emergencia de varices con riesgo de sangrado e inicio de profilaxisNo cribar si RH <30 kPa y plaquetas >110.000 en RVS12 Infecci\u00f3n por el VHB Hepatocarcinoma PAGE-B >10: ecograf\u00eda semestral EHGMA No indicado Prevenci\u00f3n: tratar obesidad, DM2, DLP Respiratorias C\u00e1ncer No indicado Prevenci\u00f3n: tratar tabaquismo Renales Deterioro de funci\u00f3n renalCKD-EPI y b\u00e1sico de orina cada 6 meses \u00d3seas Osteoporosis Hombres >50 a\u00f1os y mujeres postmenop\u00e1usicas: FRAX anual SNC Deterioro cognitivo No indicado Prevenci\u00f3n: reducci\u00f3n de RCV RECOMENDACIONES 1 En pacientes con infecci\u00f3n por el VIH se deben tener en cuenta en cada visita cl\u00ednica tanto de AH como de A P, las diferentes formas de comorbilidad hep\u00e1tica, renal, \u00f3sea, pulmonar o del SNC, descartando su existencia, realizando los cribados preventivos y modificando si es necesario, los h\u00e1bitos de vida, el TAR y tratando espec\u00edficamente la entidad. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9438991546630859
+        }
+    ],
+    "answer": "No response content"
+}

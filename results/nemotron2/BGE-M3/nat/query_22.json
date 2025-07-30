@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfExisten signos o s\u00edntomas que deber\u00edan hacerme preocupar por problemas cardiovasculares durante mi tratamiento antirretroviral?\n",
+    "context_info": [
+        {
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.7166132926940918
+        },
+        {
+            "text": " Riesgo cardiovascular Algunos antirretrovirales (IP e ITIAN) elevan los niveles de colesterol total (CT), de lipoprote\u00ednas de baja densidad (c-LDL) y, sobre todo, de triglic\u00e9ridos, adem\u00e1s de disminuir los niveles de lipoprote\u00ednas de alta densidad (c-HDL). Esto se suma a otros factores de riesgo cl\u00e1sicos, m\u00e1s frecuentes en los seropositivos (tabaquismo, diabetes, hipertensi\u00f3n). ",
+            "source": "manejo_paciente_vih_en_ap, section 18.0.",
+            "_distance": 0.733563244342804
+        },
+        {
+            "text": "Algunos estudios de cohortes retrospectivos han asociado el uso de abacavir o algunos IPs (LPV/r o DRV/r) a un aumento de eventos cardiovasculares, por lo que es recomendable utilizarlos con precauci\u00f3n en pacientes con alto riesgo cardiovascular (RCV). ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.744421124458313
+        },
+        {
+            "text": "A pesar del posible impacto en la ECV de algunos f\u00e1rmacos antirretrovirales, dentro de los diferentes factores de riesgo, los asociados al tratamiento antirretroviral (TAR) parecen tener un impacto mucho menor que los debidos a la infecci\u00f3n por VIH no controlada o a los factores de riesgo cardiovascular cl\u00e1sicos. ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.7511560320854187
+        },
+        {
+            "text": " Dislipemia La infecci\u00f3n por VIH sin tratamiento antiretroviral tiene un efecto sobre el nivel de los l\u00edpidos: baja los niveles de colesterol total y colesterol HDL y LDL y sube los niveles de triglic\u00e9ridos. El propio virus y determinados f\u00e1rmacos antiretrovirales est\u00e1n asociados a un aumento del riesgo cardiovascular independientemente de sus efectos sobre los l\u00edpidos. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.7740871906280518
+        }
+    ],
+    "answer": "No response content"
+}

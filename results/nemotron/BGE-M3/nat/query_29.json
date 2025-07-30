@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl uso de cabotegravir y rilpivirina inyectable tiene menos probabilidades de causar efectos secundarios en el sistema nervioso que los tratamientos orales?\n",
+    "context_info": [
+        {
+            "text": " Tratamientos de liberaci\u00f3n prolongada Se est\u00e1n investigando muchos f\u00e1rmacos de acci\u00f3n prolongada (long acting , LA) para su administraci\u00f3n espaciada a cada 1, 2 o 3 meses. Se pueden administrar por v\u00eda oral, parenteral (IM o SC), como implantes subcut\u00e1neos o como anillos vaginales. El tratamiento doble con cabotegravir-LA y rilpivirina-LA v\u00eda intramuscular ser\u00e1 el de m\u00e1s pr\u00f3xima comercializaci\u00f3n. ",
+            "source": "ManualClinico, section 9.8.2.",
+            "_distance": 0.7921134829521179
+        },
+        {
+            "text": "Los ARV con un perfil m\u00e1s favorable de interacciones son los INI dolutegravir, bictegravir, y, especialmente, raltegravir, los ITIAN y entre los ITINN rilpivirina y doravirina. Estos ARV nos pueden ser \u00fatiles en pacientes polimedicados para evitar riesgos. Sin embargo, es importante tener en cuenta las interacciones de los INI con los anti\u00e1cidos (tambi\u00e9n p. ej complejos multivitam\u00ednicos). ",
+            "source": "ManualClinico, section 8.3.7.",
+            "_distance": 0.8363120555877686
+        },
+        {
+            "text": " Cambio a reg\u00edmenes de dos f\u00e1rmacos: en pacientes con una pauta con 2 ITIAN e IPp que quieran simplificar el TAR y/o evitar los efectos adversos causados por los ITIAN, el cambio a IPp + lamivudina, a dolutegravir + lamivudina, o a dolutegravir + rilpivirina son opciones adecuadas. Los cambios desde 2 ITIAN + ITINAN o INI, a dolutegravir + lamivudina o a dolutegravir + rilpivirina tambi\u00e9n resultan apropiados. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8414459824562073
+        },
+        {
+            "text": "Entre sus efectos secundarios est\u00e1n la inflamaci\u00f3n local (60-70%) con dolor y tumoraci\u00f3n con enfuvirtida, porque se administra por v\u00eda subcut\u00e1nea e infecciones respiratorias y riesgo de cardiopat\u00eda isqu\u00e9mica con MVC.  Inhibidores de la integrasa (InInt) Son raltegravir (RAL) y elvitegravir, este \u00faltimo no comercializado a\u00fan. Act\u00faan bloqueando la integrasa, enzima necesaria para unir los extremos reactivos del ADN viral al ADN celular. ",
+            "source": "manejo_paciente_vih_en_ap, section 16.0.",
+            "_distance": 0.8541629910469055
+        },
+        {
+            "text": "El cambio de la pauta a la asociaci\u00f3n de rilpivirina, FTC y TDF, a la de rilpivirina, FTC y T AF, a la de doravirina, FTC y TDF, a pauta basada en raltegravir o en dolutegravir, o el cambio a la coformulaci\u00f3n de bictegravir, FTC y TAF es adecuado. En pacientes con dislipemia asociada a efavirenz la suspensi\u00f3n de este f\u00e1rmaco es una opci\u00f3n terap\u00e9utica; el cambio a raltegravir es adecuado. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.858200192451477
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, no se proporciona informaci\u00f3n espec\u00edfica sobre la comparaci\u00f3n directa de los efectos secundarios del sistema nervioso entre el tratamiento inyectable de cabotegravir y rilpivirina versus los tratamientos orales.\n\nSin embargo, puedo ofrecerte algunos puntos generales basados en el conocimiento proporcionado:\n\n1. Cabotegravir y Rilpivirina Inyectable: Estos f\u00e1rmacos est\u00e1n clasificados como tratamientos de acci\u00f3n prolongada (LA) para administraci\u00f3n espaciada. Aunque se mencionan sus caracter\u00edsticas y la v\u00eda de administraci\u00f3n, no se especifican los efectos secundarios relacionados con el sistema nervioso en el contexto proporcionado.\n\n2. Efectos Secundarios del Sistema Nervioso en Tratamientos Orales: Algunos tratamientos orales contra el VIH pueden asociarse con efectos secundarios que afectan el sistema nervioso, pero esta informaci\u00f3n no se detalla espec\u00edficamente para los tratamientos mencionados (cabotegravir, rilpivirina, o sus combinaciones) en el contexto de la comparaci\u00f3n.\n\nConclusi\u00f3n: Para determinar si el uso de cabotegravir y rilpivirina inyectable tiene menos probabilidades de causar efectos secundarios en el sistema nervioso que los tratamientos orales, Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico. Un profesional de la salud podr\u00e1 ofrecerte una evaluaci\u00f3n detallada y personalizada considerando tu historial m\u00e9dico y las \u00faltimas investigaciones sobre estos medicamentos."
+}

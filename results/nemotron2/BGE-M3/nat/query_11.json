@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfDeber\u00eda realizarme pruebas hep\u00e1ticas regularmente si estoy en tratamiento antirretroviral?\n",
+    "context_info": [
+        {
+            "text": "Se recomienda realizar una evaluaci\u00f3n renal en el momento del diagn\u00f3stico de la infecci\u00f3n VIH y al iniciar o modificar el TAR, y llevar a cabo posteriormente una monitorizaci\u00f3n peri\u00f3dica, al menos una vez al a\u00f1o en los pacientes con bajo riesgo de ERC y con mayor frecuencia en los que tienen un riesgo m\u00e1s elevado o reciben f\u00e1rmacos potencialmente nefrot\u00f3xicos. ",
+            "source": "ManualClinico, section 22.3.",
+            "_distance": 0.6949005126953125
+        },
+        {
+            "text": "Estas determinaciones se realizar\u00e1n en el seguimiento de manera anual o con mayor frecuencia en caso de que exista alteraci\u00f3n basal. El uso de algunos f\u00e1rmacos (p.ej. TDF) obliga a hacer controles de funci\u00f3n glomerular y tubular (b\u00e1sicamente sistem\u00e1tico de orina y fosfato en sangre) semestrales. Para mayor informaci\u00f3n se remite al lector al documento de GeSIDA sobre el control y la monitorizaci\u00f3n de la infecci\u00f3n por el VIH y al dedicado espec\u00edficamente a los trastornos renales en estos pacientes. ",
+            "source": "ManualClinico, section 7.5.",
+            "_distance": 0.7424759864807129
+        },
+        {
+            "text": " Tratamiento de VHB El tratamiento antirretroviral, que incluye f\u00e1rmacos activos frente a la infecci\u00f3n por VHB, se asocia con menor evoluci\u00f3n a cirrosis, descompensaci\u00f3n o desarrollo de hepatocarcinoma. Incluso en pacientes con cirrosis descompensada se asocia con mejor\u00eda en supervivencia, reversi\u00f3n de la descompensaci\u00f3n y salida de la lista de espera de trasplante. ",
+            "source": "ManualClinico, section 27.3.4.",
+            "_distance": 0.7485944032669067
+        },
+        {
+            "text": "Repetir tras exposici\u00f3n confirmada a un paciente con tuberculosis activa bacil\u00edferay cada 2-3 a\u00f1os en todos los pacientes con una primera prueba negativa Radiograf\u00eda de t\u00f3rax 13\u221a Seg\u00fan indicaci\u00f3n cl\u00ednica Ecograf\u00eda hep\u00e1tica11\u221a Cada 6 meses si cirrosis hep\u00e1tica Elastograf\u00eda hep\u00e1tica11\u221a Al menos anual, si indicaci\u00f3n cl\u00ednica Es\u00f3fago-gastroscopia11\u221a Cada 2-3 a\u00f1os si no hay varices y cada 1-2 a\u00f1os en caso de varices grado I Citolog\u00eda cervical uterina 14\u221a Si normal, repetir anualmente Citolog\u00eda anal15Optativo Seg\u00fan indicaci\u00f3n cl\u00ednica Electrocardiograma16\u221a - Densitometr\u00eda \u00f3sea17Optativo Seg\u00fan indicaci\u00f3n cl\u00ednica FRAX (https://www.sheffield.ac.uk/FRAX/ tool.aspx?country=4 )18Optativo Seg\u00fan indicaci\u00f3n cl\u00ednica Cribado de ITS19\u221a Seg\u00fan indicaci\u00f3n cl\u00ednica Nota: estas recomendaciones deben considerarse orientativas y pueden ser modificadas de acuerdo con el juicio cl\u00ednico de los profesionales responsables de la atenci\u00f3n al paciente. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7678940296173096
+        },
+        {
+            "text": "Cuando adem\u00e1s hay deterioro inmunol\u00f3gico, es obligado descartar infecciones oportunistas. Si no se dan estas situaciones, se puede investigar en AP con la anamnesis y la exploraci\u00f3n f\u00edsica, y las pruebas complementarias disponibles (anal\u00edtica, estudio serol\u00f3gico, cultivos y radiograf\u00eda de t\u00f3rax). Hay que estar atento para derivar al hospital si empeora la situaci\u00f3n cl\u00ednica.  La diarrea es muy habitual en los pacientes VIH, y entre las causas frecuentes est\u00e1n los propios f\u00e1rmacos antirretrovirales. ",
+            "source": "manejo_paciente_vih_en_ap, section 22.0.",
+            "_distance": 0.7785935997962952
+        }
+    ],
+    "answer": "No response content"
+}

@@ -1,0 +1,31 @@
+{
+    "query": "Si tengo grasa en el h\u00edgado, \u00bfqu\u00e9 puedo hacer para reducir mi riesgo de infarto o enfermedad arterial mientras sigo mi terapia antirretroviral?\n",
+    "context_info": [
+        {
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.7358394265174866
+        },
+        {
+            "text": "Se recomienda realizar una historia cl\u00ednica detallada que recoja los antecedentes familiares de diabetes, HTA y enfermedad cardiovascular prematura. Debe registrarse el peso, la talla y la presi\u00f3n arterial de todos los pacientes y las caracter\u00edsticas principales de su estilo de vida (tabaquismo, consumo de alcohol u otros t\u00f3xicos). Si el paciente no es naive se tendr\u00e1n en cuenta los f\u00e1rmacos antirretrovirales que ha tomado previamente y la existencia de lipodistrofia. ",
+            "source": "ManualClinico, section 7.5.",
+            "_distance": 0.7519894242286682
+        },
+        {
+            "text": "Diversos estudios han comparado la disminuci\u00f3n del riesgo cardiovascular asociada a diferentes intervenciones en pacientes con infecci\u00f3n por VIH. El abandono del tabaquismo o controlar adecuadamente las cifras de tensi\u00f3n arterial o colesterol tendr\u00edan el mayor impacto, muy por delante de otras intervenciones como el diagn\u00f3stico y tratamiento precoz de la infecci\u00f3n por VIH o evitar TAR relacionados con un aumento del RCV. ",
+            "source": "ManualClinico, section 20.2.7.",
+            "_distance": 0.7591855525970459
+        },
+        {
+            "text": " Dislipemia La infecci\u00f3n por VIH sin tratamiento antiretroviral tiene un efecto sobre el nivel de los l\u00edpidos: baja los niveles de colesterol total y colesterol HDL y LDL y sube los niveles de triglic\u00e9ridos. El propio virus y determinados f\u00e1rmacos antiretrovirales est\u00e1n asociados a un aumento del riesgo cardiovascular independientemente de sus efectos sobre los l\u00edpidos. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.7664554119110107
+        },
+        {
+            "text": " Riesgo cardiovascular Algunos antirretrovirales (IP e ITIAN) elevan los niveles de colesterol total (CT), de lipoprote\u00ednas de baja densidad (c-LDL) y, sobre todo, de triglic\u00e9ridos, adem\u00e1s de disminuir los niveles de lipoprote\u00ednas de alta densidad (c-HDL). Esto se suma a otros factores de riesgo cl\u00e1sicos, m\u00e1s frecuentes en los seropositivos (tabaquismo, diabetes, hipertensi\u00f3n). ",
+            "source": "manejo_paciente_vih_en_ap, section 18.0.",
+            "_distance": 0.7760061025619507
+        }
+    ],
+    "answer": "No response content"
+}

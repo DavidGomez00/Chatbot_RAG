@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfHay alguno de los tratamiento para pacientes que no han tomado nada que sea m\u00e1s efectivo o son iguales?\n",
+    "context_info": [
+        {
+            "text": " Carga Viral indetectable en pacientes infectados pero sin tratamiento Algunos pacientes infectados (5-7%), pueden mantener la replicaci\u00f3n del virus controlada por per\u00edodos prolongados de tiempo en ausencia de tratamiento antirretroviral. Estos pacientes se encuentran asintom\u00e1ticos y con cifras de CD4 estables (> 400-500 c\u00e9lulas/\u03bcl). Son los llamados No Progresores a largo plazo (LTNP) y Controladores de \u00e9lite (EC). ",
+            "source": "ManualClinico, section 6.5.5.",
+            "_distance": 0.9420040249824524
+        },
+        {
+            "text": "Los valores de plaquetas >30.000/mm3 no suelen precisar otros tratamientos. Los pacientes con trombocitopenia <30.000/mm3, si presentan alg\u00fan tipo de sangrado o precisen alg\u00fan tipo de exploraci\u00f3n invasiva pueden precisar otros tratamientos. El tratamiento con corticoides durante un periodo corto incrementa el n\u00famero de plaquetas de manera similar a los pacientes seronegativos, y con escasos efectos secundarios. ",
+            "source": "ManualClinico, section 24.1.2.",
+            "_distance": 0.9424697756767273
+        },
+        {
+            "text": "Paclitaxel se ha utilizado como terapia de rescate o alternativa (similar eficacia pero mayor toxicidad) en pacientes con progresi\u00f3n o falta de respuesta a doxorrubicina, con tasas de respuesta parcial o/y completa del 56-71%, tasas muy influidas por la situaci\u00f3n basal de los pacientes, el grado de inmunodepresi\u00f3n y el estadio de la enfermedad. ",
+            "source": "ManualClinico, section 13.5.",
+            "_distance": 0.9468199610710144
+        },
+        {
+            "text": "El tratamiento que mayor efectividad ha demostrado es la psicoterapia, espec\u00edficamente la terapia cognitivo-conductual2. En el caso de utilizar tratamiento farmacol\u00f3gico, la recomendaci\u00f3n principal es la utilizaci\u00f3n de f\u00e1rmacos ansiol\u00edticos o antidepresivos, siempre de acuerdo a la presencia e intensidad de los s\u00edntomas de ansiedad o depresi\u00f3n. En el caso de tratamiento ansiol\u00edtico, la elecci\u00f3n m\u00e1s recomendada suele ser benzodiacepinas de acci\u00f3n r\u00e1pida, y la duraci\u00f3n no deber\u00eda ser superior a 2 meses. ",
+            "source": "ManualClinico, section 25.2.1.",
+            "_distance": 0.9552103281021118
+        },
+        {
+            "text": "El tratamiento farmacol\u00f3gico es eficaz fundamentalmente en el trastorno moderado-grave.  Las intervenciones breves reiteradas han demostrado efectividad. Idealmente la intervenci\u00f3n deber\u00eda ofrecerse en el mismo entorno del tratamiento.  La naltrexona de liberaci\u00f3n sostenida constituye una opci\u00f3n bien tolerada y efectiva para disminuir el consumo, aunque con adherencia y retenci\u00f3n variables. Nalmefeno presenta menor riesgo de hepatotoxicidad. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.957529604434967
+        }
+    ],
+    "answer": "No response content"
+}

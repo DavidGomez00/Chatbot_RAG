@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfExisten vacunas para prevenir el VIH como las hay para otras enfermedades?\n",
+    "query": "\u00bfEl medicamento antirretroviral que tomo, como abacavir o lopinavir/ritonavir, darunavir/rito o cob puede aumentar mi riesgo de enfermedad cardiovascular?\n",
     "context_info": [
         {
-            "text": " Vacunas preventivas frente al VIH Todas las medidas comentadas en este cap\u00edtulo para prevenir la infecci\u00f3n por VIH son m\u00e1s eficaces si se utilizan de forma complementaria. Existen datos de modelos matem\u00e1ticos que sugieren que la existencia de una vacuna preventiva eficaz, junto a las medidas ya existentes, puede acelerar el objetivo final de controlar la epidemia de VIH en el mundo. Desde el inicio de la epidemia se han realizado 4 ensayos cl\u00ednicos fases IIb/III. ",
-            "source": "ManualClinico, section 11.5.",
-            "_distance": 0.631822943687439
+            "text": "Algunos estudios de cohortes retrospectivos han asociado el uso de abacavir o algunos IPs (LPV/r o DRV/r) a un aumento de eventos cardiovasculares, por lo que es recomendable utilizarlos con precauci\u00f3n en pacientes con alto riesgo cardiovascular (RCV). ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.5415645837783813
         },
         {
-            "text": "Esta herramienta preventiva consiste en tomar medicaci\u00f3n antirretroviral antes y despu\u00e9s del sexo para que las personas sin el VIH puedan prevenir la infecci\u00f3n. Si se usa de forma correcta, es decir, tal como ha sido pautada por el m\u00e9dico, puede reducir el riesgo de infecci\u00f3n hasta en m\u00e1s de un 99%.  Adem\u00e1s, los preservativos, empleados de forma correcta, son una opci\u00f3n preventiva muy efectiva frente al VIH. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.6716762781143188
+            "text": " Riesgo cardiovascular Algunos antirretrovirales (IP e ITIAN) elevan los niveles de colesterol total (CT), de lipoprote\u00ednas de baja densidad (c-LDL) y, sobre todo, de triglic\u00e9ridos, adem\u00e1s de disminuir los niveles de lipoprote\u00ednas de alta densidad (c-HDL). Esto se suma a otros factores de riesgo cl\u00e1sicos, m\u00e1s frecuentes en los seropositivos (tabaquismo, diabetes, hipertensi\u00f3n). ",
+            "source": "manejo_paciente_vih_en_ap, section 18.0.",
+            "_distance": 0.6158928871154785
         },
         {
-            "text": " PREVENCI\u00d3N SEXUAL COMBINADA DEL VIH Las medidas preventivas puestas en marcha durante d\u00e9cadas no han tenido el efecto esperado en el control de la infecci\u00f3n por el VIH a escala mundial. Por este motivo, los expertos consideran que se necesitan nuevas herramientas para prevenir la transmisi\u00f3n del VIH, especialmente, dirigidas a los grupos de poblaci\u00f3n que registran una mayor incidencia.  En la actualidad, no existe ninguna estrategia preventiva que tenga la capacidad por s\u00ed sola de poner fin a la epidemia. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 7.0.",
-            "_distance": 0.681251585483551
+            "text": "Los f\u00e1rmacos antiretrovirales que pueden causar elevaciones en los l\u00edpidos son los inhibidores de la proteasa, en especial si el potenciador utilizado es ritonavir, y el uso de efavirenz. El uso de tenofovir disoproxil fumarato tiene un efecto reductor sobre los niveles de colesterol total que se pierde cuando se usa la nueva formulaci\u00f3n de tenofovir alafenamida. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.6913667917251587
         },
         {
-            "text": "Actualmente disponemos de dosis limitadas de una vacuna recombinante con glicoproteina E del VVZ como componente antig\u00e9nico con adjuvante AS01B (HZ/su) para la prevenci\u00f3n del HZ y de la neuralgia post herp\u00e9tica, destinadas a administrarse a pacientes con algunas enfermedades o tratamientos inmunodepresores y entre ellas a pacientes mayores de 18 a\u00f1os con infecci\u00f3n por VIH independientemente del recuento de CD4+. ",
-            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
-            "_distance": 0.6969416737556458
+            "text": " Dislipemia La infecci\u00f3n por VIH sin tratamiento antiretroviral tiene un efecto sobre el nivel de los l\u00edpidos: baja los niveles de colesterol total y colesterol HDL y LDL y sube los niveles de triglic\u00e9ridos. El propio virus y determinados f\u00e1rmacos antiretrovirales est\u00e1n asociados a un aumento del riesgo cardiovascular independientemente de sus efectos sobre los l\u00edpidos. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.7101547718048096
         },
         {
-            "text": "Hay comercializadas 3 vacunas (con 2, 4 y 9 genotipos), y la 9-valente est\u00e1 financiada, en varones y mujeres con VIH hasta los 26 a\u00f1os. La inmunogenicidad de la vacuna en pacientes con infecci\u00f3n VIH, que reciben TAR, es comparable a la obtenida en la poblaci\u00f3n seronegativa, y est\u00e1 condicionada a la recuperaci\u00f3n del recuento de CD4 y a mantener la viremia del VIH indetectable. Herpes Z\u00f3ster (HZ): la reactivaci\u00f3n de virus Varicela- Z\u00f3ster (VVZ) es 15 veces mayor en pacientes VIH+. ",
-            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
-            "_distance": 0.7091796398162842
+            "text": "A pesar del posible impacto en la ECV de algunos f\u00e1rmacos antirretrovirales, dentro de los diferentes factores de riesgo, los asociados al tratamiento antirretroviral (TAR) parecen tener un impacto mucho menor que los debidos a la infecci\u00f3n por VIH no controlada o a los factores de riesgo cardiovascular cl\u00e1sicos. ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.7328301072120667
         }
     ],
-    "answer": "Seg\u00fan mi conocimiento especializado en VIH, actualmente no existen vacunas preventivas aprobadas y disponibles para el p\u00fablico en general espec\u00edficamente dise\u00f1adas para prevenir la infecci\u00f3n por VIH.\n\nSin embargo, es importante destacar algunos puntos relacionados con este tema:\n\n1. Investigaci\u00f3n y ensayos cl\u00ednicos: Desde el inicio de la epidemia, se han llevado a cabo 4 ensayos cl\u00ednicos de fases IIb/III en busca de una vacuna eficaz contra el VIH. Esto indica que la comunidad cient\u00edfica ha estado trabajando activamente en el desarrollo de una vacuna preventiva.\n2. Modelos matem\u00e1ticos y control de la epidemia: Los datos de modelos matem\u00e1ticos sugieren que tener una vacuna preventiva eficaz, combinada con las medidas preventivas ya existentes, podr\u00eda acelerar el control de la epidemia de VIH a nivel mundial.\n3. Vacunas para otras condiciones en personas con VIH: Existen vacunas disponibles y recomendadas para personas con VIH para prevenir otras enfermedades, como:\n   - Herpes Z\u00f3ster (HZ): Vacuna recombinante con glicoprote\u00edna E del VVZ, espec\u00edficamente para pacientes con infecci\u00f3n por VIH (mayores de 18 a\u00f1os, independientemente del recuento de CD4+).\n   - Virus del Papiloma Humano (VPH): Se comercializan varias vacunas (de 2, 4 y 9 genotipos), incluida la 9-valente financiada para varones y mujeres con VIH hasta los 26 a\u00f1os.\n\nPara cualquier consulta sobre la prevenci\u00f3n del VIH o el tratamiento de infecciones relacionadas, te recomiendo consultar a un m\u00e9dico especialista para obtener asesoramiento personalizado y actualizado."
+    "answer": "S\u00ed, seg\u00fan algunos estudios de cohortes retrospectivos, existe una asociaci\u00f3n entre el uso de ciertos medicamentos antirretrovirales y un aumento en el riesgo de eventos cardiovasculares. En espec\u00edfico:\n\n1. Abacavir: Se ha relacionado con un mayor riesgo de eventos cardiovasculares.\n2. Inhibidores de Proteasa (IP) potenciados:\n   - Lopinavir/Ritonavir (LPV/r): La combinaci\u00f3n de lopinavir con ritonavir como potenciador puede aumentar el riesgo cardiovascular debido a sus efectos sobre los niveles de l\u00edpidos en sangre.\n   - Darunavir/Ritonavir (DRV/r): Similarmente, la combinaci\u00f3n de darunavir con ritonavir tambi\u00e9n puede tener este efecto.\n\nRecomendaci\u00f3n: Debido a estas asociaciones, se recomienda utilizar estos medicamentos con precauci\u00f3n en pacientes que ya tienen un alto riesgo cardiovascular (RCV). Sin embargo, es crucial recordar que el impacto de estos f\u00e1rmacos en el riesgo cardiovascular es menor comparado con los efectos de una infecci\u00f3n por VIH no controlada o con otros factores de riesgo cardiovascular cl\u00e1sicos como tabaquismo, diabetes, e hipertensi\u00f3n.\n\nAcciones recomendadas:\n\n- Consulta con tu m\u00e9dico: Es fundamental discutir contigo sobre los beneficios y riesgos del tratamiento actual, considerando tu perfil de salud completo.\n- Evaluaci\u00f3n y manejo del RCV: Tu m\u00e9dico puede ayudarte a evaluar y, si es necesario, a gestionar otros factores de riesgo cardiovascular para minimizar el impacto global en tu salud cardiovascular.\n- Monitoreo regular: Un seguimiento peri\u00f3dico de tus niveles de l\u00edpidos, presi\u00f3n arterial, y otros indicadores de salud cardiovascular puede ayudar a identificar cualquier cambio temprano."
 }

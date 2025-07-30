@@ -18,6 +18,7 @@ embedding_model_dict = {
     "jina": "jina/jina-embeddings-v2-base-es",
 }
 
+## ici on va créer les embeddings vectors
 class RemoteOllamaEmbeddingFunction(TextEmbeddingFunction):
     server_ip: str = None
     model_name: str = None
@@ -87,7 +88,7 @@ class RemoteOllamaEmbeddings(RemoteOllamaEmbeddingFunction):
 def create_collection(models: list, strategies: list):
     '''Create a database with tables for each configuration of the model.'''
 
-    db = lancedb.connect(os.getenv("LANCE_DB_PATH"))
+    db = lancedb.connect(os.getenv("LANCE_DB_PATH")) # à remplacer par qdrant
     registry = EmbeddingFunctionRegistry.get_instance()
 
     for model in models:
@@ -101,16 +102,25 @@ def create_collection(models: list, strategies: list):
             document_id: str
 
         for strategy in strategies:
+            table_name = f"chunks_{model}_{strategy}"
             data_path = os.path.join(os.getenv("CHUNK_PATH"), strategy)
+
+            # Supprimer la table si elle existe déjà
+            if db.table_names() and table_name in db.table_names():
+                db.drop_table(table_name)
+                
+            # Créer la table
             table = db.create_table(
                 name=f"chunks_{model}_{strategy}",
                 schema=Chunk
             )
+
+            
             for file in os.listdir(data_path):
                 with open(os.path.join(data_path, file), 'r') as f:
                     data = json.load(f)
                 table.add(data)
 
 if __name__ == "__main__":
-    os.chdir("/home/david/GitHub/gesida-rag-huil/")
+    os.chdir("/home/maxime/gesida-rag-huil/")
     create_collection(["jina"], ["nat", "nat_sem"])

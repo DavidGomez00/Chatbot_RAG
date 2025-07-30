@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento es por boca o pinchado?\n",
+    "context_info": [
+        {
+            "text": "Pinchazo o erosi\u00f3n superficial con agujas u otros objetos punzantes o cortantes abandonadas que no hanestado en contacto reciente con sangre.Besos. Reanimaci\u00f3n boca a boca sinlesiones cut\u00e1neomucosas. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 0.7780434489250183
+        },
+        {
+            "text": "En ocasiones son la primera manifestaci\u00f3n cl\u00ednica de estas infecciones sist\u00e9micas, como zonas induradas o \u00falceras con bordes elevados que nos obliga a realizar el diagnostico diferencial del c\u00e1ncer oral, o ITS. El diagn\u00f3stico precisa biopsia y estudio mediante PCR y cultivo. Respecto a los tratamientos, se recomienda consultar la Gu\u00eda cl\u00ednica de GeSIDA sobre infecciones oportunistas Documento de prevenci\u00f3n y tratamiento de infecciones oportunistas y otras coinfecciones en pacientes con infecci\u00f3n por VIH. ",
+            "source": "ManualClinico, section 16.2.2.",
+            "_distance": 0.9216633439064026
+        },
+        {
+            "text": "Inicialmente se describieron casos con afectaci\u00f3n de la cavidad oral, pero posteriormente se ha descrito su aparici\u00f3n en otras localizaciones. El pron\u00f3stico, es muy malo, con una mediana de supervivencia menor de un a\u00f1o. Los reg\u00edmenes de quimioterapia intensiva no han demostrado mejores resultados que el CHOP o EPOCH, por lo que actualmente no existe un tratamiento est\u00e1ndar para el LPB. ",
+            "source": "ManualClinico, section 14.2.3.",
+            "_distance": 0.9265692830085754
+        },
+        {
+            "text": "Caracter\u00edsticamente tienen morfolog\u00eda dendr\u00edtica, y pueden ulcerarse. Se recomienda el tratamiento con pomada de aciclovir 5 veces al d\u00eda durante 7-10 d\u00edas. ",
+            "source": "ManualClinico, section 18.2.1.",
+            "_distance": 0.9334604740142822
+        },
+        {
+            "text": "genitalium se hace por TAAN en el exudado uretral o la orina en el hombre, y en el frotis endocervical o vaginal en mujeres. c.Tratamiento En cuanto al tratamiento, el mayor consenso es hacerlo solo en el caso de uretritis o cervicitis (y EIP). ",
+            "source": "ManualClinico, section 28.4.2.",
+            "_distance": 0.9404718279838562
+        }
+    ],
+    "answer": "Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\n\nLa raz\u00f3n para esta respuesta es que la consulta realizada no proporciona suficiente contexto sobre el tipo de infecci\u00f3n, condici\u00f3n o enfermedad relacionada con el VIH para la que se busca el tratamiento. El conocimiento proporcionado inicialmente se refiere a varios aspectos del VIH y condiciones relacionadas, pero no especifica los m\u00e9todos de administraci\u00f3n de tratamientos para cada una de ellas.\n\nSi pudieras proporcionar m\u00e1s detalles sobre el tratamiento al que te refieres (por ejemplo, si es para una infecci\u00f3n oportunista espec\u00edfica, el VIH en s\u00ed, o alguna otra condici\u00f3n mencionada en el conocimiento inicial), estar\u00e9 encantado de intentar ofrecerte una respuesta m\u00e1s precisa dentro del \u00e1mbito de mi conocimiento."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 se analiza en un test de resistencias y c\u00f3mo se hace?\n",
+    "context_info": [
+        {
+            "text": "Existen test genot\u00edpicos y fenot\u00edpicos para determinar la presencia de resistencias a antirretrovirales. Para interpretar estas pruebas es necesario conocer la historia farmacol\u00f3gica y los fracasos virales y test de resistencias previos. Los algoritmos de interpretaci\u00f3n de las resistencias genot\u00edpicas son muy \u00fatiles para su interpretaci\u00f3n. ",
+            "source": "ManualClinico, section 8.1.",
+            "_distance": 0.7441822290420532
+        },
+        {
+            "text": "Tras identificar la causa, siendo la falta de cumplimiento la m\u00e1s frecuente, \u00e9sta deber\u00e1 ser corregida y si a pesar de ello no se consigue el control de la replicaci\u00f3n viral, se realizar\u00e1 un estudio de resistencias (el paciente debe estar tomando el TAR de forma regular, al menos durante 4 semanas, para que los resultados del estudio sean valorables). El estudio de resistencias nos permitir\u00e1 conocer los f\u00e1rmacos potencialmente activos para nuestro paciente. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7516522407531738
+        },
+        {
+            "text": "A pesar de que cada vez se cuestiona m\u00e1s la utilidad de los test de resistencias basales en los nuevos diagn\u00f3sticos con infecci\u00f3n cr\u00f3nica, o con fecha desconocida de la infecci\u00f3n, todas las gu\u00edas de pr\u00e1ctica cl\u00ednica recomiendan realizar un ensayo para la determinaci\u00f3n de resistencias basales en la infecci\u00f3n aguda. ",
+            "source": "ManualClinico, section 4.6.",
+            "_distance": 0.8053855895996094
+        },
+        {
+            "text": "Si la carga viral es mayor de 200 copias entonces suele ser factible realizar una prueba genot\u00edpica de resistencias. Esta prueba debe hacerse mientras que el paciente a\u00fan recibe el TAR que est\u00e1 fracasando o como m\u00e1ximo cuatro semanas despu\u00e9s de haberlo discontinuado. Si esta prueba genot\u00edpica de resistencias no encuentra mutaciones es probable que la causa del fracaso sea la mala adherencia al TAR. Si existen resistencias entonces resulta obligado el cambio a un nuevo TAR sin resistencias cruzadas. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.8382155299186707
+        },
+        {
+            "text": " PRUEBA DE ANTICUERPOS ELISA Los anticuerpos son parte de la respuesta del sistema inmunitario cuando entra en contacto con un agente infeccioso. Las pruebas de anticuerpos buscan la presencia de esta respuesta inmunitaria en una muestra de sangre que se analiza en un laboratorio. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 13.0.",
+            "_distance": 0.8620527982711792
+        }
+    ],
+    "answer": "\u00bfQu\u00e9 se analiza en un test de resistencias?\n\nEn un test de resistencias para el VIH, se analiza la presencia de mutaciones gen\u00e9ticas en el virus que pueden hacer que \u00e9ste sea resistente a ciertos antirretrovirales (medicamentos utilizados para tratar el VIH). Estas mutaciones pueden surgir como resultado de una replicaci\u00f3n viral incontrolada, frecuentemente debido a una mala adherencia al tratamiento antirretroviral (TAR) o por transmisi\u00f3n de un virus ya resistente.\n\nTipos de tests de resistencias:\n\n1. Test Genot\u00edpicos: Analizan el material gen\u00e9tico del VIH para identificar mutaciones espec\u00edficas conocidas por conferir resistencia a ciertos antirretrovirales.\n2. Test Fenot\u00edpicos: Eval\u00faan la capacidad del virus para replicarse en presencia de diferentes concentraciones de antirretrovirales, determinando as\u00ed su sensibilidad o resistencia a estos medicamentos.\n\n\u00bfC\u00f3mo se hace un test de resistencias?\n\n1. Muestra de Sangre: Se toma una muestra de sangre del paciente.\n2. Preparaci\u00f3n de la Muestra: La sangre se procesa para extraer el ARN del VIH (en el caso de tests genot\u00edpicos) o para cultivar el virus (en el caso de tests fenot\u00edpicos).\n3. An\u00e1lisis:\n   - Genot\u00edpico: El ARN viral se convierte en ADN, que luego se secuencia para identificar mutaciones.\n   - Fenot\u00edpico: El virus se cultiva en presencia de diferentes concentraciones de antirretrovirales y se mide su capacidad de replicaci\u00f3n.\n4. Interpretaci\u00f3n de Resultados:\n   - Se utilizan algoritmos de interpretaci\u00f3n para los resultados genot\u00edpicos, considerando la historia farmacol\u00f3gica del paciente y posibles resistencias cruzadas entre medicamentos.\n   - Los resultados fenot\u00edpicos muestran directamente la eficacia de diferentes antirretrovirales contra el virus del paciente.\n\nImportante: Para que un test de resistencias sea v\u00e1lido, es crucial que el paciente est\u00e9 tomando regularmente su tratamiento antirretroviral (TAR) durante al menos 4 semanas antes de la prueba, o como m\u00e1ximo 4 semanas despu\u00e9s de haberlo discontinuado. La carga viral debe ser superior a 200 copias para que la prueba genot\u00edpica sea factible."
+}

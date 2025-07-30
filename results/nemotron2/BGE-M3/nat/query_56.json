@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 debo hacer si mi tratamiento ha fracasado?\n",
+    "context_info": [
+        {
+            "text": "El cl\u00ednico debe evaluar los condicionantes del fracaso identificando causas de mala adherencia, buscar posibles errores de dosificaci\u00f3n o interacciones significativas. Hay que intentar pautar un TAR c\u00f3modo, bien tolerado, de escasa toxicidad teniendo en cuenta las comorbilidades del paciente. Es preciso tambi\u00e9n hacer una historia detallada de todos los reg\u00edmenes TAR previos determinando si ha habido cambios por fracasos virol\u00f3gicos o por toxicidad/tolerabilidad. ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 0.7218587398529053
+        },
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.728101909160614
+        },
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7289144396781921
+        },
+        {
+            "text": "\u2022Fracaso cl\u00ednico, progresi\u00f3n de la enfermedad, debe excluirse de \u00e9ste supuesto: los cuadros de reconstituci\u00f3n inmunol\u00f3gica tras iniciar el TAR, procesos secundarios al da\u00f1o sobre \u00f3rganos que condicion\u00f3 previamente el VIH. As\u00ed mismo antes de confirmar que estamos ante un fracaso cl\u00ednico del TAR, deben descartarse otras causas concomitantes tales como infecciones (tuberculosis), neoplasias o la malnutrici\u00f3n. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7816064357757568
+        },
+        {
+            "text": "El objetivo del TAR tras fracaso es mantener el control de la replicaci\u00f3n viral por debajo del l\u00edmite de detecci\u00f3n de la t\u00e9cnica utilizada para su valoraci\u00f3n . El cambio del TAR tras fracaso debe tener en cuenta la historia de f\u00e1rmacos antirretrovirales a los que ha estado expuesto el paciente, los resultados de los estudios de resistencias actuales y los previos, las caracter\u00edsticas del paciente y su capacidad para mantener la adherencia. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7846795320510864
+        }
+    ],
+    "answer": "No response content"
+}

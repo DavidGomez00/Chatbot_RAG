@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfPuede explicarme c\u00f3mo los tests de resistencia me ayudar\u00e1n a encontrar un tratamiento eficaz?\n",
+    "context_info": [
+        {
+            "text": "En estos pacientes el objetivo debe ser conseguir disminuir la carga viral y evitar la transmisi\u00f3n, por lo que poder anticipar el fracaso del tratamiento es fundamental, lo que justifica plenamente la investigaci\u00f3n de resistencias transmitidas mediante la determinaci\u00f3n de una prueba genot\u00edpica de resistencias , que tambi\u00e9n puede determinar el subtipo viral. ",
+            "source": "ManualClinico, section 4.6.",
+            "_distance": 0.728668212890625
+        },
+        {
+            "text": "En el caso de existir fracaso terap\u00e9utico se debe construir un nuevo r\u00e9gimen utilizando f\u00e1rmacos previamente no usados, teniendo en cuenta el estudio de resistencias. Ahora bien, son pocos los laboratorios que tiene desarrollado el test para amplificar el VIH-2 y monitorizar sus mutaciones. No existen t\u00e9cnicas diagn\u00f3sticas de resistencias frente al VIH-2 comercializadas y se hacen en un \u00e1mbito de investigaci\u00f3n. ",
+            "source": "ManualClinico, section 5.6.3.",
+            "_distance": 0.9275695085525513
+        },
+        {
+            "text": "Tras identificar la causa, siendo la falta de cumplimiento la m\u00e1s frecuente, \u00e9sta deber\u00e1 ser corregida y si a pesar de ello no se consigue el control de la replicaci\u00f3n viral, se realizar\u00e1 un estudio de resistencias (el paciente debe estar tomando el TAR de forma regular, al menos durante 4 semanas, para que los resultados del estudio sean valorables). El estudio de resistencias nos permitir\u00e1 conocer los f\u00e1rmacos potencialmente activos para nuestro paciente. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.9426559805870056
+        },
+        {
+            "text": "Existen test genot\u00edpicos y fenot\u00edpicos para determinar la presencia de resistencias a antirretrovirales. Para interpretar estas pruebas es necesario conocer la historia farmacol\u00f3gica y los fracasos virales y test de resistencias previos. Los algoritmos de interpretaci\u00f3n de las resistencias genot\u00edpicas son muy \u00fatiles para su interpretaci\u00f3n. ",
+            "source": "ManualClinico, section 8.1.",
+            "_distance": 0.9502764344215393
+        },
+        {
+            "text": "El diagn\u00f3stico de ambas infecciones suele ser cl\u00ednico; si hay dudas, la PCR de una muestra de las lesiones tomada con torunda ofrece el mejor rendimiento diagn\u00f3stico. El tratamiento se muestra en la Tabla 1. En pacientes con recurrencias muy frecuentes o severas, est\u00e1 indicado el tratamiento supresor. AIDS info. ",
+            "source": "ManualClinico, section 17.5.1.",
+            "_distance": 0.9659624695777893
+        }
+    ],
+    "answer": "Claro, con gusto te explico c\u00f3mo los tests de resistencia pueden ser fundamentales para encontrar un tratamiento eficaz contra el VIH:\n\nObjetivo de los tests de resistencia:\nEl objetivo principal es identificar si el virus del paciente ha desarrollado resistencia a ciertos medicamentos antirretrovirales (ARV). Esto sucede cuando el virus muta en respuesta al tratamiento, haci\u00e9ndolo menos efectivo.\n\nTipos de tests de resistencia mencionados:\n\n1. Tests Genot\u00edpicos: Analizan el material gen\u00e9tico del virus para detectar mutaciones conocidas que est\u00e1n asociadas con la resistencia a medicamentos espec\u00edficos.\n2. Tests Fenot\u00edpicos: Eval\u00faan directamente la capacidad del virus para replicarse en presencia de diferentes concentraciones de medicamentos, indicando cu\u00e1n efectivo es cada f\u00e1rmaco contra la cepa viral del paciente.\n\nC\u00f3mo te ayudar\u00e1n a encontrar un tratamiento eficaz:\n\n- Identificaci\u00f3n de F\u00e1rmacos Efectivos: Los resultados del test de resistencia revelan qu\u00e9 medicamentos antirretrovirales son probablemente efectivos contra la cepa espec\u00edfica de VIH que tienes, guiando as\u00ed la selecci\u00f3n de un r\u00e9gimen terap\u00e9utico adecuado.\n  \n- Evitaci\u00f3n de F\u00e1rmacos Inefectivos: Al conocer qu\u00e9 f\u00e1rmacos contra los cuales el virus ha desarrollado resistencia, tu m\u00e9dico puede evitar prescribirlos, lo que mejora las posibilidades de \u00e9xito del tratamiento y reduce el riesgo de desarrollar resistencias adicionales.\n  \n- Personalizaci\u00f3n del Tratamiento: La informaci\u00f3n obtenida permite una personalizaci\u00f3n del tratamiento, ajustando el r\u00e9gimen a las necesidades espec\u00edficas de tu infecci\u00f3n, lo que puede mejorar significativamente la eficacia del tratamiento.\n  \n- Monitoreo y Ajustes Futuros: En caso de fracaso terap\u00e9utico futuro, tener un registro de las resistencias previamente identificadas facilita la toma de decisiones para ajustar el tratamiento de manera efectiva.\n\nPrerrequisito importante:\nPara que los resultados del test de resistencia sean fiables, es crucial que hayas estado tomando tu tratamiento antirretroviral (TAR) de forma regular durante al menos 4 semanas antes de la prueba. Esto asegura que el virus haya tenido tiempo suficiente para mutar en respuesta al tratamiento, si es que va a hacerlo.\n\nConclusi\u00f3n:\nLos tests de resistencia son herramientas valiosas que ayudan a tu equipo m\u00e9dico a dise\u00f1ar un plan de tratamiento contra el VIH que sea lo m\u00e1s efectivo posible para ti, maximizando las posibilidades de controlar la replicaci\u00f3n viral y mejorar tu calidad de vida. Siempre consulta con tu m\u00e9dico para obtener asesoramiento personalizado basado en tus resultados y condiciones espec\u00edficas."
+}

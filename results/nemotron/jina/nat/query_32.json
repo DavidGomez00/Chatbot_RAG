@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 debo hacer si comienzo a experimentar cambios en mi estado mental o cognitivo mientras estoy en tratamiento con antirretrovirales?\n",
+    "context_info": [
+        {
+            "text": " - Los tratamientos con f\u00e1rmacos para otros procesos deben tener en cuenta las frecuentes interacciones con la medicaci\u00f3n antirretroviral.  - Tambi\u00e9n se debe investigar la presencia de factores que dificulten la adherencia al tratamiento antiviral y ayudar, en lo posible, a neutralizarlos. En caso de abandono del tratamiento, se debe derivar de nuevo al paciente a la unidad de atenci\u00f3n especializada para reiniciar el tratamiento de rescate. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.7370323538780212
+        },
+        {
+            "text": "Diversos estudios han demostrado que algunos antirretrovirales a concentraciones terap\u00e9uticas podr\u00edan causar neurotoxicidad y que el cambio de f\u00e1rmacos neurot\u00f3xicos por otros con un mejor perfil de tolerabilidad puede ayudar a revertir la sintomatolog\u00eda neurocognitiva. En la Tabla 3 se recogen algunos de los principales FAR con su perfil de neurotoxicidad. ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.817824125289917
+        },
+        {
+            "text": "Igualmente, aquellas personas que hayan sido diagnosticadas recientemente y acaben de comenzar el tratamiento antirretroviral, deber\u00edan retrasar entre 3-6 meses el viaje, con el objetivo de comprobar la tolerancia y respuesta al tratamiento, afianzar la adherencia al mismo, minimizar el riesgo de presentaci\u00f3n de un s\u00edndrome de reconstituci\u00f3n inmune durante el viaje, y mejorar y estabilizar la situaci\u00f3n inmunol\u00f3gica lo m\u00e1ximo posible previo a la partida. ",
+            "source": "ManualClinico, section 29.2.1.",
+            "_distance": 0.8615061044692993
+        },
+        {
+            "text": "Finalmente, cuando el VIH se encuentra bien controlado debemos actuar sobre aquellos factores que puedan estar produciendo da\u00f1o a nivel neurocognitivo. Algunos aspectos como evitar el uso de drogas psicoactivas o el control de los factores de riesgo cardiovascular ser\u00e1n claves en estos casos. Otro aspecto importante en estas situaciones ser\u00e1 evaluar el perfil de neurotoxicidad de los f\u00e1rmacos utilizados, especialmente el de los f\u00e1rmacos antirretrovirales (FAR). ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.8722379207611084
+        },
+        {
+            "text": "Con el control de la infecci\u00f3n gracias al tratamiento antirretroviral (TAR), el complejo demencia-SIDA ha ido evolucionando a formas m\u00e1s leves de afectaci\u00f3n de las funciones neurocognitivas, no exentas tambi\u00e9n de consecuencias a nivel funcional para el individuo que las presenta. En este primer punto del cap\u00edtulo 23 abordaremos el origen de los trastornos neurocognitivos que presentan las personas que conviven con el VIH, su diagn\u00f3stico y su tratamiento. ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.8869402408599854
+        }
+    ],
+    "answer": "Si comienzas a experimentar cambios en tu estado mental o cognitivo mientras est\u00e1s en tratamiento con antirretrovirales, te recomiendo seguir estos pasos:\n\n1. Consulta inmediatamente a tu m\u00e9dico especialista en VIH: Es crucial informar a tu m\u00e9dico sobre cualquier cambio que notes en tu estado mental o cognitivo. No esperes a la pr\u00f3xima cita programada si los s\u00edntomas son significativos.\n\n2. Describe detalladamente tus s\u00edntomas: Aseg\u00farate de proporcionar detalles espec\u00edficos sobre los cambios que est\u00e1s experimentando, como problemas de memoria, dificultades para concentrarte, cambios en el humor, o cualquier otro s\u00edntoma neurocognitivo.\n\n3. Revisa tu adherencia al tratamiento antirretroviral (TAR): Aunque los s\u00edntomas puedan sugerir una cuesti\u00f3n distinta, es importante confirmar que est\u00e1s siguiendo correctamente tu r\u00e9gimen de medicaci\u00f3n. La falta de adherencia puede afectar el control del VIH, lo cual, a su vez, podr\u00eda influir en tu salud neurocognitiva.\n\n4. Eval\u00faa posibles interacciones con otros medicamentos: Si has iniciado recientemente alg\u00fan otro tratamiento para otras condiciones, es posible que existan interacciones entre estos f\u00e1rmacos y tus antirretrovirales. Tu m\u00e9dico debe conocer todos los medicamentos que est\u00e1s tomando.\n\n5. Considera una evaluaci\u00f3n de neurotoxicidad de tus antirretrovirales: Algunos antirretrovirales, a concentraciones terap\u00e9uticas, pueden causar neurotoxicidad. Consulta la Tabla 3 (referenciada en mi conocimiento base) para algunos de los principales FAR y su perfil de neurotoxicidad. Tu m\u00e9dico puede considerar cambiar tus f\u00e1rmacos si se sospecha que est\u00e1n contribuyendo a tus s\u00edntomas.\n\n6. Control de factores de riesgo adicionales: Aseg\u00farate de abordar otros aspectos que podr\u00edan estar afectando tu salud neurocognitiva, como:\n   - Evitar el uso de drogas psicoactivas.\n   - Control de los factores de riesgo cardiovascular, ya que estos tambi\u00e9n pueden impactar en la salud cerebral.\n\n7. Derivaci\u00f3n a especialistas si es necesario: Dependiendo de la naturaleza de tus s\u00edntomas, tu m\u00e9dico podr\u00eda derivarte a un neur\u00f3logo o a otro especialista para una evaluaci\u00f3n m\u00e1s profunda y tratamiento espec\u00edfico si fuera necesario.\n\nRecuerda, la comunicaci\u00f3n abierta con tu equipo de salud es clave para manejar cualquier efecto secundario del tratamiento antirretroviral y para proteger tu salud neurocognitiva."
+}

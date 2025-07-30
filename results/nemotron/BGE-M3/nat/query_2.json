@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfEl VIH se transmite por besos o compartir alimentos con alguien infectado?\n",
+    "query": "\u00bfQu\u00e9 puedo hacer para proteger mi h\u00edgado mientras tomo mi tratamiento para el VIH?\n",
     "context_info": [
         {
-            "text": "Aunque el VIH se puede detectar en este l\u00edquido, es poco probable que haya una cantidad suficiente como para provocar la infecci\u00f3n.  El VIH no se transmite por los besos, ni siquiera por los besos profundos. El virus tampoco se transmite por escupir.  Aire: El VIH no se transmite a trav\u00e9s del aire.  Por otro lado, conviene recordar que muchas pr\u00e1cticas sexuales no suponen un riesgo de transmisi\u00f3n del VIH. ",
+            "text": " Como se explica a lo largo de esta gu\u00eda, se puede evitar la transmisi\u00f3n del VIH con el uso de m\u00e9todos barrera o con herramientas de prevenci\u00f3n biom\u00e9dica: Preservativos externos o internos: Los preservativos junto con los lubricantes utilizados de forma correcta evitan la infecci\u00f3n por el VIH, as\u00ed como muchas otras infecciones de transmisi\u00f3n sexual. ",
             "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
-            "_distance": 0.47975438833236694
+            "_distance": 0.7205697894096375
         },
         {
-            "text": " V\u00edas de transmisi\u00f3n El VIH no sobrevive f\u00e1cilmente en el medio ambiente, por lo que para que se transmita la infecci\u00f3n es necesario que el virus penetre en el organismo a trav\u00e9s de la sangre o mucosas. La transmisi\u00f3n del VIH se produce de persona a persona por distintas v\u00edas, que implican el contacto con sangre o fluidos. A nivel mundial la mayor parte de las infecciones se producen al mantener relaciones sexuales con penetraci\u00f3n sin protecci\u00f3n con una pareja infectada. ",
-            "source": "ManualClinico, section 1.3.",
-            "_distance": 0.5767775774002075
-        },
-        {
-            "text": " B\u00e1sicos del VIH El VIH no es un virus que se adquiera con facilidad por v\u00eda sexual. En comparaci\u00f3n con la cantidad de personas que practican sexo cada a\u00f1o, apenas un escaso porcentaje de las mismas contrae esta infecci\u00f3n.  Tras una exposici\u00f3n sexual al VIH, la probabilidad de no adquirir el virus es siempre mucho mayor que la de infectarse (por supuesto, el riesgo solo existe si la pareja sexual tiene el VIH y su carga viral es detectable). ",
-            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
-            "_distance": 0.6125966310501099
-        },
-        {
-            "text": " VIAS POR LAS QUE NO SE TRANSMITE EL VIH El VIH no se transmite en las actividades cotidianas o por contacto con objetos, comida o ropa.  En la siguiente lista se enumeran al gunas situaciones en las que no se puede producir la transmisi\u00f3n del VIH extra\u00eddas de las preguntas que nos hacen personas preocupadas por si han adquirido la infecci\u00f3n. La mayor parte de estas dudas surgen por una combinaci\u00f3n de miedo y desconocimiento y se deben a una falta de comprensi\u00f3n de c\u00f3mo se transmite el virus. ",
+            "text": " Piel: Constituye una excelente barrera frente al VIH, a menos que exista un corte o herida abiertos. El contacto con la piel de fluidos infecciosos no supone una v\u00eda de infecci\u00f3n.  Membranas mucosas de la boca, garganta y est\u00f3mago: Estas membranas constituyen buenas barreras frente a la infecci\u00f3n por el VIH, siempre que no presenten irritaciones, cortes, \u00falceras o llagas.  Saliva: La saliva contiene prote\u00ednas y bajo contenido en sal que reducen de forma activa la capacidad de infecci\u00f3n del virus. ",
             "source": "GTT_guia_transmision_2020_W_info, section 4.0.",
-            "_distance": 0.6133802533149719
+            "_distance": 0.7369101643562317
         },
         {
-            "text": "La infecci\u00f3n por VIH se transmite por v\u00eda sangu\u00ednea (transfusiones, tratamiento con derivados hem\u00e1ticos, accidentes sanitarios y uso de drogas por v\u00eda intravenosa compartiendo material, por v\u00eda sexual (relaciones homo o heterosexuales sin preservativo o de forma vertical (de madre seropositiva no controlada a su descendencia, durante el embarazo, el parto o la lactancia ). Se ha estimado el riesgo potencial diferencial de las distintas v\u00edas de transmisi\u00f3n. ",
-            "source": "ManualClinico, section 11.1.",
-            "_distance": 0.6148965954780579
+            "text": " RECOMENDACIONES 1.Ofrecer TAR a todos los pacientes diagnosticados ya que suprime persistentemente la carga viral plasm\u00e1tica y genital del VIH y reduce el riesgo de transmisi\u00f3n sexual y perinatal del virus, destacando como la herramienta preventiva m\u00e1s potente frente a lainfecci\u00f3n por el VIH ( A-I).  2.Ofrecer la PrEP (A-I) y la PPE (A-II) en aquellas situaciones de riesgo en que est\u00e1n indicadas, ya que tambi\u00e9n son medidas farmacol\u00f3gicas muy efectivas en la prevenci\u00f3ndel VIH. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 2.1.",
+            "_distance": 0.7402857542037964
+        },
+        {
+            "text": "La mujer embarazada portadora del VIH debe ser tratada con TAR espec\u00edfico para prevenir la transmisi\u00f3n vertical, programar ces\u00e1rea, tratar al reci\u00e9n nacido con AZT y evitar la lactancia materna. ",
+            "source": "manejo_paciente_vih_en_ap, section 20.0.",
+            "_distance": 0.7459352612495422
+        },
+        {
+            "text": " Ahora que sabes el estado serol\u00f3gico al VIH de tu pareja, a\u00fan pod\u00e9is estar juntos y practicar sexo de forma segura. Puedes utilizar la PrEP para reducir el riesgo de infecci\u00f3n en gran medida (si se toma de forma adecuada). Puede ser un gran modo de protegerte frente al VIH.  El riesgo de transmisi\u00f3n del VIH es cero si tu pareja toma tratamiento frente el VIH y su carga viral es indetectable. Esta afirmaci\u00f3n es v\u00e1lida tanto para las relaciones anales como las vaginales y en parejas gais o heterosexuales. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 0.746595561504364
         }
     ],
-    "answer": "No, el VIH no se transmite de las siguientes maneras que has mencionado:\n\n1. Besos: Ni siquiera los besos profundos pueden transmitir el VIH. El virus no sobrevive en la saliva de manera que pueda infectar a otra persona a trav\u00e9s de un beso.\n2. Compartir alimentos: No existe riesgo de transmisi\u00f3n del VIH al compartir comida o bebida con alguien infectado. El VIH no se transmite a trav\u00e9s de la comida, el agua o la ropa.\n\nRecuerda que el VIH se transmite principalmente a trav\u00e9s de:\n\n Relaciones sexuales sin protecci\u00f3n (homo o heterosexuales) con una persona seropositiva cuya carga viral es detectable.\n V\u00eda sangu\u00ednea (transfusiones de sangre contaminada, tratamiento con derivados hem\u00e1ticos infectados, accidentes sanitarios, uso compartido de material para drogas intravenosas).\n Transmisi\u00f3n vertical (de madre a hijo durante el embarazo, parto o lactancia si la madre no est\u00e1 bajo tratamiento adecuado).\n\nSi tienes m\u00e1s preguntas espec\u00edficas sobre el VIH o su transmisi\u00f3n, no dudes en consultar. Para cualquier otro tema de salud, te recomiendo consultar directamente con un m\u00e9dico."
+    "answer": "Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\n\nMi respuesta es as\u00ed porque, de acuerdo con las instrucciones proporcionadas y el conocimiento especializado en responder consultas sobre el VIH que se me ha otorgado, no tengo informaci\u00f3n expl\u00edcita sobre c\u00f3mo proteger el h\u00edgado mientras se toma un tratamiento para el VIH. Las recomendaciones y conocimientos proporcionados se centran en la prevenci\u00f3n de la transmisi\u00f3n del VIH mediante m\u00e9todos barrera, herramientas de prevenci\u00f3n biom\u00e9dica (como TAR, PrEP, PPE), y aspectos relacionados con la carga viral y su impacto en la transmisi\u00f3n. No se mencionan aspectos espec\u00edficos sobre el manejo o protecci\u00f3n de \u00f3rganos como el h\u00edgado durante el tratamiento antirretroviral.\n\nTe recomiendo consultar a un m\u00e9dico especialista en tratamientos para el VIH, quien podr\u00e1 ofrecerte orientaci\u00f3n personalizada y basada en evidencia sobre c\u00f3mo cuidar tu h\u00edgado mientras sigues tu tratamiento."
 }

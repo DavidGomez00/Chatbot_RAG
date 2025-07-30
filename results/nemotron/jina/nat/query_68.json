@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfLos tratamientos que puede tomar una mujer con posibilidad de tener hijos son iguales que los que se usan durante el embarazo?\n",
+    "context_info": [
+        {
+            "text": "En estos casos, se recomienda utilizar m\u00e9todos anticonceptivos alternativos para prevenir los embarazos no deseados o cambio del TAR. Datos recientes indican un aumento de la incidencia de defectos del tubo neural en madres expuestas a dolutegravir (DTG) en el momento de la concepci\u00f3n comparado con madres expuestas a tratamientos sin DTG (0,3% frente a 0,1%). ",
+            "source": "ManualClinico, section 31.1.1.",
+            "_distance": 0.7060906291007996
+        },
+        {
+            "text": " Introducci\u00f3n La atenci\u00f3n ginecol\u00f3gica a mujeres infectadas por VIH, debe incluir medidas de planificaci\u00f3n familiar fundamentalmente para evitar gestaciones no deseadas y con alguna de ellas evitar la transmisi\u00f3n de ITS. La mayor\u00eda de los m\u00e9todos anticonceptivos pueden ser usados por mujeres infectadas por el VIH. Para hacer una correcta elecci\u00f3n del m\u00e9todo anticonceptivo, existen los criterios de elegibilidad de la Organizaci\u00f3n Mundial de la Salud (OMS). ",
+            "source": "ManualClinico, section 30.2.1.",
+            "_distance": 0.7896708250045776
+        },
+        {
+            "text": "Mujer VIH+ con deseo/posibilidad de embarazoMujer VIH+ en tratamiento con embarazo recienteMujer embarazada reci\u00e9n diagnosticada de infecci\u00f3n por VIH MEDIDAS GENERALESRevaluar el TAR.Evitar f\u00e1rmacos contraindicados/con pocos datos en embarazo.Hablar con la paciente de sus deseos de embarazo.Remitir de forma r\u00e1pida a su especialista en VIH.Ajustar TAR a pautas de elecci\u00f3n en embarazo.Remitir de forma urgente a unidad VIH.Inicio de TAR cuanto antes con pautas de elecci\u00f3n durante el embarazo. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7900311350822449
+        },
+        {
+            "text": " Planificaci\u00f3n y preparaci\u00f3n general de la gestaci\u00f3n Con la finalidad de conseguir que el embarazo llegue cuando la mujer tenga un buen control virol\u00f3gico de la infecci\u00f3n VIH, con un adecuado tratamiento antirretroviral (T AR), y en un buen estado de salud general y obst\u00e9trica. ",
+            "source": "ManualClinico, section 32.2.1.",
+            "_distance": 0.814005970954895
+        },
+        {
+            "text": " Tratamiento antirretroviral (TAR) durante el embarazo Los criterios para el uso de TAR en la mujer embarazada difieren respecto a las recomendaciones generales para el adulto, en el sentido de que debe considerarse la seguridad para la madre y el ni\u00f1o. Se deben considerar m\u00faltiples factores al elegir TAR para una mujer embarazada. La elecci\u00f3n del TAR se basar\u00e1 en el estudio de resistencias, las interacciones, la experiencia con el uso de estos medicamentos en el embarazo y en la seguridad de estos. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.8198797702789307
+        }
+    ],
+    "answer": "No, los tratamientos antirretrovirales (TAR) para mujeres con VIH que tienen la posibilidad de quedar embarazadas no siempre son iguales a los recomendados durante el embarazo.\n\nAntes del Embarazo:\n\n La elecci\u00f3n del TAR se basa en factores como la historia cl\u00ednica, el perfil de resistencia viral, interacciones medicamentosas y la eficacia del tratamiento.\n Algunos medicamentos antirretrovirales pueden tener restricciones o precauciones para su uso en mujeres que planifican un embarazo debido a posibles efectos adversos sobre el feto. Un ejemplo es la dolutegravir (DTG), donde se ha observado un aumento en la incidencia de defectos del tubo neural en madres expuestas a DTG en el momento de la concepci\u00f3n.\n\nDurante el Embarazo:\n\n La selecci\u00f3n del TAR se enfoca en garantizar la seguridad tanto para la madre como para el feto.\n Se consideran m\u00faltiples factores, incluyendo:\n\t+ Estudio de resistencias virales.\n\t+ Posibles interacciones medicamentosas.\n\t+ Experiencia previa con el uso de estos medicamentos durante el embarazo.\n\t+ Seguridad fetal y materna.\n Algunos tratamientos pueden ser preferidos o evitados espec\u00edficamente debido a su perfil de seguridad conocido durante el embarazo.\n\nRecomendaci\u00f3n General:\n\n Si una mujer con VIH est\u00e1 planificando un embarazo, se recomienda reevaluar su tratamiento antirretroviral (TAR) para asegurarse de que est\u00e9 recibiendo la combinaci\u00f3n m\u00e1s segura y efectiva tanto para ella como para el feto en desarrollo.\n La comunicaci\u00f3n cercana con su equipo de atenci\u00f3n m\u00e9dica especializado en VIH es crucial para tomar decisiones informadas sobre su tratamiento antes, durante y despu\u00e9s del embarazo."
+}

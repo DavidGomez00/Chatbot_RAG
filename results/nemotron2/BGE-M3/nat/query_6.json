@@ -1,0 +1,31 @@
+{
+    "query": "Si mi m\u00e9dico cambia mi tratamiento a un r\u00e9gimen con dolutegravir o rilpivirina, \u00bfes m\u00e1s seguro para mi h\u00edgado?\n",
+    "context_info": [
+        {
+            "text": " Cambio a reg\u00edmenes de dos f\u00e1rmacos: en pacientes con una pauta con 2 ITIAN e IPp que quieran simplificar el TAR y/o evitar los efectos adversos causados por los ITIAN, el cambio a IPp + lamivudina, a dolutegravir + lamivudina, o a dolutegravir + rilpivirina son opciones adecuadas. Los cambios desde 2 ITIAN + ITINAN o INI, a dolutegravir + lamivudina o a dolutegravir + rilpivirina tambi\u00e9n resultan apropiados. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6953129172325134
+        },
+        {
+            "text": " El cambio de dolutegravir/abacavir/lamivudina a bictegravir/ FTC /TAF puede realizarse por decisi\u00f3n cl\u00ednica, pero no puede recomendarse el cambio buscando un beneficio en el perfil lip\u00eddico, funci\u00f3n renal o DMO, ni una reducci\u00f3n del RCV . ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7176864147186279
+        },
+        {
+            "text": "El cambio de la pauta a la asociaci\u00f3n de rilpivirina, FTC y TDF, a la de rilpivirina, FTC y T AF, a la de doravirina, FTC y TDF, a pauta basada en raltegravir o en dolutegravir, o el cambio a la coformulaci\u00f3n de bictegravir, FTC y TAF es adecuado. En pacientes con dislipemia asociada a efavirenz la suspensi\u00f3n de este f\u00e1rmaco es una opci\u00f3n terap\u00e9utica; el cambio a raltegravir es adecuado. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7397597432136536
+        },
+        {
+            "text": "El cambio a dolutegravir + darunavir potenciado puede ser una opci\u00f3n en determinados pacientes que quieran simplificar su pauta actual o evitar toxicidades .  No se debe cambiar triple terapia ni terapia dual a monoterapia con IPp ni con dolutegravir.  Tras el cambio de un TAR es recomendable evaluar en un plazo de 3-6 semanas el mantenimiento de la supresi\u00f3n virol\u00f3gica y las determinaciones de laboratorio pertinentes, que depender\u00e1n del motivo del cambio (p.e lipidograma, o funci\u00f3n renal). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.7789174318313599
+        },
+        {
+            "text": "Los ARV con un perfil m\u00e1s favorable de interacciones son los INI dolutegravir, bictegravir, y, especialmente, raltegravir, los ITIAN y entre los ITINN rilpivirina y doravirina. Estos ARV nos pueden ser \u00fatiles en pacientes polimedicados para evitar riesgos. Sin embargo, es importante tener en cuenta las interacciones de los INI con los anti\u00e1cidos (tambi\u00e9n p. ej complejos multivitam\u00ednicos). ",
+            "source": "ManualClinico, section 8.3.7.",
+            "_distance": 0.7980630397796631
+        }
+    ],
+    "answer": "No response content"
+}

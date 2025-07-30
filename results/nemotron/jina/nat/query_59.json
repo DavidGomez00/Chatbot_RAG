@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfSi mi tratamiento no funciona es posible que otros no, o es algo que no se relaciona?\n",
+    "context_info": [
+        {
+            "text": "Ahora bien, sin tratamiento, todos pueden acabar desarrollando la enfermedad aunque lo hagan m\u00e1s tarde. ",
+            "source": "ManualClinico, section 5.3.",
+            "_distance": 0.9373270273208618
+        },
+        {
+            "text": " - Los tratamientos con f\u00e1rmacos para otros procesos deben tener en cuenta las frecuentes interacciones con la medicaci\u00f3n antirretroviral.  - Tambi\u00e9n se debe investigar la presencia de factores que dificulten la adherencia al tratamiento antiviral y ayudar, en lo posible, a neutralizarlos. En caso de abandono del tratamiento, se debe derivar de nuevo al paciente a la unidad de atenci\u00f3n especializada para reiniciar el tratamiento de rescate. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.9552720189094543
+        },
+        {
+            "text": "Aunque existen casos individuales de mejor\u00eda al utilizar un IP o al cambiar a esta familia sin haber existido respuesta a otros reg\u00edmenes, no existe evidencia tan amplia para concretar que su uso sea indispensable m\u00e1s all\u00e1 de alcanzar la indetectabilidad, salvo situaciones de resistencia.Los pacientes que reciben ya TAR y tienen un diagn\u00f3stico de novo de SK deben ser evaluados sobre fracaso, falta de adherencia o presencia de resistencias. ",
+            "source": "ManualClinico, section 13.5.",
+            "_distance": 1.0236936807632446
+        },
+        {
+            "text": "El m\u00e9dico de familia debe conocer, y en lo posible controlar, los factores que influyen de forma negativa en el cumplimiento, como la falta de apoyo social y familiar y la presencia de comorbilidad, como depresi\u00f3n, abuso de alcohol y otras drogas, y abordarlos con los recursos disponibles (BII). La buena relaci\u00f3n m\u00e9dico-enfermo y la implicaci\u00f3n del paciente mejoran la ad-herencia al tratamiento (A-III). ",
+            "source": "manejo_paciente_vih_en_ap, section 17.0.",
+            "_distance": 1.0421539545059204
+        },
+        {
+            "text": "La coexistencia de una barrera idiom\u00e1tica puede resultar un factor agravante, as\u00ed como la dificultad para obtener la Tarjeta de Asistencia Sanitaria.  Determinantes sanitarios o comorbilidades: La coinfecci\u00f3n por el VHC, algunos trastornos psiqui\u00e1tricos, un peor estado inmunol\u00f3gico o la presencia de h\u00e1bitos t\u00f3xicos activos c omo son el enolismo o el consumo de drogas por v\u00eda parenteral y otras formas de consumo como el chemsex son factores asociados tambi\u00e9n con una menor adherencia. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 1.0519355535507202
+        }
+    ],
+    "answer": "Excelente pregunta sobre el VIH.\n\nLa relaci\u00f3n entre el fracaso de un tratamiento antirretroviral (TAR) y la efectividad de otros tratamientos est\u00e1 directamente vinculada a varios factores clave. No es una cuesti\u00f3n de \"no funcionar\u00e1n otros\" de manera absoluta, sino que depende de las razones subyacentes al fracaso inicial. Aqu\u00ed te explico los puntos clave:\n\n1. Resistencia viral: Si el tratamiento inicial falla debido a la desarrollo de resistencia viral, es posible que otros tratamientos que incluyan f\u00e1rmacos de la misma clase o mecanismo de acci\u00f3n tambi\u00e9n sean menos efectivos. En este caso, se buscar\u00edan opciones que incluyan f\u00e1rmacos de clases diferentes o con distintos mecanismos de acci\u00f3n a los que el virus ha desarrollado resistencia.\n\n2. Falta de adherencia: Si el fracaso del tratamiento se debe a una mala adherencia al r\u00e9gimen terap\u00e9utico (por ejemplo, no tomar los medicamentos como se indic\u00f3), cambiar a otro tratamiento puede ser efectivo siempre y cuando se aborden y resuelvan los problemas de adherencia. La relaci\u00f3n m\u00e9dico-paciente, el apoyo social y la simplificaci\u00f3n del r\u00e9gimen, si es posible, pueden mejorar la adherencia.\n\n3. Intolerancia o efectos secundarios: Si el tratamiento falla debido a intolerancia o efectos secundarios graves, cambiar a otro tratamiento que no comparta esos mismos efectos adversos puede ser muy efectivo. Por ejemplo, si un paciente experimenta problemas gastrointestinales con un cierto f\u00e1rmaco, otro f\u00e1rmaco de la misma clase pero con un perfil de tolerabilidad diferente podr\u00eda ser una buena opci\u00f3n.\n\n4. Coinfecciones o comorbilidades: La presencia de coinfecciones (como VHC) o comorbilidades (como trastornos psiqui\u00e1tricos, abuso de sustancias, etc.) puede influir en la efectividad del tratamiento. Abordar estas condiciones simult\u00e1neamente con el tratamiento antirretroviral puede mejorar significativamente los resultados, independientemente del tratamiento espec\u00edfico elegido.\n\nEn resumen, si un tratamiento no funciona, el \u00e9xito de otros tratamientos depende de:\n\n- Causa del fracaso: Resistencia viral, falta de adherencia, intolerancia, o factores externos como comorbilidades.\n- Selecci\u00f3n del nuevo tratamiento: Debe basarse en una evaluaci\u00f3n detallada que considere las razones del fracaso inicial, la presencia de resistencia viral, la tolerabilidad del paciente y su capacidad para adherirse al nuevo r\u00e9gimen.\n\nRecomendaci\u00f3n: Para determinar el mejor curso de acci\u00f3n, es crucial discutir los detalles de tu situaci\u00f3n con tu m\u00e9dico o el equipo de atenci\u00f3n especializada en VIH. Ellos pueden ofrecer orientaci\u00f3n personalizada basada en tu historial cl\u00ednico y las \u00faltimas gu\u00edas terap\u00e9uticas."
+}

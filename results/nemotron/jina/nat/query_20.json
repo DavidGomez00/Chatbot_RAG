@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfEl VIH puede transmitirse durante el embarazo, el parto o la lactancia? \u00bfC\u00f3mo se puede prevenir en estos casos?\n",
+    "query": "\u00bfC\u00f3mo se compara el impacto de rilpivirina frente a doravirina en el colesterol y la acumulaci\u00f3n de grasa en el h\u00edgado?\n",
     "context_info": [
         {
-            "text": "La mujer embarazada portadora del VIH debe ser tratada con TAR espec\u00edfico para prevenir la transmisi\u00f3n vertical, programar ces\u00e1rea, tratar al reci\u00e9n nacido con AZT y evitar la lactancia materna. ",
-            "source": "manejo_paciente_vih_en_ap, section 20.0.",
-            "_distance": 0.4739527404308319
+            "text": "Los f\u00e1rmacos antiretrovirales que pueden causar elevaciones en los l\u00edpidos son los inhibidores de la proteasa, en especial si el potenciador utilizado es ritonavir, y el uso de efavirenz. El uso de tenofovir disoproxil fumarato tiene un efecto reductor sobre los niveles de colesterol total que se pierde cuando se usa la nueva formulaci\u00f3n de tenofovir alafenamida. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.7087495923042297
         },
         {
-            "text": " Alimentaci\u00f3n del reci\u00e9n nacido. Lactancia La lactancia materna es una v\u00eda de transmisi\u00f3n del VIH por lo que las recomendaciones en gu\u00edas nacionales es que no est\u00e1 justificada la lactancia materna. El uso de TAR en la madre o el mantenimiento de profilaxis con TAR en el lactante en distintas pautas ser\u00edan factores protectores para la transmisi\u00f3n del VIH por esta v\u00eda. ",
-            "source": "ManualClinico, section 31.3.",
-            "_distance": 0.5423343181610107
+            "text": "El efecto del tratamiento antirretroviral en el metabolismo lip\u00eddico varia seg\u00fan las familias y tambi\u00e9n seg\u00fan los f\u00e1rmacos individuales. Los antirretrovirales potenciados, IP o elvitegravir, y efavirenz son los f\u00e1rmacos con un mayor impacto a nivel lip\u00eddico. Los objetivos de tratamiento de la dislipemia en PVVIH deben ser, como m\u00ednimo, los recomendados en poblaci\u00f3n general, teniendo en cuenta que las f\u00f3rmulas de c\u00e1lculo de RCV suelen infraestimar el riesgo en PVVIH. ",
+            "source": "ManualClinico, section 20.2.5.",
+            "_distance": 0.7447841763496399
         },
         {
-            "text": "La infecci\u00f3n por VIH se transmite por v\u00eda sangu\u00ednea (transfusiones, tratamiento con derivados hem\u00e1ticos, accidentes sanitarios y uso de drogas por v\u00eda intravenosa compartiendo material, por v\u00eda sexual (relaciones homo o heterosexuales sin preservativo o de forma vertical (de madre seropositiva no controlada a su descendencia, durante el embarazo, el parto o la lactancia ). Se ha estimado el riesgo potencial diferencial de las distintas v\u00edas de transmisi\u00f3n. ",
-            "source": "ManualClinico, section 11.1.",
-            "_distance": 0.565092921257019
+            "text": "Algunos IP (atazanavir [ATV] y lopinavir[LPV]) se han asociado a un mayor riesgo de disminuci\u00f3n del FGe, aunque este efecto cl\u00ednico es controvertido y podr\u00eda deberse a la interacci\u00f3n de ritonavir (RTV) con TDF, dado que RTV inhibe la prote\u00edna MRP4 encargada de la extrusi\u00f3n de TDF desde el interior de la c\u00e9lula tubular renal permitiendo as\u00ed su ac\u00famulo en la misma. ",
+            "source": "ManualClinico, section 22.4.",
+            "_distance": 0.787777304649353
         },
         {
-            "text": " Otros factores de riesgo, como la carga viral, el tipo de pr\u00e1ctica sexual, la gen\u00e9tica, etc.  Solo determinados fluidos corporales pueden transmitir la infecci\u00f3n: Los fluidos sexuales (semen y flujo vaginal).  El moco de la vagina y el ano.  La sangre.  La leche materna puede transmitir el VIH a un bebe, pero es poco probable que lo haga a un adulto.  La saliva, los esputos, la orina y las heces NO tienen capacidad de transmitir el VIH.  \u00bfCU\u00c1LES SON LAS V\u00cdAS DE TRANSMISI\u00d3N? ",
-            "source": "GTT_guia_transmision_2020_W_info, section 3.0.",
-            "_distance": 0.6102781295776367
+            "text": "Su asociaci\u00f3n con RTV altera el metabolismo hep\u00e1tico, incrementando su concentraci\u00f3n y su semivida, lo que potencia su actividad y disminuye la frecuencia y la dosis de cada toma. Los efectos secundarios m\u00e1s habituales son gastrointestinales (diarrea), lipodistrofia y alteraciones metab\u00f3licas de los l\u00edpidos y de la glucosa. ",
+            "source": "manejo_paciente_vih_en_ap, section 15.0.",
+            "_distance": 0.7956480979919434
         },
         {
-            "text": " En todos los escenarios se dar\u00e1 prioridad a favorecer el seguimiento y la adherencia de la mujer, intentando eliminar todas las barreras y asegurar que la mujer embarazada mantenga o alcance cu\u00e1nto antes una CVP indetectable.  5. Manejo del parto en mujeres infectadas por el VIH.  En mujeres con CVP menor de 50 cp/ml en la semana 36 de gestaci\u00f3n, el riesgo de transmisi\u00f3n maternofetal es muy bajo independientemente de si se realiza ces\u00e1rea o no. ",
-            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
-            "_distance": 0.6261340379714966
+            "text": " Riesgo cardiovascular Algunos antirretrovirales (IP e ITIAN) elevan los niveles de colesterol total (CT), de lipoprote\u00ednas de baja densidad (c-LDL) y, sobre todo, de triglic\u00e9ridos, adem\u00e1s de disminuir los niveles de lipoprote\u00ednas de alta densidad (c-HDL). Esto se suma a otros factores de riesgo cl\u00e1sicos, m\u00e1s frecuentes en los seropositivos (tabaquismo, diabetes, hipertensi\u00f3n). ",
+            "source": "manejo_paciente_vih_en_ap, section 18.0.",
+            "_distance": 0.8317412734031677
         }
     ],
-    "answer": "Transmisi\u00f3n del VIH durante el embarazo, parto o lactancia:\n\nS\u00ed, el VIH puede transmitirse de una madre seropositiva a su descendencia en tres momentos clave:\n\n1. Durante el embarazo: Transmisi\u00f3n vertical (de madre a hijo) mientras el beb\u00e9 est\u00e1 en el \u00fatero.\n2. Durante el parto: El riesgo de transmisi\u00f3n aumenta durante el proceso de nacimiento, especialmente si no se toman medidas preventivas.\n3. Durante la lactancia: La leche materna puede transmitir el VIH al beb\u00e9.\n\nPrevenci\u00f3n en estos casos:\n\nPara minimizar el riesgo de transmisi\u00f3n:\n\n Tratamiento Antirretroviral (TAR) espec\u00edfico para la madre:\n\t+ Iniciar o mantener un r\u00e9gimen de TAR efectivo durante todo el embarazo, parto y postparto.\n\t+ El objetivo es lograr una Carga Viral Plasma (CVP) indetectable, especialmente antes de la semana 36 de gestaci\u00f3n.\n Manejo del parto:\n\t+ Si la CVP es < 50 cp/ml en la semana 36, el riesgo de transmisi\u00f3n es bajo, y no necesariamente se requiere ces\u00e1rea. Sin embargo, si la CVP es alta o desconocida, se puede programar una ces\u00e1rea para reducir el riesgo.\n Tratamiento del reci\u00e9n nacido:\n\t+ Administrar Profilaxis con AZT (Zidovudina) al reci\u00e9n nacido para prevenir la infecci\u00f3n.\n Alimentaci\u00f3n del reci\u00e9n nacido:\n\t+ Evitar la lactancia materna en ausencia de TAR efectivo en la madre o profilaxis adecuada en el lactante, ya que la leche materna puede transmitir el VIH al beb\u00e9."
+    "answer": "Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\n\nMi respuesta se basa en las instrucciones proporcionadas, ya que el conocimiento compartido inicialmente sobre el VIH no incluye informaci\u00f3n espec\u00edfica sobre:\n\n1. Rilpivirina y su impacto en el colesterol y la acumulaci\u00f3n de grasa en el h\u00edgado.\n2. Doravirina y su efecto en los mismos aspectos (colesterol y acumulaci\u00f3n de grasa en el h\u00edgado).\n3. Una comparativa directa entre rilpivirina y doravirina en relaci\u00f3n con estos efectos secundarios.\n\nEl conocimiento proporcionado se centra en:\n\n- El impacto de ciertos inhibidores de la proteasa (IP) y otros f\u00e1rmacos (como efavirenz, tenofovir disoproxil fumarato, etc.) en los niveles lip\u00eddicos y el riesgo cardiovascular.\n- No menciona espec\u00edficamente a rilpivirina o doravirina, que son antiretrovirales de una clase diferente (inhibidores no nucle\u00f3sidos de la transcriptasa reversa, NNRTIs).\n\nPara obtener informaci\u00f3n precisa y actualizada sobre el impacto de rilpivirina y doravirina en el colesterol y la acumulaci\u00f3n de grasa en el h\u00edgado, te recomiendo consultar a un profesional m\u00e9dico especializado en el tratamiento del VIH. \u00c9l podr\u00e1 ofrecerte una evaluaci\u00f3n detallada basada en los \u00faltimos estudios cl\u00ednicos y en tu historial de salud espec\u00edfico."
 }

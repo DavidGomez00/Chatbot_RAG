@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfDeber\u00eda cambiar mi tratamiento si decido quedar embarazada?\n",
+    "context_info": [
+        {
+            "text": "El tratamiento frente al VIH te permitir\u00e1 tener una esperanza de vida similar a la de una persona sin el VIH, con una buena calidad de vida. Es muy probable que no tengas que renunciar a nada de lo que hac\u00edas como consecuencia de tu nueva situaci\u00f3n.  Como parte de la atenci\u00f3n prenatal, de forma rutinaria se incluye la realizaci\u00f3n de la prueba del VIH a todas las mujeres (durante el primer y tercer trimestre de embarazo). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.8085067868232727
+        },
+        {
+            "text": "Mujer VIH+ con deseo/posibilidad de embarazoMujer VIH+ en tratamiento con embarazo recienteMujer embarazada reci\u00e9n diagnosticada de infecci\u00f3n por VIH MEDIDAS GENERALESRevaluar el TAR.Evitar f\u00e1rmacos contraindicados/con pocos datos en embarazo.Hablar con la paciente de sus deseos de embarazo.Remitir de forma r\u00e1pida a su especialista en VIH.Ajustar TAR a pautas de elecci\u00f3n en embarazo.Remitir de forma urgente a unidad VIH.Inicio de TAR cuanto antes con pautas de elecci\u00f3n durante el embarazo. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8308150172233582
+        },
+        {
+            "text": " Desde la consulta preconcepcional, se remitir\u00e1 a la MVIH a la consulta de VIH para iniciar o cambiar el TAR a pautas con mayores tasas de seguridad durante el embarazo. Tanto el MAP como el m\u00e9dico especialista en VIH deber\u00e1n revisar todas las medicaciones y h\u00e1bitos t\u00f3xicos de la mujer con el fin de evitar posibles drogas teratog\u00e9nicas. 4. Manejo del TAR en la mujer embarazada con VIH.  Toda MVIH debe recibir TAR durante todo el embarazo intentando mantener CVP indetectable. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8371174931526184
+        },
+        {
+            "text": "En las mujeres que comienzan TAR se deben investigar aspectos relacionados con el deseo reproductivo, ciclo menstrual y la menopausia, uso de m\u00e9todos anticonceptivos y resultados de controles ginecol\u00f3gicos previos. Antes de iniciar TAR, se debe realizar una prueba de embarazo para detectar la posibilidad de embarazo. Al prescribir TAR, se deben tener en cuenta que algunos f\u00e1rmacos antirretrovirales presentan interacciones farmacocin\u00e9ticas (PK) con los anticonceptivos hormonales. ",
+            "source": "ManualClinico, section 31.1.1.",
+            "_distance": 0.8555840849876404
+        },
+        {
+            "text": "En estos casos, se recomienda utilizar m\u00e9todos anticonceptivos alternativos para prevenir los embarazos no deseados o cambio del TAR. Datos recientes indican un aumento de la incidencia de defectos del tubo neural en madres expuestas a dolutegravir (DTG) en el momento de la concepci\u00f3n comparado con madres expuestas a tratamientos sin DTG (0,3% frente a 0,1%). ",
+            "source": "ManualClinico, section 31.1.1.",
+            "_distance": 0.9067372679710388
+        }
+    ],
+    "answer": "Recomendaci\u00f3n para mujeres VIH+ con deseos de embarazo:\n\nS\u00ed, es probable que debas ajustar tu Tratamiento Antirretroviral (TAR) si est\u00e1s considerando quedar embarazada. Desde la consulta preconcepcional, se recomienda remitirte a la consulta de VIH para:\n\n1. Revaluar tu TAR: Evaluar si el tratamiento actual es el m\u00e1s adecuado durante el embarazo.\n2. Ajustar a pautas de elecci\u00f3n en embarazo: Cambiar a un r\u00e9gimen terap\u00e9utico con mayores tasas de seguridad durante el embarazo, si fuera necesario.\n\nMotivos para el ajuste:\n\n Algunos f\u00e1rmacos antirretrovirales pueden tener interacciones farmacocin\u00e9ticas (PK) con anticonceptivos hormonales o presentar riesgos durante el embarazo.\n Dolutegravir (DTG): Hay datos que sugieren un aumento de la incidencia de defectos del tubo neural en madres expuestas a DTG en el momento de la concepci\u00f3n. Por lo tanto, podr\u00eda ser necesario cambiar este medicamento.\n\nPasos a seguir:\n\n1. Comunicar tus deseos de embarazo a tu m\u00e9dico especialista en VIH.\n2. Revisi\u00f3n conjunta con tu m\u00e9dico de atenci\u00f3n primaria (MAP) y tu especialista en VIH para evaluar todas las medicaciones y h\u00e1bitos t\u00f3xicos.\n3. Ajuste del TAR, si necesario, a un r\u00e9gimen recomendado durante el embarazo.\n\nImportante: Mantener una carga viral indetectable (CVP indetectable) es crucial durante todo el embarazo. Tu equipo de salud trabajar\u00e1 contigo para asegurar el tratamiento m\u00e1s adecuado para ti y tu futuro beb\u00e9."
+}

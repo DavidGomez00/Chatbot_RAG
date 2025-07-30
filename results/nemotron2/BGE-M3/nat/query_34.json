@@ -1,0 +1,31 @@
+{
+    "query": "Si noto dificultades en mi memoria, \u00bfdeber\u00eda esto estar relacionado con mi tratamiento antirretroviral?\n",
+    "context_info": [
+        {
+            "text": "\u00c9stas pueden deberse a la situaci\u00f3n inmunol\u00f3gica propia del sujeto, siendo de especial relevancia aquellos que se encuentren con un recuento de CD4 < 200 cel/\u03bcL, los cuales presentan mayor riesgo de adquirir enfermedades graves en determinados entornos; tambi\u00e9n pueden estar relacionadas con aspectos burocr\u00e1ticos, como la restricci\u00f3n de acceso a determinados pa\u00edses, o la limitaci\u00f3n a la hora de poder adquirir tratamiento antirretroviral en determinados destinos en caso de necesidad; pueden adem\u00e1s existir posibles interacciones entre el tratamiento antirretroviral del paciente y las vacunas, quimioprofilaxis o tratamientos diversos que el sujeto pueda requerir de cara a dicho viaje. ",
+            "source": "ManualClinico, section 29.2.",
+            "_distance": 0.7299368977546692
+        },
+        {
+            "text": "Generalmente, suele estar entre 50.000 y 100.000 copias/mL cuando se inicia el tratamiento antirretroviral.  4. El tratamiento deber\u00eda reducir la carga viral a menos de 50 copias/mL en un plazo de unos 3 meses. Esto tambi\u00e9n reduce la capacidad de infecci\u00f3n de todos los fluidos corporales.  Figura 5: LA RELACI\u00d3N ENTRE CARGA VIRAL Y TRANSMISI\u00d3N DEL VIH EN EL ESTUDIO DE RAKAI La carga viral del VIH est\u00e1 relacionada de forma directa con el riesgo de transmisi\u00f3n del virus. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.7608563899993896
+        },
+        {
+            "text": "El principal h\u00e1ndicap del tratamiento antirretroviral son sus posibles interacciones, ya sea con f\u00e1rmacos concomitantes que se usen durante el viaje, como con la quimioprofilaxis de algunas enfermedades como el paludismo. Conviene tambi\u00e9n tener en cuenta el creciente uso y las posibles interacciones derivadas de la medicina alternativa, las plantas medicinales y los complementos alimentarios HIV Drug Interactions . ",
+            "source": "ManualClinico, section 29.2.2.",
+            "_distance": 0.7674973607063293
+        },
+        {
+            "text": "Con el control de la infecci\u00f3n gracias al tratamiento antirretroviral (TAR), el complejo demencia-SIDA ha ido evolucionando a formas m\u00e1s leves de afectaci\u00f3n de las funciones neurocognitivas, no exentas tambi\u00e9n de consecuencias a nivel funcional para el individuo que las presenta. En este primer punto del cap\u00edtulo 23 abordaremos el origen de los trastornos neurocognitivos que presentan las personas que conviven con el VIH, su diagn\u00f3stico y su tratamiento. ",
+            "source": "ManualClinico, section 23.1.",
+            "_distance": 0.7700310945510864
+        },
+        {
+            "text": "Es fundamental el manejo de las interacciones con el tratamiento antirretroviral (consultar Apartado b del Cap\u00edtulo 8 de este mismo documento para posibles interacciones farmacol\u00f3gicas ). ",
+            "source": "ManualClinico, section 25.3.3.",
+            "_distance": 0.7747192978858948
+        }
+    ],
+    "answer": "No response content"
+}

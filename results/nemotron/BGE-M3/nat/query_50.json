@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 es una carga viral baja?\n",
+    "context_info": [
+        {
+            "text": " Interpretaci\u00f3n de viremias bajas En un 15-30% de pacientes con carga viral indetectable se detectan ocasionalmente episodios aislados y transitorios de viremia de bajo nivel (<500 copias/mL) denominados blips, que vuelven a ser inferiores a 50 copias/mL espont\u00e1neamente. Podr\u00edan estar causados por la replicaci\u00f3n del VIH en reservorios, fluctuaciones biol\u00f3gicas o errores en el procesamiento, y no parecen tener especial relevancia cl\u00ednica. ",
+            "source": "ManualClinico, section 6.5.4.",
+            "_distance": 0.8053054213523865
+        },
+        {
+            "text": " La carga viral \u2013tambi\u00e9n conocida como viremia\u2013 es la cantidad de virus presente en la sangre y en otras localizaciones del organismo (fluidos genitales, tejidos, etc.). Se determina a trav\u00e9s de una muestra de sangre.  La carga viral determina cu\u00e1l es la capacidad infectiva de los fluidos corporales. Estos niveles son m\u00e1s elevados en las personas que han adquirido el virus recientemente (hasta 40 millones de copias en un mililitro de sangre). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
+            "_distance": 0.8274927139282227
+        },
+        {
+            "text": " Carga viral: La cantidad de virus presente en la sangre, los fluidos genitales o en muestras de tejido.  Carga viral indetectable: Cuando la cantidad de VIH (carga viral) es inferior a 50 copias por mililitro (copias/mL) de sangre. En ocasiones este umbral puede ser todav\u00eda m\u00e1s bajo (20 copias/mL) dependiendo de\u00a0 la prueba de laboratorio utilizada.  C\u00e9lula diana: Una c\u00e9lula que el virus necesita para poder establecer la infecci\u00f3n en una persona. ",
+            "source": "GTT_guia_transmision_2020_W_Glosario, section 1.0.",
+            "_distance": 0.8331996202468872
+        },
+        {
+            "text": "Adem\u00e1s del fracaso virol\u00f3gico existen otras dos situaciones caracterizadas por CV detectable: \u2022 \u201cBlip \u201d: despu\u00e9s de alcanzada la supresi\u00f3n virol\u00f3gica hay una carga viral detectable, generalmente de bajo nivel que en la siguiente determinaci\u00f3n se ha vuelto a hacer indetectable. Generalmente no son predictores de fracaso virol\u00f3gico ulterior. \u2022 Viremia de bajo nivel: cargas virales persistentemente detectables en general menores de 200 copias/mL. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.8613023161888123
+        },
+        {
+            "text": " Cambio de TAR en pacientes con carga viral suprimida En nuestro medio la mayor\u00eda de los pacientes (>90%) con infecci\u00f3n por VIH est\u00e1n con carga viral suprimida y el cambio de tratamiento en estos pacientes es mucho m\u00e1s frecuente que el cambio por fracaso terap\u00e9utico o el inicio de tratamiento. Las Gu\u00edas de GeSIDA/PNS contemplan extensamente los cambios de TAR en este escenario cl\u00ednico. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 0.9035475850105286
+        }
+    ],
+    "answer": "Una carga viral baja se refiere a un nivel bajo de virus (en este caso, VIH) presente en la sangre o otros fluidos corporales. Seg\u00fan el conocimiento proporcionado, existen dos conceptos relacionados con una carga viral baja:\n\n1. \"Blip\" (o Pico Transitorio): \n   - Niveles: Generalmente menor a 500 copias/mL.\n   - Duraci\u00f3n: Episodios aislados y transitorios.\n   - Evoluci\u00f3n: La carga viral vuelve a ser indetectable (<50 copias/mL) de manera espont\u00e1nea en la siguiente determinaci\u00f3n.\n   - Relevancia Cl\u00ednica: No parece tener especial relevancia cl\u00ednica. Pueden deberse a replicaci\u00f3n viral en reservorios, fluctuaciones biol\u00f3gicas o errores en el procesamiento.\n\n2. Viremia de Bajo Nivel:\n   - Niveles: Cargas virales persistentemente detectables, generalmente menores de 200 copias/mL.\n   - Duraci\u00f3n: Persistente (a diferencia del \"blip\", que es transitorio).\n   - Relevancia Cl\u00ednica: Aunque no se detalla expl\u00edcitamente en el conocimiento proporcionado, su menci\u00f3n junto a los \"blips\" y el fracaso virol\u00f3gico sugiere que podr\u00eda requerir atenci\u00f3n o ajustes en la monitorizaci\u00f3n o tratamiento, pero para m\u00e1s detalles espec\u00edficos sobre su manejo, ser\u00eda recomendable consultar las Gu\u00edas de GeSIDA/PNS o a un m\u00e9dico especialista."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfTengo otras opciones si mi tratamiento no funciona?\n",
+    "context_info": [
+        {
+            "text": "Se han utilizado soluciones t\u00f3picas con esteroides, antis\u00e9pticos, lidoca\u00edna, antibi\u00f3ticos (tetraciclinas) con \u00e9xito limitado. Adem\u00e1s de lidoca\u00edna, en ocasiones son necesarios m\u00f3rficos. Cuando el cuadro persiste y es especialmente grave se puede emplear la talidomida. ",
+            "source": "ManualClinico, section 16.4.4.",
+            "_distance": 0.8053194880485535
+        },
+        {
+            "text": "A la hora de decidir cu\u00e1l es la mejor opci\u00f3n, es aconsejable contar con el soporte de un pediatra experto en infecci\u00f3n VIH. Para efectuar el cambi\u00f3 debemos disponer de 2 e idealmente m\u00e1s f\u00e1rmacos completamente activos. En el caso que para construir un nuevo r\u00e9gimen, se requiera de un antirretroviral que no tenga indicaci\u00f3n pedi\u00e1trica, se valorara su administraci\u00f3n bajo uso compasivo. En pacientes con m\u00faltiples fracasos y con un patr\u00f3n de resistencias que determine ausencia de una combinaci\u00f3n de antirretrovirales que garantice el control de la replicaci\u00f3n viral, mantendremos la pauta menos t\u00f3xica a la espera de nuevas opciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8079691529273987
+        },
+        {
+            "text": "Es probable que la variaci\u00f3n atribuible a los progresos terap\u00e9uticos contribuya a la diversidad de estos hallazgos . Para el tratamiento se pueden emplear betalact\u00e1micos con acci\u00f3n anaerobicida como amoxicilina/\u00e1cido clavul\u00e1nico o bien macr\u00f3lidos junto a metronidazol (en al\u00e9rgicos a betalact\u00e1micos) de forma alternativa. ",
+            "source": "ManualClinico, section 16.3.",
+            "_distance": 0.8331096768379211
+        },
+        {
+            "text": "El tratamiento es m\u00e1s eficaz si se inicia precozmente. El tratamiento antiv\u00edrico con an\u00e1logos de nucle\u00f3sidos es eficaz, seguro y bien tolerado. Otras formas cl\u00ednicas son la esofagitis, la proctitis y la encefalitis (rara en pacientes con infecci\u00f3n por el VIH). La profilaxis primaria no est\u00e1 recomendada y la secundaria debe plantearse ante recurrencias graves o muy frecuentes. ",
+            "source": "ManualClinico, section 12.4.1.",
+            "_distance": 0.8516749739646912
+        },
+        {
+            "text": "Por un lado, no se han estudiado en estos pacientes y por otro, el VIH-2 presenta menos opciones de rescate y una mayor aparici\u00f3n de mutaciones de multirresistencia. En el caso de existir fracaso terap\u00e9utico se debe construir un nuevo r\u00e9gimen utilizando f\u00e1rmacos previamente no usados, teniendo en cuenta el estudio de resistencias. Ahora bien, son pocos los laboratorios que tiene desarrollado el test para amplificar el VIH-2 y monitorizar sus mutaciones. No existen t\u00e9cnicas diagn\u00f3sticas de resistencias frente al VIH-2 comercializadas y se hacen en un \u00e1mbito de investigaci\u00f3n. El patr\u00f3n de mutaciones que aparece y genera resistencias a los f\u00e1rmacos antirretrovirales tampoco es exactamente igual al del VIH-1, por lo que habr\u00e1 que tenerlo en cuenta a la hora de construir nuevos reg\u00edmenes. ",
+            "source": "ManualClinico, section 5.6.3.",
+            "_distance": 0.8571503162384033
+        }
+    ],
+    "answer": "S\u00ed, existen varias opciones a considerar si tu tratamiento actual contra el VIH no est\u00e1 funcionando como se espera. Aqu\u00ed te presento algunas de ellas, basadas en el conocimiento especializado que tengo sobre el tema:\n\n1. Construcci\u00f3n de un nuevo r\u00e9gimen terap\u00e9utico: Si el tratamiento actual no es efectivo, se puede construir un nuevo r\u00e9gimen utilizando f\u00e1rmacos antirretrovirales que no hayas tomado previamente. Para esto, es crucial tener en cuenta el estudio de resistencias virales. Debes contar con al menos 2, e idealmente m\u00e1s, f\u00e1rmacos completamente activos contra tu cepa del virus.\n\n2. Uso compasivo de f\u00e1rmacos sin indicaci\u00f3n pedi\u00e1trica (si aplica): En casos donde no hay opciones disponibles dentro de las indicaciones pedi\u00e1tricas y se requiere un antirretroviral espec\u00edfico, podr\u00eda valorarse su administraci\u00f3n bajo un protocolo de uso compasivo. Esto siempre debe ser evaluado y aprobado por un profesional de la salud especializado en infecci\u00f3n por VIH, preferiblemente un pediatra con experiencia en el \u00e1rea.\n\n3. Mantenimiento de la pauta menos t\u00f3xica: Si, despu\u00e9s de m\u00faltiples fracasos terap\u00e9uticos y an\u00e1lisis de resistencias, no se identifica una combinaci\u00f3n efectiva de antirretrovirales para controlar la replicaci\u00f3n viral, la estrategia podr\u00eda ser mantener el r\u00e9gimen que resulte menos t\u00f3xico para ti, a la espera de nuevas opciones terap\u00e9uticas que puedan surgir en el futuro.\n\n4. Reevaluaci\u00f3n y ajustes en el manejo de s\u00edntomas y complicaciones: Aunque no sea un cambio en el tratamiento antiviral, si est\u00e1s experimentando s\u00edntomas como dolor (por ejemplo, debido a neuropat\u00eda), podr\u00edan ofrecerse alternativas para su manejo, como la talidomida en casos graves de \u00falceras bucales resistentes, o incluso opioides bajo supervisi\u00f3n m\u00e9dica para el dolor severo.\n\nRecomendaci\u00f3n importante: Para tomar cualquier decisi\u00f3n sobre tu tratamiento, es esencial que est\u00e9s en estrecha colaboraci\u00f3n con un profesional de la salud, espec\u00edficamente un pediatra experto en infecci\u00f3n por VIH, quien puede ofrecer asesoramiento personalizado basado en tu caso espec\u00edfico y los \u00faltimos avances terap\u00e9uticos."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "Si tengo antecedentes familiares de enfermedad cardiovascular, \u00bfqu\u00e9 pasos adicionales debo tomar mientras recibo tratamiento para el VIH?\n",
+    "context_info": [
+        {
+            "text": " - Es importante medir, al comienzo de la detecci\u00f3n de la infecci\u00f3n y peri\u00f3dicamente despu\u00e9s, el riesgo cardiovascular porque tanto la infecci\u00f3n por VIH como algunos tratamientos antirretrovirales se suman al riesgo cardiovascular previo del seropositivo. Incidir sobre el control de los factores de riesgo modificables, asesorando para hacer una dieta sana, ejercicio y abandonar el h\u00e1bito de fumar. Si fuera preciso, a\u00f1adir f\u00e1rmacos hipolipemiantes y antidiab\u00e9ticos. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.575880765914917
+        },
+        {
+            "text": " \u221a: Realizar1. Preferiblemente con la ecuaci\u00f3n ACC/AHA/SCVD (www.cvriskcalculator.com), o, en su defecto, con otras ecuaciones como la de Framingham adaptada a la poblaci\u00f3n con VIH (https://www.chip.dk/Resources/Clinical-risk-scores), o a la poblaci\u00f3n espa\u00f1ola(Score: https://heartscore.escardio.org/2016/quickcalculator.aspx?model=spain-castillan).  2. Anualmente, si enfermedad cardiovascular (ECV) previa, antecedentes familiares o RCV elevado (>10% en los pr\u00f3ximos 10 a\u00f1os). 83 3. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6453624963760376
+        },
+        {
+            "text": "Debe recoger los antecedentes familiares al nacimiento (en especial los relacionados con la gestaci\u00f3n, parto y exposici\u00f3n prenatal y/o perinatal a otras infecciones maternas y a f\u00e1rmacos antirretrovirales) y personales del paciente (edad gestacional, peso, patolog\u00eda, infecciones, desarrollo neurol\u00f3gico, tratamientos previos), adem\u00e1s de las manifestaciones y/o enfermedades asociadas a la infecci\u00f3n VIH y/o al tratamiento. \u2022 Exploraci\u00f3n cl\u00ednica. ",
+            "source": "ManualClinico, section 33.2.1.",
+            "_distance": 0.6554228067398071
+        },
+        {
+            "text": "Diversos estudios han comparado la disminuci\u00f3n del riesgo cardiovascular asociada a diferentes intervenciones en pacientes con infecci\u00f3n por VIH. El abandono del tabaquismo o controlar adecuadamente las cifras de tensi\u00f3n arterial o colesterol tendr\u00edan el mayor impacto, muy por delante de otras intervenciones como el diagn\u00f3stico y tratamiento precoz de la infecci\u00f3n por VIH o evitar TAR relacionados con un aumento del RCV. ",
+            "source": "ManualClinico, section 20.2.7.",
+            "_distance": 0.6902665495872498
+        },
+        {
+            "text": " Riesgo cardiovascular en los pacientes con infecci\u00f3n por VIH La fisiopatolog\u00eda de la enfermedad cardiovascular en la infecci\u00f3n por VIH es compleja y en ella intervienen tanto factores dependientes de la propia persona como factores relacionados con el VIH 3. Los factores de riesgo tradicionales como el tabaquismo, la hipertensi\u00f3n, la diabetes o la dislipemia son, en general, m\u00e1s prevalentes en la poblaci\u00f3n VIH que en la poblaci\u00f3n general. ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.6984702944755554
+        }
+    ],
+    "answer": "No response content"
+}

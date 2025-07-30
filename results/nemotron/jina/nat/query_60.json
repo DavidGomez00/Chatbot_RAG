@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 significa hacer un test de resistencias tras un fracaso del tratamiento?\n",
+    "context_info": [
+        {
+            "text": "El objetivo del TAR tras fracaso es mantener el control de la replicaci\u00f3n viral por debajo del l\u00edmite de detecci\u00f3n de la t\u00e9cnica utilizada para su valoraci\u00f3n . El cambio del TAR tras fracaso debe tener en cuenta la historia de f\u00e1rmacos antirretrovirales a los que ha estado expuesto el paciente, los resultados de los estudios de resistencias actuales y los previos, las caracter\u00edsticas del paciente y su capacidad para mantener la adherencia. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.652112603187561
+        },
+        {
+            "text": "En estos pacientes el objetivo debe ser conseguir disminuir la carga viral y evitar la transmisi\u00f3n, por lo que poder anticipar el fracaso del tratamiento es fundamental, lo que justifica plenamente la investigaci\u00f3n de resistencias transmitidas mediante la determinaci\u00f3n de una prueba genot\u00edpica de resistencias , que tambi\u00e9n puede determinar el subtipo viral. ",
+            "source": "ManualClinico, section 4.6.",
+            "_distance": 0.7264955639839172
+        },
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7718202471733093
+        },
+        {
+            "text": "Si la carga viral es mayor de 200 copias entonces suele ser factible realizar una prueba genot\u00edpica de resistencias. Esta prueba debe hacerse mientras que el paciente a\u00fan recibe el TAR que est\u00e1 fracasando o como m\u00e1ximo cuatro semanas despu\u00e9s de haberlo discontinuado. Si esta prueba genot\u00edpica de resistencias no encuentra mutaciones es probable que la causa del fracaso sea la mala adherencia al TAR. Si existen resistencias entonces resulta obligado el cambio a un nuevo TAR sin resistencias cruzadas. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.7836946249008179
+        },
+        {
+            "text": "En el caso de existir fracaso terap\u00e9utico se debe construir un nuevo r\u00e9gimen utilizando f\u00e1rmacos previamente no usados, teniendo en cuenta el estudio de resistencias. Ahora bien, son pocos los laboratorios que tiene desarrollado el test para amplificar el VIH-2 y monitorizar sus mutaciones. No existen t\u00e9cnicas diagn\u00f3sticas de resistencias frente al VIH-2 comercializadas y se hacen en un \u00e1mbito de investigaci\u00f3n. ",
+            "source": "ManualClinico, section 5.6.3.",
+            "_distance": 0.7849763631820679
+        }
+    ],
+    "answer": "Hacer un test de resistencias tras un fracaso del tratamiento antirretroviral (TAR) para el VIH implica realizar una prueba genot\u00edpica que analiza el material gen\u00e9tico del virus para identificar mutaciones espec\u00edficas. Estas mutaciones pueden hacer que el virus sea resistente a uno o m\u00e1s de los medicamentos antirretrovirales que el paciente est\u00e1 tomando.\n\nObjetivo del test de resistencias:\n\n1. Identificar mutaciones de resistencia: Determinar si el fracaso del tratamiento se debe a la aparici\u00f3n de cepas virales resistentes a los f\u00e1rmacos actuales.\n2. Gu\u00eda para un nuevo r\u00e9gimen terap\u00e9utico: Si se detectan mutaciones, el test ayuda a seleccionar nuevos medicamentos antirretrovirales a los que el virus a\u00fan es sensible, evitando as\u00ed resistencias cruzadas.\n\nCondiciones \u00f3ptimas para realizar el test:\n\n- Carga viral: Es m\u00e1s factible si la carga viral es mayor de 200 copias.\n- Momento de la prueba: Debe realizarse mientras el paciente masih est\u00e1 tomando el tratamiento que est\u00e1 fracasando o, como m\u00e1ximo, cuatro semanas despu\u00e9s de haberlo suspendido.\n\nInterpretaci\u00f3n de los resultados:\n\n- Sin mutaciones detectadas: Sugiere que el fracaso del tratamiento podr\u00eda deberse a mala adherencia al r\u00e9gimen terap\u00e9utico actual.\n- Mutaciones detectadas: Indica resistencia viral, lo que requiere un cambio en el tratamiento para incluir f\u00e1rmacos sin resistencias cruzadas."
+}

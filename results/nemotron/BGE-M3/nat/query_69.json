@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1l es el tratamiento antirretroviral recomendado si me quedo embarazada?\n",
+    "context_info": [
+        {
+            "text": " Tratamiento antirretroviral (TAR) durante el embarazo Los criterios para el uso de TAR en la mujer embarazada difieren respecto a las recomendaciones generales para el adulto, en el sentido de que debe considerarse la seguridad para la madre y el ni\u00f1o. Se deben considerar m\u00faltiples factores al elegir TAR para una mujer embarazada. La elecci\u00f3n del TAR se basar\u00e1 en el estudio de resistencias, las interacciones, la experiencia con el uso de estos medicamentos en el embarazo y en la seguridad de estos. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.5971429347991943
+        },
+        {
+            "text": " Prevenci\u00f3n de la transmisi\u00f3n vertical B\u00e1sicamente descansa en una adecuada gesti\u00f3n del tratamiento antirretroviral: la elecci\u00f3n de un TAR adecuado para una paciente no previamente tratada que quiere quedarse embarazada o que ya lo est\u00e1, y las recomendaciones para optimizar y adaptar el TAR al per\u00edodo gestacional en las pacientes que ya lo est\u00e1n tomando, es un asunto importante y complejo, que requiere conocimientos espec\u00edficos. ",
+            "source": "ManualClinico, section 32.2.2.",
+            "_distance": 0.6757184267044067
+        },
+        {
+            "text": "Hiperbilirrubinemia maternal; se recomienda vigilancia de la bilirrubina neonatal. \u2022 COBI: Niveles sub\u00f3ptimos durante el 2\u00ba y 3\u00ba trimestre. \u2022 EFV: Si la mujer est\u00e1 tomando ya EFV cuando queda embarazada es posible continuar su uso. No es un f\u00e1rmaco de elecci\u00f3n en las 8 primeras semanas de gestaci\u00f3n. \u2022 RPV: Poca experiencia en gestaci\u00f3n. \u2022 NVP: No indicado como f\u00e1rmaco de inicio en embarazo. \u2022 ABC/3TC: Solo en pacientes con HLA-B*5701 negativo. Buen paso placentario \u2022 TDF/FTC: Buen paso placentario. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.748177170753479
+        },
+        {
+            "text": "\u2022 RAL QD: Datos insuficientes sobre eficacia y seguridad durante gestaci\u00f3n \u2022 DTG: Su uso est\u00e1 contraindicado en el primer trimestre del embarazo. \u2022 BIC: Datos insuficientes sobre eficacia y seguridad durante gestaci\u00f3n. \u2022 EVG/c: Datos muy limitados en gestaci\u00f3n. Niveles mas bajos. \u2022 DRV/r: M\u00ednimo paso placentario. Experiencia de uso en gestaci\u00f3n. Debe usarse a dosis 600/100 BID durante el embarazo. No se recomienda la dosis de 800/100 QD \u2022 ATV/r: M\u00ednimo paso placentario. Gran experiencia en gestaci\u00f3n. ",
+            "source": "ManualClinico, section 31.1.2.",
+            "_distance": 0.7488600015640259
+        },
+        {
+            "text": "En mujeres embarazadas infectadas por el VIH que viven en zonas con moderado-alto riesgo de adquisici\u00f3n de malaria, la Organizaci\u00f3n Mundial de la Salud (OMS) recomienda la administraci\u00f3n de tratamiento preventivo intermitente (TPI) con sulfadoxina-pirimetamina. La primera dosis debe administrarse en el segundo trimestre, continuando con una dosis mensual y recibiendo la \u00faltima en el momento del parto. ",
+            "source": "ManualClinico, section 29.4.2.",
+            "_distance": 0.753146231174469
+        }
+    ],
+    "answer": "Excelente pregunta! Al considerar un tratamiento antirretroviral (TAR) durante el embarazo, es crucial priorizar la seguridad tanto para ti como para tu beb\u00e9. Aunque no puedo ofrecerte una respuesta personalizada sin conocer tus antecedentes m\u00e9dicos y el perfil de resistencia viral espec\u00edfico, te proporcionar\u00e9 una visi\u00f3n general basada en las recomendaciones generales que tengo a disposici\u00f3n:\n\nF\u00e1rmacos con buen perfil de seguridad y eficacia durante el embarazo:\n\n1. TDF/FTC (Tenofavir/Emtricitabina): Se considera una opci\u00f3n segura con un buen paso placentario, lo que significa que ofrece protecci\u00f3n al beb\u00e9.\n2. ABC/3TC (Abacavir/Lamivudina): Esta combinaci\u00f3n es adecuada solo si tienes un resultado negativo para el gen HLA-B5701. Es importante realizar esta prueba antes de iniciar este tratamiento.\n\nF\u00e1rmacos que requieren precauci\u00f3n o tienen limitaciones en el embarazo:\n\n- EFV (Efavirenz): Si ya est\u00e1s tomando EFV cuando te quedas embarazada, es posible continuar con \u00e9l, pero no se recomienda como primera opci\u00f3n durante las primeras 8 semanas de gestaci\u00f3n debido a posibles riesgos para el feto.\n  \n- DRV/r (Darunavir/Ritonavir): Se utiliza, especialmente a dosis de 600/100 mg dos veces al d\u00eda. La dosis de 800/100 mg una vez al d\u00eda no se recomienda durante el embarazo.\n\n- ATV/r (Atazanavir/Ritonavir): Con un m\u00ednimo paso placentario, tiene gran experiencia de uso en gestaci\u00f3n, lo que la hace relativamente segura.\n\nF\u00e1rmacos con datos insuficientes o contraindicados en el embarazo:\n\n- COBI (Cobicistat): Niveles sub\u00f3ptimos durante el 2\u00ba y 3\u00ba trimestre.\n- RPV (Rilpivirina): Poca experiencia en gestaci\u00f3n.\n- NVP (Nevirapina): No recomendado como f\u00e1rmaco de inicio en embarazo.\n- RAL QD (Raltegravir una vez al d\u00eda): Datos insuficientes sobre eficacia y seguridad.\n- DTG (Dolutegravir): Contraindicado en el primer trimestre debido a posibles riesgos de malformaciones neurales.\n- BIC (Bictegravir) y EVG/c (Elvitegravir/Cobicistat): Datos insuficientes sobre eficacia y seguridad durante la gestaci\u00f3n.\n\nRecomendaci\u00f3n General:\nPara una gu\u00eda espec\u00edfica y personalizada, es fundamental que consultes a tu m\u00e9dico. Ellos podr\u00e1n ofrecerte el mejor plan de tratamiento basado en:\n- Tu historial m\u00e9dico\n- Perfil de resistencia viral\n- Estadio de la infecci\u00f3n por VIH\n- Condici\u00f3n actual del embarazo\n\nAdem\u00e1s, si vives en una zona con moderado-alto riesgo de malaria, tu m\u00e9dico puede recomendarte tratamiento preventivo intermitente (TPI) con sulfadoxina-pirimetamina, iniciando en el segundo trimestre."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1l es el principal motivo/causa para que mi tratamiento falle?\n",
+    "context_info": [
+        {
+            "text": "\u2022Fracaso cl\u00ednico, progresi\u00f3n de la enfermedad, debe excluirse de \u00e9ste supuesto: los cuadros de reconstituci\u00f3n inmunol\u00f3gica tras iniciar el TAR, procesos secundarios al da\u00f1o sobre \u00f3rganos que condicion\u00f3 previamente el VIH. As\u00ed mismo antes de confirmar que estamos ante un fracaso cl\u00ednico del TAR, deben descartarse otras causas concomitantes tales como infecciones (tuberculosis), neoplasias o la malnutrici\u00f3n. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8863584995269775
+        },
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.9244652390480042
+        },
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.9371204376220703
+        },
+        {
+            "text": "Los habituales efectos adversos a corto y largo plazo de los antirretrovirales, y otros aspectos dependientes del paciente o del propio sistema, son causa frecuente de abandono del tratamiento y de la consiguiente aparici\u00f3n de resistencias. Es \u00fatil conocer estos factores que influyen en la adherencia y ayudar a minimizar aquellos que no la favorecen. ",
+            "source": "manejo_paciente_vih_en_ap, section 23.0.",
+            "_distance": 0.9488608837127686
+        },
+        {
+            "text": " Factores que condicionan el fracaso del TAR Los principales condicionantes del fracaso del TAR son: \u2022Dependientes del paciente : mala adherencia al TAR, condicionada muchas veces por la tolerabilidad del TAR, dificultad de acceso a la atenci\u00f3n sanitaria o de seguimiento de los controles m\u00e9dicos, errores de dosificaci\u00f3n o existencia de comorbilidades que pueden afectar la adherencia (abuso de sustancias, patolog\u00eda psiqui\u00e1trica, afectaci\u00f3n neurocognitiva). ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 0.9782294034957886
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, el principal motivo o causa de fracaso del Tratamiento Antirretroviral (TAR) es:\n\n1. Mala adherencia al TAR\n\nEsto significa que la principal raz\u00f3n por la que un tratamiento contra el VIH puede fallar es debido a una incompleta o mala adherencia por parte del paciente al r\u00e9gimen de medicaci\u00f3n prescrito. Esto puede deberse a varios factores, incluyendo:\n\n Dificultad para seguir el horario de dosificaci\u00f3n\n Tolerabilidad del tratamiento (efectos secundarios adversos)\n Dificultades de acceso a la atenci\u00f3n sanitaria o seguimiento de controles m\u00e9dicos\n Errores en la dosificaci\u00f3n\n Presencia de comorbilidades que afectan la adherencia, como:\n\t+ Abuso de sustancias\n\t+ Patolog\u00eda psiqui\u00e1trica\n\t+ Problemas neurocognitivos\n\nEs importante destacar que otros factores como dosis insuficientes, malabsorci\u00f3n o interacciones con otras medicaciones tambi\u00e9n pueden influir, pero la mala adherencia es el principal condicionante del fracaso del TAR. \n\n\u00bfQu\u00e9 hacer a continuaci\u00f3n?\nSi est\u00e1s experimentando dificultades con tu tratamiento, te recomiendo hablar con tu m\u00e9dico responsable para abordar estas cuestiones y encontrar soluciones personalizadas para asegurar la efectividad de tu tratamiento."
+}

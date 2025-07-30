@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfCu\u00e1nto tiempo tiene que tomar una persona con VIH su tratamiento antirretroviral?\n",
+    "query": "\u00bfSi estoy en tratamiento con atazanavir o darunavir, debo preocuparme por un aumento del colesterol y su impacto en mi coraz\u00f3n?\n",
     "context_info": [
         {
-            "text": "La respuesta mejora con cifras altas de linfocitos CD4+ y carga viral de VIH indetectable, aunque no es recomendable demorar la vacunaci\u00f3n en personas con alto riesgo de infecci\u00f3n. Se recomiendan dos dosis con un intervalo de 6-18 meses y medir los t\u00edtulos de anticuerpos al mes de la \u00faltima dosis. La eficacia de la vacuna puede aumentarse administrando una tercera dosis. ",
-            "source": "ManualClinico, section 27.4.1.",
-            "_distance": 0.6481882333755493
+            "text": "Los f\u00e1rmacos antiretrovirales que pueden causar elevaciones en los l\u00edpidos son los inhibidores de la proteasa, en especial si el potenciador utilizado es ritonavir, y el uso de efavirenz. El uso de tenofovir disoproxil fumarato tiene un efecto reductor sobre los niveles de colesterol total que se pierde cuando se usa la nueva formulaci\u00f3n de tenofovir alafenamida. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.8291929364204407
         },
         {
-            "text": "Igualmente, aquellas personas que hayan sido diagnosticadas recientemente y acaben de comenzar el tratamiento antirretroviral, deber\u00edan retrasar entre 3-6 meses el viaje, con el objetivo de comprobar la tolerancia y respuesta al tratamiento, afianzar la adherencia al mismo, minimizar el riesgo de presentaci\u00f3n de un s\u00edndrome de reconstituci\u00f3n inmune durante el viaje, y mejorar y estabilizar la situaci\u00f3n inmunol\u00f3gica lo m\u00e1ximo posible previo a la partida. ",
-            "source": "ManualClinico, section 29.2.1.",
-            "_distance": 0.6800289154052734
+            "text": "Algunos estudios de cohortes retrospectivos han asociado el uso de abacavir o algunos IPs (LPV/r o DRV/r) a un aumento de eventos cardiovasculares, por lo que es recomendable utilizarlos con precauci\u00f3n en pacientes con alto riesgo cardiovascular (RCV). ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.8672409653663635
         },
         {
-            "text": "Generalmente, suele estar entre 50.000 y 100.000 copias/mL cuando se inicia el tratamiento antirretroviral.  4. El tratamiento deber\u00eda reducir la carga viral a menos de 50 copias/mL en un plazo de unos 3 meses. Esto tambi\u00e9n reduce la capacidad de infecci\u00f3n de todos los fluidos corporales.  Figura 5: LA RELACI\u00d3N ENTRE CARGA VIRAL Y TRANSMISI\u00d3N DEL VIH EN EL ESTUDIO DE RAKAI La carga viral del VIH est\u00e1 relacionada de forma directa con el riesgo de transmisi\u00f3n del virus. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.680806040763855
+            "text": "Sin embargo, los f\u00e1rmacos antirretrovirales m\u00e1s modernos, a pesar de tener perfiles metab\u00f3licos mucho mejores, no est\u00e1n totalmente exentos de potenciales efectos a nivel metab\u00f3lico. Los IP utilizados en la actualidad, darunavir y atazanavir, tambi\u00e9n se han asociado a resistencia a la insulina , as\u00ed como los II , que tambi\u00e9n se han asociado a alteraciones del metabolismo hidrocarbonado en algunos estudios. ",
+            "source": "ManualClinico, section 20.2.4.",
+            "_distance": 0.9412841200828552
         },
         {
-            "text": "Pautas de profilaxis antirretroviral: En los casos de bajo riesgo de infecci\u00f3n, la profilaxis debe hacerse con monoterapia empleando zidovudina (AZT), y manteni\u00e9ndose \u00e9sta durante 4 semanas. . ",
-            "source": "ManualClinico, section 31.2.1.",
-            "_distance": 0.69536292552948
+            "text": " Riesgo cardiovascular Algunos antirretrovirales (IP e ITIAN) elevan los niveles de colesterol total (CT), de lipoprote\u00ednas de baja densidad (c-LDL) y, sobre todo, de triglic\u00e9ridos, adem\u00e1s de disminuir los niveles de lipoprote\u00ednas de alta densidad (c-HDL). Esto se suma a otros factores de riesgo cl\u00e1sicos, m\u00e1s frecuentes en los seropositivos (tabaquismo, diabetes, hipertensi\u00f3n). ",
+            "source": "manejo_paciente_vih_en_ap, section 18.0.",
+            "_distance": 0.9700009822845459
         },
         {
-            "text": "Documento De Consenso de GeSIDA sobre el control y monitorizaci\u00f3n de la infecci\u00f3n por VIH En pacientes inmunodeprimidos, incluidos los pacientes VIH+ se recomienda la monitorizaci\u00f3n de la respuesta serol\u00f3gica 1-2 meses despu\u00e9s de completar la vacunaci\u00f3n y de forma anual, con administraci\u00f3n de una dosis de recuerdo si los niveles de antiHBs son inferiores a 10 mUI/mL. ",
-            "source": "ManualClinico, section 27.3.6.",
-            "_distance": 0.7031756043434143
+            "text": " Dislipemia La infecci\u00f3n por VIH sin tratamiento antiretroviral tiene un efecto sobre el nivel de los l\u00edpidos: baja los niveles de colesterol total y colesterol HDL y LDL y sube los niveles de triglic\u00e9ridos. El propio virus y determinados f\u00e1rmacos antiretrovirales est\u00e1n asociados a un aumento del riesgo cardiovascular independientemente de sus efectos sobre los l\u00edpidos. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.9721188545227051
         }
     ],
-    "answer": "Respuesta basada en el conocimiento proporcionado (que, aunque espec\u00edfico, no aborda directamente la duraci\u00f3n del tratamiento):\n\nPara m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\n\nRazonamiento:\nEl conocimiento proporcionado cubre aspectos espec\u00edficos como:\n\n La respuesta a la vacunaci\u00f3n en funci\u00f3n de los niveles de linfocitos CD4+ y carga viral.\n El retraso recomendado para el viaje despu\u00e9s del diagn\u00f3stico y comienzo del tratamiento antirretroviral.\n La relaci\u00f3n entre carga viral y transmisi\u00f3n del VIH.\n Pautas de profilaxis antirretroviral en casos de bajo riesgo de infecci\u00f3n.\n Monitorizaci\u00f3n de la respuesta serol\u00f3gica en pacientes inmunodeprimidos, incluidos aquellos con VIH+.\n\nSin embargo, no se menciona expl\u00edcitamente la duraci\u00f3n del tratamiento antirretroviral. El tratamiento antirretroviral para el VIH suele ser de por vida, ajust\u00e1ndose seg\u00fan la evoluci\u00f3n del paciente, pero este detalle no est\u00e1 incluido en el conocimiento proporcionado.\n\nPor lo tanto, para obtener una respuesta precisa y personalizada a esta pregunta, es recomendable consultar a un m\u00e9dico especialista en el tratamiento del VIH."
+    "answer": "No exactamente por el colesterol, pero s\u00ed por otro aspecto relacionado con la salud cardiovascular. Seg\u00fan mi conocimiento especializado en VIH, los inhibidores de proteasa (IP) como atazanavir y darunavir, utilizados en tu tratamiento, han sido asociados principalmente a un aumento en la resistencia a la insulina, m\u00e1s que a un aumento directo en los niveles de colesterol.\n\nSin embargo, es importante tener en cuenta los siguientes puntos:\n\n1. Resistencia a la insulina: Este efecto puede contribuir indirectamente al aumento del riesgo cardiovascular a largo plazo, ya que la resistencia a la insulina est\u00e1 relacionada con el desarrollo de diabetes tipo 2, un factor de riesgo cardiovascular.\n\n2. No hay un aumento significativo en colesterol directamente atribuido a atazanavir o darunavir en mi conocimiento base. Los IP m\u00e1s antiguos y ciertos f\u00e1rmacos como la efavirenz son los que han mostrado una asociaci\u00f3n m\u00e1s clara con el aumento de l\u00edpidos (colesterol y triglic\u00e9ridos).\n\n3. Riesgo cardiovascular general: Como persona viviendo con VIH, debes ser consciente de que la infecci\u00f3n por VIH en s\u00ed, junto con otros factores de riesgo cl\u00e1sicos (tabaquismo, hipertensi\u00f3n, diabetes), puede aumentar el riesgo cardiovascular. Por lo tanto, mantener un estilo de vida saludable, incluyendo una dieta equilibrada, ejercicio regular y evitar el tabaco, es crucial.\n\nRecomendaci\u00f3n:\n- Monitoreo: Aseg\u00farate de que tu m\u00e9dico est\u00e9 monitoreando tus niveles de az\u00facar en sangre y otros par\u00e1metros relacionados con la salud cardiovascular peri\u00f3dicamente.\n- Estilo de vida saludable: Mant\u00e9n un enfoque preventivo mediante una dieta saludable, ejercicio regular y evitando factores de riesgo modificables.\n- Consulta regular: Durante tus consultas regulares, discute cualquier inquietud relacionada con tu tratamiento y la salud cardiovascular con tu m\u00e9dico. Ellos pueden ofrecer orientaci\u00f3n personalizada basada en tu perfil de salud completo.\n\nPara m\u00e1s detalles espec\u00edficos sobre tu caso, consulta a tu m\u00e9dico, ya que ellos tienen acceso a tu historial m\u00e9dico completo y pueden proporcionar asesoramientopersonalizado."
 }

@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 se considera un Fracaso virol\u00f3gico?\n",
+    "context_info": [
+        {
+            "text": " Fracaso del TAR El fracaso del TAR se refiere tanto a no alcanzar la supresi\u00f3n virol\u00f3gica (CV <50 copias/mL), despu\u00e9s de seis meses de iniciado un TAR en un paciente na\u00efve como al rebote virol\u00f3gico que ocurre en un paciente que ya hab\u00eda alcanzado la supresi\u00f3n virol\u00f3gica. En pacientes na\u00efve con CV muy alta (>1.000.000 copias/mL) es posible que, aunque el TAR est\u00e9 siendo eficaz, no se alcance la indetectabilidad en los primeros seis meses, especialmente si el TAR est\u00e1 basado en IP/p. Si la CV sigue descendiendo progresivamente puede ser apropiado esperar unas semanas m\u00e1s. En la actualidad las pautas iniciales de TAR recomendadas como preferentes tienen un muy bajo riesgo de fracaso virol\u00f3gico con desarrollo de resistencias. En general el nivel de CV que establecemos para definir fracaso virol\u00f3gico son 200 copias/mL. Umbrales inferiores condicionar\u00edan cambios de TAR innecesarios. El fracaso virol\u00f3gico debe confirmarse siempre con una segunda determinaci\u00f3n de CV. Adem\u00e1s del fracaso virol\u00f3gico existen otras dos situaciones caracterizadas por CV detectable: \u2022 \u201cBlip \u201d: despu\u00e9s de alcanzada la supresi\u00f3n virol\u00f3gica hay una carga viral detectable, generalmente de bajo nivel que en la siguiente determinaci\u00f3n se ha vuelto a hacer indetectable. Generalmente no son predictores de fracaso virol\u00f3gico ulterior.",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.7971621751785278
+        },
+        {
+            "text": "Fracaso virol\u00f3gico Se debe extraer un TR e investigar si existen problemas de adherencia o interacciones farmacol\u00f3gicas. c. TR en mujeres en mujeres embarazadas \u2022 \u25e6 Naive: extraer siempre TR, incluyendo mutaciones de INI si se van a usar. No se debe esperar al resultado para el inicio del TAR. \u2022 \u25e6 En tratamiento: extraer TR siempre que haya carga viral detectable. ",
+            "source": "ManualClinico, section 8.4.3.",
+            "_distance": 0.9682922959327698
+        },
+        {
+            "text": " Definici\u00f3n de fragilidad La fragilidad es un s\u00edndrome biol\u00f3gico consistente en la disminuci\u00f3n de la reserva funcional homeost\u00e1tica, y en la menor capacidad de respuesta a estresores externos. Es el resultado de una acumulaci\u00f3n de d\u00e9ficits en distintos sistemas fisiol\u00f3gicos y condiciona vulnerabilidad incluyendo hospitalizaci\u00f3n, discapacidad y muerte.",
+            "source": "ManualClinico, section 26.3.1.",
+            "_distance": 1.1540945768356323
+        },
+        {
+            "text": "La mayor\u00eda de estos trastornos son leves y su manejo no difiere del de la poblaci\u00f3n general. Un estudio prospectivo multic\u00e9ntrico encontr\u00f3 alteraciones ecocardiogr\u00e1ficas valvulares en el 77,2% de 803 PVVIH pero s\u00f3lo 4,7% cl\u00ednicamente relevante s. ",
+            "source": "ManualClinico, section 20.5.",
+            "_distance": 1.1848514080047607
+        },
+        {
+            "text": "Se ha descrito la negativizaci\u00f3n del ARN-VHD, seis meses despu\u00e9s de la finalizaci\u00f3n del tratamiento, en el 23-57% de los pacientes, pero la reca\u00edda posterior se produce en la mayor\u00eda de los casos, por lo que son necesarios nuevos tratamientos. ",
+            "source": "ManualClinico, section 27.3.8.",
+            "_distance": 1.1912884712219238
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, se considera Fracaso Virol\u00f3gico en los siguientes escenarios:\n\n1. No alcanzar la supresi\u00f3n virol\u00f3gica: Cuando un paciente na\u00efve (sin tratamiento previo) no logra reducir su Carga Viral (CV) a menos de 50 copias/mL despu\u00e9s de seis meses de haber iniciado el Tratamiento Antirretroviral (TAR).\n\n2. Rebote virol\u00f3gico: Cuando un paciente que ya hab\u00eda alcanzado la supresi\u00f3n virol\u00f3gica (CV indetectable) experimenta un aumento en su CV.\n\nNota importante:\n- El nivel de Carga Viral establecido para definir fracaso virol\u00f3gico es de 200 copias/mL. Umbrales inferiores podr\u00edan llevar a cambios innecesarios en el TAR.\n- El fracaso virol\u00f3gico debe ser confirmado con una segunda determinaci\u00f3n de CV para asegurarse de que no se trata de un \"blip\" (un aumento transitorio y aislado de la CV)."
+}

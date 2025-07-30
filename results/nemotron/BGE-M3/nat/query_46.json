@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfExisten efectos tard\u00edos del tratamiento antirretroviral que deber\u00eda tener en cuenta?\n",
+    "context_info": [
+        {
+            "text": " Tratamiento antirretroviral A d\u00eda de hoy, la infecci\u00f3n por VIH no se puede erradicar, pero el tratamiento antirretroviral de gran actividad (TAR o TARGA) aumenta la supervivencia, retrasa la progresi\u00f3n cl\u00ednica y favorece la restauraci\u00f3n inmunol\u00f3gica. Consiste en la administraci\u00f3n, de forma combinada, de al menos tres f\u00e1rmacos y su objetivo es impedir la replicaci\u00f3n viral y mantener la carga viral plasm\u00e1tica (CVP) indetectable (\udbc0\udc01 50 copias/ml) el mayor tiempo posible. ",
+            "source": "manejo_paciente_vih_en_ap, section 13.0.",
+            "_distance": 0.7711480259895325
+        },
+        {
+            "text": "Puede tener como consecuencias: desgarros anales, priapismo\u2026; sexo menos seguro (infecciones de transmisi\u00f3n sexual); toxicidad de las drogas; interacciones con los f\u00e1rmacos antirretrovirales y mala adherencia; paranoia, psicosis, bloqueos, p\u00e9rdida de conocimiento, amnesia, despersonalizaci\u00f3n, \u2026; infecciones relacionadas con el consumo intravenoso; imposibilidad de practicar sexo sin ChemSex ; alteraci\u00f3n de la vida, tanto a nivel personal como profesional. ",
+            "source": "ManualClinico, section 25.3.4.",
+            "_distance": 0.7845699191093445
+        },
+        {
+            "text": "Durante la quimioterapia se debe continuar con el tratamiento antirretroviral, aunque puede ser necesario un cambio de pauta para prevenir las interacciones farmacol\u00f3gicas. En el caso de que el diagn\u00f3stico de la infecci\u00f3n VIH se haya realizado coincidiendo con el diagn\u00f3stico de c\u00e1ncer de pulm\u00f3n, el panel de expertos de GeSIDA recomienda iniciar el tratamiento antirretroviral tan pronto como sea posible tras comenzar el tratamiento oncol\u00f3gico y el paciente est\u00e9 cl\u00ednicamente estable8 . ",
+            "source": "ManualClinico, section 21.3.1.",
+            "_distance": 0.7849844098091125
+        },
+        {
+            "text": "La historia natural de la infecci\u00f3n en este grupo de edad, requiere que se inicie precozmente el tratamiento antirretroviral (TAR), con el inconveniente de que la disponibilidad de f\u00e1rmacos en lactantes es limitada. Una vez iniciado el TAR es preciso un seguimiento exhaustivo de los pacientes, que debe incluir tanto el control de la respuesta al TAR y sus potenciales efectos secundarios, como la monitorizaci\u00f3n de su crecimiento y su desarrollo neurol\u00f3gico. ",
+            "source": "ManualClinico, section 33.1.",
+            "_distance": 0.7906214594841003
+        },
+        {
+            "text": "El principal h\u00e1ndicap del tratamiento antirretroviral son sus posibles interacciones, ya sea con f\u00e1rmacos concomitantes que se usen durante el viaje, como con la quimioprofilaxis de algunas enfermedades como el paludismo. Conviene tambi\u00e9n tener en cuenta el creciente uso y las posibles interacciones derivadas de la medicina alternativa, las plantas medicinales y los complementos alimentarios HIV Drug Interactions . ",
+            "source": "ManualClinico, section 29.2.2.",
+            "_distance": 0.7911048531532288
+        }
+    ],
+    "answer": "S\u00ed, existen efectos tard\u00edos y potenciales complicaciones a largo plazo asociadas con el tratamiento antirretroviral (TAR) que debes considerar. A continuaci\u00f3n, te menciono algunos de ellos bas\u00e1ndome en el conocimiento proporcionado:\n\n1. Toxicidad de las drogas: Algunos f\u00e1rmacos antirretrovirales pueden tener efectos secundarios a largo plazo, como problemas hep\u00e1ticos, da\u00f1o renal, alteraciones metab\u00f3licas (por ejemplo, dislipidemia, resistencia a la insulina), entre otros.\n\n2. Interacciones con otros f\u00e1rmacos: Es crucial conocer las posibles interacciones entre los medicamentos antirretrovirales y otros f\u00e1rmacos que puedas necesitar en el futuro, incluyendo medicina alternativa, plantas medicinales y complementos alimentarios (como mencionado en HIV Drug Interactions).\n\n3. Efectos psicol\u00f3gicos y neurol\u00f3gicos: Aunque no se detallan exhaustivamente en mi conocimiento base, es importante estar al tanto de posibles efectos a largo plazo en la salud mental y neurol\u00f3gica, como alteraciones del estado de \u00e1nimo, problemas de concentraci\u00f3n, etc., aunque estos pueden ser m\u00e1s com\u00fanmente asociados con el consumo de sustancias (ChemSex) que con el TAR en s\u00ed.\n\n4. Alteraciones en el estilo de vida: El tratamiento puede influir en la calidad de vida, tanto a nivel personal como profesional, especialmente si no se logra una adherencia \u00f3ptima al tratamiento o si surgen efectos secundarios significativos.\n\n5. Consideraciones especiales para ciertos grupos:\n   - Lactantes y ni\u00f1os: La limitada disponibilidad de f\u00e1rmacos para este grupo etario puede implicar desaf\u00edos a largo plazo en el tratamiento, as\u00ed como la necesidad de un seguimiento cuidadoso del crecimiento y desarrollo neurol\u00f3gico.\n   - Pacientes con diagn\u00f3stico reciente de c\u00e1ncer: La importancia de continuar o iniciar el TAR lo antes posible despu\u00e9s del diagn\u00f3stico oncol\u00f3gico y una vez que el paciente est\u00e9 cl\u00ednicamente estable, subraya la necesidad de un manejo integral de su salud a largo plazo.\n\nRecomendaci\u00f3n general: Para abordar cualquier inquietud espec\u00edfica sobre efectos tard\u00edos del tratamiento antirretroviral, es crucial mantener una comunicaci\u00f3n abierta y regular con tu equipo de atenci\u00f3n m\u00e9dica. Ellos pueden ofrecerte orientaci\u00f3n personalizada basada en tu historial cl\u00ednico y tratamiento actual.\n\nPara m\u00e1s informaci\u00f3n espec\u00edfica sobre tus circunstancias individuales, consulta a tu m\u00e9dico."
+}

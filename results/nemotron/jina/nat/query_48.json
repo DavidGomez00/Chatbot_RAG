@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 se considera un Fracaso virol\u00f3gico?\n",
+    "context_info": [
+        {
+            "text": "El fracaso se categoriza en: \u2022Fracaso virol\u00f3gico , est\u00e1 definido en pacientes en TAR, por la ausencia de supresi\u00f3n viral completa (CV por debajo del l\u00edmite de detectabilidad de la t\u00e9cnica utilizada, generalmente <20 \u00f3 75 copias /mL), o detecci\u00f3n de viremia tras control de la misma. En adultos se considera fracaso si la CV tras 6 meses de TAR es \u2265 200 copias/mL. Los ni\u00f1os con CV muy elevadas al inicio del TAR, puede tardar m\u00e1s de 6 meses en alcanzar la indetectabilidad. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.562759280204773
+        },
+        {
+            "text": "Adem\u00e1s del fracaso virol\u00f3gico existen otras dos situaciones caracterizadas por CV detectable: \u2022 \u201cBlip \u201d: despu\u00e9s de alcanzada la supresi\u00f3n virol\u00f3gica hay una carga viral detectable, generalmente de bajo nivel que en la siguiente determinaci\u00f3n se ha vuelto a hacer indetectable. Generalmente no son predictores de fracaso virol\u00f3gico ulterior. \u2022 Viremia de bajo nivel: cargas virales persistentemente detectables en general menores de 200 copias/mL. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.6334823966026306
+        },
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.7680231332778931
+        },
+        {
+            "text": " Fracaso del TAR El fracaso del TAR se refiere tanto a no alcanzar la supresi\u00f3n virol\u00f3gica (CV <50 copias/mL), despu\u00e9s de seis meses de iniciado un TAR en un paciente na\u00efve como al rebote virol\u00f3gico que ocurre en un paciente que ya hab\u00eda alcanzado la supresi\u00f3n virol\u00f3gica. En pacientes na\u00efve con CV muy alta (>1.000.000 copias/mL) es posible que, aunque el TAR est\u00e9 siendo eficaz, no se alcance la indetectabilidad en los primeros seis meses, especialmente si el TAR est\u00e1 basado en IP/p. ",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.8429802656173706
+        },
+        {
+            "text": " En aquellos que han alcanzado una supresi\u00f3n virol\u00f3gica pueden observarse repuntes virol\u00f3gicos transitorios o \u201cblips\u201d, definidos como determinaciones aisladas de CVP entre 50 y 500 copias/ml, que vuelven a la supresi\u00f3n virol\u00f3gica en la siguiente determinaci\u00f3n. En general, no se asocian a un FV posterior y, por tanto, no est\u00e1 indicado un cambio de TAR. Sin embargo, algunos estudios recientes se\u00f1alan que la presencia de \u201cblips\u201d de forma persistente podr\u00edan predecir el fracaso al TAR. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8856043219566345
+        }
+    ],
+    "answer": "Un Fracaso Virol\u00f3gico en pacientes bajo Terapia Antirretroviral (TAR) se define de la siguiente manera:\n\n1. Ausencia de supresi\u00f3n viral completa: No haber logrado reducir la Carga Viral (CV) por debajo del l\u00edmite de detectabilidad de la t\u00e9cnica utilizada, generalmente:\n   - Menos de 20 copias/mL\n   - Menos de 75 copias/mL (dependiendo de la t\u00e9cnica)\n\n2. Detecci\u00f3n de viremia tras control de la misma: Cuando despu\u00e9s de haber logrado el control de la CV, se detecta nuevamente una cantidad significativa de virus en sangre.\n\nEspecificaci\u00f3n para adultos:\n- Se considera fracaso virol\u00f3gico si, tras 6 meses de iniciar la TAR, la Carga Viral (CV) es \u2265 200 copias/mL.\n\nConsideraci\u00f3n especial para ni\u00f1os:\n- Los ni\u00f1os que comienzan con CV muy elevadas pueden requerir m\u00e1s de 6 meses para alcanzar la indetectabilidad viral. En estos casos, el plazo para evaluar el fracaso virol\u00f3gico puede ser m\u00e1s flexible."
+}

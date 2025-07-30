@@ -1,3 +1,5 @@
+## dans ce script on va nettoyer le texte extrait, et sauvegarder le texte traité dans un autre répertoire.
+
 import os
 import re
 import warnings

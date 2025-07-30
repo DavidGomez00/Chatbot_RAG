@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 opciones de tratamiento existen para pacientes que han experimentado un fracaso en su terapia?\n",
+    "context_info": [
+        {
+            "text": "\u2022 Acci\u00f3n: el paciente decide modificar el comportamiento, el entorno y las circunstancias para abandonar su estilo de vida adictivo. \u2022 Mantenimiento: el paciente trabaja para evitar reca\u00eddas. c. Recursos y t\u00e9cnicas terap\u00e9uticas Los tratamientos se basan en terapias psicol\u00f3gicas y de apoyo individual, grupal y socio-familiar. El tratamiento farmacol\u00f3gico se ha demostrado eficaz fundamentalmente para la dependencia de alcohol y opioides. ",
+            "source": "ManualClinico, section 25.3.3.",
+            "_distance": 0.8058570623397827
+        },
+        {
+            "text": " Paciente en fracaso En esta circunstancia, menos frecuente hoy d\u00eda por la mayor potencia del TAR disponible, supone un reto para el pediatra responsable. El fracaso obedece fundamentalmente a una incompleta o mala adherencia, dosis insuficientes de los antirretrovirales, malabsorci\u00f3n o potenciales interacciones con otras medicaciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.8501613140106201
+        },
+        {
+            "text": "Una vez establecido que un paciente se encuentra en fracaso virol\u00f3gico, deben analizarse las causas del mismo: las dosis en funci\u00f3n del peso, la tolerancia, la adherencia y las posibles interacciones. ",
+            "source": "ManualClinico, section 34.4.2.",
+            "_distance": 0.902989387512207
+        },
+        {
+            "text": "El cl\u00ednico debe evaluar los condicionantes del fracaso identificando causas de mala adherencia, buscar posibles errores de dosificaci\u00f3n o interacciones significativas. Hay que intentar pautar un TAR c\u00f3modo, bien tolerado, de escasa toxicidad teniendo en cuenta las comorbilidades del paciente. Es preciso tambi\u00e9n hacer una historia detallada de todos los reg\u00edmenes TAR previos determinando si ha habido cambios por fracasos virol\u00f3gicos o por toxicidad/tolerabilidad. ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 0.9106995463371277
+        },
+        {
+            "text": "En los casos de LH resistente a una primera l\u00ednea de quimioterapia o en reca\u00edda, se debe administrar pautas de rescate. Los LH refractarios o en reca\u00edda tras TPH autog\u00e9nico pueden ser tratados con Brentuximab o inhibidores de PD-1/PDL-1. En la Tabla 4 se detallan las recomendaciones pr\u00e1cticas para el tratamiento del LH en la poblaci\u00f3n infectada por VIH. Deben seguirse las mismas recomendaciones sobre TAR y tratamientos complementarios que las indicadas en el caso de LNH. ",
+            "source": "ManualClinico, section 14.5.2.",
+            "_distance": 0.9435820579528809
+        }
+    ],
+    "answer": "Excelente pregunta sobre el manejo de pacientes con VIH que enfrentan desaf\u00edos en su tratamiento. Bas\u00e1ndome en mi conocimiento especializado en VIH, te proporcionar\u00e9 una respuesta detallada:\n\nOpciones de tratamiento para pacientes con fracaso en su terapia antirretroviral (TAR):\n\n1. Reevaluaci\u00f3n y ajuste del r\u00e9gimen TAR existente:\n   - An\u00e1lisis de adherencia: Identificar y abordar posibles problemas de cumplimiento del tratamiento.\n   - Ajuste de dosificaci\u00f3n: Verificar si las dosis actuales son adecuadas seg\u00fan el peso o condiciones espec\u00edficas del paciente.\n   - Evaluaci\u00f3n de interacciones medicamentosas: Detectar posibles interacciones con otros medicamentos que puedan afectar la eficacia del TAR.\n\n2. Cambio a un nuevo r\u00e9gimen TAR:\n   - Selecci\u00f3n de f\u00e1rmacos alternativos: Elegir antirretrovirales que no hayan sido utilizados previamente o a los que el virus no haya desarrollado resistencia.\n   - Consideraci\u00f3n de perfiles de tolerabilidad y toxicidad: Optar por medicamentos con menos efectos secundarios, especialmente si el paciente tiene comorbilidades.\n\n3. Uso de pautas de rescate en casos espec\u00edficos:\n   - Linfoma de Hodgkin (LH) resistente a primera l\u00ednea de quimioterapia o en reca\u00edda: Administraci\u00f3n de Brentuximab o inhibidores de PD-1/PDL-1.\n   - Otras condiciones que requieren pautas de rescate: Dependen del tipo espec\u00edfico de fracaso terap\u00e9utico y la condici\u00f3n m\u00e9dica subyacente.\n\n4. Importancia de la historia detallada de tratamientos previos:\n   - Registro de reg\u00edmenes TAR anteriores: Para identificar patrones de resistencia viral o reacciones adversas.\n   - An\u00e1lisis de cambios en tratamientos pasados: Entender si estos se debieron a fracasos virol\u00f3gicos, toxicidad o problemas de tolerabilidad.\n\nRecomendaci\u00f3n General:\nPara un manejo \u00f3ptimo, es crucial que el paciente colabore estrechamente con su equipo de salud. La elecci\u00f3n del tratamiento debe personalizarse seg\u00fan las necesidades espec\u00edficas del paciente, incluyendo su historial m\u00e9dico completo, el perfil de resistencia viral (si aplicable) y la presencia de cualquier comorbilidad.\n\nRecuerda: Si tienes m\u00e1s preguntas o inquietudes espec\u00edficas sobre tu situaci\u00f3n de salud, siempre es mejor consultar directamente con tu m\u00e9dico para obtener asesoramiento personalizado."
+}

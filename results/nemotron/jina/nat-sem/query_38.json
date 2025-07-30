@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEl tratamiento me va a sentar mal? \u00bfCu\u00e1les son los principales efectos adversos?\n",
+    "context_info": [
+        {
+            "text": " Seguridad y efectos adversos de la PrEP En los estudios de PrEP se han evaluado tambi\u00e9n los potenciales riesgos de esta estrategia. Respecto a los efectos adversos, se ha observado mayor intolerancia digestiva que con el placebo, efecto que habitualmente remite en los primeros d\u00edas o semanas.",
+            "source": "ManualClinico, section 11.3.4.",
+            "_distance": 0.7167801260948181
+        },
+        {
+            "text": "Su eficacia es similar a la de los IP, la dosificaci\u00f3n es simple y la tolerancia buena en general. Entre sus efectos secundarios m\u00e1s frecuentes est\u00e1n la hepatotoxicidad (NVP) y el mareo, insomnio, dificultad de concentraci\u00f3n y exantema con EFV. ETV aporta una alta barrera gen\u00e9tica y mejora la facilidad de los anteriores para inducir resistencias. RPV presenta una eficacia similar con una mejor tolerancia. ",
+            "source": "manejo_paciente_vih_en_ap, section 14.0.",
+            "_distance": 0.9077141880989075
+        },
+        {
+            "text": " Efectos adversos secundarios a f\u00e1rmacos antirretrovirales Los s\u00edntomas gastrointestinales incluyendo n\u00e1useas, v\u00f3mitos y diarrea son los efectos adversos m\u00e1s frecuentemente relacionados con el uso de f\u00e1rmacos antirretrovirales. Los inhibidores de la proteasa (IP) potenciados han sido los principales responsables de dicha sintomatolog\u00eda, mucho m\u00e1s marcada con los IP m\u00e1s antiguos, como ritonavir, indinavir o nelfinavir.",
+            "source": "ManualClinico, section 19.4.2.",
+            "_distance": 0.9246139526367188
+        },
+        {
+            "text": " Introducucci\u00f3n Los efectos adversos de los f\u00e1rmacos antirretrovirales son probablemente su principal factor limitante y primera causa de cambio de pauta del TAR. Aunque los f\u00e1rmacos que se utilizan actualmente tienen un perfil de seguridad mucho mejor que los que les han precedido desde la generalizaci\u00f3n del TAR, no est\u00e1n exentos de toxicidad tanto a corto como a largo plazo.",
+            "source": "ManualClinico, section 10.1.",
+            "_distance": 0.9713305234909058
+        },
+        {
+            "text": "Adem\u00e1s, dada la necesidad de administraci\u00f3n indefinida de estos f\u00e1rmacos, algunas toxicidades se acumulan en el tiempo. En la Tabla 1 se detallan los principales efectos adversos de los antirretrovirales m\u00e1s utilizados en la actualidad. ",
+            "source": "ManualClinico, section 10.1.",
+            "_distance": 1.0056331157684326
+        }
+    ],
+    "answer": "No te preocupes, puedo ayudarte con eso.\n\nProbabilidad de efectos adversos:\nEs probable que experimentes algunos efectos adversos al inicio del tratamiento antirretroviral (TAR), pero en general, la mayor\u00eda de las personas se adaptan bien a los f\u00e1rmacos actuales. La intensidad y duraci\u00f3n de estos efectos var\u00edan de persona a persona.\n\nPrincipales efectos adversos:\n\n1. S\u00edntomas gastrointestinales:\n\t N\u00e1useas\n\t V\u00f3mitos\n\t Diarrea\n\t(M\u00e1s comunes con Inhibidores de la Proteasa, especialmente los m\u00e1s antiguos como Ritonavir, Indinavir o Nelfinavir)\n2. Efectos adversos espec\u00edficos de algunos f\u00e1rmacos:\n\t NVP (Nevirapina): Hepatotoxicidad (da\u00f1o hep\u00e1tico)\n\t EFV (Efavirenz):\n\t\t+ Mareo\n\t\t+ Insomnio\n\t\t+ Dificultad para concentrarse\n\t\t+ Exantema (erupci\u00f3n cut\u00e1nea)\n\t ETV (Etravirina): Alta barrera gen\u00e9tica, lo que reduce la facilidad de desarrollar resistencias (no es un efecto adverso per se, sino una ventaja)\n\t RPV (Rilpivirina): Eficacia similar a otros f\u00e1rmacos, pero con mejor tolerancia\n\nImportante:\n- La mayor\u00eda de estos efectos adversos suelen ser temporales y remiten en las primeras semanas o d\u00edas despu\u00e9s de iniciar el tratamiento.\n- Si experimentas efectos adversos severos o persistentes, es crucial comunicarte con tu m\u00e9dico para evaluar ajustes en tu tratamiento.\n\nRecuerda:\nPara una evaluaci\u00f3n personalizada y atenci\u00f3n espec\u00edfica a tus necesidades, siempre consulta a tu m\u00e9dico. Esta informaci\u00f3n es general y no reemplaza el consejo profesional."
+}

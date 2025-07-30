@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo se recomienda hacer un Estudio de resistencias en personas con VIH?",
+    "context_info": [
+        {
+            "text": " Cuaderno para el m\u00e9dico de familia - Se recomienda solicitar la prueba serol\u00f3gica del virus de la inmunodeficiencia humana (VIH), al menos una vez, a las personas sexualmente activas entre los 15 y los 65 a\u00f1os, y solicitarla y repetirla peri\u00f3dicamente en las personas con mayor riesgo de exposici\u00f3n y en los grupos m\u00e1s vulnerables.  - Comunicar el resultado de la prueba, dedicando suficiente tiempo para asesorar al paciente. ",
+            "source": "manejo_paciente_vih_en_ap, section 24.0.",
+            "_distance": 0.6217217445373535
+        },
+        {
+            "text": "En los menores de 3 a\u00f1os, adolescentes sexualmente activos y ni\u00f1os con manifestaciones cl\u00ednicas asociadas al VIH y/o bajo recuento de linfocitos CD4+ para la edad, debe ser iniciado sin demora. Antes de iniciar el tratamiento es necesario valorar las caracter\u00edsticas de cada paciente, su potencial adherencia, la capacidad para tomar comprimidos, otras coinfecciones. Deber\u00e1n disponerse de un estudio de resistencias (resistencias transmitidas o producidas tras la exposici\u00f3n a antirretrovirales). ",
+            "source": "ManualClinico, section 33.3.",
+            "_distance": 0.6314551830291748
+        },
+        {
+            "text": " Diagn\u00f3stico y prevenci\u00f3n Se recomienda que se realice la determinaci\u00f3n de anticuerpos frente al VHA en todas las personas infectadas por VIH al diagn\u00f3stico, durante el seguimiento en caso de sospecha de infecci\u00f3n por VHA, o para determinar la respuesta a la vacunaci\u00f3n. La vacuna frente al VHA en personas infectadas por VIH tiene menor eficacia que en poblaci\u00f3n general. ",
+            "source": "ManualClinico, section 27.4.1.",
+            "_distance": 0.6336456537246704
+        },
+        {
+            "text": "S\u00f3lo se medir\u00e1n t\u00edtulos de anticuerpos en pacientes expuestos laboralmente (trabajadores de laboratorios) tres meses despu\u00e9s de la vacunaci\u00f3n, para comprobar la inmunidad o revacunar en caso de no obtenerla.  Hepatitis A Medir anticuerpos en la consulta inicial de VIH resulta coste-efectivo. Una vez vacunado, una dosis de recuerdo cada 10 a\u00f1os es aconsejable si el paciente contin\u00faa en riesgo de exposici\u00f3n: HSH, ADVP, pacientes con hepatitis cr\u00f3nica VHB o VHC o viajes a zonas de alta prevalencia. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6537041068077087
+        },
+        {
+            "text": " PRUEBA/ACTIVIDAD/EXPLORACI\u00d3NVALORACI\u00d3N INCIALSEGUIMIENTO Serolog\u00eda VIH-1/2, si la infecci\u00f3n no est\u00e1 confirmada previamente.\u221a - Hemograma \u221a Cada 3-6 meses Estudio b\u00e1sico de coagulaci\u00f3n \u221a Seg\u00fan indicaci\u00f3n cl\u00ednica Bioqu\u00edmica plasm\u00e1tica que incluya perfil hep\u00e1tico, renal (con FGe) y metab\u00f3lico\u221a Cada 3-6 meses Perfil \u00f3seo (Ca, P y Vitamina D) \u221a Seg\u00fan indicaci\u00f3n cl\u00ednica C\u00e1lculo del RCV 1\u221a Cada 2 a\u00f1os en varones >40 a\u00f1os y en mujeres >50 a\u00f1os2. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.6636917591094971
+        }
+    ],
+    "answer": "Seg\u00fan el conocimiento proporcionado, se recomienda realizar un estudio de resistencias:\n\n Antes de iniciar el tratamiento antirretroviral (TAR) en personas con VIH.\n Con el fin de detectar resistencias transmitidas (ya presentes al momento de la infecci\u00f3n) o resistencias producidas tras la exposici\u00f3n a antirretrovirales (desarrolladas despu\u00e9s de una exposici\u00f3n previa a medicamentos antirretrovirales).\n\nEste estudio es crucial para determinar la eficacia potencial del tratamiento y seleccionar el r\u00e9gimen terap\u00e9utico m\u00e1s adecuado para cada paciente."
+}

@@ -1,0 +1,31 @@
+{
+    "query": "Si tomo abacavir, \u00bfexiste un mayor riesgo de desarrollar s\u00edntomas neurol\u00f3gicos como confusi\u00f3n o alteraciones en la memoria?\n",
+    "context_info": [
+        {
+            "text": "Algunos estudios de cohortes retrospectivos han asociado el uso de abacavir o algunos IPs (LPV/r o DRV/r) a un aumento de eventos cardiovasculares, por lo que es recomendable utilizarlos con precauci\u00f3n en pacientes con alto riesgo cardiovascular (RCV). ",
+            "source": "ManualClinico, section 20.2.",
+            "_distance": 0.767285168170929
+        },
+        {
+            "text": "Un 5-10% pueden tener s\u00edntomas neurol\u00f3gicos como cefalea, meningitis as\u00e9ptica o, m\u00e1s raramente, otros s\u00edntomas neurol\u00f3gicos graves (convulsiones, meningoencefalitis, mielitis o s\u00edndrome de Guillain-Barr\u00e9). Desde el punto de vista del laboratorio es t\u00edpica la linfopenia seguida de linfocitosis (disminuci\u00f3n de la cifra de linfocitos CD4+, aumento de los linfocitos CD8+ y linfocitosis reactivos) (40%), la trombocitopenia (50%), la alteraci\u00f3n de las pruebas de funci\u00f3n hep\u00e1tica (20%) y el aumento de LDH y CK. ",
+            "source": "ManualClinico, section 4.5.",
+            "_distance": 0.8410042524337769
+        },
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8526685237884521
+        },
+        {
+            "text": "Reducir su consumo contribuye a reducir la transmisi\u00f3n, promover la adherencia al tratamiento y prevenir las complicaciones de salud.  En las personas con VIH aumenta el riesgo de padecer ECV del 37% al 78%, HCC y disfunci\u00f3n neurocognitiva, especialmente con el consumo sostenido en el tiempo.  Evaluaci\u00f3n Se debe preguntar rutinariamente por el consumo e informar sobre sus efectos delet\u00e9reos. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8553771376609802
+        },
+        {
+            "text": " Alteraciones neurol\u00f3gicas Entre los f\u00e1rmacos asociados con alteraciones neurol\u00f3gicas destaca EFV; es su efecto adverso m\u00e1s frecuente y se caracteriza por mareos, inestabilidad, insomnio, sue\u00f1os vividos y fala de concentraci\u00f3n. Esta toxicidad aparece desde los primeros d\u00edas de tratamiento y en muchas ocasiones es limitante, obligando a retirar el f\u00e1rmaco. ",
+            "source": "ManualClinico, section 10.8.",
+            "_distance": 0.8591619729995728
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, el abacavir no se asocia directamente con un aumento significativo en el riesgo de desarrollar s\u00edntomas neurol\u00f3gicos como confusi\u00f3n o alteraciones en la memoria, a diferencia de otros f\u00e1rmacos.\n\nLo que debes saber sobre Abacavir y efectos neurol\u00f3gicos:\n\n- No est\u00e1 destacado: En la informaci\u00f3n proporcionada, el abacavir no se menciona espec\u00edficamente por causar s\u00edntomas neurol\u00f3gicos como confusi\u00f3n o alteraciones en la memoria.\n  \n- Otros f\u00e1rmacos son m\u00e1s relevantes para efectos neurol\u00f3gicos: Por otro lado, el Efavirenz (EFV) es destacado por ser un f\u00e1rmaco asociado con alteraciones neurol\u00f3gicas, incluyendo mareos, inestabilidad, insomnio, sue\u00f1os vividos y falta de concentraci\u00f3n. Si est\u00e1s experimentando s\u00edntomas neurol\u00f3gicos y est\u00e1s tomando abacavir, es posible que otros factores o f\u00e1rmacos (si los est\u00e1s tomando) sean la causa.\n\n- Precauci\u00f3n por otro motivo: Sin embargo, se menciona que el abacavir debe usarse con precauci\u00f3n en pacientes con alto riesgo cardiovascular, pero esto no est\u00e1 directamente relacionado con efectos neurol\u00f3gicos.\n\nRecomendaci\u00f3n:\nSi est\u00e1s experimentando s\u00edntomas como confusi\u00f3n o alteraciones en la memoria y est\u00e1s tomando abacavir (o cualquier otro medicamento), es crucial que consultes a tu m\u00e9dico para una evaluaci\u00f3n adecuada. Ellos podr\u00e1n ofrecerte orientaci\u00f3n personalizada, considerando todos los aspectos de tu tratamiento y salud."
+}

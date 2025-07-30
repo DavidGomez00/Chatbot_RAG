@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfEl tratamiento antirretroviral (ARV) puede eliminar por completo el VIH del cuerpo?\n",
+    "query": "\u00bfC\u00f3mo dolutegravir y bictegravir pueden causar aumento de peso y afectar mi salud hep\u00e1tica y cardiovascular?\n",
     "context_info": [
         {
-            "text": "En ausencia de curaci\u00f3n definitiva o erradicaci\u00f3n, puede conseguirse una cura funcional o remisi\u00f3n biol\u00f3gica si se consigue controlar la viremia plasm\u00e1tica en ausencia de TAR, a pesar de que no se haya conseguido erradicar por completo el VIH en c\u00e9lulas latentes, donde se puede mantener integrado. ",
-            "source": "ManualClinico, section 9.8.3.",
-            "_distance": 0.6170614957809448
+            "text": "Tambi\u00e9n se han informado de elevaciones de CK, rabdomi\u00f3lisis y miopat\u00eda/miositis en pacientes que toman dolutegravir y raltegravir. Puede presentar una etiolog\u00eda multifactorial hasta en un 33% de los casos. La CVP alta del VIH es un factor de riesgo de lesi\u00f3n renal aguda en la rabdomi\u00f3lisis asociada al VIH. b. ",
+            "source": "ManualClinico, section 23.3.2.",
+            "_distance": 0.8181567788124084
         },
         {
-            "text": " Tratamiento antirretroviral A d\u00eda de hoy, la infecci\u00f3n por VIH no se puede erradicar, pero el tratamiento antirretroviral de gran actividad (TAR o TARGA) aumenta la supervivencia, retrasa la progresi\u00f3n cl\u00ednica y favorece la restauraci\u00f3n inmunol\u00f3gica. Consiste en la administraci\u00f3n, de forma combinada, de al menos tres f\u00e1rmacos y su objetivo es impedir la replicaci\u00f3n viral y mantener la carga viral plasm\u00e1tica (CVP) indetectable (\udbc0\udc01 50 copias/ml) el mayor tiempo posible. ",
-            "source": "manejo_paciente_vih_en_ap, section 13.0.",
-            "_distance": 0.6487957835197449
+            "text": "Los f\u00e1rmacos antiretrovirales que pueden causar elevaciones en los l\u00edpidos son los inhibidores de la proteasa, en especial si el potenciador utilizado es ritonavir, y el uso de efavirenz. El uso de tenofovir disoproxil fumarato tiene un efecto reductor sobre los niveles de colesterol total que se pierde cuando se usa la nueva formulaci\u00f3n de tenofovir alafenamida. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.8357645273208618
         },
         {
-            "text": " El reservorio celular del VIH La erradicaci\u00f3n del VIH no es posible con los tratamientos actuales debido a los mecanismos de persistencia viral en sus c\u00e9lulas diana. La prueba m\u00e1s concluyente de esta afirmaci\u00f3n se observa al interrumpir el TAR en un paciente con viremia controlada durante a\u00f1os, en los que se produce en pocos d\u00edas un repunte de la carga viral a niveles similares a los previos al iniciar el TAR. ",
-            "source": "ManualClinico, section 3.5.",
-            "_distance": 0.6625094413757324
+            "text": " El cambio de dolutegravir/abacavir/lamivudina a bictegravir/ FTC /TAF puede realizarse por decisi\u00f3n cl\u00ednica, pero no puede recomendarse el cambio buscando un beneficio en el perfil lip\u00eddico, funci\u00f3n renal o DMO, ni una reducci\u00f3n del RCV . ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8513510227203369
         },
         {
-            "text": " Por otra parte, el curso de la infecci\u00f3n por el VIH/Sida ha sufrido un claro cambio desde que se dispone de un tratamiento antirretroviral (TAR) eficaz y hemos asistido a una importante reducci\u00f3n de la morbimortalidad y de la transmisi\u00f3n de la infecci\u00f3n por el VIH. Es te TAR ha evolucionado hasta unos niveles alt\u00edsimos de eficacia, tolerancia y sencillez en el 80% de las personas que viven con el VIH. ",
-            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 1.1.",
-            "_distance": 0.7104763388633728
+            "text": "Los inhibidores de la integrasa (INI) tambi\u00e9n se asocian a cierta toxicidad gastrointestinal, siendo m\u00e1s frecuente con dolutegravir (DTG), elvitegravir (EVG) y bictegravir (BIC) que con su predecesor raltegravir (RAL). Los inhibidores de la transcriptasa inversa an\u00e1logos de nucle\u00f3sidos (ITIAN) y no an\u00e1logos (ITINN) rara vez producen alteraciones gastrointestinales siendo el abacavir (ABC) el que lo hace con m\u00e1s frecuencia. ",
+            "source": "ManualClinico, section 10.2.",
+            "_distance": 0.8671281337738037
         },
         {
-            "text": " Si la persona con el VIH tiene la carga viral indetectable gracias al tratamiento antirretroviral, el riesgo de transmisi\u00f3n es cero, incluso si no se emplean preservativos.  Si la persona sin el VIH toma la PrEP frente al virus de forma apropiada, entonces el riesgo de transmisi\u00f3n se reduce de forma espectacular, incluso cuando no se utilizan preservativos. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.710807740688324
+            "text": "El cambio de la pauta a la asociaci\u00f3n de rilpivirina, FTC y TDF, a la de rilpivirina, FTC y T AF, a la de doravirina, FTC y TDF, a pauta basada en raltegravir o en dolutegravir, o el cambio a la coformulaci\u00f3n de bictegravir, FTC y TAF es adecuado. En pacientes con dislipemia asociada a efavirenz la suspensi\u00f3n de este f\u00e1rmaco es una opci\u00f3n terap\u00e9utica; el cambio a raltegravir es adecuado. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8701758980751038
         }
     ],
-    "answer": "No, seg\u00fan mi conocimiento actualizado, el tratamiento antirretroviral (TAR o TARGA) no puede erradicar por completo el VIH del cuerpo. Aunque es muy eficaz para controlar la viremia plasm\u00e1tica y mantener la carga viral plasm\u00e1tica (CVP) indetectable (menos de 50 copias/ml), el virus puede persistir integrado en c\u00e9lulas latentes, conocidas como \"reservorio celular del VIH\".\n\nEn otras palabras, el TAR puede lograr una \"cura funcional\" o \"remisi\u00f3n biol\u00f3gica\", permitiendo que las personas con VIH vivan de manera relativamente normal y reduciendo significativamente el riesgo de transmisi\u00f3n, pero no elimina completamente el virus del organismo. Esto se evidencia en que, al interrumpir el TAR en un paciente con viremia controlada durante a\u00f1os, la carga viral puede repuntar r\u00e1pidamente a niveles similares a los previos al tratamiento."
+    "answer": "Aumento de Peso:\n\n Dolutegravir (DTG) y Bictegravir (BIC), ambos inhibidores de la integrasa, se han asociado con un aumento de peso en algunos pacientes.\n El mecanismo exacto no est\u00e1 completamente elucidado, pero se cree que podr\u00eda estar relacionado con:\n\t+ Mejora en la absorci\u00f3n de nutrientes debido a la recuperaci\u00f3n del estado inmunol\u00f3gico y reducci\u00f3n de la inflamaci\u00f3n cr\u00f3nica asociada al VIH.\n\t+ Posibles efectos sobre el metabolismo gluc\u00eddico y lip\u00eddico, aunque estos son m\u00e1s pronunciados con otros tipos de antiretrovirales.\n\nEfecto en la Salud Hep\u00e1tica:\n\n Dolutegravir (DTG):\n\t+ No se ha identificado un riesgo significativo directo de da\u00f1o hep\u00e1tico espec\u00edficamente atribuible al DTG.\n\t+ Pacientes con antecedentes de enfermedad hep\u00e1tica o co-infecci\u00f3n con hepatitis B/C deben ser monitorizados, pero esto es una precauci\u00f3n general para muchos tratamientos antivirales.\n Bictegravir (BIC):\n\t+ Similar al DTG, no hay evidencia de un aumento significativo en el riesgo de da\u00f1o hep\u00e1tico atribuible directamente al BIC.\n\t+ La monitorizaci\u00f3n regular es recomendada, especialmente en aquellos con condiciones hep\u00e1ticas preexistentes.\n\nEfecto en la Salud Cardiovascular:\n\n Dolutegravir (DTG):\n\t+ Algunos estudios han sugerido un posible aumento en el riesgo de eventos cardiovasculares (ECV) asociado con el uso de DTG, especialmente en comparaci\u00f3n con otros reg\u00edmenes antiretrovirales.\n\t+ El mecanismo no est\u00e1 claro, pero se especula sobre posibles efectos en los l\u00edpidos y la inflamaci\u00f3n vascular.\n Bictegravir (BIC):\n\t+ La evidencia disponible hasta la fecha no sugiere un aumento significativo en el riesgo de eventos cardiovasculares espec\u00edficamente atribuible al BIC.\n\t+ Sin embargo, dado que BIC suele administrarse en combinaci\u00f3n con otros medicamentos (como FTC y TAF), el perfil lip\u00eddico y cardiovascular del r\u00e9gimen completo debe ser considerado.\n\nRecomendaciones Generales:\n\n Monitorizaci\u00f3n Regular: Para ambos medicamentos, es crucial una monitorizaci\u00f3n regular de peso, par\u00e1metros hep\u00e1ticos y factores de riesgo cardiovascular por parte de tu m\u00e9dico.\n Estilo de Vida Saludable: Mantener un estilo de vida saludable, con dieta equilibrada y ejercicio regular, puede ayudar a mitigar el aumento de peso y reducir los riesgos para la salud hep\u00e1tica y cardiovascular.\n Reevaluaci\u00f3n del Tratamiento: Si se identifican preocupaciones significativas relacionadas con el peso, salud hep\u00e1tica o cardiovascular, tu m\u00e9dico podr\u00eda considerar ajustes en tu r\u00e9gimen antiretroviral, siempre priorizando el control efectivo del VIH.\n\nPara una evaluaci\u00f3n y recomendaciones personalizadas, te animo a consultar a tu m\u00e9dico."
 }

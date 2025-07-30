@@ -1,31 +1,31 @@
 {
-    "query": "\u00bfQu\u00e9 pasa si una persona con VIH deja de tomar su tratamiento? \u00bfEl virus se vuelve m\u00e1s fuerte?\n",
+    "query": "\u00bfEs cierto como darunavir o lopinavir/ritonavir pueden aumentar el riesgo de resistencia a la insulina y contribuir a la acumulaci\u00f3n de grasa en el h\u00edgado?\n",
     "context_info": [
         {
-            "text": "En cambio, la carga viral del VIH es un predictor muy \u00fatil del curso de la enfermedad durante un periodo m\u00e1s prolongado y est\u00e1 fuertemente asociada con la tasa de disminuci\u00f3n posterior del recuento de linfocitos T CD4+. Finalmente, si no administra tratamiento, se alcanza la fase final o de crisis en la que se produce un incremento de la actividad replicativa del virus y una deplecci\u00f3n m\u00e1s intensa de los linfocitos T CD4+. ",
-            "source": "ManualClinico, section 1.4.",
-            "_distance": 0.6902235150337219
+            "text": "Sin embargo, los f\u00e1rmacos antirretrovirales m\u00e1s modernos, a pesar de tener perfiles metab\u00f3licos mucho mejores, no est\u00e1n totalmente exentos de potenciales efectos a nivel metab\u00f3lico. Los IP utilizados en la actualidad, darunavir y atazanavir, tambi\u00e9n se han asociado a resistencia a la insulina , as\u00ed como los II , que tambi\u00e9n se han asociado a alteraciones del metabolismo hidrocarbonado en algunos estudios. ",
+            "source": "ManualClinico, section 20.2.4.",
+            "_distance": 0.7168474197387695
         },
         {
-            "text": " Las implicaciones para la salud, en caso de que se produzca la reinfecci\u00f3n, depender\u00e1n de la gravedad de la resistencia adquirida y de su manejo farmacol\u00f3gico. En cualquier caso, los f\u00e1rmacos antirretrovirales de \u00faltima generaci\u00f3n tienen una buena capacidad para mantener bajo control incluso virus que presentan mutaciones de resistencia.  CARGA VIRAL Riesgo cero: El VIH no est\u00e1 presente (por ejemplo, en personas seronegativas). La carga viral est\u00e1 indetectable. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.7758259773254395
+            "text": "Algunos IP (atazanavir [ATV] y lopinavir[LPV]) se han asociado a un mayor riesgo de disminuci\u00f3n del FGe, aunque este efecto cl\u00ednico es controvertido y podr\u00eda deberse a la interacci\u00f3n de ritonavir (RTV) con TDF, dado que RTV inhibe la prote\u00edna MRP4 encargada de la extrusi\u00f3n de TDF desde el interior de la c\u00e9lula tubular renal permitiendo as\u00ed su ac\u00famulo en la misma. ",
+            "source": "ManualClinico, section 22.4.",
+            "_distance": 0.7658103108406067
         },
         {
-            "text": "Pocas semanas despu\u00e9s de producirse la infecci\u00f3n, la carga viral del VIH alcanza unos niveles muy elevados, pudiendo llegar a varios millones de copias/mL. Esto hace que la posibilidad de transmisi\u00f3n sea muy alta.  2. A medida que el sistema inmunitario combate el VIH, por lo general la viremia desciende a niveles m\u00e1s reducidos.  3. En un periodo que oscila entre los 2 y los 10 a\u00f1os, la carga viral vuelve a aumentar. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.8182072043418884
+            "text": "Los f\u00e1rmacos antiretrovirales que pueden causar elevaciones en los l\u00edpidos son los inhibidores de la proteasa, en especial si el potenciador utilizado es ritonavir, y el uso de efavirenz. El uso de tenofovir disoproxil fumarato tiene un efecto reductor sobre los niveles de colesterol total que se pierde cuando se usa la nueva formulaci\u00f3n de tenofovir alafenamida. ",
+            "source": "ManualClinico, section 24.2.3.",
+            "_distance": 0.8327793478965759
         },
         {
-            "text": " Si ambos miembros de la pareja toman tratamiento antirretroviral y tienen la carga viral indetectable, el riesgo de que uno transmita el VIH al otro es nulo.  Sin embargo, s\u00ed existe la posibilidad de que una persona con el VIH tomando tratamiento antirretroviral y teniendo la carga viral indetectable pudiera adquirir de nuevo la infecci\u00f3n. A este fen\u00f3meno se le denomina reinfecci\u00f3n. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.819093644618988
+            "text": "Los inhibidores de la integrasa (INI) tambi\u00e9n se asocian a cierta toxicidad gastrointestinal, siendo m\u00e1s frecuente con dolutegravir (DTG), elvitegravir (EVG) y bictegravir (BIC) que con su predecesor raltegravir (RAL). Los inhibidores de la transcriptasa inversa an\u00e1logos de nucle\u00f3sidos (ITIAN) y no an\u00e1logos (ITINN) rara vez producen alteraciones gastrointestinales siendo el abacavir (ABC) el que lo hace con m\u00e1s frecuencia. ",
+            "source": "ManualClinico, section 10.2.",
+            "_distance": 0.8571653962135315
         },
         {
-            "text": "Para que esto pueda producirse, la nueva infecci\u00f3n debe proceder de una persona con una carga viral elevada y con un virus mutado que no ha podido ser frenado por la medicaci\u00f3n antirretroviral de la persona reinfectada.  Se desconoce la frecuencia con que se producen las reinfecciones. Probablemente, el riesgo es tan bajo como el de adquirir el VIH por primera vez. Ser\u00e1 mayor si la carga viral de la persona que reinfecta es detectable y su virus contiene mutaciones de resistencia. ",
-            "source": "GTT_guia_transmision_2020_W_info, section 6.0.",
-            "_distance": 0.8219289183616638
+            "text": "Su asociaci\u00f3n con RTV altera el metabolismo hep\u00e1tico, incrementando su concentraci\u00f3n y su semivida, lo que potencia su actividad y disminuye la frecuencia y la dosis de cada toma. Los efectos secundarios m\u00e1s habituales son gastrointestinales (diarrea), lipodistrofia y alteraciones metab\u00f3licas de los l\u00edpidos y de la glucosa. ",
+            "source": "manejo_paciente_vih_en_ap, section 15.0.",
+            "_distance": 0.8577556610107422
         }
     ],
-    "answer": "Excelente pregunta sobre el manejo del VIH.\n\nSi una persona con VIH deja de tomar su tratamiento antirretroviral, several cosas pueden ocurrir:\n\n1. Aumento de la carga viral: Sin el tratamiento, el virus del VIH puede empezar a replicarse m\u00e1s r\u00e1pidamente, lo que lleva a un aumento significativo en la cantidad de virus en sangre (carga viral). Esto puede suceder en cuesti\u00f3n de semanas o meses despu\u00e9s de interrumpir el tratamiento.\n2. Depleci\u00f3n de linfocitos T CD4+: A medida que el virus se replica m\u00e1s libremente, el sistema inmunitario puede comenzar a debilitarse nuevamente. Los linfocitos T CD4+, cruciales para la respuesta inmune, pueden disminuir en n\u00famero, lo que aumenta el riesgo de infecciones oportunistas y complicaciones relacionadas con el VIH.\n3. Desarrollo de resistencia a los medicamentos: Si la persona hab\u00eda estado tomando tratamiento anteriormente, el virus puede haber desarrollado resistencia a uno o m\u00e1s de los f\u00e1rmacos utilizados. Al dejar de tomar el tratamiento, el virus resistente puede seguir replic\u00e1ndose, lo que complica futuros tratamientos.\n4. No necesariamente \"m\u00e1s fuerte\" pero s\u00ed m\u00e1s replicativo: El virus en s\u00ed no se vuelve \"m\u00e1s fuerte\" en el sentido de ser m\u00e1s pat\u00f3geno o letal. Sin embargo, su capacidad para replicarse y causar da\u00f1o al sistema inmunitario aumenta significativamente sin la presi\u00f3n selectiva del tratamiento antirretroviral.\n\nImportante: Si una persona con VIH considera cambiar o interrumpir su tratamiento, es crucial que lo haga bajo la supervisi\u00f3n de un profesional de la salud. Los m\u00e9dicos pueden ofrecer orientaci\u00f3n personalizada, ajustar el r\u00e9gimen de tratamiento si es necesario y minimizar los riesgos asociados con la modificaci\u00f3n del tratamiento.\n\nPara m\u00e1s detalles espec\u00edficos sobre tu situaci\u00f3n o para entender mejor las opciones de tratamiento, consulta a tu m\u00e9dico."
+    "answer": "S\u00ed, es cierto. Seg\u00fan mi conocimiento especializado en VIH:\n\n Darunavir: Se ha asociado con un mayor riesgo de resistencia a la insulina. Esto implica que el cuerpo puede tener dificultades para utilizar la insulina de manera efectiva, lo que podr\u00eda aumentar los niveles de az\u00facar en sangre.\n\n Lopinavir/Ritonavir (LPV/RTV):\n\t+ Resistencia a la insulina: Al igual que el darunavir, lopinavir tambi\u00e9n se ha vinculado con un aumento en el riesgo de resistencia a la insulina.\n\t+ Acumulaci\u00f3n de grasa en el h\u00edgado (Esteatosis hep\u00e1tica): Aunque mi conocimiento no menciona expl\u00edcitamente a lopinavir/ritonavir como causantes directos de esteatosis hep\u00e1tica, es importante se\u00f1alar que los inhibidores de la proteasa (IP), incluido lopinavir, pueden contribuir a alteraciones metab\u00f3licas, lo cual podr\u00eda indirectamente influir en el perfil lip\u00eddico y potencialmente en la acumulaci\u00f3n de grasa en el h\u00edgado. Sin embargo, este efecto espec\u00edfico no est\u00e1 claramente establecido en mi conocimiento base para lopinavir/ritonavir.\n\nEs crucial recordar que los efectos secundarios pueden variar ampliamente entre individuos y que la monitorizaci\u00f3n m\u00e9dica regular es esencial para manejar cualquier tratamiento antirretroviral. Para una evaluaci\u00f3n y consejo personalizados, consulta a tu m\u00e9dico, especialmente si tienes inquietudes sobre estos o cualquier otro efecto secundario relacionado con tu tratamiento."
 }

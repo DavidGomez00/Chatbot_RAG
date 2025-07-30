@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfQu\u00e9 se considera un Fracaso virol\u00f3gico?\n",
+    "context_info": [
+        {
+            "text": " Fracaso del TAR El fracaso del TAR se refiere tanto a no alcanzar la supresi\u00f3n virol\u00f3gica (CV <50 copias/mL), despu\u00e9s de seis meses de iniciado un TAR en un paciente na\u00efve como al rebote virol\u00f3gico que ocurre en un paciente que ya hab\u00eda alcanzado la supresi\u00f3n virol\u00f3gica. En pacientes na\u00efve con CV muy alta (>1.000.000 copias/mL) es posible que, aunque el TAR est\u00e9 siendo eficaz, no se alcance la indetectabilidad en los primeros seis meses, especialmente si el TAR est\u00e1 basado en IP/p. Si la CV sigue descendiendo progresivamente puede ser apropiado esperar unas semanas m\u00e1s. En la actualidad las pautas iniciales de TAR recomendadas como preferentes tienen un muy bajo riesgo de fracaso virol\u00f3gico con desarrollo de resistencias. En general el nivel de CV que establecemos para definir fracaso virol\u00f3gico son 200 copias/mL. Umbrales inferiores condicionar\u00edan cambios de TAR innecesarios. El fracaso virol\u00f3gico debe confirmarse siempre con una segunda determinaci\u00f3n de CV. Adem\u00e1s del fracaso virol\u00f3gico existen otras dos situaciones caracterizadas por CV detectable: \u2022 \u201cBlip \u201d: despu\u00e9s de alcanzada la supresi\u00f3n virol\u00f3gica hay una carga viral detectable, generalmente de bajo nivel que en la siguiente determinaci\u00f3n se ha vuelto a hacer indetectable. Generalmente no son predictores de fracaso virol\u00f3gico ulterior.",
+            "source": "ManualClinico, section 9.4.",
+            "_distance": 0.7553290724754333
+        },
+        {
+            "text": "Fracaso virol\u00f3gico Se debe extraer un TR e investigar si existen problemas de adherencia o interacciones farmacol\u00f3gicas. c. TR en mujeres en mujeres embarazadas \u2022 \u25e6 Naive: extraer siempre TR, incluyendo mutaciones de INI si se van a usar. No se debe esperar al resultado para el inicio del TAR. \u2022 \u25e6 En tratamiento: extraer TR siempre que haya carga viral detectable. ",
+            "source": "ManualClinico, section 8.4.3.",
+            "_distance": 1.0158824920654297
+        },
+        {
+            "text": " Coinfecci\u00f3n por VIH1/VIH2 Se recomienda manejar al paciente con f\u00e1rmacos activos frente a ambos virus, es decir, evitar los f\u00e1rmacos no activos frente a VIH-2. En la monitorizaci\u00f3n debemos incluir la medici\u00f3n de la CVP del VIH1 y VIH-2 ya que se puede producir el fracaso de uno de los dos virus. Si existe el fracaso de alguno de los virus habr\u00e1 que intentar hacer un estudio de resistencias y tomar las decisiones terap\u00e9uticas en base a la sensibilidad del VIH-1 y VIH-2.",
+            "source": "ManualClinico, section 5.6.5.",
+            "_distance": 1.0442144870758057
+        },
+        {
+            "text": "\u2022Dependientes del virus: mutaciones de resistencia transmitidas o adquiridas, fracasos virol\u00f3gicos previos. Los factores dependientes del paciente y del f\u00e1rmaco causan niveles plasm\u00e1ticos bajos de los f\u00e1rmacos antirretrovirales. Sin embargo, no es pr\u00e1ctica habitual determinar estos niveles debido a que solo son reflejo de la adherencia reciente del paciente y porque la determinaci\u00f3n de niveles plasm\u00e1ticos no ha demostrado mejorar la eficacia del TAR de rescate. La determinaci\u00f3n de niveles plasm\u00e1ticos s\u00ed puede ser \u00fatil en situaciones tales como mala adherencia, malabsorci\u00f3n, obesidad extrema, insuficiencia hep\u00e1tica y renal. El cl\u00ednico debe evaluar los condicionantes del fracaso identificando causas de mala adherencia, buscar posibles errores de dosificaci\u00f3n o interacciones significativas. Hay que intentar pautar un TAR c\u00f3modo, bien tolerado, de escasa toxicidad teniendo en cuenta las comorbilidades del paciente. Es preciso tambi\u00e9n hacer una historia detallada de todos los reg\u00edmenes TAR previos determinando si ha habido cambios por fracasos virol\u00f3gicos o por toxicidad/tolerabilidad. ",
+            "source": "ManualClinico, section 9.5.",
+            "_distance": 1.0775120258331299
+        },
+        {
+            "text": " Interpretaci\u00f3n de viremias bajas En un 15-30% de pacientes con carga viral indetectable se detectan ocasionalmente episodios aislados y transitorios de viremia de bajo nivel (<500 copias/mL) denominados blips, que vuelven a ser inferiores a 50 copias/mL espont\u00e1neamente. Podr\u00edan estar causados por la replicaci\u00f3n del VIH en reservorios, fluctuaciones biol\u00f3gicas o errores en el procesamiento, y no parecen tener especial relevancia cl\u00ednica.",
+            "source": "ManualClinico, section 6.5.4.",
+            "_distance": 1.0840373039245605
+        }
+    ],
+    "answer": "Seg\u00fan mi conocimiento especializado en VIH, un Fracaso Virol\u00f3gico se considera en dos situaciones:\n\n1. No alcanzar la supresi\u00f3n virol\u00f3gica: Cuando, despu\u00e9s de seis meses de iniciado un Tratamiento Antirretroviral (TAR) en un paciente na\u00efve (sin tratamiento previo), no se logra reducir la Carga Viral (CV) a menos de 50 copias/mL.\n2. Rebote virol\u00f3gico: Cuando, en un paciente que ya hab\u00eda alcanzado la supresi\u00f3n virol\u00f3gica, se produce un aumento significativo de la CV.\n\nNivel de CV para definir fracaso virol\u00f3gico: Se establece en 200 copias/mL. Umbrales inferiores podr\u00edan condicionar cambios innecesarios en el TAR.\n\nImportante: El fracaso virol\u00f3gico debe ser confirmado siempre con una segunda determinaci\u00f3n de CV."
+}

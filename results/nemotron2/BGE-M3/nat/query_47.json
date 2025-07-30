@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfPuedo llevar una vida normal mientras estoy en tratamiento?\n",
+    "context_info": [
+        {
+            "text": "Una vez demostrada la continuaci\u00f3n de la supresi\u00f3n virol\u00f3gica el paciente puede volver a la rutina de visitas habituales.  Situaciones especiales.  Embarazo. Ver cap\u00edtulo correspondiente de este documento. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8479527831077576
+        },
+        {
+            "text": "El m\u00e9dico no debe asumir que un TAR es \u00f3ptimo para su paciente s\u00f3lo porque la carga viral est\u00e1 suprimida. A veces el paciente debe realizar un sobreesfuerzo importante para adaptar el tratamiento a su estilo de vida y mantener una buena adherencia o puede ser capaz de sobrellevar unos efectos adversos que pueden ser err\u00f3neamente entendidos como inevitables. En estos casos, un cambio de tratamiento puede mejorar notablemente la calidad de vida de los pacientes. ",
+            "source": "ManualClinico, section 9.3.",
+            "_distance": 0.8514469861984253
+        },
+        {
+            "text": "El tratamiento frente al VIH te permitir\u00e1 tener una esperanza de vida similar a la de una persona sin el VIH, con una buena calidad de vida. Es muy probable que no tengas que renunciar a nada de lo que hac\u00edas como consecuencia de tu nueva situaci\u00f3n.  Como parte de la atenci\u00f3n prenatal, de forma rutinaria se incluye la realizaci\u00f3n de la prueba del VIH a todas las mujeres (durante el primer y tercer trimestre de embarazo). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 15.0.",
+            "_distance": 0.8717353940010071
+        },
+        {
+            "text": "En pacientes con una cifra de CD4 > 50 c\u00e9lulas/\u03bcL puede retrasarse el inicio del TAR hasta finalizar la fase intensiva del tratamiento antituberculoso (8 semanas), con lo que se simplifica el tratamiento y disminuye el riesgo de efectos adversos y de desarrollo de SIRI, sin comprometer la supervivencia. En el tratamiento de la tuberculosis se recomienda la pauta est\u00e1ndar, que incluye rifampicina siempre que sea posible. ",
+            "source": "ManualClinico, section 9.6.1.",
+            "_distance": 0.8929104208946228
+        },
+        {
+            "text": " Introducci\u00f3n El control actual de la infecci\u00f3n por VIH hace que la mayor\u00eda de los pacientes hagan una vida similar al resto de la poblaci\u00f3n. Este aspecto tambi\u00e9n ata\u00f1e a la movilizaci\u00f3n de las personas en esta \u00e9poca de globalizaci\u00f3n. Actualmente vivimos en un mundo donde cualquier persona puede estar en el extremo opuesto del planeta en escasas 24-36 horas, gracias a la rapidez y fluidez de los medios de transporte. ",
+            "source": "ManualClinico, section 29.1.",
+            "_distance": 0.9214693903923035
+        }
+    ],
+    "answer": "No response content"
+}

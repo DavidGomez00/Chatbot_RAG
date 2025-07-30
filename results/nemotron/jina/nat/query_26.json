@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfEs seguro tomar dolutegravir si tengo antecedentes de trastornos neurol\u00f3gicos, como depresi\u00f3n o ansiedad?\n",
+    "context_info": [
+        {
+            "text": " En pacientes tratados con pautas basadas en TDF y con alteraciones significativas de la funci\u00f3n renal o de la DMO u otros factores de riesgo para desarrollarlas, este f\u00e1rmaco debe suspenderse. El cambio a una pauta basada en TAF o abacavir es una opci\u00f3n adecuada .  En pacientes con efectos adversos del sistema nervioso central (SNC) causados por efavirenz, \u00e9ste debe suspenderse. El cambio a rilpivirina o a doravirina son opciones adecuadas1. El cambio a raltegravir tambi\u00e9n es una opci\u00f3n adecuada. ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.8656808137893677
+        },
+        {
+            "text": "Para el control del dolor se recomienda la gabapentina como tratamiento inicial (Grado 2C); si no es efectiva, se contin\u00faa con una segunda l\u00ednea seg\u00fan la comorbilidad del paciente. En los casos de depresi\u00f3n concomitante se administrar\u00e1n antidepresivos, como amitriptilina o duloxetina; y capsaicina t\u00f3pica para pacientes intolerantes al tratamiento sist\u00e9mico. Los opioides se reservan para los s\u00edntomas refractarios a otras terapias como tratamiento a corto plazo. ",
+            "source": "ManualClinico, section 23.2.3.",
+            "_distance": 0.8911664485931396
+        },
+        {
+            "text": "Tambi\u00e9n se han informado de elevaciones de CK, rabdomi\u00f3lisis y miopat\u00eda/miositis en pacientes que toman dolutegravir y raltegravir. Puede presentar una etiolog\u00eda multifactorial hasta en un 33% de los casos. La CVP alta del VIH es un factor de riesgo de lesi\u00f3n renal aguda en la rabdomi\u00f3lisis asociada al VIH. b. ",
+            "source": "ManualClinico, section 23.3.2.",
+            "_distance": 0.9233317971229553
+        },
+        {
+            "text": "Si se decide usar los anticonceptivos hormonales se deben tener en cuenta las interacciones con el tratamiento antirretroviral, para asegurar la seguridad y eficacia. Las integrasas no potenciadas como el Raltegravir, Dolutegravir o Bictegravir, o, entre los An\u00e1logos no nucleosidos inhibidores de la transcriptasa Inversa, aquellos que no modifican al CYP3A4 (rilpivirina, doravirina), son los m\u00e1s seguros. Para m\u00e1s detalles consultar las paginas espec\u00edficas de interacciones. ",
+            "source": "ManualClinico, section 30.2.3.",
+            "_distance": 0.9479785561561584
+        },
+        {
+            "text": "El cambio a dolutegravir + darunavir potenciado puede ser una opci\u00f3n en determinados pacientes que quieran simplificar su pauta actual o evitar toxicidades .  No se debe cambiar triple terapia ni terapia dual a monoterapia con IPp ni con dolutegravir.  Tras el cambio de un TAR es recomendable evaluar en un plazo de 3-6 semanas el mantenimiento de la supresi\u00f3n virol\u00f3gica y las determinaciones de laboratorio pertinentes, que depender\u00e1n del motivo del cambio (p.e lipidograma, o funci\u00f3n renal). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 0.9717934727668762
+        }
+    ],
+    "answer": "Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\n\nMi respuesta se basa en las instrucciones recibidas, ya que la informaci\u00f3n proporcionada sobre el VIH no aborda espec\u00edficamente la relaci\u00f3n entre dolutegravir y trastornos neurol\u00f3gicos como la depresi\u00f3n o la ansiedad. Aunque se menciona a dolutegravir en varios contextos (cambios de tratamiento, interacciones con anticonceptivos, precauciones por elevaciones de CK, rabdomi\u00f3lisis y miopat\u00eda/miositis), no se ofrece informaci\u00f3n espec\u00edfica sobre su seguridad en pacientes con antecedentes de trastornos neurol\u00f3gicos como depresi\u00f3n o ansiedad.\n\nSin embargo, puedo ofrecerte algunos puntos generales que podr\u00edan ser \u00fatiles, aunque te reitero que es crucial consultar a un m\u00e9dico para obtener una evaluaci\u00f3n y recomendaci\u00f3n personalizadas:\n\n1. Evaluaci\u00f3n M\u00e9dica: Antes de iniciar cualquier tratamiento, incluido dolutegravir, es importante que tu m\u00e9dico est\u00e9 al tanto de tus antecedentes m\u00e9dicos completos, incluyendo trastornos neurol\u00f3gicos como depresi\u00f3n o ansiedad.\n\n2. Interacciones y Efectos Secundarios: Algunos medicamentos antirretrovirales pueden interactuar con otros tratamientos, incluidos los utilizados para la depresi\u00f3n o la ansiedad, o incluso exacerbar ciertos efectos secundarios neurol\u00f3gicos. Un m\u00e9dico puede ofrecer orientaci\u00f3n sobre c\u00f3mo gestionar estas posibles interacciones.\n\n3. Monitoreo: Si se decide que dolutegravir es adecuado para ti, tu m\u00e9dico probablemente te monitorear\u00e1 de cerca para detectar cualquier cambio en tu condici\u00f3n neurol\u00f3gica o para ajustar tu tratamiento si fuera necesario.\n\n4. Alternativas Terap\u00e9uticas: Dependiendo de la gravedad de tus trastornos neurol\u00f3gicos y otros factores de salud, tu m\u00e9dico podr\u00eda considerar otras opciones terap\u00e9uticas que sean igual de efectivas contra el VIH pero m\u00e1s seguras para tu perfil espec\u00edfico de salud.\n\nRecuerda, la consulta directa con un profesional de la salud es indispensable para obtener asesoramiento m\u00e9dico personalizado y seguro."
+}

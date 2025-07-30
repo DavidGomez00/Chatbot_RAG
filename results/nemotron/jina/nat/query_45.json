@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfC\u00f3mo puedo saber si el tratamiento est\u00e1 funcionando correctamente?\n",
+    "context_info": [
+        {
+            "text": "Los candidatos a recibirla se someter\u00e1n a una valoraci\u00f3n inicial para conocer su estado de salud y descartar la presencia de contraindicaciones para tomarla. Si se confirma la idoneidad del candidato, deber\u00e1 acudir a las citas trimestrales en las que se realizar\u00e1n pruebas del VIH, ITS y otros ex\u00e1menes para evaluar los efectos secundarios, y se dispensar\u00e1 la medicaci\u00f3n. ",
+            "source": "GTT_guia_transmision_2020_W_info, section 8.0.",
+            "_distance": 1.050201416015625
+        },
+        {
+            "text": "El diagn\u00f3stico de ambas infecciones suele ser cl\u00ednico; si hay dudas, la PCR de una muestra de las lesiones tomada con torunda ofrece el mejor rendimiento diagn\u00f3stico. El tratamiento se muestra en la Tabla 1. En pacientes con recurrencias muy frecuentes o severas, est\u00e1 indicado el tratamiento supresor. AIDS info. ",
+            "source": "ManualClinico, section 17.5.1.",
+            "_distance": 1.0547839403152466
+        },
+        {
+            "text": " C\u00f3mo monitorizar el tratamiento La medici\u00f3n de la CVP del VIH-2 es menos exacta y no es asequible para todos los centros. En los centros donde se realiza se hacen t\u00e9cnicas caseras. Adem\u00e1s, los niveles de CVP del VIH-2 tienden a ser mucho m\u00e1s bajos que en los pacientes infectados por VIH-1, incluso pueden ser indetectables a pesar de estarse produciendo una inmunodepresi\u00f3n severa y progresiva. ",
+            "source": "ManualClinico, section 5.6.4.",
+            "_distance": 1.0982112884521484
+        },
+        {
+            "text": " R: El \u00fanico modo en que puedes saber tu estado serol\u00f3gico al VIH es realiz\u00e1ndote una prueba de detecci\u00f3n.  Si eres una persona sexualmente activa, es mejor que tanto t\u00fa como tu(s) pareja(s) sep\u00e1is vuestro estado serol\u00f3gico al VIH.  Muchas personas sexualmente activas deciden incluir la prueba del VIH en el cuidado rutinario de su salud sexual. Se aconseja repetir la prueba cada 6 o 12 meses (o incluso cada 3), en funci\u00f3n detu nivel de actividad sexual y actividades de riesgo. ",
+            "source": "GTT_guia_transmision_2020_W_FaQ, section 1.0.",
+            "_distance": 1.118300199508667
+        },
+        {
+            "text": " Si el resultado de la prueba de confirmaci\u00f3n es positivo Los elementos esenciales a tratar deben cubrir aspectos tales como: \u2022 La informaci\u00f3n sobre el resultado de la prueba se har\u00e1 personalmente por la misma persona que realiz\u00f3 la entrevista o entrevistas anteriores para garantizar continuidad en las actividades informativo-educativas y de apoyo emocional y con tiempo de dedicaci\u00f3n suficiente \u2022 Comunicar el resultado de forma clara, directa y sin rodeos \u2022 Mostrar alternativas que aumenten su sensaci\u00f3n de autocontrol y disminuyan su indefensi\u00f3n de acuerdo con el estado emocional del paciente \u2022 Apoyarse en el contacto f\u00edsico (sentarse a su lado, poner la mano en su hombro, mirar a los ojos) como una herramienta m\u00e1s y no utilizar palabras tranquilizadoras injustificadas \u2022 Informarle de las fases de la aceptaci\u00f3n de una enfermedad para reducir la ansiedad. ",
+            "source": "GuiaRecomendacionesDiagnosticoPrecozVIH_Anexo5, section 5.0.",
+            "_distance": 1.1312371492385864
+        }
+    ],
+    "answer": "Excelente pregunta sobre el seguimiento del tratamiento contra el VIH.\n\nMonitoreo del Tratamiento:\n\nPara saber si el tratamiento est\u00e1 funcionando correctamente, se realiza un seguimiento peri\u00f3dico que incluye:\n\n1. Medici\u00f3n de la Carga Viral (CVP) del VIH: Aunque mencion\u00e9 que la medici\u00f3n de la CVP del VIH-2 es menos exacta y no siempre asequible, para el VIH-1 (que es el m\u00e1s com\u00fan), esta prueba mide la cantidad de part\u00edculas virales en la sangre. Un tratamiento efectivo deber\u00eda reducir significativamente la carga viral, idealmente hasta niveles indetectables.\n2. An\u00e1lisis de Sangre Trimestrales: Estos ex\u00e1menes eval\u00faan los efectos secundarios del tratamiento y el estado general de salud, incluyendo:\n\t Niveles de CD4 (c\u00e9lulas T helper): Un aumento en estos niveles indica una respuesta inmune mejorada.\n\t Pruebas de funci\u00f3n hep\u00e1tica y renal para detectar posibles efectos secundarios del medicamento.\n\t Otras pruebas seg\u00fan sea necesario, basadas en la salud individual y los efectos secundarios potenciales del tratamiento.\n\nCitas Trimestrales:\nEs crucial acudir a las citas programadas con tu m\u00e9dico cada tres meses. Durante estas visitas:\n\n- Se te realizar\u00e1n las pruebas mencionadas anteriormente.\n- Se evaluar\u00e1 la efectividad del tratamiento actual.\n- Se abordar\u00e1n cualquier efecto secundario o inquietud que puedas tener.\n- Si es necesario, se ajustar\u00e1 el tratamiento para asegurarse de que est\u00e9 funcionando \u00f3ptimamente para ti.\n\nImportante:\nMantener una comunicaci\u00f3n abierta con tu m\u00e9dico sobre c\u00f3mo te sientes y cualquier cambio en tu salud es clave. Si tienes alguna inquietud entre las citas programadas, no dudes en contactar a tu equipo de salud.\n\nRecuerda, la adherencia al tratamiento y el seguimiento regular son fundamentales para el \u00e9xito del mismo."
+}

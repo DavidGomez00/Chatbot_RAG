@@ -1,0 +1,31 @@
+{
+    "query": "\u00bfCu\u00e1ndo puede empezar con el tratamiento que es pinchado cada dos meses?\n",
+    "context_info": [
+        {
+            "text": "\u2022 A las 4 semanas del comienzo del tratamiento, y realizar el seguimiento cada 3-6 meses, pudiendo espaciarse hasta los 12 meses en pacientes cl\u00ednicamente estables, con cargas virales repetidamente suprimidas y cifras de linfocitos CD4 >350 c\u00e9lulas/\u03bcL. \u2022 En pacientes con CVP indetectable a los que se modifique el TAR es aconsejable determinar la CVP a las 4-8 semanas del cambio para comprobar que se mantiene la supresi\u00f3n virol\u00f3gica. ",
+            "source": "ManualClinico, section 6.5.1.",
+            "_distance": 1.0416104793548584
+        },
+        {
+            "text": " En el caso de infecciones oportunistas (excepto TBC y criptococosis) se recomienda no demorar el inicio de TAR m\u00e1s de dos semanas tras el inicio del tratamiento de la infecci\u00f3n espec\u00edfica, para evitar la progresi\u00f3n cl\u00ednica y reducir la mortalidad, as\u00ed como prevenir la aparici\u00f3n del s\u00edndrome inflamatorio de respuesta inmune (SIRI).  TABLA 1: Cuando empezar el TAR en PVIH con infecciones oportunistas (adaptada de EACS Guidelines version 10.1, October 2020). ",
+            "source": "manejo-compartido-del-paciente-con-infeccion-por-vih, section 3.1.",
+            "_distance": 1.0700829029083252
+        },
+        {
+            "text": "Tras realizar el cambio debe programarse un control cl\u00ednico y de laboratorio a las 2-4 semanas para monitorizar la tolerancia, adherencia y la eficacia (CV) del nuevo r\u00e9gimen. ",
+            "source": "ManualClinico, section 33.4.1.",
+            "_distance": 1.0911270380020142
+        },
+        {
+            "text": " Particularidades terap\u00e9uticas El TAR debe recomendarse en todos los pacientes con infecci\u00f3n aguda. En los pacientes gravemente sintom\u00e1ticos, el inicio del TAR debe realizarse de forma inmediata, ya que acorta la duraci\u00f3n y gravedad de los s\u00edntomas. En el resto de pacientes debe iniciarse lo antes posible (menos de una semana). El inicio precoz se asocia al m\u00e1ximo beneficio inmunol\u00f3gico (alcanzar m\u00e1s de 900 linfocitos CD4/\u00b5L a los 3-5 a\u00f1os). ",
+            "source": "ManualClinico, section 4.7.",
+            "_distance": 1.1234992742538452
+        },
+        {
+            "text": "Si el resultado es negativo, es probable que tu centro de salud te pida que te repitas la prueba pasados unos meses. En algunos de centros de salud, el protocolo de diagn\u00f3stico del VIH puede incluir un total de hasta cuatro pruebas (visita inicial, al mes, a los tres meses, y a los seis meses). ",
+            "source": "GTT_guia_transmision_2020_W_info, section 14.0.",
+            "_distance": 1.1292403936386108
+        }
+    ],
+    "answer": "Para m\u00e1s informaci\u00f3n, consulta a tu m\u00e9dico.\n\nMi respuesta se basa en el hecho de que mi conocimiento especializado sobre el VIH se enfoca en aspectos espec\u00edficos del tratamiento antirretroviral (TAR), seguimiento cl\u00ednico y laboratorio, infecciones oportunistas, y particularidades terap\u00e9uticas, pero no incluye detalles sobre tratamientos administrados mediante pinchados cada dos meses. Es posible que te est\u00e9s refiriendo a terapias de profilaxis preexposici\u00f3n (PrEP) en formato inyectable a largo plazo, como el cabotegravir, recientemente aprobado para la prevenci\u00f3n del VIH. Sin embargo, sin m\u00e1s contexto o detalles, no puedo ofrecerte una respuesta precisa dentro de mi \u00e1mbito de conocimiento espec\u00edfico sobre el VIH.\n\nTe recomiendo consultar a tu m\u00e9dico o a un profesional de la salud especializado en el tratamiento y prevenci\u00f3n del VIH para obtener informaci\u00f3n actualizada y personalizada sobre las opciones de tratamiento que mejor se adapten a tus necesidades."
+}
