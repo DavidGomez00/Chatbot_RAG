@@ -8,7 +8,7 @@ load_dotenv()
 
 df = pd.read_csv('data_ratings_v2.csv')
 
-df.drop(columns=['Truthfulness Rating', 'Completeness Rating'])
+df = df.drop(columns=['Truthfulness Rating', 'Completeness Rating'])
 
 # Fonction pour envoyer une requête au serveur Ollama
 def query_ollama_server(comment, response):
